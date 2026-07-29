@@ -45,6 +45,8 @@ USER_AGENT = (
 
 # "Dzisiaj 10:08" / "Wczoraj 21:41" / "24 lipca 09:00"
 DATE_RE = re.compile(r"^(Dzisiaj|Wczoraj|\d{1,2}\s+\S+)\s+(\d{1,2}):(\d{2})$")
+# "27.07.2026 21:59" — używane dla starszych pozycji na liście
+DATE_FULL_RE = re.compile(r"^(\d{2})\.(\d{2})\.(\d{4})\s+(\d{1,2}):(\d{2})$")
 MIN_RE = re.compile(r"^\d+\s*min$")
 
 MONTHS_PL = {
@@ -56,7 +58,14 @@ MONTHS_PL = {
 
 def parse_pl_datetime(text: str, now: datetime) -> datetime:
     """Parsuje polski znacznik czasu w stylu 'Dzisiaj HH:MM' na obiekt datetime."""
-    m = DATE_RE.match(text.strip())
+    text = text.strip()
+
+    m_full = DATE_FULL_RE.match(text)
+    if m_full:
+        dd, mm, yyyy, hh, mi = m_full.groups()
+        return datetime(int(yyyy), int(mm), int(dd), int(hh), int(mi), tzinfo=WARSAW)
+
+    m = DATE_RE.match(text)
     if not m:
         return now
     day_part, hh, mm = m.groups()
@@ -115,71 +124,49 @@ def fetch_rendered_html(url: str) -> str:
 
 
 def parse_articles(html: str):
-    """Parsuje wyrenderowany HTML strony listy artykułów."""
+    """Parsuje wyrenderowany HTML strony listy artykułów.
+
+    Każdy artykuł to <article class="post ..."> zawierający m.in.:
+    - .post__title              -> tytuł
+    - .post__author-name        -> autor(zy)
+    - .post__info .font-bold    -> kategoria
+    - .post__info__item (x2)    -> znacznik czasu, czas czytania
+    - a.post__link               -> link do artykułu (cała karta jest klikalna)
+    - figure img                 -> miniatura
+    """
     soup = BeautifulSoup(html, "lxml")
 
     now = datetime.now(WARSAW)
     items = []
     seen_links = set()
 
-    # Każda "karta" artykułu to <a href="/news/..."> zawierający obrazek,
-    # tytuł, awatar+imię autora, kategorię, znacznik czasu i czas czytania.
-    for a in soup.find_all("a", href=True):
-        href = a["href"]
-        if "/news/" not in href:
+    for article in soup.select("article.post"):
+        link_el = article.select_one("a.post__link[href]")
+        if not link_el:
             continue
+        href = link_el["href"]
         link = href if href.startswith("http") else BASE_URL + href
         if link in seen_links:
             continue
 
-        imgs = a.find_all("img")
-        if not imgs:
-            continue
-
-        avatar_names = set()
-        thumb_src = None
-        for img in imgs:
-            src = img.get("src", "")
-            if "w=40,h=40" in src:
-                # avatar autora — pomijamy jako kandydata na tytuł
-                alt = img.get("alt", "").strip()
-                if alt:
-                    avatar_names.add(alt)
-            elif thumb_src is None:
-                thumb_src = src
-
-        category = None
-        pub_dt = now
-        candidates = []
-
-        for s in a.stripped_strings:
-            s = s.strip()
-            if not s:
-                continue
-            if s in CATEGORIES:
-                category = s
-                continue
-            if DATE_RE.match(s):
-                pub_dt = parse_pl_datetime(s, now)
-                continue
-            if MIN_RE.match(s):
-                continue
-            candidates.append(s)
-
-        if not candidates:
-            continue
-
-        title = max(candidates, key=len)
+        title_el = article.select_one(".post__title")
+        title = title_el.get_text(strip=True) if title_el else ""
         if len(title) < 8:
             continue
 
-        author = None
-        for c in candidates:
-            if c == title:
-                continue
-            if c in avatar_names or len(c.split()) <= 5:
-                author = c
-                break
+        author_el = article.select_one(".post__author-name")
+        author = author_el.get_text(strip=True) if author_el else None
+
+        category_el = article.select_one(".post__info .font-bold")
+        category = category_el.get_text(strip=True) if category_el else None
+
+        info_items = article.select(".post__info__item")
+        pub_dt = now
+        if info_items:
+            pub_dt = parse_pl_datetime(info_items[0].get_text(strip=True), now)
+
+        thumb_el = article.select_one("figure img")
+        thumb_src = thumb_el.get("src") if thumb_el else None
 
         items.append({
             "title": title,
