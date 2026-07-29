@@ -98,12 +98,17 @@ def fetch_rendered_html(url: str) -> str:
             viewport={"width": 1366, "height": 900},
         )
         page = context.new_page()
-        page.goto(url, wait_until="networkidle", timeout=60_000)
-        # Poczekaj chwilę na ewentualne doładowanie treści przez JS.
+        # "networkidle" na stronach z reklamami/analityką (ciągły ruch
+        # w tle) potrafi nigdy nie nastąpić i tylko czeka do timeoutu —
+        # czekamy więc na sam załadowany DOM, a potem jawnie na
+        # pojawienie się kart artykułów.
+        page.goto(url, wait_until="domcontentloaded", timeout=45_000)
         try:
-            page.wait_for_selector('a[href*="/news/"]', timeout=15_000)
+            page.wait_for_selector('a[href*="/news/"]', timeout=30_000)
         except Exception:
-            pass
+            # Dajemy jeszcze chwilę na doładowanie JS-em, zanim się poddamy
+            # — parse_articles i tak zdiagnozuje brak wyników.
+            page.wait_for_timeout(5_000)
         html = page.content()
         browser.close()
     return html
