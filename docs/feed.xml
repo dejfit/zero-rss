@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 29 Jul 2026 19:52:32 +0200</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 20:58:56 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Koledzy Żaka skazani. Jeden rozpłynął się w powietrzu, szuka go policja</title>
+<link>https://zero.pl/news/proces-lukasza-zaka-wspoloskarzeni-trafiaja-do-aresztu</link>
+<guid isPermaLink="true">https://zero.pl/news/proces-lukasza-zaka-wspoloskarzeni-trafiaja-do-aresztu</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Wed, 29 Jul 2026 20:53:00 +0200</pubDate>
+</item>
+<item>
+<title>USA zakazują importu chińskich robotów. „Wojna handlowa” czy „zagrożenie bezpieczeństwa”</title>
+<link>https://zero.pl/news/zakaz-importu-robotow-humanoidalnych-z-chin-do-usa-decyzja-fcc-i-reakcja-pekinu</link>
+<guid isPermaLink="true">https://zero.pl/news/zakaz-importu-robotow-humanoidalnych-z-chin-do-usa-decyzja-fcc-i-reakcja-pekinu</guid>
+<category>Technologia</category>
+<description>Technologia — Tomasz Pałasz</description>
+<pubDate>Wed, 29 Jul 2026 20:21:00 +0200</pubDate>
+</item>
+<item>
+<title>Nowa faza wojny z Iranem? Kraje Zatoki Perskiej tracą cierpliwość</title>
+<link>https://zero.pl/news/kraje-zatoki-perskiej-intensyfikuja-ataki-na-cele-zwiazane-z-iranem-m-krzyzanowski-analizuje-sytuacje-na-bliskim-wschodzie</link>
+<guid isPermaLink="true">https://zero.pl/news/kraje-zatoki-perskiej-intensyfikuja-ataki-na-cele-zwiazane-z-iranem-m-krzyzanowski-analizuje-sytuacje-na-bliskim-wschodzie</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Wed, 29 Jul 2026 20:03:00 +0200</pubDate>
+</item>
 <item>
 <title>Leki dla cukrzyków droższe. Nowa lista refundacyjna od lipca</title>
 <link>https://zero.pl/news/ceny-lekow-na-cukrzyce-2026-r-zmiany-w-refundacji</link>
