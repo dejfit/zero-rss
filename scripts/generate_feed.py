@@ -22,14 +22,15 @@ from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime, parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
-import requests
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 BASE_URL = "https://zero.pl"
 LIST_URL = f"{BASE_URL}/najnowsze"
 FEED_PATH = os.environ.get("FEED_PATH", "docs/feed.xml")
 FEED_SELF_URL = os.environ.get("FEED_SELF_URL", LIST_URL)
 MAX_ITEMS = int(os.environ.get("MAX_ITEMS", "150"))
+DEBUG_HTML_PATH = os.environ.get("DEBUG_HTML_PATH", "debug_page.html")
 WARSAW = ZoneInfo("Europe/Warsaw")
 
 CATEGORIES = {
@@ -37,13 +38,10 @@ CATEGORIES = {
     "Zdrowie", "Kultura", "Nauka", "Moto", "Opinie", "Program TV",
 }
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-    ),
-    "Accept-Language": "pl-PL,pl;q=0.9,en;q=0.8",
-}
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+)
 
 # "Dzisiaj 10:08" / "Wczoraj 21:41" / "24 lipca 09:00"
 DATE_RE = re.compile(r"^(Dzisiaj|Wczoraj|\d{1,2}\s+\S+)\s+(\d{1,2}):(\d{2})$")
@@ -84,11 +82,36 @@ def parse_pl_datetime(text: str, now: datetime) -> datetime:
     return datetime(d.year, d.month, d.day, hh, mm, tzinfo=WARSAW)
 
 
-def fetch_articles():
-    """Pobiera i parsuje listę artykułów z zero.pl/najnowsze."""
-    resp = requests.get(LIST_URL, headers=HEADERS, timeout=30)
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "lxml")
+def fetch_rendered_html(url: str) -> str:
+    """Otwiera stronę w headless Chromium i zwraca w pełni wyrenderowany HTML.
+
+    zero.pl jest aplikacją, która renderuje/doładowuje listę artykułów
+    po stronie klienta i stoi za Cloudflare, więc zwykłe `requests.get`
+    (bez wykonania JS) może dostać puste/inne dane albo zostać
+    zablokowane. Playwright uruchamia prawdziwą przeglądarkę.
+    """
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent=USER_AGENT,
+            locale="pl-PL",
+            viewport={"width": 1366, "height": 900},
+        )
+        page = context.new_page()
+        page.goto(url, wait_until="networkidle", timeout=60_000)
+        # Poczekaj chwilę na ewentualne doładowanie treści przez JS.
+        try:
+            page.wait_for_selector('a[href*="/news/"]', timeout=15_000)
+        except Exception:
+            pass
+        html = page.content()
+        browser.close()
+    return html
+
+
+def parse_articles(html: str):
+    """Parsuje wyrenderowany HTML strony listy artykułów."""
+    soup = BeautifulSoup(html, "lxml")
 
     now = datetime.now(WARSAW)
     items = []
@@ -163,6 +186,23 @@ def fetch_articles():
         })
         seen_links.add(link)
 
+    return items
+
+
+def fetch_articles():
+    """Pobiera wyrenderowaną stronę i zwraca sparsowaną listę artykułów."""
+    html = fetch_rendered_html(LIST_URL)
+    items = parse_articles(html)
+    if not items:
+        # Zapisz HTML do pliku, żeby dało się zdiagnozować co poszło nie
+        # tak (np. w workflow jako artefakt do pobrania).
+        with open(DEBUG_HTML_PATH, "w", encoding="utf-8") as f:
+            f.write(html)
+        print(
+            f"Nie znaleziono artykułów. Zapisano wyrenderowany HTML do "
+            f"{DEBUG_HTML_PATH} (długość: {len(html)} znaków) do diagnozy.",
+            file=sys.stderr,
+        )
     return items
 
 
