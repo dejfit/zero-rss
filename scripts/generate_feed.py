@@ -296,9 +296,18 @@ def build_feed(items, path):
     parts.append("</channel>")
     parts.append("</rss>")
 
-    os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
+    out_dir = os.path.dirname(path) or "."
+    os.makedirs(out_dir, exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         f.write("\n".join(parts) + "\n")
+
+    # GitHub Pages domyślnie próbuje zbudować docs/ jako stronę Jekyll,
+    # co wywala się przy braku pełnej struktury Jekyll (np. na
+    # assets/css/style.scss). .nojekyll wyłącza to całkowicie i każe
+    # Pages serwować pliki as-is.
+    nojekyll_path = os.path.join(out_dir, ".nojekyll")
+    if not os.path.exists(nojekyll_path):
+        open(nojekyll_path, "w").close()
 
 
 def main():
