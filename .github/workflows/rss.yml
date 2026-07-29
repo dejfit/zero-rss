@@ -3,7 +3,7 @@ name: Aktualizacja kanału RSS zero.pl
 on:
   schedule:
     # co 20 minut (harmonogram GitHuba jest przybliżony, nie co do sekundy)
-    - cron: '*/10 * * * *'
+    - cron: '*/20 * * * *'
   workflow_dispatch: {}
   push:
     branches: [main]
@@ -54,7 +54,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/feed.xml
+          git add docs/feed.xml docs/.nojekyll
           if git diff --staged --quiet; then
             echo "Brak zmian w feedzie."
           else
