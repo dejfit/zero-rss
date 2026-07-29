@@ -2,8 +2,8 @@ name: Aktualizacja kanału RSS zero.pl
 
 on:
   schedule:
-    # co 20 minut (harmonogram GitHuba jest przybliżony, nie co do sekundy)
-    - cron: '*/20 * * * *'
+    # co 10 minut (harmonogram GitHuba jest przybliżony, nie co do sekundy)
+    - cron: '*/10 * * * *'
   workflow_dispatch: {}
   push:
     branches: [main]
