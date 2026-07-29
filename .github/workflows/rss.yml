@@ -1,0 +1,51 @@
+name: Aktualizacja kanału RSS zero.pl
+
+on:
+  schedule:
+    # co 20 minut (harmonogram GitHuba jest przybliżony, nie co do sekundy)
+    - cron: '*/20 * * * *'
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate_feed.py
+      - .github/workflows/rss.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zero-rss-feed
+  cancel-in-progress: false
+
+jobs:
+  build-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Ustaw Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instaluj zależności
+        run: pip install -r requirements.txt
+
+      - name: Wygeneruj / zaktualizuj feed
+        env:
+          FEED_SELF_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/feed.xml
+        run: python scripts/generate_feed.py
+
+      - name: Commit i push, jeśli feed się zmienił
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/feed.xml
+          if git diff --staged --quiet; then
+            echo "Brak zmian w feedzie."
+          else
+            git commit -m "chore: aktualizacja RSS zero.pl [skip ci]"
+            git push
+          fi
