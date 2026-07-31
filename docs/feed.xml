@@ -5,10 +5,42 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 31 Jul 2026 16:41:30 +0200</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 18:25:56 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
-<title>Józefciuk na grillu Morawieckiego. „Dobrze wiedzieć, co dzieje się dookoła”</title>
+<title>Szturm na Ceutę. Nagrania z najazdu migrantów obiegły sieć</title>
+<link>https://zero.pl/news/ceuta-hiszpania-szturm-migrantow-kryzys-migracyjny-w-afryce-polnocnej</link>
+<guid isPermaLink="true">https://zero.pl/news/ceuta-hiszpania-szturm-migrantow-kryzys-migracyjny-w-afryce-polnocnej</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Fri, 31 Jul 2026 18:20:00 +0200</pubDate>
+</item>
+<item>
+<title>Ramówka Zero TV na sobotę 1 sierpnia. Obchody rocznicy wybuchu Powstania Warszawskiego</title>
+<link>https://zero.pl/news/program-tv-zero-01-08-co-dzis-mozna-obejrzec-obchody-rocznicy-wybuchu-powstania-warszawskiego</link>
+<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-01-08-co-dzis-mozna-obejrzec-obchody-rocznicy-wybuchu-powstania-warszawskiego</guid>
+<category>Program TV</category>
+<description>Program TV — Kamil Szałecki</description>
+<pubDate>Fri, 31 Jul 2026 17:45:00 +0200</pubDate>
+</item>
+<item>
+<title>Do Polski wlał się niebezpieczny żar. Wiadomo, ile dni potrwają upały</title>
+<link>https://zero.pl/news/nowa-prognoza-pogody-upaly-do-39-st-c-i-gwaltowne-burze-ekstremalna-aura-do-9-sierpnia</link>
+<guid isPermaLink="true">https://zero.pl/news/nowa-prognoza-pogody-upaly-do-39-st-c-i-gwaltowne-burze-ekstremalna-aura-do-9-sierpnia</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Fri, 31 Jul 2026 17:23:00 +0200</pubDate>
+</item>
+<item>
+<title>,,Jeden Kanał Zero to dziś za mało”. Stanowski zaprasza na debatę i rocznicę powstania</title>
+<link>https://zero.pl/news/stanowski-zaprasza-na-debate-i-rocznice-powstania-warszawskiego</link>
+<guid isPermaLink="true">https://zero.pl/news/stanowski-zaprasza-na-debate-i-rocznice-powstania-warszawskiego</guid>
+<category>Kraj</category>
+<description>Kraj — Kamil Szałecki</description>
+<pubDate>Fri, 31 Jul 2026 17:13:00 +0200</pubDate>
+</item>
+<item>
+<title>Józefaciuk na grillu Morawieckiego. „Dobrze wiedzieć, co dzieje się dookoła”</title>
 <link>https://zero.pl/news/marcin-jozefciuk-na-grillu-rozwoj-plus-czy-dolaczy-do-klubu-mateusza-morawieckiego</link>
 <guid isPermaLink="true">https://zero.pl/news/marcin-jozefciuk-na-grillu-rozwoj-plus-czy-dolaczy-do-klubu-mateusza-morawieckiego</guid>
 <category>Kraj</category>
