@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 01 Aug 2026 11:22:48 +0200</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 12:55:11 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Dramatyczny szturm na Ceutę. Tusk podpisał wspólny list 22 państw</title>
+<link>https://zero.pl/news/dramatyczny-szturm-na-ceute-tusk-podpisal-wspolny-list-22-panstw</link>
+<guid isPermaLink="true">https://zero.pl/news/dramatyczny-szturm-na-ceute-tusk-podpisal-wspolny-list-22-panstw</guid>
+<category>Świat</category>
+<description>Świat — Olga Karaban</description>
+<pubDate>Sat, 01 Aug 2026 12:48:00 +0200</pubDate>
+</item>
+<item>
+<title>Potężny słup dymu nad jeziorem. Akcja gaśnicza na wodzie</title>
+<link>https://zero.pl/news/slup-dymu-nad-jeziorem-akcja-gasnicza-na-wodzie</link>
+<guid isPermaLink="true">https://zero.pl/news/slup-dymu-nad-jeziorem-akcja-gasnicza-na-wodzie</guid>
+<category>Kraj</category>
+<description>Kraj — Olga Karaban</description>
+<pubDate>Sat, 01 Aug 2026 12:18:00 +0200</pubDate>
+</item>
+<item>
+<title>Próba wznowienia rozmów Rosji i Ukrainy. USA chcą pomóc zakończyć wojnę</title>
+<link>https://zero.pl/news/proba-wznowienia-rozmow-rosji-i-ukrainy-usa-chca-pomoc-zakonczyc-wojne</link>
+<guid isPermaLink="true">https://zero.pl/news/proba-wznowienia-rozmow-rosji-i-ukrainy-usa-chca-pomoc-zakonczyc-wojne</guid>
+<category>Świat</category>
+<description>Świat — Olga Karaban</description>
+<pubDate>Sat, 01 Aug 2026 11:56:00 +0200</pubDate>
+</item>
 <item>
 <title>Alert RCB rozesłany w nocy. „Ktoś to po pijaku wysyła?”</title>
 <link>https://zero.pl/news/alert-rcb-rozeslany-w-nocy-burza-w-sieci-stanowski-komentuje</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Przemysław Staciwa</description>
 <pubDate>Wed, 29 Jul 2026 07:41:00 +0200</pubDate>
-</item>
-<item>
-<title>Bakterie jelitowe mogą zaburzać pracę serca. Naukowcy odkryli niepokojący mechanizm</title>
-<link>https://zero.pl/news/bakterie-jelitowe-a-migotanie-przedsionkow-naukowcy-odkryli-zwiazek-z-rytmem-serca</link>
-<guid isPermaLink="true">https://zero.pl/news/bakterie-jelitowe-a-migotanie-przedsionkow-naukowcy-odkryli-zwiazek-z-rytmem-serca</guid>
-<category>Nauka</category>
-<description>Nauka — Przemysław Staciwa</description>
-<pubDate>Wed, 29 Jul 2026 07:16:00 +0200</pubDate>
-</item>
-<item>
-<title>USA i Arabia Saudyjska uderzają w siły wspierane przez Iran. Nowy etap wojny na Bliskim Wschodzie</title>
-<link>https://zero.pl/news/usa-i-arabia-saudyjska-uderzaja-w-sily-wspierane-przez-iran-pierwsza-wspolna-operacja-wojskowa</link>
-<guid isPermaLink="true">https://zero.pl/news/usa-i-arabia-saudyjska-uderzaja-w-sily-wspierane-przez-iran-pierwsza-wspolna-operacja-wojskowa</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Wed, 29 Jul 2026 06:41:00 +0200</pubDate>
-</item>
-<item>
-<title>Portugalia walczy z falą pożarów. Ogień odciął autostradę i ranił strażaków</title>
-<link>https://zero.pl/news/pozary-w-portugalii-blisko-tysiac-strazakow-walczy-z-zywiolem-zamknieto-wazna-autostrade</link>
-<guid isPermaLink="true">https://zero.pl/news/pozary-w-portugalii-blisko-tysiac-strazakow-walczy-z-zywiolem-zamknieto-wazna-autostrade</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Wed, 29 Jul 2026 06:12:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
