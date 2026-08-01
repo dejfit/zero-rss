@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 01 Aug 2026 03:16:48 +0200</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 06:38:46 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Dowództwo Generalne informuje o ruchach wojska. Jest ważny apel</title>
+<link>https://zero.pl/news/swieto-wojska-polskiego-dowodztwo-generalne-informuje-o-ruchach-wojska-jest-wazny-apel</link>
+<guid isPermaLink="true">https://zero.pl/news/swieto-wojska-polskiego-dowodztwo-generalne-informuje-o-ruchach-wojska-jest-wazny-apel</guid>
+<category>Wojsko</category>
+<description>Wojsko — Kamil Szałecki</description>
+<pubDate>Sat, 01 Aug 2026 06:16:00 +0200</pubDate>
+</item>
+<item>
+<title>Miasto, które wciąż walczy. Dlaczego Powstanie Warszawskie nadal dzieli Polaków</title>
+<link>https://zero.pl/news/dlaczego-powstanie-warszawskie-wciaz-dzieli-polakow-i-dlaczego-to-wazne</link>
+<guid isPermaLink="true">https://zero.pl/news/dlaczego-powstanie-warszawskie-wciaz-dzieli-polakow-i-dlaczego-to-wazne</guid>
+<category>Kraj</category>
+<description>Kraj — Andrzej Matowski</description>
+<pubDate>Sat, 01 Aug 2026 06:02:00 +0200</pubDate>
+</item>
 <item>
 <title>Skarby z Powstania. Pokazało je Archiwum Akt Nowych</title>
 <link>https://zero.pl/news/rocznica-powstania-warszawskiego-skarby-z-powstania-pokazalo-je-archiwum-akt-nowych</link>
