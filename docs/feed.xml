@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 01 Aug 2026 12:55:11 +0200</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 13:56:33 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Pijany 17-latek w BMW staranował sześć aut. Miał dwa promile, nie miał prawa jazdy</title>
+<link>https://zero.pl/news/pijany-17-latek-w-bmw-staranowal-szesc-aut-mial-dwa-promile-nie-mial-prawa-jazdy</link>
+<guid isPermaLink="true">https://zero.pl/news/pijany-17-latek-w-bmw-staranowal-szesc-aut-mial-dwa-promile-nie-mial-prawa-jazdy</guid>
+<category>Kraj</category>
+<description>Kraj — Olga Karaban</description>
+<pubDate>Sat, 01 Aug 2026 13:49:00 +0200</pubDate>
+</item>
+<item>
+<title>Powolne jedzenie a odchudzanie. Ten prosty nawyk pomaga regulować apetyt i poziom cukru</title>
+<link>https://zero.pl/news/powolne-jedzenie-a-odchudzanie-ten-prosty-nawyk-pomaga-regulowac-apetyt-i-poziom-cukru</link>
+<guid isPermaLink="true">https://zero.pl/news/powolne-jedzenie-a-odchudzanie-ten-prosty-nawyk-pomaga-regulowac-apetyt-i-poziom-cukru</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Olga Karaban</description>
+<pubDate>Sat, 01 Aug 2026 13:29:00 +0200</pubDate>
+</item>
 <item>
 <title>Dramatyczny szturm na Ceutę. Tusk podpisał wspólny list 22 państw</title>
 <link>https://zero.pl/news/dramatyczny-szturm-na-ceute-tusk-podpisal-wspolny-list-22-panstw</link>
@@ -1190,22 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Wed, 29 Jul 2026 08:43:00 +0200</pubDate>
-</item>
-<item>
-<title>Kolejny polityczny transfer. Uściński dołącza do „Rozwoju Plus”</title>
-<link>https://zero.pl/news/rozlam-pis-piotr-uscinski-dolacza-do-rozwoj-plus-mateusza-morawieckiego</link>
-<guid isPermaLink="true">https://zero.pl/news/rozlam-pis-piotr-uscinski-dolacza-do-rozwoj-plus-mateusza-morawieckiego</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Wed, 29 Jul 2026 08:18:00 +0200</pubDate>
-</item>
-<item>
-<title>Iran wzmacnia obronę. Pomóc mają Chiny</title>
-<link>https://zero.pl/news/iran-kupi-chinskie-systemy-obrony-powietrznej-qw-12-i-fn-16-reuters-o-dostawach-uzbrojenia</link>
-<guid isPermaLink="true">https://zero.pl/news/iran-kupi-chinskie-systemy-obrony-powietrznej-qw-12-i-fn-16-reuters-o-dostawach-uzbrojenia</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Wed, 29 Jul 2026 07:41:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
