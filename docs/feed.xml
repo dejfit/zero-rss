@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 01 Aug 2026 21:49:41 +0200</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 22:36:30 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Sytuacja pożarowa we Francji stabilizuje się. Powstanie urząd ds. odbudowy</title>
+<link>https://zero.pl/news/sytuacja-pozarowa-we-francji-stabilizuje-sie-powstanie-urzad-ds-odbudowy</link>
+<guid isPermaLink="true">https://zero.pl/news/sytuacja-pozarowa-we-francji-stabilizuje-sie-powstanie-urzad-ds-odbudowy</guid>
+<category>Świat</category>
+<description>Świat — Kasjan Owsianko</description>
+<pubDate>Sat, 01 Aug 2026 21:58:00 +0200</pubDate>
+</item>
 <item>
 <title>Skąd Mateusz Morawiecki wziął pieniądze na organizację grilla Rozwój Plus?</title>
 <link>https://zero.pl/news/skad-mateusz-morawiecki-wzial-pieniadze-na-organizacje-grilla-rozwoj-plus</link>
@@ -16,7 +24,7 @@
 <pubDate>Sat, 01 Aug 2026 21:35:00 +0200</pubDate>
 </item>
 <item>
-<title>Wybuch w centrum Moskwy. Są ofiary śmiertelne i ranni</title>
+<title>Wybuch w centrum Moskwy. Nieoficjalnie: Wśród ofiar ważny generał</title>
 <link>https://zero.pl/news/wybuch-w-centrum-moskwy-sa-ofiary-smiertelne-i-ranni</link>
 <guid isPermaLink="true">https://zero.pl/news/wybuch-w-centrum-moskwy-sa-ofiary-smiertelne-i-ranni</guid>
 <category>Świat</category>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Przemysław Staciwa</description>
 <pubDate>Wed, 29 Jul 2026 13:38:00 +0200</pubDate>
-</item>
-<item>
-<title>Żonę naprawdę poznaje się dopiero przy rozwodzie. W polityce działa to tak samo</title>
-<link>https://zero.pl/news/rozlam-w-pis-dlaczego-wojna-miedzy-frakcjami-dopiero-sie-zaczyna-opinia</link>
-<guid isPermaLink="true">https://zero.pl/news/rozlam-w-pis-dlaczego-wojna-miedzy-frakcjami-dopiero-sie-zaczyna-opinia</guid>
-<category>Kraj</category>
-<description>Kraj — Bartosz Michalski</description>
-<pubDate>Wed, 29 Jul 2026 13:21:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
