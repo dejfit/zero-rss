@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 01 Aug 2026 15:04:25 +0200</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 16:39:27 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Dwa śmiertelne wypadki w Tatrach. TOPR ostrzega turystów</title>
+<link>https://zero.pl/news/dwa-smiertelne-wypadki-w-tatrach-topr-ostrzega-turystow</link>
+<guid isPermaLink="true">https://zero.pl/news/dwa-smiertelne-wypadki-w-tatrach-topr-ostrzega-turystow</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sat, 01 Aug 2026 16:01:00 +0200</pubDate>
+</item>
+<item>
+<title>Tak Ukraina radzi sobie z ostrzeganiem o zagrożeniach. Tu nie ma jednego systemu</title>
+<link>https://zero.pl/news/jak-ukraina-radzi-sobie-z-ostrzeganiem-o-zagrozeniach-tu-nie-ma-jednego-systemu</link>
+<guid isPermaLink="true">https://zero.pl/news/jak-ukraina-radzi-sobie-z-ostrzeganiem-o-zagrozeniach-tu-nie-ma-jednego-systemu</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Sat, 01 Aug 2026 15:39:00 +0200</pubDate>
+</item>
+<item>
+<title>Karol Nawrocki uczcił ofiary rzezi Woli. Prezydent zaapelował do świata</title>
+<link>https://zero.pl/news/karol-nawrocki-uczcil-ofiary-rzezi-woli-prezydent-zaapelowal-do-swiata</link>
+<guid isPermaLink="true">https://zero.pl/news/karol-nawrocki-uczcil-ofiary-rzezi-woli-prezydent-zaapelowal-do-swiata</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sat, 01 Aug 2026 15:29:00 +0200</pubDate>
+</item>
 <item>
 <title>Słynny himalaista Nirmal Purja zginął na Broad Peak</title>
 <link>https://zero.pl/news/slynny-himalaista-nirmal-purja-zginal-na-broad-peak</link>
@@ -72,7 +96,7 @@
 <pubDate>Sat, 01 Aug 2026 10:59:00 +0200</pubDate>
 </item>
 <item>
-<title>Jesteśmy z powstańcami. „Córuśka, ja byłam z dziwnej rodziny” [ TRANSMISJA LIVE]</title>
+<title>Jesteśmy z powstańcami. Autobus Kanału Zero jedzie przez Warszawę [TRANSMISJA LIVE]</title>
 <link>https://zero.pl/news/stanowski-o-obchodach-82-rocznicy-wybuchu-powstania-warszawskiego-live-z-pietrowego-autobusu</link>
 <guid isPermaLink="true">https://zero.pl/news/stanowski-o-obchodach-82-rocznicy-wybuchu-powstania-warszawskiego-live-z-pietrowego-autobusu</guid>
 <category>Kraj</category>
@@ -1182,30 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Wed, 29 Jul 2026 10:53:00 +0200</pubDate>
-</item>
-<item>
-<title>Krótko po Smoleńsku liczył już szanse Ziobry. Hofman ujawnia kulisy gry Kurskiego</title>
-<link>https://zero.pl/news/adam-hofman-o-kulisach-rozpadu-pis-decyzja-zapadla-partia-bedzie-mniejsza</link>
-<guid isPermaLink="true">https://zero.pl/news/adam-hofman-o-kulisach-rozpadu-pis-decyzja-zapadla-partia-bedzie-mniejsza</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Wed, 29 Jul 2026 10:39:00 +0200</pubDate>
-</item>
-<item>
-<title>SPD chce po zamachu rozszerzyć zakaz dyskryminacji. „Klasyczna gra polityczna”</title>
-<link>https://zero.pl/news/niemcy-po-zamachu-chca-zmienic-konstytucje-spd-proponuje-nowy-zakaz-dyskryminacji</link>
-<guid isPermaLink="true">https://zero.pl/news/niemcy-po-zamachu-chca-zmienic-konstytucje-spd-proponuje-nowy-zakaz-dyskryminacji</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Wed, 29 Jul 2026 10:27:00 +0200</pubDate>
-</item>
-<item>
-<title>Nowy projekt rządu. Tańszy kredyt na wkład do TBS i mieszkania spółdzielcze</title>
-<link>https://zero.pl/news/tanszy-kredyt-na-wklad-do-tbs-i-mieszkania-spoldzielcze-media-o-nowym-projekcie-rzadu</link>
-<guid isPermaLink="true">https://zero.pl/news/tanszy-kredyt-na-wklad-do-tbs-i-mieszkania-spoldzielcze-media-o-nowym-projekcie-rzadu</guid>
-<category>Biznes</category>
-<description>Biznes — Tomasz Pałasz</description>
-<pubDate>Wed, 29 Jul 2026 10:08:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
