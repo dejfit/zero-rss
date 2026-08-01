@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 01 Aug 2026 16:39:27 +0200</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 17:42:05 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Warszawa stanęła w miejscu, syreny zawyły. Trwają obchody 82. rocznicy Powstania Warszawskiego</title>
+<link>https://zero.pl/news/82-rocznica-powstania-warszawskiego-warszawa-stanela-w-miejscu-syreny-zawyly</link>
+<guid isPermaLink="true">https://zero.pl/news/82-rocznica-powstania-warszawskiego-warszawa-stanela-w-miejscu-syreny-zawyly</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sat, 01 Aug 2026 17:17:00 +0200</pubDate>
+</item>
+<item>
+<title>Rosyjski atak na Kijów uszkodził ambasadę Litwy. Wilno żąda odszkodowania</title>
+<link>https://zero.pl/news/rosyjski-atak-na-kijow-uszkodzil-ambasade-litwy-wilno-zada-odszkodowania</link>
+<guid isPermaLink="true">https://zero.pl/news/rosyjski-atak-na-kijow-uszkodzil-ambasade-litwy-wilno-zada-odszkodowania</guid>
+<category>Świat</category>
+<description>Świat — Kasjan Owsianko</description>
+<pubDate>Sat, 01 Aug 2026 16:53:00 +0200</pubDate>
+</item>
 <item>
 <title>Dwa śmiertelne wypadki w Tatrach. TOPR ostrzega turystów</title>
 <link>https://zero.pl/news/dwa-smiertelne-wypadki-w-tatrach-topr-ostrzega-turystow</link>
@@ -1190,22 +1206,6 @@
 <category>Nauka</category>
 <description>Nauka — Agnieszka Waś-Turecka</description>
 <pubDate>Wed, 29 Jul 2026 11:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Sylwia Gregorczyk-Abram nową Rzecznik Praw Obywatelskich. Złożyła ślubowanie</title>
-<link>https://zero.pl/news/sylwia-gregorczyk-abram-nowa-rpo-zlozyla-slubowanie-przed-sejmem-i-zastapila-marcina-wiacka</link>
-<guid isPermaLink="true">https://zero.pl/news/sylwia-gregorczyk-abram-nowa-rpo-zlozyla-slubowanie-przed-sejmem-i-zastapila-marcina-wiacka</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Wed, 29 Jul 2026 11:12:00 +0200</pubDate>
-</item>
-<item>
-<title>Ogromna awaria Xboxa. Gracze stracili dostęp do swoich gier</title>
-<link>https://zero.pl/news/ogromna-awaria-xboxa-co-sie-stalo-ze-sie-zepsulo</link>
-<guid isPermaLink="true">https://zero.pl/news/ogromna-awaria-xboxa-co-sie-stalo-ze-sie-zepsulo</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Wed, 29 Jul 2026 10:53:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
