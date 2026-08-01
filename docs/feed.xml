@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 01 Aug 2026 19:39:22 +0200</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 20:37:24 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>UE zwołuje pilne posiedzenie ws. Ceuty. Polska przedstawi swoje doświadczenie ws. granicy</title>
+<link>https://zero.pl/news/ue-zwoluje-pilne-posiedzenie-ws-ceuty-polska-przedstawi-swoje-doswiadczenie-ws-granicy</link>
+<guid isPermaLink="true">https://zero.pl/news/ue-zwoluje-pilne-posiedzenie-ws-ceuty-polska-przedstawi-swoje-doswiadczenie-ws-granicy</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sat, 01 Aug 2026 20:23:00 +0200</pubDate>
+</item>
+<item>
+<title>Dwie dekady spadku. Co stało się z wynagrodzeniami nauczycieli</title>
+<link>https://zero.pl/news/nauczyciele-zarabiaja-relatywnie-coraz-mniej-dlaczego-podwyzki-nie-wystarczaja</link>
+<guid isPermaLink="true">https://zero.pl/news/nauczyciele-zarabiaja-relatywnie-coraz-mniej-dlaczego-podwyzki-nie-wystarczaja</guid>
+<category>Kraj</category>
+<description>Kraj — Łukasz Wolański</description>
+<pubDate>Sat, 01 Aug 2026 19:58:00 +0200</pubDate>
+</item>
+<item>
+<title>Tak Warszawiacy świętowali 82. rocznicę Powstania [GALERIA]</title>
+<link>https://zero.pl/news/tak-warszawiacy-swietowali-82-rocznice-powstania-galeria</link>
+<guid isPermaLink="true">https://zero.pl/news/tak-warszawiacy-swietowali-82-rocznice-powstania-galeria</guid>
+<category>Kraj</category>
+<description>Kraj — Arkadiusz Dziermański,Kasjan Owsianko</description>
+<pubDate>Sat, 01 Aug 2026 19:37:00 +0200</pubDate>
+</item>
 <item>
 <title>Odnaleziono szczątki pocisku Ch-101. Koniec prowadzonych od czwartku poszukiwań</title>
 <link>https://zero.pl/news/odnaleziono-szczatki-pocisku-ch-101-koniec-prowadzonych-od-czwartku-poszukiwan</link>
@@ -1182,30 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Wed, 29 Jul 2026 12:50:00 +0200</pubDate>
-</item>
-<item>
-<title>Podpiąłem lodówkę, bojler i lampy do samochodu elektrycznego. Jak to działa i czy to w ogóle ma sens?</title>
-<link>https://zero.pl/news/podpialem-lodowke-i-bojler-do-samochodu-elektrycznego-v2l-v2g-v2h-co-to-jest-i-jak-to-dziala</link>
-<guid isPermaLink="true">https://zero.pl/news/podpialem-lodowke-i-bojler-do-samochodu-elektrycznego-v2l-v2g-v2h-co-to-jest-i-jak-to-dziala</guid>
-<category>Moto</category>
-<description>Moto — Piotr Rodzik</description>
-<pubDate>Wed, 29 Jul 2026 12:37:00 +0200</pubDate>
-</item>
-<item>
-<title>Nawet 30 lat życia w biedzie. Dlaczego emerytury kobiet są o połowę niższe niż mężczyzn</title>
-<link>https://zero.pl/news/emerytury-kobiet-w-polsce-dlaczego-sa-prawie-o-polowe-nizsze-niz-mezczyzn</link>
-<guid isPermaLink="true">https://zero.pl/news/emerytury-kobiet-w-polsce-dlaczego-sa-prawie-o-polowe-nizsze-niz-mezczyzn</guid>
-<category>Biznes</category>
-<description>Biznes — Bartosz Marczuk</description>
-<pubDate>Wed, 29 Jul 2026 12:24:00 +0200</pubDate>
-</item>
-<item>
-<title>Morawiecki wyrwie koalicjanta z rządu? Były premier doczekał się szybkiej riposty</title>
-<link>https://zero.pl/news/mateusz-morawiecki-i-klub-parlamentarny-stowarzyszenia-rozwoj-plus-polska-2050-nowy-koalicjantem</link>
-<guid isPermaLink="true">https://zero.pl/news/mateusz-morawiecki-i-klub-parlamentarny-stowarzyszenia-rozwoj-plus-polska-2050-nowy-koalicjantem</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Wed, 29 Jul 2026 11:59:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
