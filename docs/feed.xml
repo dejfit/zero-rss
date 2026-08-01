@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 01 Aug 2026 06:38:46 +0200</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 09:11:13 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Drożyzna nadciąga. W 2027 r. Polacy zapłacą więcej za alkohol, mieszkania i ZUS</title>
+<link>https://zero.pl/news/drozyzna-nadciaga-w-2027-r-polacy-zaplaca-wiecej-za-alkohol-mieszkania-i-zus</link>
+<guid isPermaLink="true">https://zero.pl/news/drozyzna-nadciaga-w-2027-r-polacy-zaplaca-wiecej-za-alkohol-mieszkania-i-zus</guid>
+<category>Biznes</category>
+<description>Biznes — Olga Karaban</description>
+<pubDate>Sat, 01 Aug 2026 07:52:00 +0200</pubDate>
+</item>
+<item>
+<title>Kolejny potężny ostrzał. Kijów podał liczbę ofiar rosyjskich bomb</title>
+<link>https://zero.pl/news/kolejny-potezny-ostrzal-kijow-podal-liczbe-ofiar-rosyjskich-bomb</link>
+<guid isPermaLink="true">https://zero.pl/news/kolejny-potezny-ostrzal-kijow-podal-liczbe-ofiar-rosyjskich-bomb</guid>
+<category>Świat</category>
+<description>Świat — Olga Karaban</description>
+<pubDate>Sat, 01 Aug 2026 07:29:00 +0200</pubDate>
+</item>
+<item>
+<title>FIFA wycofuje się z kontrowersyjnego planu. UEFA postawiła ultimatum</title>
+<link>https://zero.pl/news/fifa-wycofuje-sie-z-kontrowersyjnego-planu-uefa-postawila-ultimatum-projekt-upadl</link>
+<guid isPermaLink="true">https://zero.pl/news/fifa-wycofuje-sie-z-kontrowersyjnego-planu-uefa-postawila-ultimatum-projekt-upadl</guid>
+<category>Świat</category>
+<description>Świat — Olga Karaban</description>
+<pubDate>Sat, 01 Aug 2026 07:07:00 +0200</pubDate>
+</item>
 <item>
 <title>Dowództwo Generalne informuje o ruchach wojska. Jest ważny apel</title>
 <link>https://zero.pl/news/swieto-wojska-polskiego-dowodztwo-generalne-informuje-o-ruchach-wojska-jest-wazny-apel</link>
@@ -1182,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Kasjan Owsianko</description>
 <pubDate>Tue, 28 Jul 2026 21:58:00 +0200</pubDate>
-</item>
-<item>
-<title>Trump i Netanjahu przy jednym stole. „Chcą przetestować przeciwników”</title>
-<link>https://zero.pl/news/trump-i-netanjahu-rozmawiaja-w-bialym-domu-w-tle-napiecia-wokol-iranu-i-gazy</link>
-<guid isPermaLink="true">https://zero.pl/news/trump-i-netanjahu-rozmawiaja-w-bialym-domu-w-tle-napiecia-wokol-iranu-i-gazy</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Tue, 28 Jul 2026 21:41:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
