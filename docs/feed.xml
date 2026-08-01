@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 01 Aug 2026 13:56:33 +0200</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 15:04:25 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Słynny himalaista Nirmal Purja zginął na Broad Peak</title>
+<link>https://zero.pl/news/slynny-himalaista-nirmal-purja-zginal-na-broad-peak</link>
+<guid isPermaLink="true">https://zero.pl/news/slynny-himalaista-nirmal-purja-zginal-na-broad-peak</guid>
+<category>Świat</category>
+<description>Świat — Kasjan Owsianko</description>
+<pubDate>Sat, 01 Aug 2026 14:49:00 +0200</pubDate>
+</item>
+<item>
+<title>Meloni o kryzysie w Ceucie: „Wzmocnić granice, zwalczać nielegalną imigrację, usprawnić deportacje”</title>
+<link>https://zero.pl/news/giorgia-meloni-o-kryzysie-w-ceucie-apel-22-krajow-do-wladz-unijnych</link>
+<guid isPermaLink="true">https://zero.pl/news/giorgia-meloni-o-kryzysie-w-ceucie-apel-22-krajow-do-wladz-unijnych</guid>
+<category>Świat</category>
+<description>Świat — Kasjan Owsianko</description>
+<pubDate>Sat, 01 Aug 2026 14:28:00 +0200</pubDate>
+</item>
 <item>
 <title>Pijany 17-latek w BMW staranował sześć aut. Miał dwa promile, nie miał prawa jazdy</title>
 <link>https://zero.pl/news/pijany-17-latek-w-bmw-staranowal-szesc-aut-mial-dwa-promile-nie-mial-prawa-jazdy</link>
@@ -1190,22 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Tomasz Pałasz</description>
 <pubDate>Wed, 29 Jul 2026 10:08:00 +0200</pubDate>
-</item>
-<item>
-<title>Rozłam PiS faktem. Morawiecki powołuje klub parlamentarny w Sejmie</title>
-<link>https://zero.pl/news/rozlam-pis-faktem-morawiecki-powoluje-klub-parlamentarny-w-sejmie</link>
-<guid isPermaLink="true">https://zero.pl/news/rozlam-pis-faktem-morawiecki-powoluje-klub-parlamentarny-w-sejmie</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Białczyk</description>
-<pubDate>Wed, 29 Jul 2026 09:32:00 +0200</pubDate>
-</item>
-<item>
-<title>Antyukraiński klimat schłodzi naszą gospodarkę? Liczby mówią same za siebie</title>
-<link>https://zero.pl/news/antyukrainskie-nastroje-a-gospodarka-polski-liczby-mowia-same-za-siebie</link>
-<guid isPermaLink="true">https://zero.pl/news/antyukrainskie-nastroje-a-gospodarka-polski-liczby-mowia-same-za-siebie</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Wed, 29 Jul 2026 08:43:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
