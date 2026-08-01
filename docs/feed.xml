@@ -5,10 +5,18 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 01 Aug 2026 17:42:05 +0200</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 18:38:56 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
-<title>Warszawa stanęła w miejscu, syreny zawyły. Trwają obchody 82. rocznicy Powstania Warszawskiego</title>
+<title>Wiceszef MSZ z wizytą we Lwowie. Ukraina otworzy archiwa?</title>
+<link>https://zero.pl/news/wiceszef-msz-z-wizyta-we-lwowie-ukraina-otworzy-archiwa</link>
+<guid isPermaLink="true">https://zero.pl/news/wiceszef-msz-z-wizyta-we-lwowie-ukraina-otworzy-archiwa</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sat, 01 Aug 2026 18:19:00 +0200</pubDate>
+</item>
+<item>
+<title>Warszawa stanęła w miejscu, syreny zawyły. 82. rocznica Powstania Warszawskiego</title>
 <link>https://zero.pl/news/82-rocznica-powstania-warszawskiego-warszawa-stanela-w-miejscu-syreny-zawyly</link>
 <guid isPermaLink="true">https://zero.pl/news/82-rocznica-powstania-warszawskiego-warszawa-stanela-w-miejscu-syreny-zawyly</guid>
 <category>Kraj</category>
@@ -1198,14 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Przemysław Staciwa</description>
 <pubDate>Wed, 29 Jul 2026 11:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Przełomowe badania w Wilczym Szańcu. Archeolodzy PAN rozwiązali zagadkę</title>
-<link>https://zero.pl/news/wilczy-szaniec-nowe-szczatki-pod-domem-goringa-cmentarz-byl-starszy-niz-budynek</link>
-<guid isPermaLink="true">https://zero.pl/news/wilczy-szaniec-nowe-szczatki-pod-domem-goringa-cmentarz-byl-starszy-niz-budynek</guid>
-<category>Nauka</category>
-<description>Nauka — Agnieszka Waś-Turecka</description>
-<pubDate>Wed, 29 Jul 2026 11:35:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
