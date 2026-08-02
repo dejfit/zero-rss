@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 02 Aug 2026 15:13:19 +0200</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 16:43:43 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Złoto Ligi Narodów wraca do Polski. Biało-czerwoni wygrali po pięciosetowym boju</title>
+<link>https://zero.pl/news/zloto-ligi-narodow-wraca-do-polski-bialo-czerwoni-wygrali-po-pieciosetowym-boju</link>
+<guid isPermaLink="true">https://zero.pl/news/zloto-ligi-narodow-wraca-do-polski-bialo-czerwoni-wygrali-po-pieciosetowym-boju</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sun, 02 Aug 2026 16:21:00 +0200</pubDate>
+</item>
+<item>
+<title>Carnaval Sztukmistrzów w Lublinie jest jak wizyta w najlepszym cyrku. Tylko bez jego wad</title>
+<link>https://zero.pl/news/carnaval-sztumistrzow-w-lublinie-to-najlepszy-cyrk-w-jakim-bylem-bez-jego-wad</link>
+<guid isPermaLink="true">https://zero.pl/news/carnaval-sztumistrzow-w-lublinie-to-najlepszy-cyrk-w-jakim-bylem-bez-jego-wad</guid>
+<category>Kraj</category>
+<description>Kraj — Arkadiusz Dziermański</description>
+<pubDate>Sun, 02 Aug 2026 16:04:00 +0200</pubDate>
+</item>
+<item>
+<title>Kryzys migracyjny w Ceucie. Papież Leon XIV apeluje o pokój, rośnie bilans ofiar</title>
+<link>https://zero.pl/news/kryzys-migracyjny-w-ceucie-papiez-leon-xiv-apeluje-o-pokoj-rosnie-bilans-ofiar</link>
+<guid isPermaLink="true">https://zero.pl/news/kryzys-migracyjny-w-ceucie-papiez-leon-xiv-apeluje-o-pokoj-rosnie-bilans-ofiar</guid>
+<category>Świat</category>
+<description>Świat — Kasjan Owsianko</description>
+<pubDate>Sun, 02 Aug 2026 15:39:00 +0200</pubDate>
+</item>
+<item>
+<title>Coraz bliżej rozwiązania zagadki „wampirzycy Zosi”. Są wyniki badań</title>
+<link>https://zero.pl/news/wampirzyca-zosia-naukowcy-coraz-blizej-rozwiazania-zagadki-jej-smierci</link>
+<guid isPermaLink="true">https://zero.pl/news/wampirzyca-zosia-naukowcy-coraz-blizej-rozwiazania-zagadki-jej-smierci</guid>
+<category>Nauka</category>
+<description>Nauka — Krzysztof Jabłonowski</description>
+<pubDate>Sun, 02 Aug 2026 15:12:00 +0200</pubDate>
+</item>
 <item>
 <title>System kaucyjny czeka rewolucja. Potrzebują jej wszyscy</title>
 <link>https://zero.pl/news/system-kaucyjny-czeka-rewolucja-potrzebuja-jej-wszyscy</link>
@@ -1174,38 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Tomasz Pałasz</description>
 <pubDate>Wed, 29 Jul 2026 20:21:00 +0200</pubDate>
-</item>
-<item>
-<title>Nowa faza wojny z Iranem? Kraje Zatoki Perskiej tracą cierpliwość</title>
-<link>https://zero.pl/news/kraje-zatoki-perskiej-intensyfikuja-ataki-na-cele-zwiazane-z-iranem-m-krzyzanowski-analizuje-sytuacje-na-bliskim-wschodzie</link>
-<guid isPermaLink="true">https://zero.pl/news/kraje-zatoki-perskiej-intensyfikuja-ataki-na-cele-zwiazane-z-iranem-m-krzyzanowski-analizuje-sytuacje-na-bliskim-wschodzie</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Wed, 29 Jul 2026 20:03:00 +0200</pubDate>
-</item>
-<item>
-<title>Leki dla cukrzyków droższe. Nowa lista refundacyjna od lipca</title>
-<link>https://zero.pl/news/ceny-lekow-na-cukrzyce-2026-r-zmiany-w-refundacji</link>
-<guid isPermaLink="true">https://zero.pl/news/ceny-lekow-na-cukrzyce-2026-r-zmiany-w-refundacji</guid>
-<category>Zdrowie</category>
-<description>Zdrowie — Kasjan Owsianko</description>
-<pubDate>Wed, 29 Jul 2026 19:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Słynny ksiądz wziął się do roboty. Sprząta toalety, żeby kupić barkę</title>
-<link>https://zero.pl/news/ksiadz-z-osiedla-wspolpracuje-z-firma-wc-zbiera-na-barke</link>
-<guid isPermaLink="true">https://zero.pl/news/ksiadz-z-osiedla-wspolpracuje-z-firma-wc-zbiera-na-barke</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Wed, 29 Jul 2026 19:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Wybory w Krakowie. Wiadomo, kiedy będzie głosowanie</title>
-<link>https://zero.pl/news/wybory-w-krakowie-znamy-date-glosowania</link>
-<guid isPermaLink="true">https://zero.pl/news/wybory-w-krakowie-znamy-date-glosowania</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Wed, 29 Jul 2026 19:33:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
