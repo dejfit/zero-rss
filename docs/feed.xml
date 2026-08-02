@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 02 Aug 2026 12:56:48 +0200</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 13:57:31 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Wstydliwe zdjęcie posła. Przyznał, że był „po spożyciu”</title>
+<link>https://zero.pl/news/wstydliwe-zdjecie-posla-przyznal-ze-byl-po-spozyciu</link>
+<guid isPermaLink="true">https://zero.pl/news/wstydliwe-zdjecie-posla-przyznal-ze-byl-po-spozyciu</guid>
+<category>Kraj</category>
+<description>Kraj — Olga Karaban</description>
+<pubDate>Sun, 02 Aug 2026 13:30:00 +0200</pubDate>
+</item>
 <item>
 <title>Prawica pobudki i prawica drzemki. Czyli o co chodzi po rozłamie w PiS?</title>
 <link>https://zero.pl/news/jakub-dymek-o-prawicy-pobudki-i-prawicy-drzemki-czyli-o-co-chodzi-po-rozlamie-w-pis</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Kasjan Owsianko</description>
 <pubDate>Wed, 29 Jul 2026 19:03:00 +0200</pubDate>
-</item>
-<item>
-<title>To nie miało prawa się udać. Gdy Diana i Karol powiedzieli sobie „tak”</title>
-<link>https://zero.pl/news/slub-diany-i-karola-45-lat-od-najslynniejszego-slubu-wszech-czasow</link>
-<guid isPermaLink="true">https://zero.pl/news/slub-diany-i-karola-45-lat-od-najslynniejszego-slubu-wszech-czasow</guid>
-<category>Świat</category>
-<description>Świat — Mr. Y</description>
-<pubDate>Wed, 29 Jul 2026 17:52:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
