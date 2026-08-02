@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 02 Aug 2026 16:43:43 +0200</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 17:45:56 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Susza paraliżuje energetykę na Węgrzech i w Serbii. Budapeszt wstrzymuje elektrownię</title>
+<link>https://zero.pl/news/susza-paralizuje-energetyke-na-wegrzech-i-w-serbii-budapeszt-wstrzymuje-elektrownie</link>
+<guid isPermaLink="true">https://zero.pl/news/susza-paralizuje-energetyke-na-wegrzech-i-w-serbii-budapeszt-wstrzymuje-elektrownie</guid>
+<category>Biznes</category>
+<description>Biznes — Kasjan Owsianko</description>
+<pubDate>Sun, 02 Aug 2026 17:26:00 +0200</pubDate>
+</item>
 <item>
 <title>Złoto Ligi Narodów wraca do Polski. Biało-czerwoni wygrali po pięciosetowym boju</title>
 <link>https://zero.pl/news/zloto-ligi-narodow-wraca-do-polski-bialo-czerwoni-wygrali-po-pieciosetowym-boju</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Kasjan Owsianko</description>
 <pubDate>Wed, 29 Jul 2026 20:53:00 +0200</pubDate>
-</item>
-<item>
-<title>USA zakazują importu chińskich robotów. „Wojna handlowa” czy „zagrożenie bezpieczeństwa”</title>
-<link>https://zero.pl/news/zakaz-importu-robotow-humanoidalnych-z-chin-do-usa-decyzja-fcc-i-reakcja-pekinu</link>
-<guid isPermaLink="true">https://zero.pl/news/zakaz-importu-robotow-humanoidalnych-z-chin-do-usa-decyzja-fcc-i-reakcja-pekinu</guid>
-<category>Technologia</category>
-<description>Technologia — Tomasz Pałasz</description>
-<pubDate>Wed, 29 Jul 2026 20:21:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
