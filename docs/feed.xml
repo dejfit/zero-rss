@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 02 Aug 2026 11:24:35 +0200</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 12:56:48 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Prawica pobudki i prawica drzemki. Czyli o co chodzi po rozłamie w PiS?</title>
+<link>https://zero.pl/news/jakub-dymek-o-prawicy-pobudki-i-prawicy-drzemki-czyli-o-co-chodzi-po-rozlamie-w-pis</link>
+<guid isPermaLink="true">https://zero.pl/news/jakub-dymek-o-prawicy-pobudki-i-prawicy-drzemki-czyli-o-co-chodzi-po-rozlamie-w-pis</guid>
+<category>Kraj</category>
+<description>Kraj — Jakub Dymek</description>
+<pubDate>Sun, 02 Aug 2026 12:40:00 +0200</pubDate>
+</item>
+<item>
+<title>Atak nożownika we Wrocławiu. 18-latek zatrzymany, kobieta w szpitalu</title>
+<link>https://zero.pl/news/ukrainiec-zaatakowal-nozem-kobiete-we-wroclawiu-policja-zatrzymala-18-latka</link>
+<guid isPermaLink="true">https://zero.pl/news/ukrainiec-zaatakowal-nozem-kobiete-we-wroclawiu-policja-zatrzymala-18-latka</guid>
+<category>Kraj</category>
+<description>Kraj — Olga Karaban</description>
+<pubDate>Sun, 02 Aug 2026 12:38:00 +0200</pubDate>
+</item>
+<item>
+<title>Fotoradar pokazał 80 km/h. Jechał chłopak na hulajnodze</title>
+<link>https://zero.pl/news/fotoradar-pokazal-80-km-h-jechal-chlopak-na-hulajnodze</link>
+<guid isPermaLink="true">https://zero.pl/news/fotoradar-pokazal-80-km-h-jechal-chlopak-na-hulajnodze</guid>
+<category>Kraj</category>
+<description>Kraj — Olga Karaban</description>
+<pubDate>Sun, 02 Aug 2026 11:36:00 +0200</pubDate>
+</item>
 <item>
 <title>Na wakacje przez Austrię lub Niemcy? Za zjazd z autostrady można dostać srogi mandat</title>
 <link>https://zero.pl/news/na-wakacje-przez-austrie-lub-niemcy-za-zjazd-z-autostrady-mozna-dostac-srogi-mandat</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Mr. Y</description>
 <pubDate>Wed, 29 Jul 2026 17:52:00 +0200</pubDate>
-</item>
-<item>
-<title>Idzie chudy rok dla emerytów. Podwyżki będą minimalne</title>
-<link>https://zero.pl/news/waloryzacja-emerytur-w-2027-r-podwyzki-swiadczen-beda-skromne</link>
-<guid isPermaLink="true">https://zero.pl/news/waloryzacja-emerytur-w-2027-r-podwyzki-swiadczen-beda-skromne</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Wed, 29 Jul 2026 17:31:00 +0200</pubDate>
-</item>
-<item>
-<title>Śmiertelne zakażenie nad niemieckim Bałtykiem. Bakteria atakuje po kąpieli</title>
-<link>https://zero.pl/news/miesozerna-bakteria-w-baltyku-pierwsza-ofiara-smiertelna</link>
-<guid isPermaLink="true">https://zero.pl/news/miesozerna-bakteria-w-baltyku-pierwsza-ofiara-smiertelna</guid>
-<category>Zdrowie</category>
-<description>Zdrowie — Kasjan Owsianko</description>
-<pubDate>Wed, 29 Jul 2026 17:21:00 +0200</pubDate>
-</item>
-<item>
-<title>Słowo dane przed turniejem zostało dotrzymane. Obrońca Hiszpanii ma nowy tatuaż</title>
-<link>https://zero.pl/news/marc-cucurella-spelnil-obietnice-po-finale-na-jego-rece-pojawil-sie-tatuaz</link>
-<guid isPermaLink="true">https://zero.pl/news/marc-cucurella-spelnil-obietnice-po-finale-na-jego-rece-pojawil-sie-tatuaz</guid>
-<category>Mundial 2026</category>
-<description>Mundial 2026 — Kasjan Owsianko</description>
-<pubDate>Wed, 29 Jul 2026 17:19:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
