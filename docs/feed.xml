@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 02 Aug 2026 09:16:42 +0200</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 11:24:35 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Na wakacje przez Austrię lub Niemcy? Za zjazd z autostrady można dostać srogi mandat</title>
+<link>https://zero.pl/news/na-wakacje-przez-austrie-lub-niemcy-za-zjazd-z-autostrady-mozna-dostac-srogi-mandat</link>
+<guid isPermaLink="true">https://zero.pl/news/na-wakacje-przez-austrie-lub-niemcy-za-zjazd-z-autostrady-mozna-dostac-srogi-mandat</guid>
+<category>Moto</category>
+<description>Moto — Olga Karaban</description>
+<pubDate>Sun, 02 Aug 2026 10:46:00 +0200</pubDate>
+</item>
+<item>
+<title>Nieudolny alert RCB i równie nieudolne wyrzucanie Morawieckiego. Ale mogło być gorzej [OPINIA]</title>
+<link>https://zero.pl/news/moglo-byc-gorzej-alert-rcb-grill-morawieckiego-i-stereotypy-lewicy</link>
+<guid isPermaLink="true">https://zero.pl/news/moglo-byc-gorzej-alert-rcb-grill-morawieckiego-i-stereotypy-lewicy</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sun, 02 Aug 2026 10:06:00 +0200</pubDate>
+</item>
+<item>
+<title>Pogodowy rollercoaster. Chwila oddechu a potem nagłe uderzenie żaru</title>
+<link>https://zero.pl/news/pogodowy-rollercoaster-chwila-oddechu-a-potem-nagle-uderzenie-zaru</link>
+<guid isPermaLink="true">https://zero.pl/news/pogodowy-rollercoaster-chwila-oddechu-a-potem-nagle-uderzenie-zaru</guid>
+<category>Kraj</category>
+<description>Kraj — Olga Karaban</description>
+<pubDate>Sun, 02 Aug 2026 09:47:00 +0200</pubDate>
+</item>
 <item>
 <title>Susza i upały uderzyły w polskie sady. GUS alarmuje</title>
 <link>https://zero.pl/news/susza-i-upaly-uderzyly-w-polskie-sady-gus-alarmuje</link>
@@ -1182,30 +1206,6 @@
 <category>Mundial 2026</category>
 <description>Mundial 2026 — Kasjan Owsianko</description>
 <pubDate>Wed, 29 Jul 2026 17:19:00 +0200</pubDate>
-</item>
-<item>
-<title>Wrzuciła wiadomość do rzeki w 1958 roku. Odnaleziono ją po 68 latach</title>
-<link>https://zero.pl/news/wrzucila-wiadomosc-do-rzeki-w-1958-roku-odnaleziono-ja-po-68-latach</link>
-<guid isPermaLink="true">https://zero.pl/news/wrzucila-wiadomosc-do-rzeki-w-1958-roku-odnaleziono-ja-po-68-latach</guid>
-<category>Świat</category>
-<description>Świat — Bartosz Michalski</description>
-<pubDate>Wed, 29 Jul 2026 17:05:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na czwartek 30 lipca. Bonda w Godzinie Zero</title>
-<link>https://zero.pl/news/program-tv-zero-30-07-co-dzis-mozna-obejrzec-katarzyna-bonda-w-godzinie-zero</link>
-<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-30-07-co-dzis-mozna-obejrzec-katarzyna-bonda-w-godzinie-zero</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Wed, 29 Jul 2026 16:44:00 +0200</pubDate>
-</item>
-<item>
-<title>Śmigłowiec godzinami krążył nad autostradami. Policja ujawnia powód przelotów</title>
-<link>https://zero.pl/news/policyjny-helikopter-nad-wroclawiem-skad-jego-dziwne-ruchy</link>
-<guid isPermaLink="true">https://zero.pl/news/policyjny-helikopter-nad-wroclawiem-skad-jego-dziwne-ruchy</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Wed, 29 Jul 2026 15:57:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
