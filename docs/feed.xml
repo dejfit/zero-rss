@@ -5,8 +5,48 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 02 Aug 2026 06:40:40 +0200</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 09:16:42 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Susza i upały uderzyły w polskie sady. GUS alarmuje</title>
+<link>https://zero.pl/news/susza-i-upaly-uderzyly-w-polskie-sady-gus-alarmuje</link>
+<guid isPermaLink="true">https://zero.pl/news/susza-i-upaly-uderzyly-w-polskie-sady-gus-alarmuje</guid>
+<category>Biznes</category>
+<description>Biznes — Olga Karaban</description>
+<pubDate>Sun, 02 Aug 2026 09:14:00 +0200</pubDate>
+</item>
+<item>
+<title>Polska maszyna do goli odpalona. Lewy w końcu strzela w USA</title>
+<link>https://zero.pl/news/polska-maszyna-do-goli-odpalona-lewy-w-koncu-strzela-w-usa</link>
+<guid isPermaLink="true">https://zero.pl/news/polska-maszyna-do-goli-odpalona-lewy-w-koncu-strzela-w-usa</guid>
+<category>Świat</category>
+<description>Świat — Olga Karaban</description>
+<pubDate>Sun, 02 Aug 2026 08:12:00 +0200</pubDate>
+</item>
+<item>
+<title>Wstrząsające nagranie obiegło sieć. Pasażerka uderzyła kierowcę z Ukrainy</title>
+<link>https://zero.pl/news/wstrzasajace-nagranie-obieglo-siec-pasazerka-uderzyla-kierowce-z-ukrainy</link>
+<guid isPermaLink="true">https://zero.pl/news/wstrzasajace-nagranie-obieglo-siec-pasazerka-uderzyla-kierowce-z-ukrainy</guid>
+<category>Kraj</category>
+<description>Kraj — Olga Karaban</description>
+<pubDate>Sun, 02 Aug 2026 07:55:00 +0200</pubDate>
+</item>
+<item>
+<title>Krwawa interwencja w Trzciance. Napastnik ruszył z maczetą na policjantów</title>
+<link>https://zero.pl/news/krwawa-interwencja-w-trzciance-napastnik-ruszyl-z-maczeta-na-policjantow</link>
+<guid isPermaLink="true">https://zero.pl/news/krwawa-interwencja-w-trzciance-napastnik-ruszyl-z-maczeta-na-policjantow</guid>
+<category>Kraj</category>
+<description>Kraj — Olga Karaban</description>
+<pubDate>Sun, 02 Aug 2026 07:24:00 +0200</pubDate>
+</item>
+<item>
+<title>Trump: odwołałem atak na Iran. W ostatniej chwili zmienił decyzję</title>
+<link>https://zero.pl/news/trump-odwolalem-atak-na-iran-w-ostatniej-chwili-zmienil-decyzje</link>
+<guid isPermaLink="true">https://zero.pl/news/trump-odwolalem-atak-na-iran-w-ostatniej-chwili-zmienil-decyzje</guid>
+<category>Świat</category>
+<description>Świat — Olga Karaban</description>
+<pubDate>Sun, 02 Aug 2026 06:52:00 +0200</pubDate>
+</item>
 <item>
 <title>Chińczycy grają na kodach. Sprzedają w Polsce auta homologowane w Chorwacji</title>
 <link>https://zero.pl/news/chinskie-samochody-z-homologacja-jednostkowa-w-polsce-czy-klienci-maja-sie-czego-bac</link>
@@ -1166,46 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Kasjan Owsianko</description>
 <pubDate>Wed, 29 Jul 2026 15:57:00 +0200</pubDate>
-</item>
-<item>
-<title>Apple ma problem z oszustami od kryptowalut. Fałszywe aplikacje błyszczą w AppStore</title>
-<link>https://zero.pl/news/apple-ma-problem-z-oszustami-od-kryptowalut-falszywe-aplikacje-blyszcza-w-appstore</link>
-<guid isPermaLink="true">https://zero.pl/news/apple-ma-problem-z-oszustami-od-kryptowalut-falszywe-aplikacje-blyszcza-w-appstore</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Wed, 29 Jul 2026 15:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Koszmar Polki na greckich wakacjach. Gdy liczą się minuty, system zawodzi</title>
-<link>https://zero.pl/news/dramat-polki-na-korfu-czy-nasze-zdrowie-na-wakacjach-jest-zakladnikiem-ubezpieczycieli</link>
-<guid isPermaLink="true">https://zero.pl/news/dramat-polki-na-korfu-czy-nasze-zdrowie-na-wakacjach-jest-zakladnikiem-ubezpieczycieli</guid>
-<category>Kraj</category>
-<description>Kraj — Katarzyna Dybińska</description>
-<pubDate>Wed, 29 Jul 2026 15:30:00 +0200</pubDate>
-</item>
-<item>
-<title>Morawiecki wciąż w PiS, ale z nowym klubem. „Kaczyński osiągnął swój cel”</title>
-<link>https://zero.pl/news/rozlam-pis-morawiecki-w-partii-ale-poza-klubem-eksperci-kaczynski-osiagnal-swoj-cel</link>
-<guid isPermaLink="true">https://zero.pl/news/rozlam-pis-morawiecki-w-partii-ale-poza-klubem-eksperci-kaczynski-osiagnal-swoj-cel</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Wed, 29 Jul 2026 14:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Kaczyński uderza w Morawieckiego. „Rozłam w najgorszym momencie”</title>
-<link>https://zero.pl/news/kaczynski-o-rozlamie-w-pis-oskarza-morawieckiego-o-realizacje-wlasnego-planu-politycznego</link>
-<guid isPermaLink="true">https://zero.pl/news/kaczynski-o-rozlamie-w-pis-oskarza-morawieckiego-o-realizacje-wlasnego-planu-politycznego</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Wed, 29 Jul 2026 14:25:00 +0200</pubDate>
-</item>
-<item>
-<title>Dorota R. z zarzutem. Prokuratura wydała komunikat</title>
-<link>https://zero.pl/news/dorota-r-z-zarzutem-reklama-suplementow-na-hashimoto-przedmiotem-sledztwa</link>
-<guid isPermaLink="true">https://zero.pl/news/dorota-r-z-zarzutem-reklama-suplementow-na-hashimoto-przedmiotem-sledztwa</guid>
-<category>Kultura</category>
-<description>Kultura — Przemysław Staciwa</description>
-<pubDate>Wed, 29 Jul 2026 13:56:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
