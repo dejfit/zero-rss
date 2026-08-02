@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 02 Aug 2026 03:10:51 +0200</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 06:40:40 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Chińczycy grają na kodach. Sprzedają w Polsce auta homologowane w Chorwacji</title>
+<link>https://zero.pl/news/chinskie-samochody-z-homologacja-jednostkowa-w-polsce-czy-klienci-maja-sie-czego-bac</link>
+<guid isPermaLink="true">https://zero.pl/news/chinskie-samochody-z-homologacja-jednostkowa-w-polsce-czy-klienci-maja-sie-czego-bac</guid>
+<category>Moto</category>
+<description>Moto — Tymon Grabowski</description>
+<pubDate>Sun, 02 Aug 2026 06:02:00 +0200</pubDate>
+</item>
 <item>
 <title>Sytuacja pożarowa we Francji stabilizuje się. Powstanie urząd ds. odbudowy</title>
 <link>https://zero.pl/news/sytuacja-pozarowa-we-francji-stabilizuje-sie-powstanie-urzad-ds-odbudowy</link>
@@ -1198,14 +1206,6 @@
 <category>Kultura</category>
 <description>Kultura — Przemysław Staciwa</description>
 <pubDate>Wed, 29 Jul 2026 13:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Rząd ma pełnomocnika ds. marki Polska. Ma stworzyć spójną strategię promocji kraju</title>
-<link>https://zero.pl/news/barbara-mroz-gorgon-pelnomocnikiem-rzadu-ds-marki-polska-donald-tusk-oglosil-nominacje</link>
-<guid isPermaLink="true">https://zero.pl/news/barbara-mroz-gorgon-pelnomocnikiem-rzadu-ds-marki-polska-donald-tusk-oglosil-nominacje</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Wed, 29 Jul 2026 13:38:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
