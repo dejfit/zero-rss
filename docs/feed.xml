@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 02 Aug 2026 21:56:46 +0200</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 22:46:47 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Co planuje Mateusz Morawiecki? Były premier uchylił rąbek tajemnicy</title>
+<link>https://zero.pl/news/co-planuje-mateusz-morawiecki-byly-premier-uchylil-rabek-tajemnicy</link>
+<guid isPermaLink="true">https://zero.pl/news/co-planuje-mateusz-morawiecki-byly-premier-uchylil-rabek-tajemnicy</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sun, 02 Aug 2026 21:53:00 +0200</pubDate>
+</item>
 <item>
 <title>Lewandowski się odblokował. Teraz zabrał głos po wygranej</title>
 <link>https://zero.pl/news/lewandowski-sie-odblokowal-teraz-zabral-glos-po-wygranej</link>
@@ -91,8 +99,8 @@
 <title>Carnaval Sztukmistrzów w Lublinie jest jak wizyta w najlepszym cyrku. Tylko bez jego wad</title>
 <link>https://zero.pl/news/carnaval-sztumistrzow-w-lublinie-to-najlepszy-cyrk-w-jakim-bylem-bez-jego-wad</link>
 <guid isPermaLink="true">https://zero.pl/news/carnaval-sztumistrzow-w-lublinie-to-najlepszy-cyrk-w-jakim-bylem-bez-jego-wad</guid>
-<category>Kraj</category>
-<description>Kraj — Arkadiusz Dziermański</description>
+<category>Kultura</category>
+<description>Kultura — Arkadiusz Dziermański</description>
 <pubDate>Sun, 02 Aug 2026 16:04:00 +0200</pubDate>
 </item>
 <item>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Przemysław Staciwa</description>
 <pubDate>Thu, 30 Jul 2026 07:51:00 +0200</pubDate>
-</item>
-<item>
-<title>Potężny huk na Lubelszczyźnie. Na polu odkryto krater, służby zabezpieczyły teren</title>
-<link>https://zero.pl/news/tajemniczy-wybuch-na-lubelszczyznie-w-targowisku-znaleziono-krater-na-miejscu-dziala-wojsko</link>
-<guid isPermaLink="true">https://zero.pl/news/tajemniczy-wybuch-na-lubelszczyznie-w-targowisku-znaleziono-krater-na-miejscu-dziala-wojsko</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Thu, 30 Jul 2026 07:24:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
