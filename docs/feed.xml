@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 02 Aug 2026 18:38:48 +0200</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 19:41:28 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Katastrofa śmigłowców gaśniczych w Grecji. Są ofiary śmiertelne</title>
+<link>https://zero.pl/news/katastrofa-smiglowcow-gasniczych-w-grecji-sa-ofiary-smiertelne</link>
+<guid isPermaLink="true">https://zero.pl/news/katastrofa-smiglowcow-gasniczych-w-grecji-sa-ofiary-smiertelne</guid>
+<category>Świat</category>
+<description>Świat — Kasjan Owsianko</description>
+<pubDate>Sun, 02 Aug 2026 19:23:00 +0200</pubDate>
+</item>
 <item>
 <title>Makabryczne znalezisko w Ciechanowie. Prokuratura wszczyna śledztwo</title>
 <link>https://zero.pl/news/makabryczne-znalezisko-w-ciechanowie-prokuratura-wszczyna-sledztwo</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura,Patryk Słowik,Jakub Styczyński</description>
 <pubDate>Thu, 30 Jul 2026 05:55:00 +0200</pubDate>
-</item>
-<item>
-<title>ONZ proponuje szczyt w sprawie zjednoczenia Cypru. Ankara zgłasza warunki</title>
-<link>https://zero.pl/news/zjednoczenie-cypru-sekretarz-generalny-onz-zapowiada-rozmowy</link>
-<guid isPermaLink="true">https://zero.pl/news/zjednoczenie-cypru-sekretarz-generalny-onz-zapowiada-rozmowy</guid>
-<category>Świat</category>
-<description>Świat — Kasjan Owsianko</description>
-<pubDate>Wed, 29 Jul 2026 21:53:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
