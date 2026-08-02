@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 02 Aug 2026 17:45:56 +0200</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 18:38:48 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Makabryczne znalezisko w Ciechanowie. Prokuratura wszczyna śledztwo</title>
+<link>https://zero.pl/news/makabryczne-znalezisko-w-ciechanowie-prokuratura-wszczyna-sledztwo</link>
+<guid isPermaLink="true">https://zero.pl/news/makabryczne-znalezisko-w-ciechanowie-prokuratura-wszczyna-sledztwo</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sun, 02 Aug 2026 18:37:00 +0200</pubDate>
+</item>
+<item>
+<title>Ukraiński konsulat reaguje na atak we Wrocławiu. „Stanowczo potępiamy”</title>
+<link>https://zero.pl/news/ukrainski-konsulat-reaguje-na-atak-we-wroclawiu-stanowczo-potepiamy</link>
+<guid isPermaLink="true">https://zero.pl/news/ukrainski-konsulat-reaguje-na-atak-we-wroclawiu-stanowczo-potepiamy</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sun, 02 Aug 2026 18:12:00 +0200</pubDate>
+</item>
+<item>
+<title>Czy wojna w Ukrainie połączy się z konfliktem w Iranie? Ekspert stawia sprawę jasno</title>
+<link>https://zero.pl/news/prof-kozerawski-ukraina-nie-rozszerza-wojny-na-iran-atak-na-morzu-kaspijskim-to-rutyna</link>
+<guid isPermaLink="true">https://zero.pl/news/prof-kozerawski-ukraina-nie-rozszerza-wojny-na-iran-atak-na-morzu-kaspijskim-to-rutyna</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 02 Aug 2026 17:49:00 +0200</pubDate>
+</item>
 <item>
 <title>Susza paraliżuje energetykę na Węgrzech i w Serbii. Budapeszt wstrzymuje elektrownię</title>
 <link>https://zero.pl/news/susza-paralizuje-energetyke-na-wegrzech-i-w-serbii-budapeszt-wstrzymuje-elektrownie</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Kasjan Owsianko</description>
 <pubDate>Wed, 29 Jul 2026 21:53:00 +0200</pubDate>
-</item>
-<item>
-<title>Europa w ogniu. W akcji zginęli trzej strażacy</title>
-<link>https://zero.pl/news/ogromne-pozary-w-europie-trzej-strazacy-zgineli-w-akcji-na-krecie</link>
-<guid isPermaLink="true">https://zero.pl/news/ogromne-pozary-w-europie-trzej-strazacy-zgineli-w-akcji-na-krecie</guid>
-<category>Świat</category>
-<description>Świat — Kasjan Owsianko</description>
-<pubDate>Wed, 29 Jul 2026 21:37:00 +0200</pubDate>
-</item>
-<item>
-<title>Tragedia w Tatrach. Na szlakach na Rysy zmarły dwie osoby</title>
-<link>https://zero.pl/news/smiertelny-wypadek-na-szlaku-na-rysy-w-slowackich-tatrach-zmarl-59-letni-polak</link>
-<guid isPermaLink="true">https://zero.pl/news/smiertelny-wypadek-na-szlaku-na-rysy-w-slowackich-tatrach-zmarl-59-letni-polak</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Wed, 29 Jul 2026 21:21:00 +0200</pubDate>
-</item>
-<item>
-<title>Koledzy Żaka skazani. Jeden rozpłynął się w powietrzu, szuka go policja</title>
-<link>https://zero.pl/news/proces-lukasza-zaka-wspoloskarzeni-trafiaja-do-aresztu</link>
-<guid isPermaLink="true">https://zero.pl/news/proces-lukasza-zaka-wspoloskarzeni-trafiaja-do-aresztu</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Wed, 29 Jul 2026 20:53:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
