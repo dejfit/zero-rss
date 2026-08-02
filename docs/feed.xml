@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 02 Aug 2026 13:57:31 +0200</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 15:13:19 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>System kaucyjny czeka rewolucja. Potrzebują jej wszyscy</title>
+<link>https://zero.pl/news/system-kaucyjny-czeka-rewolucja-potrzebuja-jej-wszyscy</link>
+<guid isPermaLink="true">https://zero.pl/news/system-kaucyjny-czeka-rewolucja-potrzebuja-jej-wszyscy</guid>
+<category>Biznes</category>
+<description>Biznes — Kasjan Owsianko</description>
+<pubDate>Sun, 02 Aug 2026 15:06:00 +0200</pubDate>
+</item>
+<item>
+<title>Przestępcy przejęli profil wiceministra. MSWiA i CERT ostrzegają przed wyłudzeniami</title>
+<link>https://zero.pl/news/przestepcy-przejeli-profil-wiceministra-mswia-i-cert-ostrzegaja-przed-wyludzeniami</link>
+<guid isPermaLink="true">https://zero.pl/news/przestepcy-przejeli-profil-wiceministra-mswia-i-cert-ostrzegaja-przed-wyludzeniami</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sun, 02 Aug 2026 14:34:00 +0200</pubDate>
+</item>
 <item>
 <title>Wstydliwe zdjęcie posła. Przyznał, że był „po spożyciu”</title>
 <link>https://zero.pl/news/wstydliwe-zdjecie-posla-przyznal-ze-byl-po-spozyciu</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Kasjan Owsianko</description>
 <pubDate>Wed, 29 Jul 2026 19:33:00 +0200</pubDate>
-</item>
-<item>
-<title>Samsung pokazał alternatywę dla Google. Internet zachwyca się nie tą funkcją</title>
-<link>https://zero.pl/news/samsung-pokazal-alternatywe-dla-google-internet-zachwyca-sie-nie-ta-funkcja</link>
-<guid isPermaLink="true">https://zero.pl/news/samsung-pokazal-alternatywe-dla-google-internet-zachwyca-sie-nie-ta-funkcja</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Wed, 29 Jul 2026 19:08:00 +0200</pubDate>
-</item>
-<item>
-<title>Zełenski przyleciał do Tuska. Wiadomo, o czym rozmawiali</title>
-<link>https://zero.pl/news/spotkanie-tusk-zelenski-w-lublinie-premier-o-szczegolach-rozmow</link>
-<guid isPermaLink="true">https://zero.pl/news/spotkanie-tusk-zelenski-w-lublinie-premier-o-szczegolach-rozmow</guid>
-<category>Świat</category>
-<description>Świat — Kasjan Owsianko</description>
-<pubDate>Wed, 29 Jul 2026 19:03:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
