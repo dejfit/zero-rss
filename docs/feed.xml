@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 02 Aug 2026 20:43:09 +0200</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 21:56:46 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Lewandowski się odblokował. Teraz zabrał głos po wygranej</title>
+<link>https://zero.pl/news/lewandowski-sie-odblokowal-teraz-zabral-glos-po-wygranej</link>
+<guid isPermaLink="true">https://zero.pl/news/lewandowski-sie-odblokowal-teraz-zabral-glos-po-wygranej</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sun, 02 Aug 2026 21:14:00 +0200</pubDate>
+</item>
 <item>
 <title>Bartłomiej Kubkowski przepłynął Bałtyk wpław. Pokonał 160 km w niecałe 55 godzin</title>
 <link>https://zero.pl/news/bartlomiej-kubkowski-przeplynal-baltyk-wplaw-pokonal-160-km-w-niecale-55-godzin</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Przemysław Staciwa</description>
 <pubDate>Thu, 30 Jul 2026 07:24:00 +0200</pubDate>
-</item>
-<item>
-<title>Zapaść demograficzna. Ekspert: Migranci nas nie uratują</title>
-<link>https://zero.pl/news/migracja-nie-rozwiaze-kryzysu-demograficznego-w-polsce-ekspert-wskazuje-jedyne-wyjscie</link>
-<guid isPermaLink="true">https://zero.pl/news/migracja-nie-rozwiaze-kryzysu-demograficznego-w-polsce-ekspert-wskazuje-jedyne-wyjscie</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Thu, 30 Jul 2026 06:52:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
