@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 02 Aug 2026 19:41:28 +0200</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 20:43:09 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Bartłomiej Kubkowski przepłynął Bałtyk wpław. Pokonał 160 km w niecałe 55 godzin</title>
+<link>https://zero.pl/news/bartlomiej-kubkowski-przeplynal-baltyk-wplaw-pokonal-160-km-w-niecale-55-godzin</link>
+<guid isPermaLink="true">https://zero.pl/news/bartlomiej-kubkowski-przeplynal-baltyk-wplaw-pokonal-160-km-w-niecale-55-godzin</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sun, 02 Aug 2026 20:33:00 +0200</pubDate>
+</item>
+<item>
+<title>Atak na rosyjski hub handlowy w obwodzie samarskim. Kijów niszczy zaplecze wroga</title>
+<link>https://zero.pl/news/atak-na-rosyjski-hub-handlowy-w-obwodzie-samarskim-kijow-niszczy-zaplecze-wroga</link>
+<guid isPermaLink="true">https://zero.pl/news/atak-na-rosyjski-hub-handlowy-w-obwodzie-samarskim-kijow-niszczy-zaplecze-wroga</guid>
+<category>Świat</category>
+<description>Świat — Kasjan Owsianko</description>
+<pubDate>Sun, 02 Aug 2026 20:06:00 +0200</pubDate>
+</item>
+<item>
+<title>Polityczna wojna powinna mieć swoje granice. Inaczej zagraża państwu</title>
+<link>https://zero.pl/news/polityczna-wojna-powinna-miec-swoje-granice-inaczej-zagraza-panstwu</link>
+<guid isPermaLink="true">https://zero.pl/news/polityczna-wojna-powinna-miec-swoje-granice-inaczej-zagraza-panstwu</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Czapla</description>
+<pubDate>Sun, 02 Aug 2026 19:55:00 +0200</pubDate>
+</item>
 <item>
 <title>Katastrofa śmigłowców gaśniczych w Grecji. Są ofiary śmiertelne</title>
 <link>https://zero.pl/news/katastrofa-smiglowcow-gasniczych-w-grecji-sa-ofiary-smiertelne</link>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Przemysław Staciwa</description>
 <pubDate>Thu, 30 Jul 2026 06:52:00 +0200</pubDate>
-</item>
-<item>
-<title>USA przeprowadziły zmasowany atak na Iran. Trump odpowiada Teheranowi</title>
-<link>https://zero.pl/news/usa-uderzyly-na-iran-zmasowane-naloty-na-cele-irgc-po-ataku-rakietowym-teheranu</link>
-<guid isPermaLink="true">https://zero.pl/news/usa-uderzyly-na-iran-zmasowane-naloty-na-cele-irgc-po-ataku-rakietowym-teheranu</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Thu, 30 Jul 2026 06:28:00 +0200</pubDate>
-</item>
-<item>
-<title>Koniec ery niezatapialnych prezydentów. Po Zabrzu i Krakowie czas na Warszawę?</title>
-<link>https://zero.pl/news/referenda-odwolawcze-w-polsce-koniec-ery-nietykalnych-prezydentow</link>
-<guid isPermaLink="true">https://zero.pl/news/referenda-odwolawcze-w-polsce-koniec-ery-nietykalnych-prezydentow</guid>
-<category>Kraj</category>
-<description>Kraj — Karol Wałachowski</description>
-<pubDate>Thu, 30 Jul 2026 05:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Miliony długu i podejrzenie zmowy. Prywatna spółka weszła na SOR w Lesku</title>
-<link>https://zero.pl/news/prywatyzacja-sor-u-w-lesku-podejrzenie-zmowy-i-zawiadomienie-do-prokuratury</link>
-<guid isPermaLink="true">https://zero.pl/news/prywatyzacja-sor-u-w-lesku-podejrzenie-zmowy-i-zawiadomienie-do-prokuratury</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura,Patryk Słowik,Jakub Styczyński</description>
-<pubDate>Thu, 30 Jul 2026 05:55:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
