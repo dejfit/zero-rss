@@ -5,8 +5,48 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 03 Aug 2026 10:15:18 +0200</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 13:46:07 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Kard. Dziwisz stawił się w krakowskim sądzie. Zeznawał w bulwersującej sprawie</title>
+<link>https://zero.pl/news/zeznania-kard-stanislawa-dziwisza-w-sadzie-proces-o-20-mln-zl-zadoscuczynienia</link>
+<guid isPermaLink="true">https://zero.pl/news/zeznania-kard-stanislawa-dziwisza-w-sadzie-proces-o-20-mln-zl-zadoscuczynienia</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 03 Aug 2026 12:55:00 +0200</pubDate>
+</item>
+<item>
+<title>Alert w Rossmannie. Wycofują popularne produkty spożywcze</title>
+<link>https://zero.pl/news/alert-w-rossmannie-wycofuja-popularne-produkty-spozywcze</link>
+<guid isPermaLink="true">https://zero.pl/news/alert-w-rossmannie-wycofuja-popularne-produkty-spozywcze</guid>
+<category>Kraj</category>
+<description>Kraj — Olga Karaban</description>
+<pubDate>Mon, 03 Aug 2026 12:42:00 +0200</pubDate>
+</item>
+<item>
+<title>Weszło nowe prawo unijne. Naprawisz nawet starą pralkę</title>
+<link>https://zero.pl/news/dzieki-unijnemu-prawu-do-naprawy-naprawisz-nawet-stary-odkurzacz</link>
+<guid isPermaLink="true">https://zero.pl/news/dzieki-unijnemu-prawu-do-naprawy-naprawisz-nawet-stary-odkurzacz</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Mon, 03 Aug 2026 12:03:00 +0200</pubDate>
+</item>
+<item>
+<title>Atak nożownika we Wrocławiu. Śledczy w szpitalu rozmawiali z ofiarą</title>
+<link>https://zero.pl/news/atak-nozownika-we-wroclawiu-18-latek-uslyszy-zarzuty-poszkodowana-kobieta-przesluchana</link>
+<guid isPermaLink="true">https://zero.pl/news/atak-nozownika-we-wroclawiu-18-latek-uslyszy-zarzuty-poszkodowana-kobieta-przesluchana</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 03 Aug 2026 10:49:00 +0200</pubDate>
+</item>
+<item>
+<title>Szturm w Ceucie. Poseł mówi o wykluczeniu Hiszpanii z Schengen</title>
+<link>https://zero.pl/news/pawel-jablonski-ceuta-hiszpania-szturm-migrantow-i-strefa-schengen</link>
+<guid isPermaLink="true">https://zero.pl/news/pawel-jablonski-ceuta-hiszpania-szturm-migrantow-i-strefa-schengen</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Mon, 03 Aug 2026 10:20:00 +0200</pubDate>
+</item>
 <item>
 <title>Wielka awaria w Żabkach, w sieci alarmujące wpisy. „Uważajcie”</title>
 <link>https://zero.pl/news/awaria-w-zabce-sklepy-w-calej-polsce-z-problemami-chodzi-o-naliczanie-rabatow</link>
@@ -1166,46 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Przemysław Staciwa</description>
 <pubDate>Thu, 30 Jul 2026 13:16:00 +0200</pubDate>
-</item>
-<item>
-<title>Polsce brakuje cyfrowych systemów ostrzegania o zagrożeniu. mObywatel nie jest najlepszym rozwiązaniem</title>
-<link>https://zero.pl/news/polsce-brakuje-cyfrowych-systemow-ostrzegania-mobywatel-malert-a-moze-cell-broadcast</link>
-<guid isPermaLink="true">https://zero.pl/news/polsce-brakuje-cyfrowych-systemow-ostrzegania-mobywatel-malert-a-moze-cell-broadcast</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Thu, 30 Jul 2026 13:00:00 +0200</pubDate>
-</item>
-<item>
-<title>„Nie ma powodu sądzić, że celem była Polska”. Tusk pojechał na miejsce upadku rakiety</title>
-<link>https://zero.pl/news/nie-ma-powodu-sadzic-ze-celem-byla-polska-tusk-pojechal-na-miejsce-upadku-rakiety</link>
-<guid isPermaLink="true">https://zero.pl/news/nie-ma-powodu-sadzic-ze-celem-byla-polska-tusk-pojechal-na-miejsce-upadku-rakiety</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Rodzik</description>
-<pubDate>Thu, 30 Jul 2026 12:26:00 +0200</pubDate>
-</item>
-<item>
-<title>Rakieta w Lubelskiem. Gen. Komornicki: Kompromitacja Wojska Polskiego</title>
-<link>https://zero.pl/news/gen-komornicki-po-upadku-rosyjskiej-rakiety-kompromitacja-wojska-polskiego-mowi-o-tescie-polskiej-obrony</link>
-<guid isPermaLink="true">https://zero.pl/news/gen-komornicki-po-upadku-rosyjskiej-rakiety-kompromitacja-wojska-polskiego-mowi-o-tescie-polskiej-obrony</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Thu, 30 Jul 2026 11:59:00 +0200</pubDate>
-</item>
-<item>
-<title>Tarnawa-Kolonia na mapie. To tutaj spadł pocisk</title>
-<link>https://zero.pl/news/tarnawa-kolonia-na-mapie-to-tutaj-spadl-pocisk</link>
-<guid isPermaLink="true">https://zero.pl/news/tarnawa-kolonia-na-mapie-to-tutaj-spadl-pocisk</guid>
-<category>Kraj</category>
-<description>Kraj — Bartosz Michalski</description>
-<pubDate>Thu, 30 Jul 2026 11:11:00 +0200</pubDate>
-</item>
-<item>
-<title>Nocne alarmy na Lubelszczyźnie, zagubieni mieszkańcy. „Informacje widziałem tylko na X”</title>
-<link>https://zero.pl/news/tarnawa-kolonia-rosyjski-pocisk-i-syreny-alarmowe-na-lubelszczyznie</link>
-<guid isPermaLink="true">https://zero.pl/news/tarnawa-kolonia-rosyjski-pocisk-i-syreny-alarmowe-na-lubelszczyznie</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Thu, 30 Jul 2026 10:59:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
