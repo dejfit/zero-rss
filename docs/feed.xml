@@ -5,8 +5,72 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 03 Aug 2026 13:46:07 +0200</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 16:03:23 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Polska skarży wyrok w sprawie szczepionek Pfizera. Wniosek o wstrzymanie wykonalności</title>
+<link>https://zero.pl/news/apelacja-mz-od-wyroku-w-sprawie-pfizera-polska-zaskarzyla-orzeczenie-brukselskiego-sadu</link>
+<guid isPermaLink="true">https://zero.pl/news/apelacja-mz-od-wyroku-w-sprawie-pfizera-polska-zaskarzyla-orzeczenie-brukselskiego-sadu</guid>
+<category>Biznes</category>
+<description>Biznes — Krzysztof Jabłonowski</description>
+<pubDate>Mon, 03 Aug 2026 15:40:00 +0200</pubDate>
+</item>
+<item>
+<title>Koniec plastikowych worków na bioodpady. Mieszkańcy dostaną darmowe zamienniki</title>
+<link>https://zero.pl/news/ekologia-koniec-plastikowych-workow-na-bioodpady-mieszkancy-dostana-darmowe-zamienniki</link>
+<guid isPermaLink="true">https://zero.pl/news/ekologia-koniec-plastikowych-workow-na-bioodpady-mieszkancy-dostana-darmowe-zamienniki</guid>
+<category>Kraj</category>
+<description>Kraj — Olga Karaban</description>
+<pubDate>Mon, 03 Aug 2026 15:35:00 +0200</pubDate>
+</item>
+<item>
+<title>Treści generowane przez AI muszą być oznaczone. Przepisy zawierają szereg wyjątków</title>
+<link>https://zero.pl/news/tresci-generowane-przez-ai-musza-byc-oznaczone-przepisy-zawieraja-szereg-wyjatkow</link>
+<guid isPermaLink="true">https://zero.pl/news/tresci-generowane-przez-ai-musza-byc-oznaczone-przepisy-zawieraja-szereg-wyjatkow</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Mon, 03 Aug 2026 15:32:00 +0200</pubDate>
+</item>
+<item>
+<title>Ramówka Zero TV na poniedziałek 4 sierpnia. Wyjątkowy gość „Godziny Zero”</title>
+<link>https://zero.pl/news/ramowka-zero-tv-na-poniedzialek-4-sierpnia</link>
+<guid isPermaLink="true">https://zero.pl/news/ramowka-zero-tv-na-poniedzialek-4-sierpnia</guid>
+<category>Program TV</category>
+<description>Program TV — Redakcja Zero.pl</description>
+<pubDate>Mon, 03 Aug 2026 15:28:00 +0200</pubDate>
+</item>
+<item>
+<title>Odcięci od wody: czy my myjemy się w rzece? Tak wygląda susza w Polsce</title>
+<link>https://zero.pl/news/susza-2026-zakaz-poboru-wody-w-625-gminach-mapa-i-skala-problemu</link>
+<guid isPermaLink="true">https://zero.pl/news/susza-2026-zakaz-poboru-wody-w-625-gminach-mapa-i-skala-problemu</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Mon, 03 Aug 2026 15:03:00 +0200</pubDate>
+</item>
+<item>
+<title>Wojewoda lubelski: Syreny alarmowe nie zawyły w 10 powiatach</title>
+<link>https://zero.pl/news/syreny-alarmowe-na-lubelszczyznie-nie-zawyly-wojewoda-wyjasnia</link>
+<guid isPermaLink="true">https://zero.pl/news/syreny-alarmowe-na-lubelszczyznie-nie-zawyly-wojewoda-wyjasnia</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Mon, 03 Aug 2026 14:51:00 +0200</pubDate>
+</item>
+<item>
+<title>To tu „język ciepła” uderzy najmocniej. Odczuwalna temperatura powyżej 40 st.</title>
+<link>https://zero.pl/news/nowa-prognoza-pogody-w-srode-kulminacja-upalow-do-38-st-potem-ochlodzenie-prognozy-do-polowy-sierpnia</link>
+<guid isPermaLink="true">https://zero.pl/news/nowa-prognoza-pogody-w-srode-kulminacja-upalow-do-38-st-potem-ochlodzenie-prognozy-do-polowy-sierpnia</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 03 Aug 2026 14:27:00 +0200</pubDate>
+</item>
+<item>
+<title>Apple będzie mieć problem z dostępnością sprzętu. Brakuje podzespołów</title>
+<link>https://zero.pl/news/apple-bedzie-miec-problem-z-dostepnoscia-sprzetu-brakuje-podzespolow</link>
+<guid isPermaLink="true">https://zero.pl/news/apple-bedzie-miec-problem-z-dostepnoscia-sprzetu-brakuje-podzespolow</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Mon, 03 Aug 2026 14:03:00 +0200</pubDate>
+</item>
 <item>
 <title>Kard. Dziwisz stawił się w krakowskim sądzie. Zeznawał w bulwersującej sprawie</title>
 <link>https://zero.pl/news/zeznania-kard-stanislawa-dziwisza-w-sadzie-proces-o-20-mln-zl-zadoscuczynienia</link>
@@ -1142,70 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Thu, 30 Jul 2026 16:31:00 +0200</pubDate>
-</item>
-<item>
-<title>Nie żyje Iga Cembrzyńska. Artystka miała 87 lat</title>
-<link>https://zero.pl/news/nie-zyje-iga-cembrzynska-artystka-miala-87-lat</link>
-<guid isPermaLink="true">https://zero.pl/news/nie-zyje-iga-cembrzynska-artystka-miala-87-lat</guid>
-<category>Kultura</category>
-<description>Kultura — Kamil Szałecki</description>
-<pubDate>Thu, 30 Jul 2026 15:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Zakaz komórek w szkołach. Prezydent podjął ostateczną decyzję</title>
-<link>https://zero.pl/news/nawrocki-podpisal-ustawy-mobbing-w-kodeksie-pracy-i-zakaz-telefonow-w-szkolach-2026</link>
-<guid isPermaLink="true">https://zero.pl/news/nawrocki-podpisal-ustawy-mobbing-w-kodeksie-pracy-i-zakaz-telefonow-w-szkolach-2026</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Thu, 30 Jul 2026 15:11:00 +0200</pubDate>
-</item>
-<item>
-<title>Nowe informacje o rosyjskiej rakiecie. „Materiał wybuchowy w znacznej ilości”</title>
-<link>https://zero.pl/news/tarnawa-kolonia-nowe-informacje-o-rosyjskiej-rakiecie-komunikat-prokuratury</link>
-<guid isPermaLink="true">https://zero.pl/news/tarnawa-kolonia-nowe-informacje-o-rosyjskiej-rakiecie-komunikat-prokuratury</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Thu, 30 Jul 2026 14:38:00 +0200</pubDate>
-</item>
-<item>
-<title>Tam kierowcy najczęściej przekraczają prędkość. Są najnowsze statystyki</title>
-<link>https://zero.pl/news/gdzie-fotoradary-zarejestrowaly-najwiecej-wykroczen-krzyszkowice-liderem</link>
-<guid isPermaLink="true">https://zero.pl/news/gdzie-fotoradary-zarejestrowaly-najwiecej-wykroczen-krzyszkowice-liderem</guid>
-<category>Moto</category>
-<description>Moto — Bartosz Michalski</description>
-<pubDate>Thu, 30 Jul 2026 14:33:00 +0200</pubDate>
-</item>
-<item>
-<title>Rosyjski pocisk spadł w Polsce. Reaguje NATO</title>
-<link>https://zero.pl/news/taranawa-kolonia-spadl-rosyjski-pocisk-nato-wydalo-komunikat</link>
-<guid isPermaLink="true">https://zero.pl/news/taranawa-kolonia-spadl-rosyjski-pocisk-nato-wydalo-komunikat</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Thu, 30 Jul 2026 14:16:00 +0200</pubDate>
-</item>
-<item>
-<title>Rosyjski pocisk spadł w Polsce. Reaguje NATO</title>
-<link>https://zero.pl/news/tarnawa-kolonia-spadl-rosyjski-pocisk-nato-wydalo-komunikat</link>
-<guid isPermaLink="true">https://zero.pl/news/tarnawa-kolonia-spadl-rosyjski-pocisk-nato-wydalo-komunikat</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Thu, 30 Jul 2026 14:16:00 +0200</pubDate>
-</item>
-<item>
-<title>Pytania o bezpieczeństwo powietrzne Polski. „Trochę żeśmy zaspali”</title>
-<link>https://zero.pl/news/tarnawa-kolonia-i-rosyjski-pocisk-drewniak-nie-mozna-mowic-o-zaniedbaniach-procedur</link>
-<guid isPermaLink="true">https://zero.pl/news/tarnawa-kolonia-i-rosyjski-pocisk-drewniak-nie-mozna-mowic-o-zaniedbaniach-procedur</guid>
-<category>Wojsko</category>
-<description>Wojsko — Krzysztof Jabłonowski</description>
-<pubDate>Thu, 30 Jul 2026 13:37:00 +0200</pubDate>
-</item>
-<item>
-<title>Ukraina chce pomóc Polsce po incydencie w Tarnawie-Kolonii. Prokuratura rozważa wniosek</title>
-<link>https://zero.pl/news/rosyjski-pocisk-w-lubelskiem-ukraina-zaoferowala-pomoc-przy-ogledzinach-w-tarnawie-kolonii</link>
-<guid isPermaLink="true">https://zero.pl/news/rosyjski-pocisk-w-lubelskiem-ukraina-zaoferowala-pomoc-przy-ogledzinach-w-tarnawie-kolonii</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Thu, 30 Jul 2026 13:16:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
