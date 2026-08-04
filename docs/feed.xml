@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 04 Aug 2026 21:09:19 +0200</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 22:40:38 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Pozorne zawieszenie broni. W Gazie co 80 minut ktoś ginie lub zostaje ranny</title>
+<link>https://zero.pl/news/strefa-gazy-lekarze-bez-granic-ujawniaja-przerazajace-dane</link>
+<guid isPermaLink="true">https://zero.pl/news/strefa-gazy-lekarze-bez-granic-ujawniaja-przerazajace-dane</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Tue, 04 Aug 2026 21:56:00 +0200</pubDate>
+</item>
+<item>
+<title>„Warszawa to dziś zbiorowisko gett”. Wywiad z uczestnikiem Powstania Warszawskiego</title>
+<link>https://zero.pl/news/powstanie-warszawskie-jerzy-zawadzki-ps-maly-opowiada-o-walce-o-stolice</link>
+<guid isPermaLink="true">https://zero.pl/news/powstanie-warszawskie-jerzy-zawadzki-ps-maly-opowiada-o-walce-o-stolice</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Tue, 04 Aug 2026 21:41:00 +0200</pubDate>
+</item>
+<item>
+<title>Oczyszczanie krwi z mikroplastiku i toksyn. Obiecujące badania niemieckich naukowców</title>
+<link>https://zero.pl/news/mikroplastik-i-toksyny-we-krwi-afereza-metoda-oczyszczania</link>
+<guid isPermaLink="true">https://zero.pl/news/mikroplastik-i-toksyny-we-krwi-afereza-metoda-oczyszczania</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Tomasz Pałasz</description>
+<pubDate>Tue, 04 Aug 2026 21:13:00 +0200</pubDate>
+</item>
 <item>
 <title>Udany powrót Igi Świątek na kort. Pewna wygrana po miesięcznej przerwie</title>
 <link>https://zero.pl/news/wta-toronto-iga-swiatek-wrocila-wygrana-po-miesiacu-przerwy</link>
@@ -1182,30 +1206,6 @@
 <category>Program TV</category>
 <description>Program TV — Kamil Szałecki</description>
 <pubDate>Fri, 31 Jul 2026 21:07:00 +0200</pubDate>
-</item>
-<item>
-<title>Ukraina będzie produkować Patrioty? Trump o „dużym kroku”</title>
-<link>https://zero.pl/news/ukraina-bedzie-produkowac-patrioty-trump-komentuje</link>
-<guid isPermaLink="true">https://zero.pl/news/ukraina-bedzie-produkowac-patrioty-trump-komentuje</guid>
-<category>Świat</category>
-<description>Świat — Kamil Szałecki</description>
-<pubDate>Fri, 31 Jul 2026 21:06:00 +0200</pubDate>
-</item>
-<item>
-<title>Ostatni żyjący żołnierz „Zośki”: odrodzona Warszawa to nasz triumf</title>
-<link>https://zero.pl/news/odrodzona-warszawa-ostatni-zolnierz-zoski-to-triumf-powstania</link>
-<guid isPermaLink="true">https://zero.pl/news/odrodzona-warszawa-ostatni-zolnierz-zoski-to-triumf-powstania</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Fri, 31 Jul 2026 20:28:00 +0200</pubDate>
-</item>
-<item>
-<title>Awans o 16 miejsc. Zero.pl najbardziej opiniotwórczym medium w Polsce</title>
-<link>https://zero.pl/news/ranking-mediow-zero-pl-najbardziej-opiniotworczym-medium-w-polsce</link>
-<guid isPermaLink="true">https://zero.pl/news/ranking-mediow-zero-pl-najbardziej-opiniotworczym-medium-w-polsce</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Fri, 31 Jul 2026 20:12:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
