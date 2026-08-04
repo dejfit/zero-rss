@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 04 Aug 2026 03:04:07 +0200</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 06:23:26 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Zbierali na walkę z rasizmem. Prokuratura bada przelewy fundacji na konta prywatnej firmy</title>
+<link>https://zero.pl/news/kasa-z-omzrik-na-norweska-firme-gawla-znamy-szczegoly-zarzutow-wobec-prezesa-fundacji-walczacej-z-rasizmem</link>
+<guid isPermaLink="true">https://zero.pl/news/kasa-z-omzrik-na-norweska-firme-gawla-znamy-szczegoly-zarzutow-wobec-prezesa-fundacji-walczacej-z-rasizmem</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Figurski</description>
+<pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
+</item>
+<item>
+<title>80 km/h na hulajnodze elektrycznej? Da się szybciej. Prawo nie nadąża za producentami</title>
+<link>https://zero.pl/news/hulajnoga-elektryczna-moze-poleciec-i-100-km-h-prawo-nie-nadaza-za-modyfikacjami</link>
+<guid isPermaLink="true">https://zero.pl/news/hulajnoga-elektryczna-moze-poleciec-i-100-km-h-prawo-nie-nadaza-za-modyfikacjami</guid>
+<category>Moto</category>
+<description>Moto — Tymon Grabowski</description>
+<pubDate>Tue, 04 Aug 2026 05:59:00 +0200</pubDate>
+</item>
 <item>
 <title>„Głupiutka, wystraszona”. Burza po słowach Woydyłło o Świątek</title>
 <link>https://zero.pl/news/fala-komentarzy-po-slowach-psycholozki-ewy-woydyllo-o-idze-swiatek</link>
@@ -1190,22 +1206,6 @@
 <category>Nauka</category>
 <description>Nauka — Piotr Białczyk</description>
 <pubDate>Fri, 31 Jul 2026 07:49:00 +0200</pubDate>
-</item>
-<item>
-<title>Ukraińskie drony uderzyły w magazyn Wildberries. Wybuchł pożar</title>
-<link>https://zero.pl/news/rosja-po-ataku-ukrainskich-dronow-zapalil-sie-magazyn-wildberries</link>
-<guid isPermaLink="true">https://zero.pl/news/rosja-po-ataku-ukrainskich-dronow-zapalil-sie-magazyn-wildberries</guid>
-<category>Świat</category>
-<description>Świat — Piotr Białczyk</description>
-<pubDate>Fri, 31 Jul 2026 07:28:00 +0200</pubDate>
-</item>
-<item>
-<title>Coraz więcej stulatków pobiera świadczenie honorowe. ZUS podał nowe dane</title>
-<link>https://zero.pl/news/zus-rosnie-liczba-stulatkow-pobierajacych-swiadczenie-honorowe-jest-ponad-42-tys-osob</link>
-<guid isPermaLink="true">https://zero.pl/news/zus-rosnie-liczba-stulatkow-pobierajacych-swiadczenie-honorowe-jest-ponad-42-tys-osob</guid>
-<category>Biznes</category>
-<description>Biznes — Piotr Białczyk</description>
-<pubDate>Fri, 31 Jul 2026 07:10:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
