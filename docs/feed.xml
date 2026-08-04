@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 04 Aug 2026 13:50:25 +0200</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 15:27:56 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Kaczyński o Morawieckim. „Jest w jakimś dziwnym stanie”</title>
+<link>https://zero.pl/news/jaroslaw-kaczynski-o-mateuszu-morawieckim-mocny-wpis-lidera-prawa-i-sprawiedliwosci</link>
+<guid isPermaLink="true">https://zero.pl/news/jaroslaw-kaczynski-o-mateuszu-morawieckim-mocny-wpis-lidera-prawa-i-sprawiedliwosci</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Tue, 04 Aug 2026 15:04:00 +0200</pubDate>
+</item>
+<item>
+<title>Windows jak Apple. Jedna z najlepszych funkcji wkrótce dostępna</title>
+<link>https://zero.pl/news/jedna-z-najlepszych-funkcji-urzadzen-apple-trafi-do-windowsa</link>
+<guid isPermaLink="true">https://zero.pl/news/jedna-z-najlepszych-funkcji-urzadzen-apple-trafi-do-windowsa</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Tue, 04 Aug 2026 14:50:00 +0200</pubDate>
+</item>
+<item>
+<title>Kolejny rosyjski samolot przechwycony. Szef MON: Działania o charakterze prowokacyjnym</title>
+<link>https://zero.pl/news/rosja-wladyslaw-kosiniak-kamysz-o-przechwyceniu-samolotu-il-20m</link>
+<guid isPermaLink="true">https://zero.pl/news/rosja-wladyslaw-kosiniak-kamysz-o-przechwyceniu-samolotu-il-20m</guid>
+<category>Wojsko</category>
+<description>Wojsko — Tomasz Pałasz</description>
+<pubDate>Tue, 04 Aug 2026 14:34:00 +0200</pubDate>
+</item>
+<item>
+<title>„Polowanie” na cywila w Chersoniu. W sieci pojawiło się drastyczne nagranie</title>
+<link>https://zero.pl/news/cherson-rosyjski-dron-zaatakowal-handlarza-na-targu-nagranie-ukrainskiej-policji</link>
+<guid isPermaLink="true">https://zero.pl/news/cherson-rosyjski-dron-zaatakowal-handlarza-na-targu-nagranie-ukrainskiej-policji</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Tue, 04 Aug 2026 14:00:00 +0200</pubDate>
+</item>
 <item>
 <title>11-latek na hulajnodze zginął pod kołami kombajnu. Nowe ustalenia śledczych</title>
 <link>https://zero.pl/news/smierc-11-latka-w-sypieniu-prokuratura-kierowca-kombajnu-ponosi-wine</link>
@@ -1174,38 +1206,6 @@
 <category>Moto</category>
 <description>Moto — Piotr Rodzik</description>
 <pubDate>Fri, 31 Jul 2026 13:52:00 +0200</pubDate>
-</item>
-<item>
-<title>Ciężarówki postoją w weekend. Kiedy ruszyć na urlop, by nie było tirów?</title>
-<link>https://zero.pl/news/weekendowe-zakazy-dla-ciezarowek-letnicy-odetchna-truckerzy-rozplyna-sie-z-goraca</link>
-<guid isPermaLink="true">https://zero.pl/news/weekendowe-zakazy-dla-ciezarowek-letnicy-odetchna-truckerzy-rozplyna-sie-z-goraca</guid>
-<category>Moto</category>
-<description>Moto — Tymon Grabowski</description>
-<pubDate>Fri, 31 Jul 2026 13:32:00 +0200</pubDate>
-</item>
-<item>
-<title>Czy poseł KO straci immunitet? Sejm zdecydował</title>
-<link>https://zero.pl/news/wojciech-krol-glosowanie-w-sprawie-immunitetu</link>
-<guid isPermaLink="true">https://zero.pl/news/wojciech-krol-glosowanie-w-sprawie-immunitetu</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Fri, 31 Jul 2026 12:38:00 +0200</pubDate>
-</item>
-<item>
-<title>Tysiące migrantów przedostały się do Ceuty. Madryt wysyła wojsko</title>
-<link>https://zero.pl/news/hiszpania-okolo-49-tys-migrantow-przekroczylo-granice-w-ceucie-w-ciagu-doby</link>
-<guid isPermaLink="true">https://zero.pl/news/hiszpania-okolo-49-tys-migrantow-przekroczylo-granice-w-ceucie-w-ciagu-doby</guid>
-<category>Świat</category>
-<description>Świat — Piotr Białczyk</description>
-<pubDate>Fri, 31 Jul 2026 12:14:00 +0200</pubDate>
-</item>
-<item>
-<title>Od wiz do kiełbasy. Nowe życie Piotra Wawrzyka</title>
-<link>https://zero.pl/news/od-afery-wizowej-do-recenzji-kaszanki-nowe-zycie-piotra-wawrzyka</link>
-<guid isPermaLink="true">https://zero.pl/news/od-afery-wizowej-do-recenzji-kaszanki-nowe-zycie-piotra-wawrzyka</guid>
-<category>Kraj</category>
-<description>Kraj — Jan Wróbel</description>
-<pubDate>Fri, 31 Jul 2026 12:09:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
