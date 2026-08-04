@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 04 Aug 2026 17:54:47 +0200</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 19:30:06 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Co jest gorsze: jazda na skraju snu czy po alkoholu? Spróbowałem obydwu</title>
+<link>https://zero.pl/news/jezdzilem-pijany-w-kontrolowanych-warunkach-i-jezdzilem-na-skraju-snu-co-jest-gorsze</link>
+<guid isPermaLink="true">https://zero.pl/news/jezdzilem-pijany-w-kontrolowanych-warunkach-i-jezdzilem-na-skraju-snu-co-jest-gorsze</guid>
+<category>Moto</category>
+<description>Moto — Tymon Grabowski</description>
+<pubDate>Tue, 04 Aug 2026 19:15:00 +0200</pubDate>
+</item>
+<item>
+<title>Polski wolontariusz zginął w Ukrainie. Zabił go rosyjski dron</title>
+<link>https://zero.pl/news/polski-wolontariusz-zginal-w-ukrainie-jest-komunikat-msz</link>
+<guid isPermaLink="true">https://zero.pl/news/polski-wolontariusz-zginal-w-ukrainie-jest-komunikat-msz</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Tue, 04 Aug 2026 19:05:00 +0200</pubDate>
+</item>
+<item>
+<title>„Zaczęli przygotowywać się do mobilizacji”. Co planuje Putin?</title>
+<link>https://zero.pl/news/wojna-w-ukrainie-jakie-plany-ma-putin-zaczeli-przygotowywac-sie-do-mobilizacji</link>
+<guid isPermaLink="true">https://zero.pl/news/wojna-w-ukrainie-jakie-plany-ma-putin-zaczeli-przygotowywac-sie-do-mobilizacji</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Tue, 04 Aug 2026 18:35:00 +0200</pubDate>
+</item>
+<item>
+<title>Microsoft pracuje na emulatorami starszych konsol. To będzie hit lub wizerunkowa porażka</title>
+<link>https://zero.pl/news/microsoft-pracuje-na-emulatorami-starszych-konsol-to-bedzie-hit-lub-wizerunkowa-porazka</link>
+<guid isPermaLink="true">https://zero.pl/news/microsoft-pracuje-na-emulatorami-starszych-konsol-to-bedzie-hit-lub-wizerunkowa-porazka</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Tue, 04 Aug 2026 18:26:00 +0200</pubDate>
+</item>
 <item>
 <title>To nie będzie ostatnia fala upałów? „Lato jest w tym roku bardzo dynamiczne”</title>
 <link>https://zero.pl/news/prognoza-pogody-to-nie-bedzie-ostatnia-fala-upalow</link>
@@ -1174,38 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Tomasz Pałasz</description>
 <pubDate>Fri, 31 Jul 2026 18:20:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na sobotę 1 sierpnia. Obchody rocznicy wybuchu Powstania Warszawskiego</title>
-<link>https://zero.pl/news/program-tv-zero-01-08-co-dzis-mozna-obejrzec-obchody-rocznicy-wybuchu-powstania-warszawskiego</link>
-<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-01-08-co-dzis-mozna-obejrzec-obchody-rocznicy-wybuchu-powstania-warszawskiego</guid>
-<category>Program TV</category>
-<description>Program TV — Kamil Szałecki</description>
-<pubDate>Fri, 31 Jul 2026 17:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Do Polski wlał się niebezpieczny żar. Wiadomo, ile dni potrwają upały</title>
-<link>https://zero.pl/news/nowa-prognoza-pogody-upaly-do-39-st-c-i-gwaltowne-burze-ekstremalna-aura-do-9-sierpnia</link>
-<guid isPermaLink="true">https://zero.pl/news/nowa-prognoza-pogody-upaly-do-39-st-c-i-gwaltowne-burze-ekstremalna-aura-do-9-sierpnia</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Fri, 31 Jul 2026 17:23:00 +0200</pubDate>
-</item>
-<item>
-<title>,,Jeden Kanał Zero to dziś za mało”. Stanowski zaprasza na debatę i rocznicę powstania</title>
-<link>https://zero.pl/news/stanowski-zaprasza-na-debate-i-rocznice-powstania-warszawskiego</link>
-<guid isPermaLink="true">https://zero.pl/news/stanowski-zaprasza-na-debate-i-rocznice-powstania-warszawskiego</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Fri, 31 Jul 2026 17:13:00 +0200</pubDate>
-</item>
-<item>
-<title>Józefaciuk na grillu Morawieckiego. „Dobrze wiedzieć, co dzieje się dookoła”</title>
-<link>https://zero.pl/news/marcin-jozefciuk-na-grillu-rozwoj-plus-czy-dolaczy-do-klubu-mateusza-morawieckiego</link>
-<guid isPermaLink="true">https://zero.pl/news/marcin-jozefciuk-na-grillu-rozwoj-plus-czy-dolaczy-do-klubu-mateusza-morawieckiego</guid>
-<category>Kraj</category>
-<description>Kraj — Bartosz Michalski</description>
-<pubDate>Fri, 31 Jul 2026 16:32:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
