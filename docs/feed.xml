@@ -5,14 +5,38 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 05 Aug 2026 21:16:34 +0200</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 22:40:36 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Szef FBI zaskakuje ryzykownym ruchem. Patel odwiedzi Pekin i Moskwę</title>
+<link>https://zero.pl/news/szef-fbi-kash-patel-nawiazuje-wspolprace-z-chinami-i-rosja-jest-zapowiedz-fizyty</link>
+<guid isPermaLink="true">https://zero.pl/news/szef-fbi-kash-patel-nawiazuje-wspolprace-z-chinami-i-rosja-jest-zapowiedz-fizyty</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Wed, 05 Aug 2026 21:52:00 +0200</pubDate>
+</item>
+<item>
+<title>Kłopoty rosyjskiej zbrojeniówki. Zamach na twórcę fabryki dronów</title>
+<link>https://zero.pl/news/zamach-w-rosji-wladimir-tkaczuk-ranny-w-wybuchu</link>
+<guid isPermaLink="true">https://zero.pl/news/zamach-w-rosji-wladimir-tkaczuk-ranny-w-wybuchu</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Wed, 05 Aug 2026 21:28:00 +0200</pubDate>
+</item>
+<item>
+<title>PiS bez subwencji. Wójcik: Jesteśmy okradani</title>
+<link>https://zero.pl/news/wyrok-ws-subwencji-pis-wojcik-jeden-wielki-skandal-i-jawne-grabieze</link>
+<guid isPermaLink="true">https://zero.pl/news/wyrok-ws-subwencji-pis-wojcik-jeden-wielki-skandal-i-jawne-grabieze</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Wed, 05 Aug 2026 21:10:00 +0200</pubDate>
+</item>
 <item>
 <title>Zbyt dużo książek to nie wina pisarzy. To nie oni zepsuli rynek</title>
 <link>https://zero.pl/news/krzysztof-varga-zniecheca-pisarzy-do-tworzenia-kto-odpowiada-za-patologie-rynku-ksiazki</link>
 <guid isPermaLink="true">https://zero.pl/news/krzysztof-varga-zniecheca-pisarzy-do-tworzenia-kto-odpowiada-za-patologie-rynku-ksiazki</guid>
 <category>Kultura</category>
-<description>Kultura — Radosław Wojtas</description>
+<description>Kultura — Dagmara Leszkowicz-Zaluska</description>
 <pubDate>Wed, 05 Aug 2026 20:59:00 +0200</pubDate>
 </item>
 <item>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Olga Karaban</description>
 <pubDate>Sun, 02 Aug 2026 11:36:00 +0200</pubDate>
-</item>
-<item>
-<title>Na wakacje przez Austrię lub Niemcy? Za zjazd z autostrady można dostać srogi mandat</title>
-<link>https://zero.pl/news/na-wakacje-przez-austrie-lub-niemcy-za-zjazd-z-autostrady-mozna-dostac-srogi-mandat</link>
-<guid isPermaLink="true">https://zero.pl/news/na-wakacje-przez-austrie-lub-niemcy-za-zjazd-z-autostrady-mozna-dostac-srogi-mandat</guid>
-<category>Moto</category>
-<description>Moto — Olga Karaban</description>
-<pubDate>Sun, 02 Aug 2026 10:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Nieudolny alert RCB i równie nieudolne wyrzucanie Morawieckiego. Ale mogło być gorzej [OPINIA]</title>
-<link>https://zero.pl/news/moglo-byc-gorzej-alert-rcb-grill-morawieckiego-i-stereotypy-lewicy</link>
-<guid isPermaLink="true">https://zero.pl/news/moglo-byc-gorzej-alert-rcb-grill-morawieckiego-i-stereotypy-lewicy</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Sun, 02 Aug 2026 10:06:00 +0200</pubDate>
-</item>
-<item>
-<title>Pogodowy rollercoaster. Chwila oddechu a potem nagłe uderzenie żaru</title>
-<link>https://zero.pl/news/pogodowy-rollercoaster-chwila-oddechu-a-potem-nagle-uderzenie-zaru</link>
-<guid isPermaLink="true">https://zero.pl/news/pogodowy-rollercoaster-chwila-oddechu-a-potem-nagle-uderzenie-zaru</guid>
-<category>Kraj</category>
-<description>Kraj — Olga Karaban</description>
-<pubDate>Sun, 02 Aug 2026 09:47:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
