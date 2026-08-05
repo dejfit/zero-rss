@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 05 Aug 2026 19:55:22 +0200</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 21:16:34 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Zbyt dużo książek to nie wina pisarzy. To nie oni zepsuli rynek</title>
+<link>https://zero.pl/news/krzysztof-varga-zniecheca-pisarzy-do-tworzenia-kto-odpowiada-za-patologie-rynku-ksiazki</link>
+<guid isPermaLink="true">https://zero.pl/news/krzysztof-varga-zniecheca-pisarzy-do-tworzenia-kto-odpowiada-za-patologie-rynku-ksiazki</guid>
+<category>Kultura</category>
+<description>Kultura — Radosław Wojtas</description>
+<pubDate>Wed, 05 Aug 2026 20:59:00 +0200</pubDate>
+</item>
+<item>
+<title>Polska rozmawia z Ukrainą. Są nowe ustalenia ws. poszukiwań i ekshumacji</title>
+<link>https://zero.pl/news/rzez-wolynska-i-ekshumacje-wyniki-polsko-ukrainskiego-spotkania-we-lwowie</link>
+<guid isPermaLink="true">https://zero.pl/news/rzez-wolynska-i-ekshumacje-wyniki-polsko-ukrainskiego-spotkania-we-lwowie</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Wed, 05 Aug 2026 20:30:00 +0200</pubDate>
+</item>
+<item>
+<title>Kasparow ostro o Putinie: wróg każdego normalnego, wolnego człowieka</title>
+<link>https://zero.pl/news/godzina-zero-garri-kasparow-w-rozmowie-z-arleta-bojke-o-rosji-putinie-i-wojnie</link>
+<guid isPermaLink="true">https://zero.pl/news/godzina-zero-garri-kasparow-w-rozmowie-z-arleta-bojke-o-rosji-putinie-i-wojnie</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Wed, 05 Aug 2026 20:06:00 +0200</pubDate>
+</item>
 <item>
 <title>Prawo i Sprawiedliwość bez dotacji i subwencji. NSA podjął ostateczną decyzję</title>
 <link>https://zero.pl/news/wyrok-nsa-ws-subwencji-pis-kasacja-oddalona-brak-wyplaty-dotacji</link>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Olga Karaban</description>
 <pubDate>Sun, 02 Aug 2026 09:47:00 +0200</pubDate>
-</item>
-<item>
-<title>Susza i upały uderzyły w polskie sady. GUS alarmuje</title>
-<link>https://zero.pl/news/susza-i-upaly-uderzyly-w-polskie-sady-gus-alarmuje</link>
-<guid isPermaLink="true">https://zero.pl/news/susza-i-upaly-uderzyly-w-polskie-sady-gus-alarmuje</guid>
-<category>Biznes</category>
-<description>Biznes — Olga Karaban</description>
-<pubDate>Sun, 02 Aug 2026 09:14:00 +0200</pubDate>
-</item>
-<item>
-<title>Polska maszyna do goli odpalona. Lewy w końcu strzela w USA</title>
-<link>https://zero.pl/news/polska-maszyna-do-goli-odpalona-lewy-w-koncu-strzela-w-usa</link>
-<guid isPermaLink="true">https://zero.pl/news/polska-maszyna-do-goli-odpalona-lewy-w-koncu-strzela-w-usa</guid>
-<category>Świat</category>
-<description>Świat — Olga Karaban</description>
-<pubDate>Sun, 02 Aug 2026 08:12:00 +0200</pubDate>
-</item>
-<item>
-<title>Wstrząsające nagranie obiegło sieć. Pasażerka uderzyła kierowcę z Ukrainy</title>
-<link>https://zero.pl/news/wstrzasajace-nagranie-obieglo-siec-pasazerka-uderzyla-kierowce-z-ukrainy</link>
-<guid isPermaLink="true">https://zero.pl/news/wstrzasajace-nagranie-obieglo-siec-pasazerka-uderzyla-kierowce-z-ukrainy</guid>
-<category>Kraj</category>
-<description>Kraj — Olga Karaban</description>
-<pubDate>Sun, 02 Aug 2026 07:55:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
