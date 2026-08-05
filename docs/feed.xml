@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 05 Aug 2026 03:50:15 +0200</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 06:49:50 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Tragiczny bilans szturmu migrantów na Ceutę. Służby podały liczbę zmarłych</title>
+<link>https://zero.pl/news/tragiczny-bilans-szturmu-migrantow-na-ceute-sluzby-podaly-liczbe-zmarlych</link>
+<guid isPermaLink="true">https://zero.pl/news/tragiczny-bilans-szturmu-migrantow-na-ceute-sluzby-podaly-liczbe-zmarlych</guid>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
+<pubDate>Wed, 05 Aug 2026 06:38:00 +0200</pubDate>
+</item>
+<item>
+<title>„Jesteś mój chłop!”. Co w serialu „1670” jest prawdą, a co fikcją?</title>
+<link>https://zero.pl/news/premiera-3-sezonu-1670-serial-a-prawda-historyczna-historyczka-ocenia-relacje-szlachty-i-chlopow</link>
+<guid isPermaLink="true">https://zero.pl/news/premiera-3-sezonu-1670-serial-a-prawda-historyczna-historyczka-ocenia-relacje-szlachty-i-chlopow</guid>
+<category>Kultura</category>
+<description>Kultura — Agnieszka Waś-Turecka</description>
+<pubDate>Wed, 05 Aug 2026 06:18:00 +0200</pubDate>
+</item>
+<item>
+<title>Ceuta. Mała hiszpańska enklawa, wielki europejski kryzys migracyjny</title>
+<link>https://zero.pl/news/ceuta-mala-hiszpanska-enklawa-wielki-europejski-kryzys-migracyjny</link>
+<guid isPermaLink="true">https://zero.pl/news/ceuta-mala-hiszpanska-enklawa-wielki-europejski-kryzys-migracyjny</guid>
+<category>Świat</category>
+<description>Świat — Marcin Darmas</description>
+<pubDate>Wed, 05 Aug 2026 06:17:00 +0200</pubDate>
+</item>
 <item>
 <title>Pozorne zawieszenie broni. W Gazie co 80 minut ktoś ginie lub zostaje ranny</title>
 <link>https://zero.pl/news/strefa-gazy-lekarze-bez-granic-ujawniaja-przerazajace-dane</link>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Andrzej Matowski</description>
 <pubDate>Sat, 01 Aug 2026 06:02:00 +0200</pubDate>
-</item>
-<item>
-<title>Skarby z Powstania. Pokazało je Archiwum Akt Nowych</title>
-<link>https://zero.pl/news/rocznica-powstania-warszawskiego-skarby-z-powstania-pokazalo-je-archiwum-akt-nowych</link>
-<guid isPermaLink="true">https://zero.pl/news/rocznica-powstania-warszawskiego-skarby-z-powstania-pokazalo-je-archiwum-akt-nowych</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Fri, 31 Jul 2026 21:39:00 +0200</pubDate>
-</item>
-<item>
-<title>Nie tylko wypadek na Trasie Łazienkowskiej. Kolejny akt oskarżenia przeciw Łukaszowi Ż.</title>
-<link>https://zero.pl/news/nie-tylko-wypadek-na-trasie-lazienkowskiej-kolejny-akt-oskarzenia-przeciw-lukaszowi-z</link>
-<guid isPermaLink="true">https://zero.pl/news/nie-tylko-wypadek-na-trasie-lazienkowskiej-kolejny-akt-oskarzenia-przeciw-lukaszowi-z</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Fri, 31 Jul 2026 21:18:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na poniedziałek 3 sierpnia</title>
-<link>https://zero.pl/news/program-tv-zero-3-08-co-dzis-mozna-obejrzec</link>
-<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-3-08-co-dzis-mozna-obejrzec</guid>
-<category>Program TV</category>
-<description>Program TV — Kamil Szałecki</description>
-<pubDate>Fri, 31 Jul 2026 21:07:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
