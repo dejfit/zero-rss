@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 05 Aug 2026 12:06:25 +0200</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 14:09:30 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Koniec śledztwa w sprawie zdrady dyplomatycznej. Chodziło o katastrofę smoleńską</title>
+<link>https://zero.pl/news/koniec-sledztwa-w-sprawie-zdrady-dyplomatycznej-chodzilo-o-katastrofe-smolenska</link>
+<guid isPermaLink="true">https://zero.pl/news/koniec-sledztwa-w-sprawie-zdrady-dyplomatycznej-chodzilo-o-katastrofe-smolenska</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Wed, 05 Aug 2026 13:46:00 +0200</pubDate>
+</item>
+<item>
+<title>Słowik o audycie w Szpitalu Południowym. „Wypadł fatalnie”</title>
+<link>https://zero.pl/news/szpital-poludniowy-slowik-o-audycie-szpital-wypadl-w-nim-fatalnie</link>
+<guid isPermaLink="true">https://zero.pl/news/szpital-poludniowy-slowik-o-audycie-szpital-wypadl-w-nim-fatalnie</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Wed, 05 Aug 2026 12:26:00 +0200</pubDate>
+</item>
+<item>
+<title>Tusk o Giertychu: „Nie jest świętą krową”</title>
+<link>https://zero.pl/news/tusk-o-giertychu-nie-jest-swieta-krowa</link>
+<guid isPermaLink="true">https://zero.pl/news/tusk-o-giertychu-nie-jest-swieta-krowa</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Wed, 05 Aug 2026 12:09:00 +0200</pubDate>
+</item>
 <item>
 <title>Trzaskowski przedstawił wyniki audytu w Szpitalu Południowym. „Rekordowy dyżur to 110 godzin”</title>
 <link>https://zero.pl/news/afera-w-szpitalu-poludniowym-i-dawid-kacprzyk-trzaskowski-przedstawil-wyniki-audytu</link>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Kasjan Owsianko</description>
 <pubDate>Sat, 01 Aug 2026 15:29:00 +0200</pubDate>
-</item>
-<item>
-<title>Słynny himalaista Nirmal Purja zginął na Broad Peak</title>
-<link>https://zero.pl/news/slynny-himalaista-nirmal-purja-zginal-na-broad-peak</link>
-<guid isPermaLink="true">https://zero.pl/news/slynny-himalaista-nirmal-purja-zginal-na-broad-peak</guid>
-<category>Świat</category>
-<description>Świat — Kasjan Owsianko</description>
-<pubDate>Sat, 01 Aug 2026 14:49:00 +0200</pubDate>
-</item>
-<item>
-<title>Meloni o kryzysie w Ceucie: „Wzmocnić granice, zwalczać nielegalną imigrację, usprawnić deportacje”</title>
-<link>https://zero.pl/news/giorgia-meloni-o-kryzysie-w-ceucie-apel-22-krajow-do-wladz-unijnych</link>
-<guid isPermaLink="true">https://zero.pl/news/giorgia-meloni-o-kryzysie-w-ceucie-apel-22-krajow-do-wladz-unijnych</guid>
-<category>Świat</category>
-<description>Świat — Kasjan Owsianko</description>
-<pubDate>Sat, 01 Aug 2026 14:28:00 +0200</pubDate>
-</item>
-<item>
-<title>Pijany 17-latek w BMW staranował sześć aut. Miał dwa promile, nie miał prawa jazdy</title>
-<link>https://zero.pl/news/pijany-17-latek-w-bmw-staranowal-szesc-aut-mial-dwa-promile-nie-mial-prawa-jazdy</link>
-<guid isPermaLink="true">https://zero.pl/news/pijany-17-latek-w-bmw-staranowal-szesc-aut-mial-dwa-promile-nie-mial-prawa-jazdy</guid>
-<category>Kraj</category>
-<description>Kraj — Olga Karaban</description>
-<pubDate>Sat, 01 Aug 2026 13:49:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
