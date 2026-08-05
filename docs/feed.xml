@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 05 Aug 2026 16:29:58 +0200</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 18:16:17 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>UE finansuje służby, które ją potem szantażują. Ekspert o paradoksie polityki Brukseli</title>
+<link>https://zero.pl/news/najpopularniejsze-szlaki-migracyjne-do-europy-ekspert-o-sytuacji-na-granicach-ue-po-kryzysie-w-ceucie</link>
+<guid isPermaLink="true">https://zero.pl/news/najpopularniejsze-szlaki-migracyjne-do-europy-ekspert-o-sytuacji-na-granicach-ue-po-kryzysie-w-ceucie</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Wed, 05 Aug 2026 17:52:00 +0200</pubDate>
+</item>
+<item>
+<title>Do czterech razy sztuka? Gibała ponownie zawalczy o Kraków</title>
+<link>https://zero.pl/news/lukasz-gibala-kandydatem-na-prezydenta-krakowa-wystartuje-w-wyborach-2026</link>
+<guid isPermaLink="true">https://zero.pl/news/lukasz-gibala-kandydatem-na-prezydenta-krakowa-wystartuje-w-wyborach-2026</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Białczyk</description>
+<pubDate>Wed, 05 Aug 2026 17:24:00 +0200</pubDate>
+</item>
+<item>
+<title>Jest projekt ustawy o pracy platformowej. Kurierzy i taksówkarze przejdą na etat?</title>
+<link>https://zero.pl/news/jest-projekt-ustawy-o-pracy-platformowej-rzad-chce-zwiekszyc-ochrone-pracownikow</link>
+<guid isPermaLink="true">https://zero.pl/news/jest-projekt-ustawy-o-pracy-platformowej-rzad-chce-zwiekszyc-ochrone-pracownikow</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Wed, 05 Aug 2026 16:59:00 +0200</pubDate>
+</item>
+<item>
+<title>Wojskowe manewry na Tajwanie. Taipei odpowiada na wojnę psychologiczną Pekinu</title>
+<link>https://zero.pl/news/tajwan-manewry-han-kuang-odpornosc-kognitywna-blokada-i-nowe-procedury-armii</link>
+<guid isPermaLink="true">https://zero.pl/news/tajwan-manewry-han-kuang-odpornosc-kognitywna-blokada-i-nowe-procedury-armii</guid>
+<category>Wojsko</category>
+<description>Wojsko — Tomasz Pałasz</description>
+<pubDate>Wed, 05 Aug 2026 16:35:00 +0200</pubDate>
+</item>
 <item>
 <title>Chwile grozy w Niemczech. Uzbrojony dron na płycie lotniska</title>
 <link>https://zero.pl/news/niemcy-incydent-na-lotnisku-w-lipsku-dron-z-detonatorem-i-zderzenie-samolotu</link>
@@ -1174,38 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Kasjan Owsianko</description>
 <pubDate>Sat, 01 Aug 2026 21:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Wybuch w centrum Moskwy. Nieoficjalnie: Wśród ofiar ważny generał</title>
-<link>https://zero.pl/news/wybuch-w-centrum-moskwy-sa-ofiary-smiertelne-i-ranni</link>
-<guid isPermaLink="true">https://zero.pl/news/wybuch-w-centrum-moskwy-sa-ofiary-smiertelne-i-ranni</guid>
-<category>Świat</category>
-<description>Świat — Kasjan Owsianko</description>
-<pubDate>Sat, 01 Aug 2026 20:56:00 +0200</pubDate>
-</item>
-<item>
-<title>UE zwołuje pilne posiedzenie ws. Ceuty. Polska przedstawi swoje doświadczenie ws. granicy</title>
-<link>https://zero.pl/news/ue-zwoluje-pilne-posiedzenie-ws-ceuty-polska-przedstawi-swoje-doswiadczenie-ws-granicy</link>
-<guid isPermaLink="true">https://zero.pl/news/ue-zwoluje-pilne-posiedzenie-ws-ceuty-polska-przedstawi-swoje-doswiadczenie-ws-granicy</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Sat, 01 Aug 2026 20:23:00 +0200</pubDate>
-</item>
-<item>
-<title>Dwie dekady spadku. Co stało się z wynagrodzeniami nauczycieli</title>
-<link>https://zero.pl/news/nauczyciele-zarabiaja-relatywnie-coraz-mniej-dlaczego-podwyzki-nie-wystarczaja</link>
-<guid isPermaLink="true">https://zero.pl/news/nauczyciele-zarabiaja-relatywnie-coraz-mniej-dlaczego-podwyzki-nie-wystarczaja</guid>
-<category>Kraj</category>
-<description>Kraj — Łukasz Wolański</description>
-<pubDate>Sat, 01 Aug 2026 19:58:00 +0200</pubDate>
-</item>
-<item>
-<title>Tak Warszawiacy świętowali 82. rocznicę Powstania [GALERIA]</title>
-<link>https://zero.pl/news/tak-warszawiacy-swietowali-82-rocznice-powstania-galeria</link>
-<guid isPermaLink="true">https://zero.pl/news/tak-warszawiacy-swietowali-82-rocznice-powstania-galeria</guid>
-<category>Kraj</category>
-<description>Kraj — Arkadiusz Dziermański,Kasjan Owsianko</description>
-<pubDate>Sat, 01 Aug 2026 19:37:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
