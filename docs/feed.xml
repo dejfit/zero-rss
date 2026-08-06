@@ -5,8 +5,64 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 06 Aug 2026 14:05:42 +0200</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 16:31:40 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>PiS szuka nowego otwarcia. Konferencja programowa w rocznicę prezydentury Nawrockiego</title>
+<link>https://zero.pl/news/konferencja-pis-kaczynski-i-czarnek-na-scenie-w-rocznice-zaprzysiezenia-nawrockiego</link>
+<guid isPermaLink="true">https://zero.pl/news/konferencja-pis-kaczynski-i-czarnek-na-scenie-w-rocznice-zaprzysiezenia-nawrockiego</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Thu, 06 Aug 2026 16:26:00 +0200</pubDate>
+</item>
+<item>
+<title>Kolejny niewybuch na budowie w Warszawie. Zablokowany ruch w centrum</title>
+<link>https://zero.pl/news/niewybuch-w-warszawie-odnaleziono-kolejny-pocisk-zablokowany-ruch-na-waznych-ulicach</link>
+<guid isPermaLink="true">https://zero.pl/news/niewybuch-w-warszawie-odnaleziono-kolejny-pocisk-zablokowany-ruch-na-waznych-ulicach</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Thu, 06 Aug 2026 16:13:00 +0200</pubDate>
+</item>
+<item>
+<title>Rosja prowokuje nad Bałtykiem. Nie tylko polscy piloci przechwytują samoloty</title>
+<link>https://zero.pl/news/rosja-prowokuje-nad-baltykiem-nie-tylko-polscy-piloci-przechwytuja-samoloty</link>
+<guid isPermaLink="true">https://zero.pl/news/rosja-prowokuje-nad-baltykiem-nie-tylko-polscy-piloci-przechwytuja-samoloty</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Thu, 06 Aug 2026 15:51:00 +0200</pubDate>
+</item>
+<item>
+<title>Senat odrzuca pomysł prezydenta. Nie będzie referendum o polityce klimatycznej UE</title>
+<link>https://zero.pl/news/referendum-w-sprawie-polityki-ue-senat-zdecydowal-w-sprawie-wniosku-karola-nawrockiego</link>
+<guid isPermaLink="true">https://zero.pl/news/referendum-w-sprawie-polityki-ue-senat-zdecydowal-w-sprawie-wniosku-karola-nawrockiego</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Thu, 06 Aug 2026 15:29:00 +0200</pubDate>
+</item>
+<item>
+<title>Senat odrzuca kandydaturę na prezesa IPN. Mateusz Szpytma bez poparcia większości</title>
+<link>https://zero.pl/news/senat-nie-zgodzil-sie-na-prezesa-ipn-mateusz-szpytma-przegral-glosowanie</link>
+<guid isPermaLink="true">https://zero.pl/news/senat-nie-zgodzil-sie-na-prezesa-ipn-mateusz-szpytma-przegral-glosowanie</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Thu, 06 Aug 2026 15:16:00 +0200</pubDate>
+</item>
+<item>
+<title>Między podatkowymi obietnicami a okiem Brukseli. Gra o budżet ruszyła</title>
+<link>https://zero.pl/news/ida-wybory-wzrosna-wydatki-minister-finansow-staje-przed-karkolomnym-zadaniem</link>
+<guid isPermaLink="true">https://zero.pl/news/ida-wybory-wzrosna-wydatki-minister-finansow-staje-przed-karkolomnym-zadaniem</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Thu, 06 Aug 2026 14:48:00 +0200</pubDate>
+</item>
+<item>
+<title>Słodzone napoje będą droższe. Eksperci: Jednorazowa podwyżka to za mało</title>
+<link>https://zero.pl/news/ptod-popiera-wyzsza-oplate-cukrowa-i-chce-przeznaczenia-wplywow-na-leczenie-otylosci</link>
+<guid isPermaLink="true">https://zero.pl/news/ptod-popiera-wyzsza-oplate-cukrowa-i-chce-przeznaczenia-wplywow-na-leczenie-otylosci</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Agnieszka Waś-Turecka</description>
+<pubDate>Thu, 06 Aug 2026 13:56:00 +0200</pubDate>
+</item>
 <item>
 <title>WhatsApp ułatwia rozmowy grupowe. Wśród nowości pojawią się usprawnione ankiety</title>
 <link>https://zero.pl/news/whatsapp-ulatwia-rozmowy-grupowe-wsrod-nowosci-pojawia-sie-usprawnione-ankiety</link>
@@ -1150,62 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Olga Karaban</description>
 <pubDate>Mon, 03 Aug 2026 12:42:00 +0200</pubDate>
-</item>
-<item>
-<title>Weszło nowe prawo unijne. Naprawisz nawet starą pralkę</title>
-<link>https://zero.pl/news/dzieki-unijnemu-prawu-do-naprawy-naprawisz-nawet-stary-odkurzacz</link>
-<guid isPermaLink="true">https://zero.pl/news/dzieki-unijnemu-prawu-do-naprawy-naprawisz-nawet-stary-odkurzacz</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Mon, 03 Aug 2026 12:03:00 +0200</pubDate>
-</item>
-<item>
-<title>Atak nożownika we Wrocławiu. Śledczy w szpitalu rozmawiali z ofiarą</title>
-<link>https://zero.pl/news/atak-nozownika-we-wroclawiu-18-latek-uslyszy-zarzuty-poszkodowana-kobieta-przesluchana</link>
-<guid isPermaLink="true">https://zero.pl/news/atak-nozownika-we-wroclawiu-18-latek-uslyszy-zarzuty-poszkodowana-kobieta-przesluchana</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Mon, 03 Aug 2026 10:49:00 +0200</pubDate>
-</item>
-<item>
-<title>Szturm w Ceucie. Poseł mówi o wykluczeniu Hiszpanii z Schengen</title>
-<link>https://zero.pl/news/pawel-jablonski-ceuta-hiszpania-szturm-migrantow-i-strefa-schengen</link>
-<guid isPermaLink="true">https://zero.pl/news/pawel-jablonski-ceuta-hiszpania-szturm-migrantow-i-strefa-schengen</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Mon, 03 Aug 2026 10:20:00 +0200</pubDate>
-</item>
-<item>
-<title>Wielka awaria w Żabkach, w sieci alarmujące wpisy. „Uważajcie”</title>
-<link>https://zero.pl/news/awaria-w-zabce-sklepy-w-calej-polsce-z-problemami-chodzi-o-naliczanie-rabatow</link>
-<guid isPermaLink="true">https://zero.pl/news/awaria-w-zabce-sklepy-w-calej-polsce-z-problemami-chodzi-o-naliczanie-rabatow</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Mon, 03 Aug 2026 09:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Darmowa kranówka w restauracji? Rząd Tuska wycofał się z obietnicy</title>
-<link>https://zero.pl/news/restauracje-nie-beda-musialy-podawac-darmowej-kranowki-rzad-wycofal-projekt</link>
-<guid isPermaLink="true">https://zero.pl/news/restauracje-nie-beda-musialy-podawac-darmowej-kranowki-rzad-wycofal-projekt</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Mon, 03 Aug 2026 08:58:00 +0200</pubDate>
-</item>
-<item>
-<title>Elitarna jednostka szuka policjantów. Fala wakatów w CBŚP</title>
-<link>https://zero.pl/news/braki-kadrowe-w-cbsp-2026-trwa-nabor-do-pracy-operacyjnej-i-lowcow-cieni</link>
-<guid isPermaLink="true">https://zero.pl/news/braki-kadrowe-w-cbsp-2026-trwa-nabor-do-pracy-operacyjnej-i-lowcow-cieni</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Mon, 03 Aug 2026 07:37:00 +0200</pubDate>
-</item>
-<item>
-<title>„Tsunami gorąca nad Włochami”. Najwyższy alert prawie we wszystkich miastach</title>
-<link>https://zero.pl/news/upaly-we-wloszech-2026-rekordowy-czerwony-alert-w-25-miastach-do-kiedy</link>
-<guid isPermaLink="true">https://zero.pl/news/upaly-we-wloszech-2026-rekordowy-czerwony-alert-w-25-miastach-do-kiedy</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Mon, 03 Aug 2026 07:14:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
