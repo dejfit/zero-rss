@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 06 Aug 2026 03:07:43 +0200</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 06:26:15 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Nawrocki kontra rząd. Prześledziliśmy losy najgłośniejszych zawetowanych ustaw</title>
+<link>https://zero.pl/news/jak-rzad-probowal-obejsc-weta-prezydenta-karola-nawrockiego-analiza</link>
+<guid isPermaLink="true">https://zero.pl/news/jak-rzad-probowal-obejsc-weta-prezydenta-karola-nawrockiego-analiza</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Thu, 06 Aug 2026 06:03:00 +0200</pubDate>
+</item>
+<item>
+<title>Prezydent zmarnował ten rok. A i tak zbudował sobie silną pozycję</title>
+<link>https://zero.pl/news/pierwszy-rok-prezydenta-karola-nawrockiego-sukces-czy-porazka</link>
+<guid isPermaLink="true">https://zero.pl/news/pierwszy-rok-prezydenta-karola-nawrockiego-sukces-czy-porazka</guid>
+<category>Kraj</category>
+<description>Kraj — Jan Wróbel</description>
+<pubDate>Thu, 06 Aug 2026 06:02:00 +0200</pubDate>
+</item>
+<item>
+<title>Rok prezydentury Karola Nawrockiego. Sprawdzamy, jak realizuje swój Plan 21</title>
+<link>https://zero.pl/news/rok-od-zaprzysiezenia-nawrockiego-nie-wszystkie-obietnice-zostaly-zrealizowane</link>
+<guid isPermaLink="true">https://zero.pl/news/rok-od-zaprzysiezenia-nawrockiego-nie-wszystkie-obietnice-zostaly-zrealizowane</guid>
+<category>Kraj</category>
+<description>Kraj — Jacek Prusinowski</description>
+<pubDate>Thu, 06 Aug 2026 06:01:00 +0200</pubDate>
+</item>
+<item>
+<title>Nawrocki niszczy, ale wajb się zgadza. O roku prezydentury</title>
+<link>https://zero.pl/news/rok-karola-nawrockiego-jakub-dymek-wylicza-ile-polakow-kosztowaly-jego-decyzje</link>
+<guid isPermaLink="true">https://zero.pl/news/rok-karola-nawrockiego-jakub-dymek-wylicza-ile-polakow-kosztowaly-jego-decyzje</guid>
+<category>Kraj</category>
+<description>Kraj — Jakub Dymek</description>
+<pubDate>Thu, 06 Aug 2026 06:00:00 +0200</pubDate>
+</item>
 <item>
 <title>Szef FBI zaskakuje ryzykownym ruchem. Patel odwiedzi Pekin i Moskwę</title>
 <link>https://zero.pl/news/szef-fbi-kash-patel-nawiazuje-wspolprace-z-chinami-i-rosja-jest-zapowiedz-fizyty</link>
@@ -1174,38 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Kasjan Owsianko</description>
 <pubDate>Sun, 02 Aug 2026 14:34:00 +0200</pubDate>
-</item>
-<item>
-<title>Wstydliwe zdjęcie posła. Przyznał, że był „po spożyciu”</title>
-<link>https://zero.pl/news/wstydliwe-zdjecie-posla-przyznal-ze-byl-po-spozyciu</link>
-<guid isPermaLink="true">https://zero.pl/news/wstydliwe-zdjecie-posla-przyznal-ze-byl-po-spozyciu</guid>
-<category>Kraj</category>
-<description>Kraj — Olga Karaban</description>
-<pubDate>Sun, 02 Aug 2026 13:30:00 +0200</pubDate>
-</item>
-<item>
-<title>Prawica pobudki i prawica drzemki. Czyli o co chodzi po rozłamie w PiS?</title>
-<link>https://zero.pl/news/jakub-dymek-o-prawicy-pobudki-i-prawicy-drzemki-czyli-o-co-chodzi-po-rozlamie-w-pis</link>
-<guid isPermaLink="true">https://zero.pl/news/jakub-dymek-o-prawicy-pobudki-i-prawicy-drzemki-czyli-o-co-chodzi-po-rozlamie-w-pis</guid>
-<category>Kraj</category>
-<description>Kraj — Jakub Dymek</description>
-<pubDate>Sun, 02 Aug 2026 12:40:00 +0200</pubDate>
-</item>
-<item>
-<title>Atak nożownika we Wrocławiu. 18-latek zatrzymany, kobieta w szpitalu</title>
-<link>https://zero.pl/news/ukrainiec-zaatakowal-nozem-kobiete-we-wroclawiu-policja-zatrzymala-18-latka</link>
-<guid isPermaLink="true">https://zero.pl/news/ukrainiec-zaatakowal-nozem-kobiete-we-wroclawiu-policja-zatrzymala-18-latka</guid>
-<category>Kraj</category>
-<description>Kraj — Olga Karaban</description>
-<pubDate>Sun, 02 Aug 2026 12:38:00 +0200</pubDate>
-</item>
-<item>
-<title>Fotoradar pokazał 80 km/h. Jechał chłopak na hulajnodze</title>
-<link>https://zero.pl/news/fotoradar-pokazal-80-km-h-jechal-chlopak-na-hulajnodze</link>
-<guid isPermaLink="true">https://zero.pl/news/fotoradar-pokazal-80-km-h-jechal-chlopak-na-hulajnodze</guid>
-<category>Kraj</category>
-<description>Kraj — Olga Karaban</description>
-<pubDate>Sun, 02 Aug 2026 11:36:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
