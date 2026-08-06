@@ -5,8 +5,64 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 06 Aug 2026 09:12:52 +0200</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 12:00:30 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Rekordowe upały obciążają polską sieć. Dziś po południu krytyczne godziny</title>
+<link>https://zero.pl/news/przez-upaly-znow-goraco-w-polskiej-sieci-operator-zmuszony-do-interwencji</link>
+<guid isPermaLink="true">https://zero.pl/news/przez-upaly-znow-goraco-w-polskiej-sieci-operator-zmuszony-do-interwencji</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Thu, 06 Aug 2026 11:49:00 +0200</pubDate>
+</item>
+<item>
+<title>Boli mnie nagonka na hulajnogi elektryczne. Nie każdy kierujący jest idiotą</title>
+<link>https://zero.pl/news/boli-mnie-nagonka-na-hulajnogi-elektryczne-nie-kazdy-kierujacy-jest-idiota</link>
+<guid isPermaLink="true">https://zero.pl/news/boli-mnie-nagonka-na-hulajnogi-elektryczne-nie-kazdy-kierujacy-jest-idiota</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Thu, 06 Aug 2026 11:44:00 +0200</pubDate>
+</item>
+<item>
+<title>Kapibary przyszły z wizytą. Zaskakujące nagranie trafiło do sieci</title>
+<link>https://zero.pl/news/nietypowi-goscie-w-parlamencie-w-cuiabie-grupa-kapibar-spacerowala-przy-recepcji-wideo</link>
+<guid isPermaLink="true">https://zero.pl/news/nietypowi-goscie-w-parlamencie-w-cuiabie-grupa-kapibar-spacerowala-przy-recepcji-wideo</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Thu, 06 Aug 2026 11:42:00 +0200</pubDate>
+</item>
+<item>
+<title>Tragiczna śmierć 15-latki. Śledczy milczą, rodzice apelują do świadków</title>
+<link>https://zero.pl/news/reportaz-kanalu-zero-tragiczna-smierc-15-latki-rodzice-apeluja-do-swiadkow</link>
+<guid isPermaLink="true">https://zero.pl/news/reportaz-kanalu-zero-tragiczna-smierc-15-latki-rodzice-apeluja-do-swiadkow</guid>
+<category>Kraj</category>
+<description>Kraj — Monika Krześniak,Agnieszka Waś-Turecka</description>
+<pubDate>Thu, 06 Aug 2026 11:21:00 +0200</pubDate>
+</item>
+<item>
+<title>Rekord cenowy diesla w Polsce. W nasze portfele uderzają już dwie wojny</title>
+<link>https://zero.pl/news/diesel-najdrozszy-w-historii-powodem-wojna-na-bliskim-wschodzie-ale-namieszala-tez-rosja</link>
+<guid isPermaLink="true">https://zero.pl/news/diesel-najdrozszy-w-historii-powodem-wojna-na-bliskim-wschodzie-ale-namieszala-tez-rosja</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Thu, 06 Aug 2026 10:48:00 +0200</pubDate>
+</item>
+<item>
+<title>„Łaska pańska na pstrym koniu jeździ”. Kukiz o prezydenturze Nawrockiego</title>
+<link>https://zero.pl/news/pawel-kukiz-o-prezydenturze-karola-nawrockiego-sukcesem-zablokowanie-ustaw-rzadu</link>
+<guid isPermaLink="true">https://zero.pl/news/pawel-kukiz-o-prezydenturze-karola-nawrockiego-sukcesem-zablokowanie-ustaw-rzadu</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Thu, 06 Aug 2026 09:57:00 +0200</pubDate>
+</item>
+<item>
+<title>Pierwszy rok prezydentury Karola Nawrockiego. „Prawdziwe testy dopiero przed nim”</title>
+<link>https://zero.pl/news/pierwszy-rok-prezydentury-nawrockiego-chwedoruk-o-pis-konfederacji-i-andrzeju-dudzie</link>
+<guid isPermaLink="true">https://zero.pl/news/pierwszy-rok-prezydentury-nawrockiego-chwedoruk-o-pis-konfederacji-i-andrzeju-dudzie</guid>
+<category>Kraj</category>
+<description>Kraj — Bartosz Michalski</description>
+<pubDate>Thu, 06 Aug 2026 09:49:00 +0200</pubDate>
+</item>
 <item>
 <title>Upały do 38 stopni i nawałnice. IMGW i RCB wydały alerty dla Polski</title>
 <link>https://zero.pl/news/pogoda-na-dzis-upaly-i-burze-w-polsce-alerty-imgw-i-rcb-dla-14-wojewodztw</link>
@@ -1150,62 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Kasjan Owsianko</description>
 <pubDate>Sun, 02 Aug 2026 20:33:00 +0200</pubDate>
-</item>
-<item>
-<title>Atak na rosyjski hub handlowy w obwodzie samarskim. Kijów niszczy zaplecze wroga</title>
-<link>https://zero.pl/news/atak-na-rosyjski-hub-handlowy-w-obwodzie-samarskim-kijow-niszczy-zaplecze-wroga</link>
-<guid isPermaLink="true">https://zero.pl/news/atak-na-rosyjski-hub-handlowy-w-obwodzie-samarskim-kijow-niszczy-zaplecze-wroga</guid>
-<category>Świat</category>
-<description>Świat — Kasjan Owsianko</description>
-<pubDate>Sun, 02 Aug 2026 20:06:00 +0200</pubDate>
-</item>
-<item>
-<title>Polityczna wojna powinna mieć swoje granice. Inaczej zagraża państwu</title>
-<link>https://zero.pl/news/polityczna-wojna-powinna-miec-swoje-granice-inaczej-zagraza-panstwu</link>
-<guid isPermaLink="true">https://zero.pl/news/polityczna-wojna-powinna-miec-swoje-granice-inaczej-zagraza-panstwu</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Czapla</description>
-<pubDate>Sun, 02 Aug 2026 19:55:00 +0200</pubDate>
-</item>
-<item>
-<title>Katastrofa śmigłowców gaśniczych w Grecji. Są ofiary śmiertelne</title>
-<link>https://zero.pl/news/katastrofa-smiglowcow-gasniczych-w-grecji-sa-ofiary-smiertelne</link>
-<guid isPermaLink="true">https://zero.pl/news/katastrofa-smiglowcow-gasniczych-w-grecji-sa-ofiary-smiertelne</guid>
-<category>Świat</category>
-<description>Świat — Kasjan Owsianko</description>
-<pubDate>Sun, 02 Aug 2026 19:23:00 +0200</pubDate>
-</item>
-<item>
-<title>Makabryczne znalezisko w Ciechanowie. Prokuratura wszczyna śledztwo</title>
-<link>https://zero.pl/news/makabryczne-znalezisko-w-ciechanowie-prokuratura-wszczyna-sledztwo</link>
-<guid isPermaLink="true">https://zero.pl/news/makabryczne-znalezisko-w-ciechanowie-prokuratura-wszczyna-sledztwo</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Sun, 02 Aug 2026 18:37:00 +0200</pubDate>
-</item>
-<item>
-<title>Ukraiński konsulat reaguje na atak we Wrocławiu. „Stanowczo potępiamy”</title>
-<link>https://zero.pl/news/ukrainski-konsulat-reaguje-na-atak-we-wroclawiu-stanowczo-potepiamy</link>
-<guid isPermaLink="true">https://zero.pl/news/ukrainski-konsulat-reaguje-na-atak-we-wroclawiu-stanowczo-potepiamy</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Sun, 02 Aug 2026 18:12:00 +0200</pubDate>
-</item>
-<item>
-<title>Czy wojna w Ukrainie połączy się z konfliktem w Iranie? Ekspert stawia sprawę jasno</title>
-<link>https://zero.pl/news/prof-kozerawski-ukraina-nie-rozszerza-wojny-na-iran-atak-na-morzu-kaspijskim-to-rutyna</link>
-<guid isPermaLink="true">https://zero.pl/news/prof-kozerawski-ukraina-nie-rozszerza-wojny-na-iran-atak-na-morzu-kaspijskim-to-rutyna</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Sun, 02 Aug 2026 17:49:00 +0200</pubDate>
-</item>
-<item>
-<title>Susza paraliżuje energetykę na Węgrzech i w Serbii. Budapeszt wstrzymuje elektrownię</title>
-<link>https://zero.pl/news/susza-paralizuje-energetyke-na-wegrzech-i-w-serbii-budapeszt-wstrzymuje-elektrownie</link>
-<guid isPermaLink="true">https://zero.pl/news/susza-paralizuje-energetyke-na-wegrzech-i-w-serbii-budapeszt-wstrzymuje-elektrownie</guid>
-<category>Biznes</category>
-<description>Biznes — Kasjan Owsianko</description>
-<pubDate>Sun, 02 Aug 2026 17:26:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
