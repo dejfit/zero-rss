@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 07 Aug 2026 08:14:17 +0200</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 09:43:13 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>37 osób w wodzie. Wywrotka jachtów na jeziorze Seksty</title>
+<link>https://zero.pl/news/wypadek-na-jeziorze-seksty-37-osob-poszkodowanych-po-wywrotce-jachtow</link>
+<guid isPermaLink="true">https://zero.pl/news/wypadek-na-jeziorze-seksty-37-osob-poszkodowanych-po-wywrotce-jachtow</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 07 Aug 2026 09:37:00 +0200</pubDate>
+</item>
+<item>
+<title>Pożar centrum logistycznego w Jekaterynburgu. Kolejny udany atak Ukrainy?</title>
+<link>https://zero.pl/news/rosja-po-ataku-plonie-centrum-logistyczne-wildberries-w-jekaterynburgu</link>
+<guid isPermaLink="true">https://zero.pl/news/rosja-po-ataku-plonie-centrum-logistyczne-wildberries-w-jekaterynburgu</guid>
+<category>Świat</category>
+<description>Świat — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 07 Aug 2026 09:33:00 +0200</pubDate>
+</item>
+<item>
+<title>Rząd nie odpuści ws. podatku paliwowego. „Jest kilka koncepcji”</title>
+<link>https://zero.pl/news/rzad-nie-odpusci-ws-windfall-tax-minister-energii-jest-kilka-koncepcji</link>
+<guid isPermaLink="true">https://zero.pl/news/rzad-nie-odpusci-ws-windfall-tax-minister-energii-jest-kilka-koncepcji</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Fri, 07 Aug 2026 08:50:00 +0200</pubDate>
+</item>
+<item>
+<title>Noga z gazu zawsze, ale dziś szczególnie. Rusza duża policyjna akcja</title>
+<link>https://zero.pl/news/noga-z-gazu-zawsze-ale-dzis-szczegolnie-rusza-duza-policyjna-akcja</link>
+<guid isPermaLink="true">https://zero.pl/news/noga-z-gazu-zawsze-ale-dzis-szczegolnie-rusza-duza-policyjna-akcja</guid>
+<category>Moto</category>
+<description>Moto — Piotr Rodzik</description>
+<pubDate>Fri, 07 Aug 2026 08:32:00 +0200</pubDate>
+</item>
 <item>
 <title>„Podobno grad miał nawet wielkość pięści”. Burze przeszły przez Warmię i Mazury</title>
 <link>https://zero.pl/news/burze-przeszly-przez-warmie-i-mazury-straz-pozarna-o-stratach</link>
@@ -1174,38 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Tomasz Pałasz</description>
 <pubDate>Mon, 03 Aug 2026 20:12:00 +0200</pubDate>
-</item>
-<item>
-<title>Eksplozja podczas urodzin generała. Ukraińskie media ujawniają</title>
-<link>https://zero.pl/news/eksplozja-w-restauracji-w-moskwie-celem-byl-rosyjski-general</link>
-<guid isPermaLink="true">https://zero.pl/news/eksplozja-w-restauracji-w-moskwie-celem-byl-rosyjski-general</guid>
-<category>Świat</category>
-<description>Świat — Krzysztof Jabłonowski</description>
-<pubDate>Mon, 03 Aug 2026 19:58:00 +0200</pubDate>
-</item>
-<item>
-<title>Czarnek kandydatem PiS na premiera? Polacy mają inne zdanie</title>
-<link>https://zero.pl/news/przemyslaw-czarnek-kandydatem-na-premiera-z-pis-polacy-maja-inne-zdanie-sondaz</link>
-<guid isPermaLink="true">https://zero.pl/news/przemyslaw-czarnek-kandydatem-na-premiera-z-pis-polacy-maja-inne-zdanie-sondaz</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Białczyk</description>
-<pubDate>Mon, 03 Aug 2026 19:55:00 +0200</pubDate>
-</item>
-<item>
-<title>Rumuńska armia detonuje skały na Dunaju. Chce uratować elektrownię atomową</title>
-<link>https://zero.pl/news/rumunska-armia-detonuje-skaly-na-dunaju-chce-zwiekszyc-doplyw-wody-do-elektrowni-atomowej</link>
-<guid isPermaLink="true">https://zero.pl/news/rumunska-armia-detonuje-skaly-na-dunaju-chce-zwiekszyc-doplyw-wody-do-elektrowni-atomowej</guid>
-<category>Świat</category>
-<description>Świat — Krzysztof Jabłonowski</description>
-<pubDate>Mon, 03 Aug 2026 19:41:00 +0200</pubDate>
-</item>
-<item>
-<title>Test ViewSonic VP2766-2K. Monitor do pracy z obrazem nie musi być drogi</title>
-<link>https://zero.pl/news/test-viewsonic-vp2766-2k-monitor-nie-tylko-do-pracy-z-obrazem-w-rozsadnej-cenie</link>
-<guid isPermaLink="true">https://zero.pl/news/test-viewsonic-vp2766-2k-monitor-nie-tylko-do-pracy-z-obrazem-w-rozsadnej-cenie</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Mon, 03 Aug 2026 19:09:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
