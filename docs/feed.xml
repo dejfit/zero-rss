@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 07 Aug 2026 17:30:05 +0200</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 18:25:26 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Kto się boi małżeństwa dwóch mężczyzn (albo małżeństwa dwóch kobiet)?</title>
+<link>https://zero.pl/news/kto-sie-boi-malzenstwa-dwoch-mezczyzn-albo-malzenstwa-dwoch-kobiet</link>
+<guid isPermaLink="true">https://zero.pl/news/kto-sie-boi-malzenstwa-dwoch-mezczyzn-albo-malzenstwa-dwoch-kobiet</guid>
+<category>Kraj</category>
+<description>Kraj — Sylwia Spurek</description>
+<pubDate>Fri, 07 Aug 2026 18:11:00 +0200</pubDate>
+</item>
+<item>
+<title>Amerykańskie media dotarły do raportu wywiadu. Putin może zaatakować NATO</title>
+<link>https://zero.pl/news/putin-moze-zaatakowac-kraj-nato-raport-wywiadu-usa-wyladowal-w-mediach</link>
+<guid isPermaLink="true">https://zero.pl/news/putin-moze-zaatakowac-kraj-nato-raport-wywiadu-usa-wyladowal-w-mediach</guid>
+<category>Wojsko</category>
+<description>Wojsko — Tomasz Pałasz</description>
+<pubDate>Fri, 07 Aug 2026 17:50:00 +0200</pubDate>
+</item>
 <item>
 <title>800+ to za mało. Rozwój Plus Morawieckiego mówi o ponad 3 tysiącach</title>
 <link>https://zero.pl/news/pensja-rodzicielska-i-bon-prokreacyjny-propozycje-rozwoju-plus-na-poprawe-dzietnosci</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Tomasz Pałasz</description>
 <pubDate>Tue, 04 Aug 2026 15:04:00 +0200</pubDate>
-</item>
-<item>
-<title>Windows jak Apple. Jedna z najlepszych funkcji wkrótce dostępna</title>
-<link>https://zero.pl/news/jedna-z-najlepszych-funkcji-urzadzen-apple-trafi-do-windowsa</link>
-<guid isPermaLink="true">https://zero.pl/news/jedna-z-najlepszych-funkcji-urzadzen-apple-trafi-do-windowsa</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Tue, 04 Aug 2026 14:50:00 +0200</pubDate>
-</item>
-<item>
-<title>Kolejny rosyjski samolot przechwycony. Szef MON: Działania o charakterze prowokacyjnym</title>
-<link>https://zero.pl/news/rosja-wladyslaw-kosiniak-kamysz-o-przechwyceniu-samolotu-il-20m</link>
-<guid isPermaLink="true">https://zero.pl/news/rosja-wladyslaw-kosiniak-kamysz-o-przechwyceniu-samolotu-il-20m</guid>
-<category>Wojsko</category>
-<description>Wojsko — Tomasz Pałasz</description>
-<pubDate>Tue, 04 Aug 2026 14:34:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
