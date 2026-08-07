@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 07 Aug 2026 21:10:36 +0200</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 21:57:48 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Nastolatek ranny ostrym narzędziem w Kamiennej Górze. Policja szuka sprawcy</title>
+<link>https://zero.pl/news/kamienna-gora-15-latek-ranny-ostrym-przedmiotem-trwa-sledztwo-policji</link>
+<guid isPermaLink="true">https://zero.pl/news/kamienna-gora-15-latek-ranny-ostrym-przedmiotem-trwa-sledztwo-policji</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Fri, 07 Aug 2026 21:41:00 +0200</pubDate>
+</item>
+<item>
+<title>Morawiecki na Jagodnie: Nadzieje z wyborów zostały pogrzebane</title>
+<link>https://zero.pl/news/spotkanie-na-jagodnie-mateusz-morawiecki-rozdawal-pizze-we-wroclawiu</link>
+<guid isPermaLink="true">https://zero.pl/news/spotkanie-na-jagodnie-mateusz-morawiecki-rozdawal-pizze-we-wroclawiu</guid>
+<category>Kultura</category>
+<description>Kultura — Tomasz Pałasz</description>
+<pubDate>Fri, 07 Aug 2026 21:31:00 +0200</pubDate>
+</item>
+<item>
+<title>Przełom na Kapitolu. Senat USA przyjął ustawę sankcyjną wobec Rosji i Iranu</title>
+<link>https://zero.pl/news/sankcje-na-rosje-i-iran-senat-usa-przyjal-ustawe-grahama</link>
+<guid isPermaLink="true">https://zero.pl/news/sankcje-na-rosje-i-iran-senat-usa-przyjal-ustawe-grahama</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Fri, 07 Aug 2026 21:23:00 +0200</pubDate>
+</item>
 <item>
 <title>Kryzys migracyjny w Ceucie. Wśród migrantów dużo dziewczynek i dzieci</title>
 <link>https://zero.pl/news/kryzys-migracyjny-w-ceucie-wsrod-migrantow-duzo-dziewczynek-i-dzieci</link>
@@ -1182,30 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Tue, 04 Aug 2026 18:26:00 +0200</pubDate>
-</item>
-<item>
-<title>To nie będzie ostatnia fala upałów? „Lato jest w tym roku bardzo dynamiczne”</title>
-<link>https://zero.pl/news/prognoza-pogody-to-nie-bedzie-ostatnia-fala-upalow</link>
-<guid isPermaLink="true">https://zero.pl/news/prognoza-pogody-to-nie-bedzie-ostatnia-fala-upalow</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Tue, 04 Aug 2026 17:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na środę 5 sierpnia. Owca w Porannych Rozmowach</title>
-<link>https://zero.pl/news/program-tv-zero-05-08-co-dzis-mozna-obejrzec</link>
-<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-05-08-co-dzis-mozna-obejrzec</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Tue, 04 Aug 2026 17:36:00 +0200</pubDate>
-</item>
-<item>
-<title>Google rezygnuje z mobilnego AI Studio. Na aplikację czekało 800 tys. osób</title>
-<link>https://zero.pl/news/mobilnego-ai-studio-jednak-nie-bedzie-na-nowosc-google-czekalo-800-tys-osob</link>
-<guid isPermaLink="true">https://zero.pl/news/mobilnego-ai-studio-jednak-nie-bedzie-na-nowosc-google-czekalo-800-tys-osob</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Tue, 04 Aug 2026 17:13:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
