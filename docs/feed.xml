@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 07 Aug 2026 16:35:35 +0200</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 17:30:05 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>800+ to za mało. Rozwój Plus Morawieckiego mówi o ponad 3 tysiącach</title>
+<link>https://zero.pl/news/pensja-rodzicielska-i-bon-prokreacyjny-propozycje-rozwoju-plus-na-poprawe-dzietnosci</link>
+<guid isPermaLink="true">https://zero.pl/news/pensja-rodzicielska-i-bon-prokreacyjny-propozycje-rozwoju-plus-na-poprawe-dzietnosci</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Fri, 07 Aug 2026 17:23:00 +0200</pubDate>
+</item>
+<item>
+<title>Wystarczy, że otworzysz e-maila od hakerów. Wywiad ostrzega przed cyberatakiem</title>
+<link>https://zero.pl/news/rosyjscy-hakerzy-atakuja-usluge-zimbra-agencja-wywiadu-ostrzega-przed-cyberatakiem</link>
+<guid isPermaLink="true">https://zero.pl/news/rosyjscy-hakerzy-atakuja-usluge-zimbra-agencja-wywiadu-ostrzega-przed-cyberatakiem</guid>
+<category>Technologia</category>
+<description>Technologia — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 07 Aug 2026 16:57:00 +0200</pubDate>
+</item>
+<item>
+<title>Jak uruchomić Netflixa w 4K na komputerze? W tym rytuale brakuje tylko złożenia ofiary</title>
+<link>https://zero.pl/news/jak-uruchomic-netflixa-w-4k-na-komputerze-w-tym-rytuale-brakuje-tylko-zlozenia-ofiary</link>
+<guid isPermaLink="true">https://zero.pl/news/jak-uruchomic-netflixa-w-4k-na-komputerze-w-tym-rytuale-brakuje-tylko-zlozenia-ofiary</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Fri, 07 Aug 2026 16:34:00 +0200</pubDate>
+</item>
 <item>
 <title>Volkswagen tonie na oczach właścicieli. Dramatyczny apel o działanie</title>
 <link>https://zero.pl/news/kryzys-w-volkswagenie-poglebia-sie-glos-zabieraja-zaniepokojeni-akcjonariusze</link>
@@ -1182,30 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Tomasz Pałasz</description>
 <pubDate>Tue, 04 Aug 2026 14:34:00 +0200</pubDate>
-</item>
-<item>
-<title>„Polowanie” na cywila w Chersoniu. W sieci pojawiło się drastyczne nagranie</title>
-<link>https://zero.pl/news/cherson-rosyjski-dron-zaatakowal-handlarza-na-targu-nagranie-ukrainskiej-policji</link>
-<guid isPermaLink="true">https://zero.pl/news/cherson-rosyjski-dron-zaatakowal-handlarza-na-targu-nagranie-ukrainskiej-policji</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 04 Aug 2026 14:00:00 +0200</pubDate>
-</item>
-<item>
-<title>11-latek na hulajnodze zginął pod kołami kombajnu. Nowe ustalenia śledczych</title>
-<link>https://zero.pl/news/smierc-11-latka-w-sypieniu-prokuratura-kierowca-kombajnu-ponosi-wine</link>
-<guid isPermaLink="true">https://zero.pl/news/smierc-11-latka-w-sypieniu-prokuratura-kierowca-kombajnu-ponosi-wine</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 04 Aug 2026 13:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Ukraina w NATO? „To bajki”</title>
-<link>https://zero.pl/news/ukraina-w-nato-general-walerij-zaluzny-bajki</link>
-<guid isPermaLink="true">https://zero.pl/news/ukraina-w-nato-general-walerij-zaluzny-bajki</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Tue, 04 Aug 2026 13:12:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
