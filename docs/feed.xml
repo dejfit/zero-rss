@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 07 Aug 2026 18:25:26 +0200</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 19:14:15 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Wiek emerytalny do zmiany? Pełczyńska-Nałęcz tłumaczy się ze swoich słów</title>
+<link>https://zero.pl/news/wiek-emerytalny-do-zmiany-katarzyna-pelczynska-nalecz-tlumaczy-sie-ze-swoich-slow</link>
+<guid isPermaLink="true">https://zero.pl/news/wiek-emerytalny-do-zmiany-katarzyna-pelczynska-nalecz-tlumaczy-sie-ze-swoich-slow</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Fri, 07 Aug 2026 18:54:00 +0200</pubDate>
+</item>
+<item>
+<title>Moskwa atakuje Nawrockiego. „Gdański muzealnik”</title>
+<link>https://zero.pl/news/zacharowa-atakuje-nawrockiego-w-tle-rusofobia-stalin-i-granica-z-rosja</link>
+<guid isPermaLink="true">https://zero.pl/news/zacharowa-atakuje-nawrockiego-w-tle-rusofobia-stalin-i-granica-z-rosja</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Fri, 07 Aug 2026 18:28:00 +0200</pubDate>
+</item>
 <item>
 <title>Kto się boi małżeństwa dwóch mężczyzn (albo małżeństwa dwóch kobiet)?</title>
 <link>https://zero.pl/news/kto-sie-boi-malzenstwa-dwoch-mezczyzn-albo-malzenstwa-dwoch-kobiet</link>
@@ -1190,22 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Tue, 04 Aug 2026 15:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Więcej chętnych niż miejsc. „Wakacje z wojskiem” z ostatnim turnusem</title>
-<link>https://zero.pl/news/wakacje-z-wojskiem-wiecej-chetnych-niz-miejsc</link>
-<guid isPermaLink="true">https://zero.pl/news/wakacje-z-wojskiem-wiecej-chetnych-niz-miejsc</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Tue, 04 Aug 2026 15:38:00 +0200</pubDate>
-</item>
-<item>
-<title>Kaczyński o Morawieckim. „Jest w jakimś dziwnym stanie”</title>
-<link>https://zero.pl/news/jaroslaw-kaczynski-o-mateuszu-morawieckim-mocny-wpis-lidera-prawa-i-sprawiedliwosci</link>
-<guid isPermaLink="true">https://zero.pl/news/jaroslaw-kaczynski-o-mateuszu-morawieckim-mocny-wpis-lidera-prawa-i-sprawiedliwosci</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Tue, 04 Aug 2026 15:04:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
