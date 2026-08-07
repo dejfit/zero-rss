@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 07 Aug 2026 13:26:48 +0200</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 14:07:15 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>W USA zatwierdzono pierwszą szczepionkę mRNA przeciwko grypie. Jest skuteczniejsza</title>
+<link>https://zero.pl/news/szczepionka-mrna-przeciw-grypie-fda-zatwierdzila-preparat</link>
+<guid isPermaLink="true">https://zero.pl/news/szczepionka-mrna-przeciw-grypie-fda-zatwierdzila-preparat</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 07 Aug 2026 13:50:00 +0200</pubDate>
+</item>
+<item>
+<title>Jak długo potrwa ochłodzenie i kiedy wróci upał? Kapryśna pogoda w Polsce</title>
+<link>https://zero.pl/news/weekend-bedzie-chlodniejszy-kiedy-wroca-upaly-prognoza-pogody-imgw</link>
+<guid isPermaLink="true">https://zero.pl/news/weekend-bedzie-chlodniejszy-kiedy-wroca-upaly-prognoza-pogody-imgw</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 07 Aug 2026 13:40:00 +0200</pubDate>
+</item>
+<item>
+<title>Pyszne.pl skarży się na PIP. Mówi o łamaniu prawa i politycznej presji</title>
+<link>https://zero.pl/news/pyszne-pl-pisze-do-minister-pracy-powodem-kontrole-pip-z-naruszeniem-prawa</link>
+<guid isPermaLink="true">https://zero.pl/news/pyszne-pl-pisze-do-minister-pracy-powodem-kontrole-pip-z-naruszeniem-prawa</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Fri, 07 Aug 2026 13:32:00 +0200</pubDate>
+</item>
 <item>
 <title>Apple chciał rabat. Chińczycy nie zrozumieli, po co im stolica Maroka</title>
 <link>https://zero.pl/news/apple-chcial-rabat-chinczycy-nie-zrozumieli-po-co-im-stolica-maroka</link>
@@ -1182,30 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Tue, 04 Aug 2026 09:23:00 +0200</pubDate>
-</item>
-<item>
-<title>Maroko miało ostrzec Hiszpanię przed szturmem. Kulisy kryzysu w Ceucie</title>
-<link>https://zero.pl/news/kryzys-migracyjny-w-ceucie-maroko-ostrzegalo-hiszpanie-88-osob-nie-zyje</link>
-<guid isPermaLink="true">https://zero.pl/news/kryzys-migracyjny-w-ceucie-maroko-ostrzegalo-hiszpanie-88-osob-nie-zyje</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 04 Aug 2026 08:40:00 +0200</pubDate>
-</item>
-<item>
-<title>Nowe wątki afery wokół Szpitala Południowego? Była prezes ujawnia</title>
-<link>https://zero.pl/news/afera-w-szpitalu-poludniowym-byla-prezeska-anna-lukasik-odpiera-zarzuty-i-ujawnia-audyt</link>
-<guid isPermaLink="true">https://zero.pl/news/afera-w-szpitalu-poludniowym-byla-prezeska-anna-lukasik-odpiera-zarzuty-i-ujawnia-audyt</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 04 Aug 2026 08:06:00 +0200</pubDate>
-</item>
-<item>
-<title>Polacy nie rezygnują z mięsa. Tradycja wciąż wygrywa z modą na wege</title>
-<link>https://zero.pl/news/raport-zaledwie-25-proc-polakow-wyeliminowalo-mieso-z-diety-tradycja-wygrywa-z-moda</link>
-<guid isPermaLink="true">https://zero.pl/news/raport-zaledwie-25-proc-polakow-wyeliminowalo-mieso-z-diety-tradycja-wygrywa-z-moda</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 04 Aug 2026 07:51:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
