@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 07 Aug 2026 19:14:15 +0200</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 20:03:41 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>W BMW na ekranie wyświetla się reklama. BMW twierdzi, że to nie reklama</title>
+<link>https://zero.pl/news/bmw-wyswietla-reklame-na-ekranie-centralnym-musisz-obejrzec-film-o-filmie</link>
+<guid isPermaLink="true">https://zero.pl/news/bmw-wyswietla-reklame-na-ekranie-centralnym-musisz-obejrzec-film-o-filmie</guid>
+<category>Moto</category>
+<description>Moto — Tymon Grabowski</description>
+<pubDate>Fri, 07 Aug 2026 19:54:00 +0200</pubDate>
+</item>
+<item>
+<title>Niewiadoma-Phinney wygrywa etap na Mont Ventoux. Polka liderką Tour de France</title>
+<link>https://zero.pl/news/tour-de-france-niewiadoma-phinney-wygrywa-7-etap-i-zostaje-liderka-wyscigu</link>
+<guid isPermaLink="true">https://zero.pl/news/tour-de-france-niewiadoma-phinney-wygrywa-7-etap-i-zostaje-liderka-wyscigu</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Fri, 07 Aug 2026 19:27:00 +0200</pubDate>
+</item>
+<item>
+<title>Chwila ochłody, ale potem lato nie odpuści. Mamy nową wakacyjną prognozę</title>
+<link>https://zero.pl/news/prognoza-pogody-na-wakacje-jaka-temperatura-bedzie-w-drugiej-polowie-sierpnia</link>
+<guid isPermaLink="true">https://zero.pl/news/prognoza-pogody-na-wakacje-jaka-temperatura-bedzie-w-drugiej-polowie-sierpnia</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Fri, 07 Aug 2026 19:12:00 +0200</pubDate>
+</item>
 <item>
 <title>Wiek emerytalny do zmiany? Pełczyńska-Nałęcz tłumaczy się ze swoich słów</title>
 <link>https://zero.pl/news/wiek-emerytalny-do-zmiany-katarzyna-pelczynska-nalecz-tlumaczy-sie-ze-swoich-slow</link>
@@ -1182,30 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Krzysztof Jabłonowski</description>
 <pubDate>Tue, 04 Aug 2026 16:50:00 +0200</pubDate>
-</item>
-<item>
-<title>Nie żyje Andrzej Morozowski. Wybitny dziennikarz miał 69 lat</title>
-<link>https://zero.pl/news/andrzej-morozowski-nie-zyje-legenda-tvn24-i-radia-zet-miala-69-lat</link>
-<guid isPermaLink="true">https://zero.pl/news/andrzej-morozowski-nie-zyje-legenda-tvn24-i-radia-zet-miala-69-lat</guid>
-<category>Kultura</category>
-<description>Kultura — Tomasz Pałasz</description>
-<pubDate>Tue, 04 Aug 2026 16:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Posiedzenie Rady UE w sprawie Ceuty. Pełna kontrola granic i deportacje</title>
-<link>https://zero.pl/news/kryzys-migracyjny-w-hiszpanskiej-ceucie-wiceminister-mswia-o-kontrolach-i-deportacjach</link>
-<guid isPermaLink="true">https://zero.pl/news/kryzys-migracyjny-w-hiszpanskiej-ceucie-wiceminister-mswia-o-kontrolach-i-deportacjach</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Tue, 04 Aug 2026 16:15:00 +0200</pubDate>
-</item>
-<item>
-<title>„Nie grozi nam żaden blackout”. Polski operator uruchamia plan specjalny</title>
-<link>https://zero.pl/news/fala-upalow-uderza-w-siec-polski-operator-uruchamia-plan-specjalny</link>
-<guid isPermaLink="true">https://zero.pl/news/fala-upalow-uderza-w-siec-polski-operator-uruchamia-plan-specjalny</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Tue, 04 Aug 2026 15:46:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
