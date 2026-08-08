@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 08 Aug 2026 11:19:52 +0200</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 11:58:03 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Kłótnia polityków o rakietę. Zembaczyński ostro zaatakował PiS i Konfederację</title>
+<link>https://zero.pl/news/klotnia-politykow-o-rakiete-zembaczynski-ostro-zaatakowal-pis-i-konfederacje</link>
+<guid isPermaLink="true">https://zero.pl/news/klotnia-politykow-o-rakiete-zembaczynski-ostro-zaatakowal-pis-i-konfederacje</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Sat, 08 Aug 2026 11:22:00 +0200</pubDate>
+</item>
 <item>
 <title>Samochód zderzył się z busem. 11 osób poszkodowanych, droga zablokowana</title>
 <link>https://zero.pl/news/samochod-zderzyl-sie-z-busem-11-osob-poszkodowanych-droga-zablokowana</link>
@@ -1198,14 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Tomasz Pałasz</description>
 <pubDate>Tue, 04 Aug 2026 20:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Pierwszy przelew dla klubu Morawieckiego. Na razie Rozwój Plus bez subwencji</title>
-<link>https://zero.pl/news/rozwoj-plus-morawieckiego-z-pierwszym-przelewem-z-sejmu-tyle-dostanie-co-miesiac</link>
-<guid isPermaLink="true">https://zero.pl/news/rozwoj-plus-morawieckiego-z-pierwszym-przelewem-z-sejmu-tyle-dostanie-co-miesiac</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Tue, 04 Aug 2026 20:44:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
