@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 08 Aug 2026 18:12:26 +0200</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 18:53:39 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Czy smartfony mogą być jeszcze cieńsze? Na przeszkodzie stoi port USB-C</title>
+<link>https://zero.pl/news/smartfony-moga-byc-ciensze-o-ile-pozbedziemy-sie-portu-usb-c</link>
+<guid isPermaLink="true">https://zero.pl/news/smartfony-moga-byc-ciensze-o-ile-pozbedziemy-sie-portu-usb-c</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Sat, 08 Aug 2026 18:44:00 +0200</pubDate>
+</item>
+<item>
+<title>Nie żyje ojciec Messiego. Miał 68 lat</title>
+<link>https://zero.pl/news/ojciec-messiego-nie-zyje-zmarl-po-dlugiej-walce-z-choroba</link>
+<guid isPermaLink="true">https://zero.pl/news/ojciec-messiego-nie-zyje-zmarl-po-dlugiej-walce-z-choroba</guid>
+<category>Świat</category>
+<description>Świat — Aleksandra Cieślik</description>
+<pubDate>Sat, 08 Aug 2026 18:41:00 +0200</pubDate>
+</item>
+<item>
+<title>Rolnik zaorał nowy asfalt w Gliwicach. Straty to ok. 400 tys. zł</title>
+<link>https://zero.pl/news/gliwice-rolnik-zniszczyl-nowy-asfalt-na-ul-rybackiej-straty-400-tys-zl</link>
+<guid isPermaLink="true">https://zero.pl/news/gliwice-rolnik-zniszczyl-nowy-asfalt-na-ul-rybackiej-straty-400-tys-zl</guid>
+<category>Kraj</category>
+<description>Kraj — Aleksandra Cieślik</description>
+<pubDate>Sat, 08 Aug 2026 18:17:00 +0200</pubDate>
+</item>
 <item>
 <title>Dzik sparaliżował metro w Budapeszcie. Zwierzę nie przeżyło</title>
 <link>https://zero.pl/news/dzik-w-metrze-w-budapeszcie-zamknieta-linia-m2-przy-placu-kossutha</link>
@@ -1182,30 +1206,6 @@
 <category>Nauka</category>
 <description>Nauka — Bartosz Michalski</description>
 <pubDate>Wed, 05 Aug 2026 10:26:00 +0200</pubDate>
-</item>
-<item>
-<title>„To skandal, za który będą się wstydzić nasze dzieci i wnuki”. Owca oskarża rząd Tuska</title>
-<link>https://zero.pl/news/aleksandra-owca-atakuje-rzad-tuska-skandal-za-ktory-beda-sie-wstydzic-nasze-dzieci</link>
-<guid isPermaLink="true">https://zero.pl/news/aleksandra-owca-atakuje-rzad-tuska-skandal-za-ktory-beda-sie-wstydzic-nasze-dzieci</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Wed, 05 Aug 2026 10:14:00 +0200</pubDate>
-</item>
-<item>
-<title>Upały w górach. Ratownicy GOPR apelują do turystów</title>
-<link>https://zero.pl/news/upaly-w-gorach-ratownicy-gopr-apeluja-do-turystow</link>
-<guid isPermaLink="true">https://zero.pl/news/upaly-w-gorach-ratownicy-gopr-apeluja-do-turystow</guid>
-<category>Kraj</category>
-<description>Kraj — Bartosz Michalski</description>
-<pubDate>Wed, 05 Aug 2026 10:08:00 +0200</pubDate>
-</item>
-<item>
-<title>Ukraińcy trafili w ważne rosyjskie centrum. Ogień objął cały magazyn</title>
-<link>https://zero.pl/news/atak-dronow-na-wildberries-rosyjskie-centrum-logistyczne-w-tule-stanelo-w-ogniu</link>
-<guid isPermaLink="true">https://zero.pl/news/atak-dronow-na-wildberries-rosyjskie-centrum-logistyczne-w-tule-stanelo-w-ogniu</guid>
-<category>Świat</category>
-<description>Świat — Paweł Żurek</description>
-<pubDate>Wed, 05 Aug 2026 09:28:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
