@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 08 Aug 2026 07:30:07 +0200</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 08:07:45 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Tylu Polaków je mięso. „To podstawa koszyka zakupowego”</title>
+<link>https://zero.pl/news/tylu-polakow-je-mieso-to-podstawa-koszyka-zakupowego</link>
+<guid isPermaLink="true">https://zero.pl/news/tylu-polakow-je-mieso-to-podstawa-koszyka-zakupowego</guid>
+<category>Nauka</category>
+<description>Nauka — Paweł Żurek</description>
+<pubDate>Sat, 08 Aug 2026 07:36:00 +0200</pubDate>
+</item>
 <item>
 <title>Rolnik zaorał świeżo położony asfalt na ulicy. „Twierdzi, że to jego droga”</title>
 <link>https://zero.pl/news/rolnik-zaoral-swiezo-polozony-asfalt-na-ulicy-twierdzi-ze-to-jego-droga</link>
@@ -16,7 +24,7 @@
 <pubDate>Sat, 08 Aug 2026 07:11:00 +0200</pubDate>
 </item>
 <item>
-<title>Tyle narkotyków nie przedostało się do Europy. Rekordowe przejęcie służb</title>
+<title>Tony narkotyków zatrzymane u bram Europy. Rekordowe przejęcie służb</title>
 <link>https://zero.pl/news/tyle-narkotykow-nie-przedostalo-sie-do-europy-rekordowe-przejecie-sluzb</link>
 <guid isPermaLink="true">https://zero.pl/news/tyle-narkotykow-nie-przedostalo-sie-do-europy-rekordowe-przejecie-sluzb</guid>
 <category>Kraj</category>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Tomasz Pałasz</description>
 <pubDate>Tue, 04 Aug 2026 19:38:00 +0200</pubDate>
-</item>
-<item>
-<title>Co jest gorsze: jazda na skraju snu czy po alkoholu? Spróbowałem obydwu</title>
-<link>https://zero.pl/news/jezdzilem-pijany-w-kontrolowanych-warunkach-i-jezdzilem-na-skraju-snu-co-jest-gorsze</link>
-<guid isPermaLink="true">https://zero.pl/news/jezdzilem-pijany-w-kontrolowanych-warunkach-i-jezdzilem-na-skraju-snu-co-jest-gorsze</guid>
-<category>Moto</category>
-<description>Moto — Tymon Grabowski</description>
-<pubDate>Tue, 04 Aug 2026 19:15:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
