@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 08 Aug 2026 05:54:32 +0200</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 06:47:25 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Tyle narkotyków nie przedostało się do Europy. Rekordowe przejęcie służb</title>
+<link>https://zero.pl/news/tyle-narkotykow-nie-przedostalo-sie-do-europy-rekordowe-przejecie-sluzb</link>
+<guid isPermaLink="true">https://zero.pl/news/tyle-narkotykow-nie-przedostalo-sie-do-europy-rekordowe-przejecie-sluzb</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Sat, 08 Aug 2026 06:30:00 +0200</pubDate>
+</item>
+<item>
+<title>5 mln rosyjskich dronów i Wildberries. Ekspert o kulisach wojny bezzałogowców</title>
+<link>https://zero.pl/news/200-tysiecy-trafien-miesiecznie-i-5-mln-dronow-porazajaca-skala-wojny</link>
+<guid isPermaLink="true">https://zero.pl/news/200-tysiecy-trafien-miesiecznie-i-5-mln-dronow-porazajaca-skala-wojny</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Sat, 08 Aug 2026 06:01:00 +0200</pubDate>
+</item>
 <item>
 <title>Nastolatek ranny ostrym narzędziem w Kamiennej Górze. Policja szuka sprawcy</title>
 <link>https://zero.pl/news/kamienna-gora-15-latek-ranny-ostrym-przedmiotem-trwa-sledztwo-policji</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Tomasz Pałasz</description>
 <pubDate>Tue, 04 Aug 2026 19:05:00 +0200</pubDate>
-</item>
-<item>
-<title>„Zaczęli przygotowywać się do mobilizacji”. Co planuje Putin?</title>
-<link>https://zero.pl/news/wojna-w-ukrainie-jakie-plany-ma-putin-zaczeli-przygotowywac-sie-do-mobilizacji</link>
-<guid isPermaLink="true">https://zero.pl/news/wojna-w-ukrainie-jakie-plany-ma-putin-zaczeli-przygotowywac-sie-do-mobilizacji</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Tue, 04 Aug 2026 18:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Microsoft pracuje na emulatorami starszych konsol. To będzie hit lub wizerunkowa porażka</title>
-<link>https://zero.pl/news/microsoft-pracuje-na-emulatorami-starszych-konsol-to-bedzie-hit-lub-wizerunkowa-porazka</link>
-<guid isPermaLink="true">https://zero.pl/news/microsoft-pracuje-na-emulatorami-starszych-konsol-to-bedzie-hit-lub-wizerunkowa-porazka</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Tue, 04 Aug 2026 18:26:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
