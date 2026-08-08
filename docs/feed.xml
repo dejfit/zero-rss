@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 08 Aug 2026 16:10:08 +0200</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 16:48:00 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Węgry mają kandydata na prezydenta. Głosowanie w parlamencie we wtorek</title>
+<link>https://zero.pl/news/tisza-petera-magyara-wskazala-kandydata-na-prezydenta-wegier-to-andras-baka</link>
+<guid isPermaLink="true">https://zero.pl/news/tisza-petera-magyara-wskazala-kandydata-na-prezydenta-wegier-to-andras-baka</guid>
+<category>Świat</category>
+<description>Świat — Aleksandra Cieślik</description>
+<pubDate>Sat, 08 Aug 2026 16:19:00 +0200</pubDate>
+</item>
 <item>
 <title>Prawda czy fikcja? Weryfikujemy wszystkie proroctwa „Czarnego lustra”</title>
 <link>https://zero.pl/news/wirtualna-milosc-mordercze-roboty-polityka-w-rekach-ai-czarne-lustro-pod-lupa</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Marek Jurek</description>
 <pubDate>Wed, 05 Aug 2026 07:52:00 +0200</pubDate>
-</item>
-<item>
-<title>Będzie nawet 40 st. C. Ostrzeżenia przed upałem dla niemal całego kraju</title>
-<link>https://zero.pl/news/bedzie-nawet-40-st-c-imgw-wydal-ostrzezenia-przed-upalem-dla-niemal-calego-kraju</link>
-<guid isPermaLink="true">https://zero.pl/news/bedzie-nawet-40-st-c-imgw-wydal-ostrzezenia-przed-upalem-dla-niemal-calego-kraju</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Wed, 05 Aug 2026 07:51:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
