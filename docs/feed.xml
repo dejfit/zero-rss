@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 08 Aug 2026 17:12:49 +0200</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 17:48:10 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Dzik sparaliżował metro w Budapeszcie. Zwierzę nie przeżyło</title>
+<link>https://zero.pl/news/dzik-w-metrze-w-budapeszcie-zamknieta-linia-m2-przy-placu-kossutha</link>
+<guid isPermaLink="true">https://zero.pl/news/dzik-w-metrze-w-budapeszcie-zamknieta-linia-m2-przy-placu-kossutha</guid>
+<category>Świat</category>
+<description>Świat — Aleksandra Cieślik</description>
+<pubDate>Sat, 08 Aug 2026 17:37:00 +0200</pubDate>
+</item>
+<item>
+<title>Rzecznik MSZ odpowiada Zacharowej. „Czas na fakty”</title>
+<link>https://zero.pl/news/maciej-wewior-odpowiada-marii-zacharowej-spor-polskiego-i-rosyjskiego-msz</link>
+<guid isPermaLink="true">https://zero.pl/news/maciej-wewior-odpowiada-marii-zacharowej-spor-polskiego-i-rosyjskiego-msz</guid>
+<category>Kraj</category>
+<description>Kraj — Aleksandra Cieślik</description>
+<pubDate>Sat, 08 Aug 2026 17:25:00 +0200</pubDate>
+</item>
 <item>
 <title>Chwila wytchnienia w pogodzie. W poniedziałek burze i fala upałów</title>
 <link>https://zero.pl/news/pogoda-na-dzis-niedziele-i-poniedzialek-po-weekendzie-burze-i-fala-upalow</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Paweł Żurek</description>
 <pubDate>Wed, 05 Aug 2026 09:28:00 +0200</pubDate>
-</item>
-<item>
-<title>Podejrzenie masowego zatrucia na obozie. Poszkodowane dzieci w wieku 9-12 lat</title>
-<link>https://zero.pl/news/podejrzenie-masowego-zatrucia-pod-tomaszowem-lubelskim-poszkodowane-dzieci-z-obozu-pilkarskiego</link>
-<guid isPermaLink="true">https://zero.pl/news/podejrzenie-masowego-zatrucia-pod-tomaszowem-lubelskim-poszkodowane-dzieci-z-obozu-pilkarskiego</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Wed, 05 Aug 2026 08:48:00 +0200</pubDate>
-</item>
-<item>
-<title>„Cieśnina Ormuz zostanie otwarta bardzo szybko”. Trump zapowiada i grozi Iranowi</title>
-<link>https://zero.pl/news/ciesnina-ormuz-zostanie-otwarta-bardzo-szybko-trump-zapowiada-i-grozi-iranowi</link>
-<guid isPermaLink="true">https://zero.pl/news/ciesnina-ormuz-zostanie-otwarta-bardzo-szybko-trump-zapowiada-i-grozi-iranowi</guid>
-<category>Świat</category>
-<description>Świat — Paweł Żurek</description>
-<pubDate>Wed, 05 Aug 2026 08:19:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
