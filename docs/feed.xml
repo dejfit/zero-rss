@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 08 Aug 2026 15:34:30 +0200</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 16:10:08 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Prawda czy fikcja? Weryfikujemy wszystkie proroctwa „Czarnego lustra”</title>
+<link>https://zero.pl/news/wirtualna-milosc-mordercze-roboty-polityka-w-rekach-ai-czarne-lustro-pod-lupa</link>
+<guid isPermaLink="true">https://zero.pl/news/wirtualna-milosc-mordercze-roboty-polityka-w-rekach-ai-czarne-lustro-pod-lupa</guid>
+<category>Kultura</category>
+<description>Kultura — Michał Walkiewicz</description>
+<pubDate>Sat, 08 Aug 2026 15:58:00 +0200</pubDate>
+</item>
+<item>
+<title>Prezes argentyńskiej federacji o Messim. Mówił o zakończeniu kariery gwiazdy</title>
+<link>https://zero.pl/news/messi-zakonczy-kariere-prezes-afa-komentuje-przyszlosc-gwiazdy</link>
+<guid isPermaLink="true">https://zero.pl/news/messi-zakonczy-kariere-prezes-afa-komentuje-przyszlosc-gwiazdy</guid>
+<category>Świat</category>
+<description>Świat — Aleksandra Cieślik</description>
+<pubDate>Sat, 08 Aug 2026 15:47:00 +0200</pubDate>
+</item>
 <item>
 <title>Napaść z ostrym przedmiotem w Kamiennej Górze. 16-latek zatrzymany</title>
 <link>https://zero.pl/news/napasc-w-kamiennej-gorze-16-latek-podejrzany-15-latek-ranny</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Jabłonowski</description>
 <pubDate>Wed, 05 Aug 2026 07:51:00 +0200</pubDate>
-</item>
-<item>
-<title>Rosjanie zaatakowali ukraińskie bloki. Kilkudziesięciu rannych i zabitych</title>
-<link>https://zero.pl/news/rosjanie-zaatakowali-ukrainskie-bloki-kilkudziesieciu-rannych-i-zabitych</link>
-<guid isPermaLink="true">https://zero.pl/news/rosjanie-zaatakowali-ukrainskie-bloki-kilkudziesieciu-rannych-i-zabitych</guid>
-<category>Świat</category>
-<description>Świat — Paweł Żurek</description>
-<pubDate>Wed, 05 Aug 2026 07:20:00 +0200</pubDate>
-</item>
-<item>
-<title>Spora zmiana na rynku mieszkaniowym. Mniej domów na rynku, a potrzeby rosną</title>
-<link>https://zero.pl/news/spora-zmiana-na-rynku-mieszkaniowym-mniej-domow-na-rynku-a-potrzeby-rosna</link>
-<guid isPermaLink="true">https://zero.pl/news/spora-zmiana-na-rynku-mieszkaniowym-mniej-domow-na-rynku-a-potrzeby-rosna</guid>
-<category>Biznes</category>
-<description>Biznes — Paweł Żurek</description>
-<pubDate>Wed, 05 Aug 2026 06:56:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
