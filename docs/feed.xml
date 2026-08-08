@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 08 Aug 2026 16:48:00 +0200</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 17:12:49 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Chwila wytchnienia w pogodzie. W poniedziałek burze i fala upałów</title>
+<link>https://zero.pl/news/pogoda-na-dzis-niedziele-i-poniedzialek-po-weekendzie-burze-i-fala-upalow</link>
+<guid isPermaLink="true">https://zero.pl/news/pogoda-na-dzis-niedziele-i-poniedzialek-po-weekendzie-burze-i-fala-upalow</guid>
+<category>Kraj</category>
+<description>Kraj — Aleksandra Cieślik</description>
+<pubDate>Sat, 08 Aug 2026 16:51:00 +0200</pubDate>
+</item>
 <item>
 <title>Węgry mają kandydata na prezydenta. Głosowanie w parlamencie we wtorek</title>
 <link>https://zero.pl/news/tisza-petera-magyara-wskazala-kandydata-na-prezydenta-wegier-to-andras-baka</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Paweł Żurek</description>
 <pubDate>Wed, 05 Aug 2026 08:19:00 +0200</pubDate>
-</item>
-<item>
-<title>Rozdroże Mateusza Morawieckiego</title>
-<link>https://zero.pl/news/rozdroze-mateusza-morawieckiego-lepszy-pis-czy-lepsza-platforma</link>
-<guid isPermaLink="true">https://zero.pl/news/rozdroze-mateusza-morawieckiego-lepszy-pis-czy-lepsza-platforma</guid>
-<category>Kraj</category>
-<description>Kraj — Marek Jurek</description>
-<pubDate>Wed, 05 Aug 2026 07:52:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
