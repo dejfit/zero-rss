@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 08 Aug 2026 13:59:08 +0200</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 14:48:38 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Robert Gilman na granicy życia i śmierci. Rosja więzi byłego żołnierza USA</title>
+<link>https://zero.pl/news/robert-gilman-na-granicy-zycia-i-smierci-rosja-wiezi-bylego-zolnierza-usa</link>
+<guid isPermaLink="true">https://zero.pl/news/robert-gilman-na-granicy-zycia-i-smierci-rosja-wiezi-bylego-zolnierza-usa</guid>
+<category>Świat</category>
+<description>Świat — Aleksandra Cieślik</description>
+<pubDate>Sat, 08 Aug 2026 14:29:00 +0200</pubDate>
+</item>
+<item>
+<title>Miał zastąpić Lewandowskiego w Barcelonie. Klub nie zgodził się na transfer</title>
+<link>https://zero.pl/news/mial-zastapic-lewandowskiego-w-barcelonie-klub-nie-zgodzil-sie-na-transfer</link>
+<guid isPermaLink="true">https://zero.pl/news/mial-zastapic-lewandowskiego-w-barcelonie-klub-nie-zgodzil-sie-na-transfer</guid>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
+<pubDate>Sat, 08 Aug 2026 14:01:00 +0200</pubDate>
+</item>
 <item>
 <title>Banki zapowiadają zmiany, będzie trudniej o kredyt? „Ograniczenia mogą być bardzo różne”</title>
 <link>https://zero.pl/news/banki-zapowiadaja-zmiane-bedzie-trudniej-dostac-kredyt</link>
@@ -1190,22 +1206,6 @@
 <category>Kultura</category>
 <description>Kultura — Agnieszka Waś-Turecka</description>
 <pubDate>Wed, 05 Aug 2026 06:18:00 +0200</pubDate>
-</item>
-<item>
-<title>Ceuta. Mała hiszpańska eksklawa, wielki europejski kryzys migracyjny</title>
-<link>https://zero.pl/news/ceuta-mala-hiszpanska-enklawa-wielki-europejski-kryzys-migracyjny</link>
-<guid isPermaLink="true">https://zero.pl/news/ceuta-mala-hiszpanska-enklawa-wielki-europejski-kryzys-migracyjny</guid>
-<category>Świat</category>
-<description>Świat — Marcin Darmas</description>
-<pubDate>Wed, 05 Aug 2026 06:17:00 +0200</pubDate>
-</item>
-<item>
-<title>Pozorne zawieszenie broni. W Gazie co 80 minut ktoś ginie lub zostaje ranny</title>
-<link>https://zero.pl/news/strefa-gazy-lekarze-bez-granic-ujawniaja-przerazajace-dane</link>
-<guid isPermaLink="true">https://zero.pl/news/strefa-gazy-lekarze-bez-granic-ujawniaja-przerazajace-dane</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Tue, 04 Aug 2026 21:56:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
