@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 08 Aug 2026 08:07:45 +0200</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 09:10:35 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Tysiące dzieci żyją w skrajnym ubóstwie. „Utrudniony dostęp do posiłków”</title>
+<link>https://zero.pl/news/tysiace-dzieci-zyja-w-skrajnym-ubostwie-utrudniony-dostep-do-posilkow</link>
+<guid isPermaLink="true">https://zero.pl/news/tysiace-dzieci-zyja-w-skrajnym-ubostwie-utrudniony-dostep-do-posilkow</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Sat, 08 Aug 2026 08:34:00 +0200</pubDate>
+</item>
 <item>
 <title>Tylu Polaków je mięso. „To podstawa koszyka zakupowego”</title>
 <link>https://zero.pl/news/tylu-polakow-je-mieso-to-podstawa-koszyka-zakupowego</link>
@@ -1198,14 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Tomasz Pałasz</description>
 <pubDate>Tue, 04 Aug 2026 19:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Rakieta, alerty i zhakowany minister. Chaos komunikacyjny w Polsce pod lupą Stanowskiego</title>
-<link>https://zero.pl/news/stanowski-o-alertach-rcb-rakiecie-i-wycieku-danych-wiceministra-myrchy</link>
-<guid isPermaLink="true">https://zero.pl/news/stanowski-o-alertach-rcb-rakiecie-i-wycieku-danych-wiceministra-myrchy</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Tue, 04 Aug 2026 19:38:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
