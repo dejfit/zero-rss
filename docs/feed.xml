@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 09 Aug 2026 19:03:22 +0200</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 19:41:55 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>„Nie bądź obojętny”. Polacy protestowali przeciw przemocy wobec Ukraińców</title>
+<link>https://zero.pl/news/nie-badz-obojetny-polacy-protestowali-przeciw-przemocy-wobec-ukraincow</link>
+<guid isPermaLink="true">https://zero.pl/news/nie-badz-obojetny-polacy-protestowali-przeciw-przemocy-wobec-ukraincow</guid>
+<category>Kraj</category>
+<description>Kraj — Aleksandra Cieślik</description>
+<pubDate>Sun, 09 Aug 2026 19:33:00 +0200</pubDate>
+</item>
+<item>
+<title>Polak zmarł podczas nurkowania u wybrzeży Chorwacji</title>
+<link>https://zero.pl/news/polak-zmarl-podczas-nurkowania-u-wybrzezy-chorwacji</link>
+<guid isPermaLink="true">https://zero.pl/news/polak-zmarl-podczas-nurkowania-u-wybrzezy-chorwacji</guid>
+<category>Świat</category>
+<description>Świat — Aleksandra Cieślik</description>
+<pubDate>Sun, 09 Aug 2026 19:08:00 +0200</pubDate>
+</item>
 <item>
 <title>Zaćmienie Słońca i Perseidy. W środę gratka dla fanów astronomii</title>
 <link>https://zero.pl/news/zacmienie-slonca-i-perseidy-w-srode-gratka-dla-fanow-astronomii</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
 <pubDate>Thu, 06 Aug 2026 06:55:00 +0200</pubDate>
-</item>
-<item>
-<title>USA brakuje broni? Trump miał zażądać wyjaśnień od szefa Pentagonu</title>
-<link>https://zero.pl/news/spor-o-zapasy-broni-i-walki-z-iranem-trump-mial-skrytykowac-ministra-hegsetha</link>
-<guid isPermaLink="true">https://zero.pl/news/spor-o-zapasy-broni-i-walki-z-iranem-trump-mial-skrytykowac-ministra-hegsetha</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 06 Aug 2026 06:37:00 +0200</pubDate>
-</item>
-<item>
-<title>Nawrocki kontra rząd. Prześledziliśmy losy najgłośniejszych zawetowanych ustaw</title>
-<link>https://zero.pl/news/jak-rzad-probowal-obejsc-weta-prezydenta-karola-nawrockiego-analiza</link>
-<guid isPermaLink="true">https://zero.pl/news/jak-rzad-probowal-obejsc-weta-prezydenta-karola-nawrockiego-analiza</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Thu, 06 Aug 2026 06:03:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
