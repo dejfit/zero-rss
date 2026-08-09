@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 09 Aug 2026 09:33:39 +0200</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 10:19:34 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Złoto, pallad i platyna. Życie i praca na złożu wartym miliardy dolarów</title>
+<link>https://zero.pl/news/zloto-pallad-i-platyna-zloza-na-grenlandii-ekspedycja-i-odwierty-na-skaergaard</link>
+<guid isPermaLink="true">https://zero.pl/news/zloto-pallad-i-platyna-zloza-na-grenlandii-ekspedycja-i-odwierty-na-skaergaard</guid>
+<category>Świat</category>
+<description>Świat — Piotr Kornacki</description>
+<pubDate>Sun, 09 Aug 2026 10:08:00 +0200</pubDate>
+</item>
+<item>
+<title>Duże zmiany dla kierowców w Krakowie. Już od poniedziałku</title>
+<link>https://zero.pl/news/nowe-obszary-platnego-parkowania-w-krakowie-strefa-obejmie-blonia-mateczny-i-podgorze</link>
+<guid isPermaLink="true">https://zero.pl/news/nowe-obszary-platnego-parkowania-w-krakowie-strefa-obejmie-blonia-mateczny-i-podgorze</guid>
+<category>Moto</category>
+<description>Moto — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 09 Aug 2026 09:44:00 +0200</pubDate>
+</item>
 <item>
 <title>Liban znowu w ogniu. Co z polskimi żołnierzami?</title>
 <link>https://zero.pl/news/misja-unifil-w-libanie-konczy-mandat-a-wojna-trwa-co-z-polskimi-zolnierzami</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Piotr Białczyk</description>
 <pubDate>Wed, 05 Aug 2026 17:24:00 +0200</pubDate>
-</item>
-<item>
-<title>Jest projekt ustawy o pracy platformowej. Kurierzy i taksówkarze przejdą na etat?</title>
-<link>https://zero.pl/news/jest-projekt-ustawy-o-pracy-platformowej-rzad-chce-zwiekszyc-ochrone-pracownikow</link>
-<guid isPermaLink="true">https://zero.pl/news/jest-projekt-ustawy-o-pracy-platformowej-rzad-chce-zwiekszyc-ochrone-pracownikow</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Wed, 05 Aug 2026 16:59:00 +0200</pubDate>
-</item>
-<item>
-<title>Wojskowe manewry na Tajwanie. Taipei odpowiada na wojnę psychologiczną Pekinu</title>
-<link>https://zero.pl/news/tajwan-manewry-han-kuang-odpornosc-kognitywna-blokada-i-nowe-procedury-armii</link>
-<guid isPermaLink="true">https://zero.pl/news/tajwan-manewry-han-kuang-odpornosc-kognitywna-blokada-i-nowe-procedury-armii</guid>
-<category>Wojsko</category>
-<description>Wojsko — Tomasz Pałasz</description>
-<pubDate>Wed, 05 Aug 2026 16:35:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
