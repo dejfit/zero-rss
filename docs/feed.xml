@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 09 Aug 2026 11:52:27 +0200</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 12:23:39 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Rolnik zaorał nową drogę. Usłyszał zarzut, grozi mu do 10 lat więzienia</title>
+<link>https://zero.pl/news/gliwice-rolnik-zaoral-asfalt-na-ul-rybackiej-uslyszal-zarzut-grozi-mu-do-10-lat-wiezienia</link>
+<guid isPermaLink="true">https://zero.pl/news/gliwice-rolnik-zaoral-asfalt-na-ul-rybackiej-uslyszal-zarzut-grozi-mu-do-10-lat-wiezienia</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 09 Aug 2026 12:14:00 +0200</pubDate>
+</item>
+<item>
+<title>Atak na rafinerię Aramco. Huti uderzyli w saudyjskiego giganta</title>
+<link>https://zero.pl/news/arabia-saudyjska-atak-huti-na-rafinerie-aramco-w-dzizanie-pozar-ugaszony</link>
+<guid isPermaLink="true">https://zero.pl/news/arabia-saudyjska-atak-huti-na-rafinerie-aramco-w-dzizanie-pozar-ugaszony</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 09 Aug 2026 11:56:00 +0200</pubDate>
+</item>
 <item>
 <title>Zostało 150 km. Czego brakuje do docelowej sieci autostrad?</title>
 <link>https://zero.pl/news/do-konca-docelowej-sieci-autostrad-w-polsce-brakuje-ok-150-km-co-planuje-gddkia</link>
@@ -1190,22 +1206,6 @@
 <category>Nauka</category>
 <description>Nauka — Bartosz Michalski</description>
 <pubDate>Wed, 05 Aug 2026 18:59:00 +0200</pubDate>
-</item>
-<item>
-<title>Opalanie na koszt podatnika? Kontrowersyjna kontrola skarbówki w Szczecinie</title>
-<link>https://zero.pl/news/opalanie-na-koszt-panstwa-kontrowersyjna-kontrola-skarbowki-w-szczecinskim-solarium</link>
-<guid isPermaLink="true">https://zero.pl/news/opalanie-na-koszt-panstwa-kontrowersyjna-kontrola-skarbowki-w-szczecinskim-solarium</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Wed, 05 Aug 2026 18:52:00 +0200</pubDate>
-</item>
-<item>
-<title>Korytarz dla Bundeswehry. Co zakłada polsko-niemieckie porozumienie obronne</title>
-<link>https://zero.pl/news/korytarz-dla-bundeswehry-co-zaklada-polsko-niemieckie-porozumienie-obronne</link>
-<guid isPermaLink="true">https://zero.pl/news/korytarz-dla-bundeswehry-co-zaklada-polsko-niemieckie-porozumienie-obronne</guid>
-<category>Wojsko</category>
-<description>Wojsko — Wojciech J. Kittel</description>
-<pubDate>Wed, 05 Aug 2026 18:26:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
