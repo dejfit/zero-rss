@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 09 Aug 2026 20:15:21 +0200</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 21:02:44 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Gwiazdowski odpowiada Dymkowi. „Komu i czemu przeszkadza Nawrocki?”</title>
+<link>https://zero.pl/news/gwiazdowski-odpowiada-dymkowi-komu-i-czemu-przeszkadza-nawrocki</link>
+<guid isPermaLink="true">https://zero.pl/news/gwiazdowski-odpowiada-dymkowi-komu-i-czemu-przeszkadza-nawrocki</guid>
+<category>Kraj</category>
+<description>Kraj — Robert Gwiazdowski</description>
+<pubDate>Sun, 09 Aug 2026 20:27:00 +0200</pubDate>
+</item>
+<item>
+<title>Tragedia na Mazurach. 16-latek zginął po zderzeniu skutera z motorówką</title>
+<link>https://zero.pl/news/tragedia-na-mazurach-16-latek-zginal-po-zderzeniu-skutera-z-motorowka</link>
+<guid isPermaLink="true">https://zero.pl/news/tragedia-na-mazurach-16-latek-zginal-po-zderzeniu-skutera-z-motorowka</guid>
+<category>Kraj</category>
+<description>Kraj — Aleksandra Cieślik</description>
+<pubDate>Sun, 09 Aug 2026 20:26:00 +0200</pubDate>
+</item>
 <item>
 <title>Dziecko godzinę samo na balkonie, potem szło po barierce. Uratował je koc</title>
 <link>https://zero.pl/news/dziecko-godzine-samo-na-balkonie-potem-szlo-po-barierce-jak-kot-uratowal-je-koc</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Agnieszka Waś-Turecka</description>
 <pubDate>Thu, 06 Aug 2026 08:22:00 +0200</pubDate>
-</item>
-<item>
-<title>Maroko rozlicza szturm na Ceutę. Są pierwsze wyroki więzienia</title>
-<link>https://zero.pl/news/maroko-procesy-86-osob-po-szturmie-na-ceute-pierwsze-wyroki-wiezienia</link>
-<guid isPermaLink="true">https://zero.pl/news/maroko-procesy-86-osob-po-szturmie-na-ceute-pierwsze-wyroki-wiezienia</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 06 Aug 2026 07:41:00 +0200</pubDate>
-</item>
-<item>
-<title>Nowe święta państwowe? Ministerstwo pracuje nad zmianami</title>
-<link>https://zero.pl/news/zmiany-w-swietach-panstwowych-mkidn-pracuje-nad-ustawa-o-15-sierpnia-i-2-maja</link>
-<guid isPermaLink="true">https://zero.pl/news/zmiany-w-swietach-panstwowych-mkidn-pracuje-nad-ustawa-o-15-sierpnia-i-2-maja</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 06 Aug 2026 07:21:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
