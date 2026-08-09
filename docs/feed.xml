@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 09 Aug 2026 08:30:06 +0200</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 09:33:39 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Liban znowu w ogniu. Co z polskimi żołnierzami?</title>
+<link>https://zero.pl/news/misja-unifil-w-libanie-konczy-mandat-a-wojna-trwa-co-z-polskimi-zolnierzami</link>
+<guid isPermaLink="true">https://zero.pl/news/misja-unifil-w-libanie-konczy-mandat-a-wojna-trwa-co-z-polskimi-zolnierzami</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Sun, 09 Aug 2026 09:11:00 +0200</pubDate>
+</item>
+<item>
+<title>Incydent w parlamencie Kosowa. Premier obrzucony jajkami</title>
+<link>https://zero.pl/news/kosowo-premier-albin-kurti-obrzucony-jajkami-kryzys-polityczny</link>
+<guid isPermaLink="true">https://zero.pl/news/kosowo-premier-albin-kurti-obrzucony-jajkami-kryzys-polityczny</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 09 Aug 2026 08:43:00 +0200</pubDate>
+</item>
 <item>
 <title>Nadchodzi pogodowy rollercoaster. Na termometrach znów będzie 36 stopni</title>
 <link>https://zero.pl/news/prognoza-pogody-na-10-dni-po-krotkim-ochlodzeniu-czeka-nas-powrot-upalow-do-36-stopni</link>
@@ -1190,22 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Tomasz Pałasz</description>
 <pubDate>Wed, 05 Aug 2026 16:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Chwile grozy w Niemczech. Uzbrojony dron na płycie lotniska</title>
-<link>https://zero.pl/news/niemcy-incydent-na-lotnisku-w-lipsku-dron-z-detonatorem-i-zderzenie-samolotu</link>
-<guid isPermaLink="true">https://zero.pl/news/niemcy-incydent-na-lotnisku-w-lipsku-dron-z-detonatorem-i-zderzenie-samolotu</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Wed, 05 Aug 2026 16:08:00 +0200</pubDate>
-</item>
-<item>
-<title>Alarmów lotniczych nie da się już bagatelizować. Nie tylko Shahedy sieją spustoszenie</title>
-<link>https://zero.pl/news/czym-sa-ataki-saturacyjne-i-dlaczego-sa-tak-grozne-dla-ukrainy</link>
-<guid isPermaLink="true">https://zero.pl/news/czym-sa-ataki-saturacyjne-i-dlaczego-sa-tak-grozne-dla-ukrainy</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Wed, 05 Aug 2026 15:58:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
