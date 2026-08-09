@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 09 Aug 2026 19:41:55 +0200</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 20:15:21 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Dziecko godzinę samo na balkonie, potem szło po barierce. Uratował je koc</title>
+<link>https://zero.pl/news/dziecko-godzine-samo-na-balkonie-potem-szlo-po-barierce-jak-kot-uratowal-je-koc</link>
+<guid isPermaLink="true">https://zero.pl/news/dziecko-godzine-samo-na-balkonie-potem-szlo-po-barierce-jak-kot-uratowal-je-koc</guid>
+<category>Kraj</category>
+<description>Kraj — Aleksandra Cieślik</description>
+<pubDate>Sun, 09 Aug 2026 19:53:00 +0200</pubDate>
+</item>
 <item>
 <title>„Nie bądź obojętny”. Polacy protestowali przeciw przemocy wobec Ukraińców</title>
 <link>https://zero.pl/news/nie-badz-obojetny-polacy-protestowali-przeciw-przemocy-wobec-ukraincow</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Agnieszka Waś-Turecka</description>
 <pubDate>Thu, 06 Aug 2026 07:21:00 +0200</pubDate>
-</item>
-<item>
-<title>O krok od katastrofy na niemieckim lotnisku. MSW mówi o „nowej jakości zagrożenia”</title>
-<link>https://zero.pl/news/niemcy-dron-z-ladunkiem-wybuchowym-na-lotnisku-msw-mowi-o-nowej-jakosci-zagrozenia</link>
-<guid isPermaLink="true">https://zero.pl/news/niemcy-dron-z-ladunkiem-wybuchowym-na-lotnisku-msw-mowi-o-nowej-jakosci-zagrozenia</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 06 Aug 2026 06:55:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
