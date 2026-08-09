@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 09 Aug 2026 21:02:44 +0200</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 21:43:48 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Niewiadoma-Phinney wicemistrzynią Tour de France. Piąte podium Polki w Nicei</title>
+<link>https://zero.pl/news/niewiadoma-phinney-wicemistrzynia-tour-de-france-piate-podium-polki-w-nicei</link>
+<guid isPermaLink="true">https://zero.pl/news/niewiadoma-phinney-wicemistrzynia-tour-de-france-piate-podium-polki-w-nicei</guid>
+<category>Świat</category>
+<description>Świat — Aleksandra Cieślik</description>
+<pubDate>Sun, 09 Aug 2026 21:12:00 +0200</pubDate>
+</item>
 <item>
 <title>Gwiazdowski odpowiada Dymkowi. „Komu i czemu przeszkadza Nawrocki?”</title>
 <link>https://zero.pl/news/gwiazdowski-odpowiada-dymkowi-komu-i-czemu-przeszkadza-nawrocki</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Agnieszka Waś-Turecka</description>
 <pubDate>Thu, 06 Aug 2026 08:36:00 +0200</pubDate>
-</item>
-<item>
-<title>Konfederacja przygotowuje się do wyborów. Zaczyna już układać listy</title>
-<link>https://zero.pl/news/wybory-2027-przygotowania-w-konfederacji-partia-zaczyna-juz-ukladac-listy</link>
-<guid isPermaLink="true">https://zero.pl/news/wybory-2027-przygotowania-w-konfederacji-partia-zaczyna-juz-ukladac-listy</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 06 Aug 2026 08:22:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
