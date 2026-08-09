@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 09 Aug 2026 12:23:39 +0200</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 12:59:59 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>USA dały zielone światło. Turcja odsprzedaje Ukrainie pokaźny pakiet broni</title>
+<link>https://zero.pl/news/ukraina-kupila-od-turcji-rakiety-atacms-wyrzutnie-m270-i-amunicje</link>
+<guid isPermaLink="true">https://zero.pl/news/ukraina-kupila-od-turcji-rakiety-atacms-wyrzutnie-m270-i-amunicje</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 09 Aug 2026 12:37:00 +0200</pubDate>
+</item>
 <item>
 <title>Rolnik zaorał nową drogę. Usłyszał zarzut, grozi mu do 10 lat więzienia</title>
 <link>https://zero.pl/news/gliwice-rolnik-zaoral-asfalt-na-ul-rybackiej-uslyszal-zarzut-grozi-mu-do-10-lat-wiezienia</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Kasjan Owsianko</description>
 <pubDate>Wed, 05 Aug 2026 19:18:00 +0200</pubDate>
-</item>
-<item>
-<title>Burze nadciągają do Polski. Czy podczas nawałnicy można brać prysznic?</title>
-<link>https://zero.pl/news/burze-nadciagaja-do-polski-czy-podczas-nawalnicy-mozna-brac-prysznic</link>
-<guid isPermaLink="true">https://zero.pl/news/burze-nadciagaja-do-polski-czy-podczas-nawalnicy-mozna-brac-prysznic</guid>
-<category>Nauka</category>
-<description>Nauka — Bartosz Michalski</description>
-<pubDate>Wed, 05 Aug 2026 18:59:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
