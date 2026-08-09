@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 09 Aug 2026 16:20:17 +0200</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 16:56:41 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Wisła w Warszawie na alarmowo niskim poziomie. Susza może potrwać do października</title>
+<link>https://zero.pl/news/wisla-w-warszawie-na-alarmowo-niskim-poziomie-susza-moze-potrwac-do-pazdziernika</link>
+<guid isPermaLink="true">https://zero.pl/news/wisla-w-warszawie-na-alarmowo-niskim-poziomie-susza-moze-potrwac-do-pazdziernika</guid>
+<category>Kraj</category>
+<description>Kraj — Aleksandra Cieślik</description>
+<pubDate>Sun, 09 Aug 2026 16:35:00 +0200</pubDate>
+</item>
 <item>
 <title>Nawrocki w Skawinie: „Pilnowanie żyrandoli jest nie dla mnie”</title>
 <link>https://zero.pl/news/nawrocki-w-skawinie-pilnowanie-zyrandoli-jest-nie-dla-mnie</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Jacek Prusinowski</description>
 <pubDate>Thu, 06 Aug 2026 06:01:00 +0200</pubDate>
-</item>
-<item>
-<title>Nawrocki niszczy, ale wajb się zgadza. O roku prezydentury</title>
-<link>https://zero.pl/news/rok-karola-nawrockiego-jakub-dymek-wylicza-ile-polakow-kosztowaly-jego-decyzje</link>
-<guid isPermaLink="true">https://zero.pl/news/rok-karola-nawrockiego-jakub-dymek-wylicza-ile-polakow-kosztowaly-jego-decyzje</guid>
-<category>Kraj</category>
-<description>Kraj — Jakub Dymek</description>
-<pubDate>Thu, 06 Aug 2026 06:00:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
