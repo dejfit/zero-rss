@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 09 Aug 2026 13:32:04 +0200</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 13:59:02 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Dwaj bracia topili się w zbiorniku. Stan jednego z nich jest krytyczny</title>
+<link>https://zero.pl/news/szczecin-dzieci-wpadly-do-zbiornika-ppoz-stan-jednego-z-nich-jest-krytyczny</link>
+<guid isPermaLink="true">https://zero.pl/news/szczecin-dzieci-wpadly-do-zbiornika-ppoz-stan-jednego-z-nich-jest-krytyczny</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 09 Aug 2026 13:49:00 +0200</pubDate>
+</item>
+<item>
+<title>Pierwszy taki apel papieża Leona XIV. Zwrócił się do Rosji i Ukrainy</title>
+<link>https://zero.pl/news/apel-papieza-do-ukrainy-i-rosji-leon-xiv-zada-wstrzymania-atakow-na-cywilow</link>
+<guid isPermaLink="true">https://zero.pl/news/apel-papieza-do-ukrainy-i-rosji-leon-xiv-zada-wstrzymania-atakow-na-cywilow</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 09 Aug 2026 13:38:00 +0200</pubDate>
+</item>
 <item>
 <title>FIFA broni Infantino. Wydano specjalny komunikat</title>
 <link>https://zero.pl/news/fifa-odpiera-zarzuty-ws-infantino-oswiadczenie-po-publikacjach-mediow</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Tomasz Pałasz</description>
 <pubDate>Wed, 05 Aug 2026 20:30:00 +0200</pubDate>
-</item>
-<item>
-<title>Kasparow ostro o Putinie: wróg każdego normalnego, wolnego człowieka</title>
-<link>https://zero.pl/news/godzina-zero-garri-kasparow-w-rozmowie-z-arleta-bojke-o-rosji-putinie-i-wojnie</link>
-<guid isPermaLink="true">https://zero.pl/news/godzina-zero-garri-kasparow-w-rozmowie-z-arleta-bojke-o-rosji-putinie-i-wojnie</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Wed, 05 Aug 2026 20:06:00 +0200</pubDate>
-</item>
-<item>
-<title>Prawo i Sprawiedliwość bez dotacji i subwencji. NSA podjął ostateczną decyzję</title>
-<link>https://zero.pl/news/wyrok-nsa-ws-subwencji-pis-kasacja-oddalona-brak-wyplaty-dotacji</link>
-<guid isPermaLink="true">https://zero.pl/news/wyrok-nsa-ws-subwencji-pis-kasacja-oddalona-brak-wyplaty-dotacji</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Wed, 05 Aug 2026 19:36:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
