@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 09 Aug 2026 07:41:59 +0200</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 08:30:06 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Nadchodzi pogodowy rollercoaster. Na termometrach znów będzie 36 stopni</title>
+<link>https://zero.pl/news/prognoza-pogody-na-10-dni-po-krotkim-ochlodzeniu-czeka-nas-powrot-upalow-do-36-stopni</link>
+<guid isPermaLink="true">https://zero.pl/news/prognoza-pogody-na-10-dni-po-krotkim-ochlodzeniu-czeka-nas-powrot-upalow-do-36-stopni</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 09 Aug 2026 08:22:00 +0200</pubDate>
+</item>
+<item>
+<title>W poniedziałek w pobliżu Ziemi będzie duża planetoida. NASA ujawnia szczegóły</title>
+<link>https://zero.pl/news/planetoida-2019-ny2-minie-ziemie-10-sierpnia-nasa-o-szczegolach-przelotu</link>
+<guid isPermaLink="true">https://zero.pl/news/planetoida-2019-ny2-minie-ziemie-10-sierpnia-nasa-o-szczegolach-przelotu</guid>
+<category>Nauka</category>
+<description>Nauka — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 09 Aug 2026 07:41:00 +0200</pubDate>
+</item>
 <item>
 <title>Iran stawia warunki USA. Od ich spełnienia uzależnia otwarcie cieśniny Ormuz</title>
 <link>https://zero.pl/news/iran-uzaleznia-otwarcie-ciesniny-ormuz-od-spelnienia-warunkow-przez-usa</link>
@@ -1190,22 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Michał Bruszewski</description>
 <pubDate>Wed, 05 Aug 2026 15:58:00 +0200</pubDate>
-</item>
-<item>
-<title>Mroczki przed oczami i przyspieszenie rytmu serca. Co naprawdę dzieje się z ciałem w upał?</title>
-<link>https://zero.pl/news/ekstremalne-upaly-w-polsce-dr-sutkowski-udar-i-omdlenia-groza-nie-tylko-chorym</link>
-<guid isPermaLink="true">https://zero.pl/news/ekstremalne-upaly-w-polsce-dr-sutkowski-udar-i-omdlenia-groza-nie-tylko-chorym</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Wed, 05 Aug 2026 15:34:00 +0200</pubDate>
-</item>
-<item>
-<title>Ceuta i wojna obrazów. Jak emocje przejęły władzę nad europejską wyobraźnią</title>
-<link>https://zero.pl/news/ceuta-i-wojna-obrazow-jak-emocje-przejely-wladze-nad-europejska-wyobraznia</link>
-<guid isPermaLink="true">https://zero.pl/news/ceuta-i-wojna-obrazow-jak-emocje-przejely-wladze-nad-europejska-wyobraznia</guid>
-<category>Świat</category>
-<description>Świat — Marcin Darmas</description>
-<pubDate>Wed, 05 Aug 2026 15:16:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
