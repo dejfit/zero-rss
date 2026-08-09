@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 09 Aug 2026 10:19:34 +0200</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 11:06:21 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>To będzie największa taka defilada w historii Polski. Wojsko: Jesteśmy gotowi</title>
+<link>https://zero.pl/news/defilada-w-warszawie-i-parada-morska-w-gdyni-tak-przebiegnie-15-sierpnia</link>
+<guid isPermaLink="true">https://zero.pl/news/defilada-w-warszawie-i-parada-morska-w-gdyni-tak-przebiegnie-15-sierpnia</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 09 Aug 2026 10:21:00 +0200</pubDate>
+</item>
 <item>
 <title>Złoto, pallad i platyna. Życie i praca na złożu wartym miliardy dolarów</title>
 <link>https://zero.pl/news/zloto-pallad-i-platyna-zloza-na-grenlandii-ekspedycja-i-odwierty-na-skaergaard</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
 <pubDate>Wed, 05 Aug 2026 17:52:00 +0200</pubDate>
-</item>
-<item>
-<title>Do czterech razy sztuka? Gibała ponownie zawalczy o Kraków</title>
-<link>https://zero.pl/news/lukasz-gibala-kandydatem-na-prezydenta-krakowa-wystartuje-w-wyborach-2026</link>
-<guid isPermaLink="true">https://zero.pl/news/lukasz-gibala-kandydatem-na-prezydenta-krakowa-wystartuje-w-wyborach-2026</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Białczyk</description>
-<pubDate>Wed, 05 Aug 2026 17:24:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
