@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 09 Aug 2026 05:51:02 +0200</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 06:55:51 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Amerykańskie zapasy broni na wyczerpaniu. „Okno okazji” dla Rosji i Chin</title>
+<link>https://zero.pl/news/amerykanskie-arsenaly-pustoszeja-przez-wojne-z-iranem-rosja-i-chiny-zyskuja-przewage</link>
+<guid isPermaLink="true">https://zero.pl/news/amerykanskie-arsenaly-pustoszeja-przez-wojne-z-iranem-rosja-i-chiny-zyskuja-przewage</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 09 Aug 2026 06:22:00 +0200</pubDate>
+</item>
+<item>
+<title>Morawiecki zakłada partię, a nadal go nie wyrzucili. Karski: Liczyliśmy na opamiętanie</title>
+<link>https://zero.pl/news/rozpad-pis-jak-dlugo-potrwa-wyrzucanie-morawieckiego-karski-tlumaczy-sytuacje</link>
+<guid isPermaLink="true">https://zero.pl/news/rozpad-pis-jak-dlugo-potrwa-wyrzucanie-morawieckiego-karski-tlumaczy-sytuacje</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sun, 09 Aug 2026 06:01:00 +0200</pubDate>
+</item>
 <item>
 <title>Zełenski: Mamy porozumienie z USA ws. Patriotów, ale rakiet wciąż za mało</title>
 <link>https://zero.pl/news/zelenski-o-dostawach-patriotow-ukraina-ma-porozumienie-z-usa-ale-rakiet-jest-za-malo</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Paweł Żurek</description>
 <pubDate>Wed, 05 Aug 2026 14:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Wolą kasę od legitymacji, czyli jak w Warszawie „odpolityczniono” spółki</title>
-<link>https://zero.pl/news/rafal-trzaskowski-odpolitycznia-miejskie-spolki-menedzerowie-zostaja-na-stanowiskach</link>
-<guid isPermaLink="true">https://zero.pl/news/rafal-trzaskowski-odpolitycznia-miejskie-spolki-menedzerowie-zostaja-na-stanowiskach</guid>
-<category>Biznes</category>
-<description>Biznes — Patryk Słowik</description>
-<pubDate>Wed, 05 Aug 2026 14:19:00 +0200</pubDate>
-</item>
-<item>
-<title>Koniec śledztwa w sprawie zdrady dyplomatycznej. Chodziło o katastrofę smoleńską</title>
-<link>https://zero.pl/news/koniec-sledztwa-w-sprawie-zdrady-dyplomatycznej-chodzilo-o-katastrofe-smolenska</link>
-<guid isPermaLink="true">https://zero.pl/news/koniec-sledztwa-w-sprawie-zdrady-dyplomatycznej-chodzilo-o-katastrofe-smolenska</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Wed, 05 Aug 2026 13:46:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
