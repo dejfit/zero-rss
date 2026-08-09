@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 09 Aug 2026 11:06:21 +0200</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 11:52:27 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Zostało 150 km. Czego brakuje do docelowej sieci autostrad?</title>
+<link>https://zero.pl/news/do-konca-docelowej-sieci-autostrad-w-polsce-brakuje-ok-150-km-co-planuje-gddkia</link>
+<guid isPermaLink="true">https://zero.pl/news/do-konca-docelowej-sieci-autostrad-w-polsce-brakuje-ok-150-km-co-planuje-gddkia</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 09 Aug 2026 11:23:00 +0200</pubDate>
+</item>
 <item>
 <title>To będzie największa taka defilada w historii Polski. Wojsko: Jesteśmy gotowi</title>
 <link>https://zero.pl/news/defilada-w-warszawie-i-parada-morska-w-gdyni-tak-przebiegnie-15-sierpnia</link>
@@ -1198,14 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Wojciech J. Kittel</description>
 <pubDate>Wed, 05 Aug 2026 18:26:00 +0200</pubDate>
-</item>
-<item>
-<title>UE finansuje służby, które ją potem szantażują. Ekspert o paradoksie polityki Brukseli</title>
-<link>https://zero.pl/news/najpopularniejsze-szlaki-migracyjne-do-europy-ekspert-o-sytuacji-na-granicach-ue-po-kryzysie-w-ceucie</link>
-<guid isPermaLink="true">https://zero.pl/news/najpopularniejsze-szlaki-migracyjne-do-europy-ekspert-o-sytuacji-na-granicach-ue-po-kryzysie-w-ceucie</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Wed, 05 Aug 2026 17:52:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
