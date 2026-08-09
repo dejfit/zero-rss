@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 09 Aug 2026 17:24:47 +0200</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 17:55:58 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Pola torsyjne miały nas smażyć siecią 5G, pseudomedycyna chce nimi leczyć.  Skąd popularność tej ściemy?</title>
+<link>https://zero.pl/news/pola-torsyjne-radziecka-teoria-z-pogranicza-fantastyki-w-rekach-psedumedycyny</link>
+<guid isPermaLink="true">https://zero.pl/news/pola-torsyjne-radziecka-teoria-z-pogranicza-fantastyki-w-rekach-psedumedycyny</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Sun, 09 Aug 2026 17:41:00 +0200</pubDate>
+</item>
 <item>
 <title>Wisła w Warszawie na alarmowo niskim poziomie. Susza może potrwać do października</title>
 <link>https://zero.pl/news/wisla-w-warszawie-na-alarmowo-niskim-poziomie-susza-moze-potrwac-do-pazdziernika</link>
@@ -16,7 +24,7 @@
 <pubDate>Sun, 09 Aug 2026 16:35:00 +0200</pubDate>
 </item>
 <item>
-<title>Nawrocki w Skawinie: „Pilnowanie żyrandoli jest nie dla mnie”</title>
+<title>Nawrocki w Skawinie: Pilnowanie żyrandoli jest nie dla mnie</title>
 <link>https://zero.pl/news/nawrocki-w-skawinie-pilnowanie-zyrandoli-jest-nie-dla-mnie</link>
 <guid isPermaLink="true">https://zero.pl/news/nawrocki-w-skawinie-pilnowanie-zyrandoli-jest-nie-dla-mnie</guid>
 <category>Kraj</category>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Jan Wróbel</description>
 <pubDate>Thu, 06 Aug 2026 06:02:00 +0200</pubDate>
-</item>
-<item>
-<title>Rok prezydentury Karola Nawrockiego. Sprawdzamy, jak realizuje swój Plan 21</title>
-<link>https://zero.pl/news/rok-od-zaprzysiezenia-nawrockiego-nie-wszystkie-obietnice-zostaly-zrealizowane</link>
-<guid isPermaLink="true">https://zero.pl/news/rok-od-zaprzysiezenia-nawrockiego-nie-wszystkie-obietnice-zostaly-zrealizowane</guid>
-<category>Kraj</category>
-<description>Kraj — Jacek Prusinowski</description>
-<pubDate>Thu, 06 Aug 2026 06:01:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
