@@ -5,8 +5,48 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 10 Aug 2026 14:27:28 +0200</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 15:54:01 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Korupcja przy usuwaniu skutków powodzi? Sprawę zbada prokuratura</title>
+<link>https://zero.pl/news/nieprawidlowosci-przy-usuwaniu-skutkow-powodzi-sprawa-zajmuje-sie-prokuratura</link>
+<guid isPermaLink="true">https://zero.pl/news/nieprawidlowosci-przy-usuwaniu-skutkow-powodzi-sprawa-zajmuje-sie-prokuratura</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Mon, 10 Aug 2026 15:51:00 +0200</pubDate>
+</item>
+<item>
+<title>Wysychające serce Niemiec. Możliwa powtórka z czarnego scenariusza</title>
+<link>https://zero.pl/news/susza-na-renie-uderza-w-gospodarke-niemiec-logistyka-zagrozona-paralizem</link>
+<guid isPermaLink="true">https://zero.pl/news/susza-na-renie-uderza-w-gospodarke-niemiec-logistyka-zagrozona-paralizem</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Mon, 10 Aug 2026 15:21:00 +0200</pubDate>
+</item>
+<item>
+<title>Alert RCB dla pięciu województw. „Możliwe przerwy w dostawie prądu”</title>
+<link>https://zero.pl/news/alert-rcb-dla-pieciu-wojewodztw-mozliwe-przerwy-w-dostawie-pradu</link>
+<guid isPermaLink="true">https://zero.pl/news/alert-rcb-dla-pieciu-wojewodztw-mozliwe-przerwy-w-dostawie-pradu</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Mon, 10 Aug 2026 15:17:00 +0200</pubDate>
+</item>
+<item>
+<title>Jaskinia większa, niż można sobie wyobrazić. W środku płynie rzeka i rośnie las</title>
+<link>https://zero.pl/news/jaskinia-wieksza-niz-mozna-sobie-wyobrazic-w-srodku-plynie-rzeka-i-rosnie-las</link>
+<guid isPermaLink="true">https://zero.pl/news/jaskinia-wieksza-niz-mozna-sobie-wyobrazic-w-srodku-plynie-rzeka-i-rosnie-las</guid>
+<category>Nauka</category>
+<description>Nauka — Bartosz Michalski</description>
+<pubDate>Mon, 10 Aug 2026 15:16:00 +0200</pubDate>
+</item>
+<item>
+<title>Roman Giertych zmienił poglądy. Co o tym myślą politycy Koalicji Obywatelskiej?</title>
+<link>https://zero.pl/news/giertych-z-wicepremiera-rzadu-pis-stal-sie-poslem-ko-politycy-oceniaja-jego-dawne-poglady</link>
+<guid isPermaLink="true">https://zero.pl/news/giertych-z-wicepremiera-rzadu-pis-stal-sie-poslem-ko-politycy-oceniaja-jego-dawne-poglady</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Mon, 10 Aug 2026 14:37:00 +0200</pubDate>
+</item>
 <item>
 <title>Puma pojawiła się na Mazowszu. Służby ostrzegają mieszkańców</title>
 <link>https://zero.pl/news/puma-w-powiecie-ciechanowskim-wladze-ostrzegaja-i-apeluja-o-ostroznosc</link>
@@ -1166,46 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Jabłonowski</description>
 <pubDate>Thu, 06 Aug 2026 18:04:00 +0200</pubDate>
-</item>
-<item>
-<title>Nowa obietnica wyborcza PiS. Chodzi o deportację młodych Ukraińców</title>
-<link>https://zero.pl/news/pis-zapowiedzial-deportacje-mlodych-ukraincow-nowa-obietnica-wyborcza-partii</link>
-<guid isPermaLink="true">https://zero.pl/news/pis-zapowiedzial-deportacje-mlodych-ukraincow-nowa-obietnica-wyborcza-partii</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Thu, 06 Aug 2026 17:47:00 +0200</pubDate>
-</item>
-<item>
-<title>Afera w Szpitalu Południowym to wierzchołek góry lodowej. „A góra może być całkiem spora”</title>
-<link>https://zero.pl/news/audyt-w-szpitalu-poludniowym-ekspert-nie-ma-zludzen-wierzcholek-gory-lodowej</link>
-<guid isPermaLink="true">https://zero.pl/news/audyt-w-szpitalu-poludniowym-ekspert-nie-ma-zludzen-wierzcholek-gory-lodowej</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Thu, 06 Aug 2026 17:22:00 +0200</pubDate>
-</item>
-<item>
-<title>Upały dotarły do szpitali. Chore dzieci chłodzone lodem</title>
-<link>https://zero.pl/news/upaly-w-polsce-w-szpitalu-w-rzeszowie-nie-ma-klimatyzacji-rodzice-chlodza-dzieci-lodem</link>
-<guid isPermaLink="true">https://zero.pl/news/upaly-w-polsce-w-szpitalu-w-rzeszowie-nie-ma-klimatyzacji-rodzice-chlodza-dzieci-lodem</guid>
-<category>Zdrowie</category>
-<description>Zdrowie — Tomasz Pałasz</description>
-<pubDate>Thu, 06 Aug 2026 16:57:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na piątek 7 sierpnia. Czy Zełenski się skończył?</title>
-<link>https://zero.pl/news/program-tv-zero-07-08-czy-zelenski-sie-skonczyl</link>
-<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-07-08-czy-zelenski-sie-skonczyl</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Thu, 06 Aug 2026 16:38:00 +0200</pubDate>
-</item>
-<item>
-<title>PiS szuka nowego otwarcia. Konferencja programowa w rocznicę prezydentury Nawrockiego</title>
-<link>https://zero.pl/news/konferencja-pis-kaczynski-i-czarnek-na-scenie-w-rocznice-zaprzysiezenia-nawrockiego</link>
-<guid isPermaLink="true">https://zero.pl/news/konferencja-pis-kaczynski-i-czarnek-na-scenie-w-rocznice-zaprzysiezenia-nawrockiego</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Thu, 06 Aug 2026 16:26:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
