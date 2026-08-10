@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 10 Aug 2026 18:43:36 +0200</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 19:38:24 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Fotoradary będą bardziej tolerancyjne. A czy nieuchronne?</title>
+<link>https://zero.pl/news/zmiany-w-fotoradarach-rzad-nadal-nie-potrafi-uszczelnic-prawa</link>
+<guid isPermaLink="true">https://zero.pl/news/zmiany-w-fotoradarach-rzad-nadal-nie-potrafi-uszczelnic-prawa</guid>
+<category>Moto</category>
+<description>Moto — Łukasz Zboralski</description>
+<pubDate>Mon, 10 Aug 2026 19:32:00 +0200</pubDate>
+</item>
+<item>
+<title>Kto odpowiada za dzieci w kulturze ekranów? Rodzice, szkoła czy platformy?</title>
+<link>https://zero.pl/news/smartfon-a-zdrowie-dziecka-sen-koncentracja-i-uzaleznienie-od-ekranow</link>
+<guid isPermaLink="true">https://zero.pl/news/smartfon-a-zdrowie-dziecka-sen-koncentracja-i-uzaleznienie-od-ekranow</guid>
+<category>Technologia</category>
+<description>Technologia — Michał Chudoliński</description>
+<pubDate>Mon, 10 Aug 2026 18:50:00 +0200</pubDate>
+</item>
+<item>
+<title>Mniej w portfelach Polaków. GUS podał najnowsze dane</title>
+<link>https://zero.pl/news/wynagrodzenia-w-polsce-spadly-gus-podal-najnowsze-dane</link>
+<guid isPermaLink="true">https://zero.pl/news/wynagrodzenia-w-polsce-spadly-gus-podal-najnowsze-dane</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Mon, 10 Aug 2026 18:49:00 +0200</pubDate>
+</item>
 <item>
 <title>„Wilk syty i Wilkowyje City”. Donald Tusk na planie Rancza</title>
 <link>https://zero.pl/news/donald-tusk-na-planie-serialu-tvp-ranczo-rozmawial-z-wojtem-ktory-zostal-prezydentem</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Tomasz Pałasz</description>
 <pubDate>Fri, 07 Aug 2026 04:40:00 +0200</pubDate>
-</item>
-<item>
-<title>Tańsze paliwo jeszcze w wakacje? Rząd szykuje decyzję</title>
-<link>https://zero.pl/news/oslony-na-paliwa-wroca-minister-energii-o-decyzji-rzadu-i-podatku-od-zyskow</link>
-<guid isPermaLink="true">https://zero.pl/news/oslony-na-paliwa-wroca-minister-energii-o-decyzji-rzadu-i-podatku-od-zyskow</guid>
-<category>Biznes</category>
-<description>Biznes — Piotr Białczyk</description>
-<pubDate>Thu, 06 Aug 2026 21:51:00 +0200</pubDate>
-</item>
-<item>
-<title>Orlen podał wyniki finansowe za pierwsze półrocze. „Znacznie wyższy zysk”</title>
-<link>https://zero.pl/news/orlen-podal-wyniki-finansowe-znacznie-wyzszy-zysk</link>
-<guid isPermaLink="true">https://zero.pl/news/orlen-podal-wyniki-finansowe-znacznie-wyzszy-zysk</guid>
-<category>Biznes</category>
-<description>Biznes — Paweł Żurek</description>
-<pubDate>Thu, 06 Aug 2026 21:25:00 +0200</pubDate>
-</item>
-<item>
-<title>Mazurek pyta o koszt prezydenckiej imprezy. Minister: Szczerze, to nie wiem</title>
-<link>https://zero.pl/news/robert-mazurek-pyta-o-koszt-prezydenckiej-imprezy-pawel-szefernaker-szczerze-to-nie-wiem</link>
-<guid isPermaLink="true">https://zero.pl/news/robert-mazurek-pyta-o-koszt-prezydenckiej-imprezy-pawel-szefernaker-szczerze-to-nie-wiem</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Thu, 06 Aug 2026 21:07:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
