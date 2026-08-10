@@ -5,8 +5,48 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 10 Aug 2026 16:51:01 +0200</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 17:51:32 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>„Klatki” na polskich pojazdach wojskowych. Antydronowe osłony na defiladzie</title>
+<link>https://zero.pl/news/defilada-wojska-polskiego-klatki-na-polskich-pojazdach-wojskowych-do-czego-sluza</link>
+<guid isPermaLink="true">https://zero.pl/news/defilada-wojska-polskiego-klatki-na-polskich-pojazdach-wojskowych-do-czego-sluza</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Mon, 10 Aug 2026 17:47:00 +0200</pubDate>
+</item>
+<item>
+<title>Żłobki i przedszkola zamknięte z powodu upałów? Resort Dziemianowicz-Bąk szykuje zmiany</title>
+<link>https://zero.pl/news/zlobki-i-przedszkola-zamkniete-w-czasie-upalow-ministerstwo-chce-zmian</link>
+<guid isPermaLink="true">https://zero.pl/news/zlobki-i-przedszkola-zamkniete-w-czasie-upalow-ministerstwo-chce-zmian</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Mon, 10 Aug 2026 17:25:00 +0200</pubDate>
+</item>
+<item>
+<title>Zastrzelona rysica pod Złocieńcem. „Państwo jest bezradne”</title>
+<link>https://zero.pl/news/zastrzelona-rysica-w-rzece-kokna-pod-zlociencem-sprawa-trafi-do-prokuratury</link>
+<guid isPermaLink="true">https://zero.pl/news/zastrzelona-rysica-w-rzece-kokna-pod-zlociencem-sprawa-trafi-do-prokuratury</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Mon, 10 Aug 2026 17:07:00 +0200</pubDate>
+</item>
+<item>
+<title>Pełczyńska-Nałęcz o rzekomych planach Hołowni: Superobciach</title>
+<link>https://zero.pl/news/pelczynska-nalecz-o-holowni-w-rzadzie-superobciach</link>
+<guid isPermaLink="true">https://zero.pl/news/pelczynska-nalecz-o-holowni-w-rzadzie-superobciach</guid>
+<category>Kraj</category>
+<description>Kraj — Tymon Zalewski</description>
+<pubDate>Mon, 10 Aug 2026 16:47:00 +0200</pubDate>
+</item>
+<item>
+<title>Złote żniwa firm paliwowych. Minister energii wskazuje na Trumpa i krytykuje Nawrockiego</title>
+<link>https://zero.pl/news/minister-energii-wskazuje-na-trumpa-i-krytykuje-prezydenta-nawrockiego-chodzi-o-ceny-paliw</link>
+<guid isPermaLink="true">https://zero.pl/news/minister-energii-wskazuje-na-trumpa-i-krytykuje-prezydenta-nawrockiego-chodzi-o-ceny-paliw</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Mon, 10 Aug 2026 16:46:00 +0200</pubDate>
+</item>
 <item>
 <title>Miliardy z KPO dla Polski. Komisja Europejska potwierdza</title>
 <link>https://zero.pl/news/komisja-europejska-zaakceptowala-wniosek-miliardy-z-kpo-trafia-do-polski</link>
@@ -1166,46 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Paweł Żurek</description>
 <pubDate>Thu, 06 Aug 2026 20:16:00 +0200</pubDate>
-</item>
-<item>
-<title>Policja ma broń przeciw nastolatkom na crossach. Rodzice szykują po 5000 zł od główki</title>
-<link>https://zero.pl/news/policja-ma-prawny-bat-na-rodzicow-surroniarzy-nagle-widze-duzo-motocykli-na-sprzedaz</link>
-<guid isPermaLink="true">https://zero.pl/news/policja-ma-prawny-bat-na-rodzicow-surroniarzy-nagle-widze-duzo-motocykli-na-sprzedaz</guid>
-<category>Moto</category>
-<description>Moto — Tymon Grabowski</description>
-<pubDate>Thu, 06 Aug 2026 19:40:00 +0200</pubDate>
-</item>
-<item>
-<title>Polacy będą masowo zakładać nowe konta? Minister obiecuje wielkie korzyści</title>
-<link>https://zero.pl/news/polacy-beda-masowo-zakladac-nowe-konta-minister-finansow-zacheca-do-oki</link>
-<guid isPermaLink="true">https://zero.pl/news/polacy-beda-masowo-zakladac-nowe-konta-minister-finansow-zacheca-do-oki</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Thu, 06 Aug 2026 19:24:00 +0200</pubDate>
-</item>
-<item>
-<title>Samsung chce zdradzić Wear OS. To może być dobry pomysł</title>
-<link>https://zero.pl/news/samsung-bez-wear-os-brzmi-jak-dobry-pomysl-czy-to-poczatek-trwalych-zmian</link>
-<guid isPermaLink="true">https://zero.pl/news/samsung-bez-wear-os-brzmi-jak-dobry-pomysl-czy-to-poczatek-trwalych-zmian</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Thu, 06 Aug 2026 19:20:00 +0200</pubDate>
-</item>
-<item>
-<title>Nawrocki podsumowuje pierwszy rok kadencji. „Chcę, byście mnie oceniali”</title>
-<link>https://zero.pl/news/nawrocki-podsumowuje-pierwszy-rok-kadencji-chce-byscie-mnie-oceniali</link>
-<guid isPermaLink="true">https://zero.pl/news/nawrocki-podsumowuje-pierwszy-rok-kadencji-chce-byscie-mnie-oceniali</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Thu, 06 Aug 2026 18:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Ekskluzywny pokaz GTA VI na Netflixie. Internet jest w tej sprawie podzielony</title>
-<link>https://zero.pl/news/ekskluzywny-pokaz-gta-vi-na-netflixie-internet-jest-w-tej-sprawie-podzielony</link>
-<guid isPermaLink="true">https://zero.pl/news/ekskluzywny-pokaz-gta-vi-na-netflixie-internet-jest-w-tej-sprawie-podzielony</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Thu, 06 Aug 2026 18:28:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
