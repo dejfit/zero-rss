@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 10 Aug 2026 12:48:18 +0200</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 13:35:47 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Olga Tokarczuk wyróżniona przez „Daily Telegraph”. Jej książka wśród 50 najlepszych</title>
+<link>https://zero.pl/news/olga-tokarczuk-na-liscie-50-autorow-wszech-czasow-daily-telegraph</link>
+<guid isPermaLink="true">https://zero.pl/news/olga-tokarczuk-na-liscie-50-autorow-wszech-czasow-daily-telegraph</guid>
+<category>Kultura</category>
+<description>Kultura — Tymon Zalewski</description>
+<pubDate>Mon, 10 Aug 2026 13:25:00 +0200</pubDate>
+</item>
+<item>
+<title>Alert RCB o poderwaniu myśliwców nie rozwiązuje problemu. SMS to nie wszystko</title>
+<link>https://zero.pl/news/dostaniemy-sms-z-alertem-rcb-o-poderwaniu-polskich-mysliwcow-co-z-innymi-alarmami</link>
+<guid isPermaLink="true">https://zero.pl/news/dostaniemy-sms-z-alertem-rcb-o-poderwaniu-polskich-mysliwcow-co-z-innymi-alarmami</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Mon, 10 Aug 2026 12:52:00 +0200</pubDate>
+</item>
 <item>
 <title>Niedźwiedzie zginęły pod kołami aut w Tatrach. Policja apeluje</title>
 <link>https://zero.pl/news/tatry-dwa-niedzwiedzie-zginely-w-kolizjach-z-samochodami-policja-apeluje</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
 <pubDate>Thu, 06 Aug 2026 16:13:00 +0200</pubDate>
-</item>
-<item>
-<title>Rosja prowokuje nad Bałtykiem. Nie tylko polscy piloci przechwytują samoloty</title>
-<link>https://zero.pl/news/rosja-prowokuje-nad-baltykiem-nie-tylko-polscy-piloci-przechwytuja-samoloty</link>
-<guid isPermaLink="true">https://zero.pl/news/rosja-prowokuje-nad-baltykiem-nie-tylko-polscy-piloci-przechwytuja-samoloty</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Thu, 06 Aug 2026 15:51:00 +0200</pubDate>
-</item>
-<item>
-<title>Senat odrzuca pomysł prezydenta. Nie będzie referendum o polityce klimatycznej UE</title>
-<link>https://zero.pl/news/referendum-w-sprawie-polityki-ue-senat-zdecydowal-w-sprawie-wniosku-karola-nawrockiego</link>
-<guid isPermaLink="true">https://zero.pl/news/referendum-w-sprawie-polityki-ue-senat-zdecydowal-w-sprawie-wniosku-karola-nawrockiego</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Thu, 06 Aug 2026 15:29:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
