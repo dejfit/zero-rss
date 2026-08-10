@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 10 Aug 2026 06:58:41 +0200</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 08:10:23 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Mniej kradzieży w sklepach, ale rośnie wartość strat. Nowe dane policji</title>
+<link>https://zero.pl/news/kradzieze-sklepowe-w-polsce-jest-ich-mniej-ale-rosnie-znaczenie-przestepstw</link>
+<guid isPermaLink="true">https://zero.pl/news/kradzieze-sklepowe-w-polsce-jest-ich-mniej-ale-rosnie-znaczenie-przestepstw</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Białczyk</description>
+<pubDate>Mon, 10 Aug 2026 07:54:00 +0200</pubDate>
+</item>
+<item>
+<title>To nie przypadek, że Księżyc idealnie zasłania Słońce. Fizyk wyjaśnia</title>
+<link>https://zero.pl/news/zacmienie-slonca-2026-dlaczego-ksiezyc-moze-calkowicie-zaslonic-slonce</link>
+<guid isPermaLink="true">https://zero.pl/news/zacmienie-slonca-2026-dlaczego-ksiezyc-moze-calkowicie-zaslonic-slonce</guid>
+<category>Nauka</category>
+<description>Nauka — Piotr Białczyk</description>
+<pubDate>Mon, 10 Aug 2026 07:30:00 +0200</pubDate>
+</item>
+<item>
+<title>Upał i gwałtowne burze. Potem zwrot w pogodzie</title>
+<link>https://zero.pl/news/pogoda-10-i-11-sierpnia-upal-burze-i-ochlodzenie-w-calej-polsce</link>
+<guid isPermaLink="true">https://zero.pl/news/pogoda-10-i-11-sierpnia-upal-burze-i-ochlodzenie-w-calej-polsce</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Białczyk</description>
+<pubDate>Mon, 10 Aug 2026 07:00:00 +0200</pubDate>
+</item>
 <item>
 <title>Tajwan szykuje „piekielny krajobraz” dla chińskiej armii. Stawia na drony</title>
 <link>https://zero.pl/news/tajwan-rozwija-drony-i-bezzalogowe-lodzie-to-odpowiedz-na-zagrozenie-ze-strony-chin</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
 <pubDate>Thu, 06 Aug 2026 12:40:00 +0200</pubDate>
-</item>
-<item>
-<title>Prokuratura zabezpieczyła majątek Macieja Świrskiego. Chodzi o sprawę sprzed lat</title>
-<link>https://zero.pl/news/polska-fundacja-narodowa-prokuratura-zabezpieczyla-majatek-macieja-swirskiego</link>
-<guid isPermaLink="true">https://zero.pl/news/polska-fundacja-narodowa-prokuratura-zabezpieczyla-majatek-macieja-swirskiego</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Thu, 06 Aug 2026 12:38:00 +0200</pubDate>
-</item>
-<item>
-<title>Rekordowe upały obciążają polską sieć. Dziś po południu krytyczne godziny</title>
-<link>https://zero.pl/news/przez-upaly-znow-goraco-w-polskiej-sieci-operator-zmuszony-do-interwencji</link>
-<guid isPermaLink="true">https://zero.pl/news/przez-upaly-znow-goraco-w-polskiej-sieci-operator-zmuszony-do-interwencji</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Thu, 06 Aug 2026 11:49:00 +0200</pubDate>
-</item>
-<item>
-<title>Boli mnie nagonka na hulajnogi elektryczne. Nie każdy kierujący jest idiotą</title>
-<link>https://zero.pl/news/boli-mnie-nagonka-na-hulajnogi-elektryczne-nie-kazdy-kierujacy-jest-idiota</link>
-<guid isPermaLink="true">https://zero.pl/news/boli-mnie-nagonka-na-hulajnogi-elektryczne-nie-kazdy-kierujacy-jest-idiota</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Thu, 06 Aug 2026 11:44:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
