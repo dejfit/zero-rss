@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 10 Aug 2026 05:19:35 +0200</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 06:58:41 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Tajwan szykuje „piekielny krajobraz” dla chińskiej armii. Stawia na drony</title>
+<link>https://zero.pl/news/tajwan-rozwija-drony-i-bezzalogowe-lodzie-to-odpowiedz-na-zagrozenie-ze-strony-chin</link>
+<guid isPermaLink="true">https://zero.pl/news/tajwan-rozwija-drony-i-bezzalogowe-lodzie-to-odpowiedz-na-zagrozenie-ze-strony-chin</guid>
+<category>Wojsko</category>
+<description>Wojsko — Piotr Białczyk</description>
+<pubDate>Mon, 10 Aug 2026 06:35:00 +0200</pubDate>
+</item>
+<item>
+<title>Od wszechpolaka do platformersa. Kalendarium kariery Romana Giertycha</title>
+<link>https://zero.pl/news/kim-jest-roman-giertych-kalendarium-kariery-wplywowego-posla-ko</link>
+<guid isPermaLink="true">https://zero.pl/news/kim-jest-roman-giertych-kalendarium-kariery-wplywowego-posla-ko</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Mon, 10 Aug 2026 05:59:00 +0200</pubDate>
+</item>
+<item>
+<title>Giertych, „Foka” i Polnord. Czyli jak znany mecenas o niczym nie wiedział</title>
+<link>https://zero.pl/news/roman-giertych-i-afera-polnordu-dlaczego-prokuratura-umorzyla-sledztwo</link>
+<guid isPermaLink="true">https://zero.pl/news/roman-giertych-i-afera-polnordu-dlaczego-prokuratura-umorzyla-sledztwo</guid>
+<category>Kraj</category>
+<description>Kraj — Patryk Słowik</description>
+<pubDate>Mon, 10 Aug 2026 05:59:00 +0200</pubDate>
+</item>
+<item>
+<title>Zakaz rozwodów i publiczna chłosta. Polska marzeń Romana Giertycha</title>
+<link>https://zero.pl/news/zakaz-rozwodow-i-publiczna-chlosta-polska-marzen-i-ewolucja-pogladow-romana-giertycha</link>
+<guid isPermaLink="true">https://zero.pl/news/zakaz-rozwodow-i-publiczna-chlosta-polska-marzen-i-ewolucja-pogladow-romana-giertycha</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Figurski</description>
+<pubDate>Mon, 10 Aug 2026 05:59:00 +0200</pubDate>
+</item>
 <item>
 <title>Lewandowski bohaterem w doliczonym czasie. Chicago Fire odwraca losy meczu</title>
 <link>https://zero.pl/news/lewandowski-bohaterem-w-doliczonym-czasie-chicago-fire-odwraca-losy-meczu</link>
@@ -1174,38 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Thu, 06 Aug 2026 11:44:00 +0200</pubDate>
-</item>
-<item>
-<title>Kapibary przyszły z wizytą. Zaskakujące nagranie trafiło do sieci</title>
-<link>https://zero.pl/news/nietypowi-goscie-w-parlamencie-w-cuiabie-grupa-kapibar-spacerowala-przy-recepcji-wideo</link>
-<guid isPermaLink="true">https://zero.pl/news/nietypowi-goscie-w-parlamencie-w-cuiabie-grupa-kapibar-spacerowala-przy-recepcji-wideo</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 06 Aug 2026 11:42:00 +0200</pubDate>
-</item>
-<item>
-<title>Tragiczna śmierć 15-latki. Śledczy milczą, rodzice apelują do świadków</title>
-<link>https://zero.pl/news/reportaz-kanalu-zero-tragiczna-smierc-15-latki-rodzice-apeluja-do-swiadkow</link>
-<guid isPermaLink="true">https://zero.pl/news/reportaz-kanalu-zero-tragiczna-smierc-15-latki-rodzice-apeluja-do-swiadkow</guid>
-<category>Kraj</category>
-<description>Kraj — Monika Krześniak,Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 06 Aug 2026 11:21:00 +0200</pubDate>
-</item>
-<item>
-<title>Rekord cenowy diesla w Polsce. W nasze portfele uderzają już dwie wojny</title>
-<link>https://zero.pl/news/diesel-najdrozszy-w-historii-powodem-wojna-na-bliskim-wschodzie-ale-namieszala-tez-rosja</link>
-<guid isPermaLink="true">https://zero.pl/news/diesel-najdrozszy-w-historii-powodem-wojna-na-bliskim-wschodzie-ale-namieszala-tez-rosja</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Thu, 06 Aug 2026 10:48:00 +0200</pubDate>
-</item>
-<item>
-<title>„Łaska pańska na pstrym koniu jeździ”. Kukiz o prezydenturze Nawrockiego</title>
-<link>https://zero.pl/news/pawel-kukiz-o-prezydenturze-karola-nawrockiego-sukcesem-zablokowanie-ustaw-rzadu</link>
-<guid isPermaLink="true">https://zero.pl/news/pawel-kukiz-o-prezydenturze-karola-nawrockiego-sukcesem-zablokowanie-ustaw-rzadu</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 06 Aug 2026 09:57:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
