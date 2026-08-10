@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 10 Aug 2026 19:38:24 +0200</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 20:30:28 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Lęki spolaryzowanego Wuja Sama. Bromski: Amerykanin ma czego się bać</title>
+<link>https://zero.pl/news/abdul-el-sayed-wygrywa-prawybory-w-michigan-powiazania-z-cair-isna-i-srodowiskami-zwiazanymi-z-hamasem</link>
+<guid isPermaLink="true">https://zero.pl/news/abdul-el-sayed-wygrywa-prawybory-w-michigan-powiazania-z-cair-isna-i-srodowiskami-zwiazanymi-z-hamasem</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Mon, 10 Aug 2026 20:09:00 +0200</pubDate>
+</item>
+<item>
+<title>1000 dni od pierwszego filmu Kanału Zero. „Dzięki, że jesteście z nami”</title>
+<link>https://zero.pl/news/1000-dni-od-publikacji-pierwszego-filmu-na-kanale-zero</link>
+<guid isPermaLink="true">https://zero.pl/news/1000-dni-od-publikacji-pierwszego-filmu-na-kanale-zero</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Mon, 10 Aug 2026 20:07:00 +0200</pubDate>
+</item>
+<item>
+<title>Miłość na rynku uwagi. Co aplikacje randkowe zrobiły z naszymi relacjami?</title>
+<link>https://zero.pl/news/tinder-i-aplikacje-randkowe-jak-wplywaja-na-milosc-zwiazki-i-samotnosc</link>
+<guid isPermaLink="true">https://zero.pl/news/tinder-i-aplikacje-randkowe-jak-wplywaja-na-milosc-zwiazki-i-samotnosc</guid>
+<category>Technologia</category>
+<description>Technologia — Michał Chudoliński</description>
+<pubDate>Mon, 10 Aug 2026 19:44:00 +0200</pubDate>
+</item>
 <item>
 <title>Fotoradary będą bardziej tolerancyjne. A czy nieuchronne?</title>
 <link>https://zero.pl/news/zmiany-w-fotoradarach-rzad-nadal-nie-potrafi-uszczelnic-prawa</link>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Aleksandra Cieślik</description>
 <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
-</item>
-<item>
-<title>Jeziora znikają z krajobrazu Wielkopolski. „Ludzie dzwonią i pytają, czy jeszcze istnieją”</title>
-<link>https://zero.pl/news/pojezierze-gnieznienskie-wysycha-o-co-chodzi-i-czy-da-sie-je-uratowac</link>
-<guid isPermaLink="true">https://zero.pl/news/pojezierze-gnieznienskie-wysycha-o-co-chodzi-i-czy-da-sie-je-uratowac</guid>
-<category>Kraj</category>
-<description>Kraj — Aleksandra Cieślik</description>
-<pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
-</item>
-<item>
-<title>Mniej łóżek dla pacjentów, więcej gabinetów dla lekarzy. Ujawniamy zmiany w Szpitalu Południowym</title>
-<link>https://zero.pl/news/szpital-poludniowy-sale-dla-pacjentow-zmieniono-w-gabinet-i-salke-dla-lekarzy</link>
-<guid isPermaLink="true">https://zero.pl/news/szpital-poludniowy-sale-dla-pacjentow-zmieniono-w-gabinet-i-salke-dla-lekarzy</guid>
-<category>Kraj</category>
-<description>Kraj — Patryk Słowik,Jakub Styczyński</description>
-<pubDate>Fri, 07 Aug 2026 05:58:00 +0200</pubDate>
-</item>
-<item>
-<title>Debiut Lewandowskiego w Leagues Cup. Trener gości wyrzucony z boiska</title>
-<link>https://zero.pl/news/debiut-lewandowskiego-w-leagues-cup-trener-gosci-wyrzucony-z-boiska</link>
-<guid isPermaLink="true">https://zero.pl/news/debiut-lewandowskiego-w-leagues-cup-trener-gosci-wyrzucony-z-boiska</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Fri, 07 Aug 2026 04:40:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
