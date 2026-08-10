@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 10 Aug 2026 11:43:49 +0200</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 12:48:18 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Niedźwiedzie zginęły pod kołami aut w Tatrach. Policja apeluje</title>
+<link>https://zero.pl/news/tatry-dwa-niedzwiedzie-zginely-w-kolizjach-z-samochodami-policja-apeluje</link>
+<guid isPermaLink="true">https://zero.pl/news/tatry-dwa-niedzwiedzie-zginely-w-kolizjach-z-samochodami-policja-apeluje</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Białczyk</description>
+<pubDate>Mon, 10 Aug 2026 12:41:00 +0200</pubDate>
+</item>
+<item>
+<title>Senator PiS zmienia barwy. „To nie jest rozstanie”</title>
+<link>https://zero.pl/news/ryszard-majer-dolaczyl-do-rozwoj-plus-senator-pis-tlumaczy-swoja-decyzje</link>
+<guid isPermaLink="true">https://zero.pl/news/ryszard-majer-dolaczyl-do-rozwoj-plus-senator-pis-tlumaczy-swoja-decyzje</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Białczyk</description>
+<pubDate>Mon, 10 Aug 2026 12:26:00 +0200</pubDate>
+</item>
+<item>
+<title>Ważą się losy Żabki. Co stanie się z siecią po przejęciu przez Kanadyjczyków?</title>
+<link>https://zero.pl/news/jaka-przyszlosc-czeka-zabke-eksperci-kresla-scenariusze-po-przejeciu-sieci</link>
+<guid isPermaLink="true">https://zero.pl/news/jaka-przyszlosc-czeka-zabke-eksperci-kresla-scenariusze-po-przejeciu-sieci</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Mon, 10 Aug 2026 12:09:00 +0200</pubDate>
+</item>
 <item>
 <title>Kaczyński o protestujących na miesięcznicy. „Przyjdzie dzień zwycięstwa i ukarania”</title>
 <link>https://zero.pl/news/kaczynski-o-protestujacych-na-miesiecznicy-przyjdzie-dzien-zwyciestwa-i-ukarania</link>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
 <pubDate>Thu, 06 Aug 2026 15:29:00 +0200</pubDate>
-</item>
-<item>
-<title>Senat odrzuca kandydaturę na prezesa IPN. Mateusz Szpytma bez poparcia większości</title>
-<link>https://zero.pl/news/senat-nie-zgodzil-sie-na-prezesa-ipn-mateusz-szpytma-przegral-glosowanie</link>
-<guid isPermaLink="true">https://zero.pl/news/senat-nie-zgodzil-sie-na-prezesa-ipn-mateusz-szpytma-przegral-glosowanie</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Thu, 06 Aug 2026 15:16:00 +0200</pubDate>
-</item>
-<item>
-<title>Między podatkowymi obietnicami a okiem Brukseli. Gra o budżet ruszyła</title>
-<link>https://zero.pl/news/ida-wybory-wzrosna-wydatki-minister-finansow-staje-przed-karkolomnym-zadaniem</link>
-<guid isPermaLink="true">https://zero.pl/news/ida-wybory-wzrosna-wydatki-minister-finansow-staje-przed-karkolomnym-zadaniem</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Thu, 06 Aug 2026 14:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Słodzone napoje będą droższe. Eksperci: Jednorazowa podwyżka to za mało</title>
-<link>https://zero.pl/news/ptod-popiera-wyzsza-oplate-cukrowa-i-chce-przeznaczenia-wplywow-na-leczenie-otylosci</link>
-<guid isPermaLink="true">https://zero.pl/news/ptod-popiera-wyzsza-oplate-cukrowa-i-chce-przeznaczenia-wplywow-na-leczenie-otylosci</guid>
-<category>Zdrowie</category>
-<description>Zdrowie — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 06 Aug 2026 13:56:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
