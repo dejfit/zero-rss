@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 10 Aug 2026 03:13:17 +0200</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 05:19:35 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Lewandowski bohaterem w doliczonym czasie. Chicago Fire odwraca losy meczu</title>
+<link>https://zero.pl/news/lewandowski-bohaterem-w-doliczonym-czasie-chicago-fire-odwraca-losy-meczu</link>
+<guid isPermaLink="true">https://zero.pl/news/lewandowski-bohaterem-w-doliczonym-czasie-chicago-fire-odwraca-losy-meczu</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Mon, 10 Aug 2026 04:33:00 +0200</pubDate>
+</item>
 <item>
 <title>Klacz Pila za 160 tys. euro. Tak zakończyła się aukcja Pride of Poland</title>
 <link>https://zero.pl/news/pride-of-poland-2026-wyniki-aukcji-koni-arabskich-w-janowie-podlaskim</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Agnieszka Waś-Turecka</description>
 <pubDate>Thu, 06 Aug 2026 09:57:00 +0200</pubDate>
-</item>
-<item>
-<title>Pierwszy rok prezydentury Karola Nawrockiego. „Prawdziwe testy dopiero przed nim”</title>
-<link>https://zero.pl/news/pierwszy-rok-prezydentury-nawrockiego-chwedoruk-o-pis-konfederacji-i-andrzeju-dudzie</link>
-<guid isPermaLink="true">https://zero.pl/news/pierwszy-rok-prezydentury-nawrockiego-chwedoruk-o-pis-konfederacji-i-andrzeju-dudzie</guid>
-<category>Kraj</category>
-<description>Kraj — Bartosz Michalski</description>
-<pubDate>Thu, 06 Aug 2026 09:49:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
