@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 10 Aug 2026 10:02:07 +0200</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 11:43:49 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Kaczyński o protestujących na miesięcznicy. „Przyjdzie dzień zwycięstwa i ukarania”</title>
+<link>https://zero.pl/news/kaczynski-o-protestujacych-na-miesiecznicy-przyjdzie-dzien-zwyciestwa-i-ukarania</link>
+<guid isPermaLink="true">https://zero.pl/news/kaczynski-o-protestujacych-na-miesiecznicy-przyjdzie-dzien-zwyciestwa-i-ukarania</guid>
+<category>Kraj</category>
+<description>Kraj — Bartosz Michalski</description>
+<pubDate>Mon, 10 Aug 2026 11:34:00 +0200</pubDate>
+</item>
+<item>
+<title>Giertych reaguje na teksty Zero.pl. Pisze o „zabawnych atakach”</title>
+<link>https://zero.pl/news/tydzien-z-romanem-giertychem-posel-ko-reaguje-na-teksty-zero-pl</link>
+<guid isPermaLink="true">https://zero.pl/news/tydzien-z-romanem-giertychem-posel-ko-reaguje-na-teksty-zero-pl</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Białczyk</description>
+<pubDate>Mon, 10 Aug 2026 11:34:00 +0200</pubDate>
+</item>
+<item>
+<title>Koniec papierowej karty DiLO coraz bliżej. Nadchodzi elektroniczny system eDiLO</title>
+<link>https://zero.pl/news/koniec-papierowej-karty-dilo-coraz-blizej-nadchodzi-elektroniczny-system-edilo</link>
+<guid isPermaLink="true">https://zero.pl/news/koniec-papierowej-karty-dilo-coraz-blizej-nadchodzi-elektroniczny-system-edilo</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Bartosz Michalski</description>
+<pubDate>Mon, 10 Aug 2026 10:50:00 +0200</pubDate>
+</item>
+<item>
+<title>Wiek emerytalny dla kobiet w górę? Józefaciuk złożył deklarację w Kanale Zero</title>
+<link>https://zero.pl/news/wiek-emerytalny-dla-kobiet-w-gore-jozefaciuk-deklaruje-w-kanale-zero</link>
+<guid isPermaLink="true">https://zero.pl/news/wiek-emerytalny-dla-kobiet-w-gore-jozefaciuk-deklaruje-w-kanale-zero</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Białczyk</description>
+<pubDate>Mon, 10 Aug 2026 10:45:00 +0200</pubDate>
+</item>
 <item>
 <title>CBA kontroluje fundusze popowodziowe KARR. Chodzi o miliony złotych</title>
 <link>https://zero.pl/news/cba-kontroluje-fundusze-popowodziowe-karr-chodzi-o-miliony-zlotych</link>
@@ -1174,38 +1206,6 @@
 <category>Zdrowie</category>
 <description>Zdrowie — Agnieszka Waś-Turecka</description>
 <pubDate>Thu, 06 Aug 2026 13:56:00 +0200</pubDate>
-</item>
-<item>
-<title>WhatsApp ułatwia rozmowy grupowe. Wśród nowości pojawią się usprawnione ankiety</title>
-<link>https://zero.pl/news/whatsapp-ulatwia-rozmowy-grupowe-wsrod-nowosci-pojawia-sie-usprawnione-ankiety</link>
-<guid isPermaLink="true">https://zero.pl/news/whatsapp-ulatwia-rozmowy-grupowe-wsrod-nowosci-pojawia-sie-usprawnione-ankiety</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Thu, 06 Aug 2026 13:52:00 +0200</pubDate>
-</item>
-<item>
-<title>Rok prezydentury Karola Nawrockiego. Polacy podzieleni w najnowszym sondażu</title>
-<link>https://zero.pl/news/rok-prezydentury-karola-nawrockiego-sondaz-dla-zero-pl</link>
-<guid isPermaLink="true">https://zero.pl/news/rok-prezydentury-karola-nawrockiego-sondaz-dla-zero-pl</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Thu, 06 Aug 2026 13:38:00 +0200</pubDate>
-</item>
-<item>
-<title>Leszczyna przegrała w sądzie z Warchołem. Jej portfel to odczuje</title>
-<link>https://zero.pl/news/izabela-leszczyna-przegrala-proces-z-marcinem-warcholem-ma-przeprosic-i-zaplacic</link>
-<guid isPermaLink="true">https://zero.pl/news/izabela-leszczyna-przegrala-proces-z-marcinem-warcholem-ma-przeprosic-i-zaplacic</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 06 Aug 2026 13:17:00 +0200</pubDate>
-</item>
-<item>
-<title>Adobe Lightroom dostał jedną z najlepszych funkcji Photoshopa i smartfonów</title>
-<link>https://zero.pl/news/adobe-lightroom-dostal-jedna-z-najlepszych-funkcji-photoshopa-i-smartfonow</link>
-<guid isPermaLink="true">https://zero.pl/news/adobe-lightroom-dostal-jedna-z-najlepszych-funkcji-photoshopa-i-smartfonow</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Thu, 06 Aug 2026 13:05:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
