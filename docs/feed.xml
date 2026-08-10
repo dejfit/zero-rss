@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 10 Aug 2026 15:54:01 +0200</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 16:51:01 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Miliardy z KPO dla Polski. Komisja Europejska potwierdza</title>
+<link>https://zero.pl/news/komisja-europejska-zaakceptowala-wniosek-miliardy-z-kpo-trafia-do-polski</link>
+<guid isPermaLink="true">https://zero.pl/news/komisja-europejska-zaakceptowala-wniosek-miliardy-z-kpo-trafia-do-polski</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Mon, 10 Aug 2026 16:14:00 +0200</pubDate>
+</item>
 <item>
 <title>Korupcja przy usuwaniu skutków powodzi? Sprawę zbada prokuratura</title>
 <link>https://zero.pl/news/nieprawidlowosci-przy-usuwaniu-skutkow-powodzi-sprawa-zajmuje-sie-prokuratura</link>
@@ -1198,14 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Thu, 06 Aug 2026 18:28:00 +0200</pubDate>
-</item>
-<item>
-<title>„Musiał się przebić przez zmowę milczenia”. Stanowski o roku prezydentury Nawrockiego</title>
-<link>https://zero.pl/news/krzysztof-stanowski-w-debacie-o-karolu-nawrockim-musial-sie-przebic-przez-zmowe-milczenia</link>
-<guid isPermaLink="true">https://zero.pl/news/krzysztof-stanowski-w-debacie-o-karolu-nawrockim-musial-sie-przebic-przez-zmowe-milczenia</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Thu, 06 Aug 2026 18:04:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
