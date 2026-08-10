@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 10 Aug 2026 08:10:23 +0200</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 10:02:07 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>CBA kontroluje fundusze popowodziowe KARR. Chodzi o miliony złotych</title>
+<link>https://zero.pl/news/cba-kontroluje-fundusze-popowodziowe-karr-chodzi-o-miliony-zlotych</link>
+<guid isPermaLink="true">https://zero.pl/news/cba-kontroluje-fundusze-popowodziowe-karr-chodzi-o-miliony-zlotych</guid>
+<category>Biznes</category>
+<description>Biznes — Piotr Białczyk</description>
+<pubDate>Mon, 10 Aug 2026 09:53:00 +0200</pubDate>
+</item>
+<item>
+<title>Lekarze odkryli ślady maltretowania niemowlęcia. Sześć lat wcześniej ratowali jego brata</title>
+<link>https://zero.pl/news/niemowle-z-obrazeniami-trafilo-do-szpitala-szesc-lat-wczesniej-podobnie-ucierpial-brat</link>
+<guid isPermaLink="true">https://zero.pl/news/niemowle-z-obrazeniami-trafilo-do-szpitala-szesc-lat-wczesniej-podobnie-ucierpial-brat</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Piotr Białczyk</description>
+<pubDate>Mon, 10 Aug 2026 09:36:00 +0200</pubDate>
+</item>
 <item>
 <title>Mniej kradzieży w sklepach, ale rośnie wartość strat. Nowe dane policji</title>
 <link>https://zero.pl/news/kradzieze-sklepowe-w-polsce-jest-ich-mniej-ale-rosnie-znaczenie-przestepstw</link>
@@ -1190,22 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Thu, 06 Aug 2026 13:05:00 +0200</pubDate>
-</item>
-<item>
-<title>Polska gospodarka nokautuje region. Jesteśmy też motorem napędowym UE</title>
-<link>https://zero.pl/news/swietne-dane-o-polskiej-gospodarce-napedzamy-ue-a-w-regionie-nikt-nam-nie-dorowna</link>
-<guid isPermaLink="true">https://zero.pl/news/swietne-dane-o-polskiej-gospodarce-napedzamy-ue-a-w-regionie-nikt-nam-nie-dorowna</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Thu, 06 Aug 2026 12:47:00 +0200</pubDate>
-</item>
-<item>
-<title>Śmierć Polaka po interwencji niemieckiej policji. Trwa śledztwo</title>
-<link>https://zero.pl/news/niemcy-sledztwo-w-sprawie-smierci-polaka-po-interwencji-policji-w-duisburgu</link>
-<guid isPermaLink="true">https://zero.pl/news/niemcy-sledztwo-w-sprawie-smierci-polaka-po-interwencji-policji-w-duisburgu</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 06 Aug 2026 12:40:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
