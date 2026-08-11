@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 11 Aug 2026 21:27:20 +0200</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 22:09:19 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Ukraina gotowa do rozmów z Rosją. „Przekazaliśmy USA nasze propozycje”</title>
+<link>https://zero.pl/news/ukraina-gotowa-do-rozmow-z-rosja-przekazalismy-usa-nasze-propozycje</link>
+<guid isPermaLink="true">https://zero.pl/news/ukraina-gotowa-do-rozmow-z-rosja-przekazalismy-usa-nasze-propozycje</guid>
+<category>Świat</category>
+<description>Świat — Kasjan Owsianko</description>
+<pubDate>Tue, 11 Aug 2026 21:58:00 +0200</pubDate>
+</item>
+<item>
+<title>150 minut ruchu w tygodniu nie wystarczy. Naukowcy podali nowy limit</title>
+<link>https://zero.pl/news/ile-cwiczyc-by-uniknac-chorob-serca-nowe-wyniki-badan-naukowcow</link>
+<guid isPermaLink="true">https://zero.pl/news/ile-cwiczyc-by-uniknac-chorob-serca-nowe-wyniki-badan-naukowcow</guid>
+<category>Nauka</category>
+<description>Nauka — Agnieszka Waś-Turecka</description>
+<pubDate>Tue, 11 Aug 2026 21:50:00 +0200</pubDate>
+</item>
+<item>
+<title>Polacy uziemieni we Włoszech i na Malcie. MSZ deklaruje pomoc</title>
+<link>https://zero.pl/news/turysci-uziemieni-we-wloszech-i-na-malcie-etna-wciaz-aktywna</link>
+<guid isPermaLink="true">https://zero.pl/news/turysci-uziemieni-we-wloszech-i-na-malcie-etna-wciaz-aktywna</guid>
+<category>Świat</category>
+<description>Świat — Krzysztof Jabłonowski</description>
+<pubDate>Tue, 11 Aug 2026 21:39:00 +0200</pubDate>
+</item>
+<item>
+<title>„Politycy mają słabość do cynicznych doradców”. O Giertychu w debacie Kanału Zero</title>
+<link>https://zero.pl/news/debata-kanalu-zero-o-drodze-romana-giertycha-jurek-winnicki-i-slowik-o-roli-polityka</link>
+<guid isPermaLink="true">https://zero.pl/news/debata-kanalu-zero-o-drodze-romana-giertycha-jurek-winnicki-i-slowik-o-roli-polityka</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Tue, 11 Aug 2026 21:30:00 +0200</pubDate>
+</item>
 <item>
 <title>Incydent na Morzu Czarnym. Drony w pobliżu strategicznej inwestycji</title>
 <link>https://zero.pl/news/rumunscy-nurkowie-zniszczyli-drony-gerbera-przy-projekcie-neptun-deep</link>
@@ -1174,38 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
 <pubDate>Sat, 08 Aug 2026 07:11:00 +0200</pubDate>
-</item>
-<item>
-<title>Tony narkotyków zatrzymane u bram Europy. Rekordowe przejęcie służb</title>
-<link>https://zero.pl/news/tyle-narkotykow-nie-przedostalo-sie-do-europy-rekordowe-przejecie-sluzb</link>
-<guid isPermaLink="true">https://zero.pl/news/tyle-narkotykow-nie-przedostalo-sie-do-europy-rekordowe-przejecie-sluzb</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Sat, 08 Aug 2026 06:30:00 +0200</pubDate>
-</item>
-<item>
-<title>5 mln rosyjskich dronów i Wildberries. Ekspert o kulisach wojny bezzałogowców</title>
-<link>https://zero.pl/news/200-tysiecy-trafien-miesiecznie-i-5-mln-dronow-porazajaca-skala-wojny</link>
-<guid isPermaLink="true">https://zero.pl/news/200-tysiecy-trafien-miesiecznie-i-5-mln-dronow-porazajaca-skala-wojny</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Sat, 08 Aug 2026 06:01:00 +0200</pubDate>
-</item>
-<item>
-<title>Nastolatek ranny ostrym narzędziem w Kamiennej Górze. Policja szuka sprawcy</title>
-<link>https://zero.pl/news/kamienna-gora-15-latek-ranny-ostrym-przedmiotem-trwa-sledztwo-policji</link>
-<guid isPermaLink="true">https://zero.pl/news/kamienna-gora-15-latek-ranny-ostrym-przedmiotem-trwa-sledztwo-policji</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Fri, 07 Aug 2026 21:41:00 +0200</pubDate>
-</item>
-<item>
-<title>Morawiecki na Jagodnie: Nadzieje z wyborów zostały pogrzebane</title>
-<link>https://zero.pl/news/spotkanie-na-jagodnie-mateusz-morawiecki-rozdawal-pizze-we-wroclawiu</link>
-<guid isPermaLink="true">https://zero.pl/news/spotkanie-na-jagodnie-mateusz-morawiecki-rozdawal-pizze-we-wroclawiu</guid>
-<category>Kultura</category>
-<description>Kultura — Tomasz Pałasz</description>
-<pubDate>Fri, 07 Aug 2026 21:31:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
