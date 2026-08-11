@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 11 Aug 2026 04:37:39 +0200</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 06:05:10 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Roman Giertych od A do Z. Alfabet politycznego kameleona</title>
+<link>https://zero.pl/news/roman-giertych-od-a-do-z-alfabet-politycznego-kameleona</link>
+<guid isPermaLink="true">https://zero.pl/news/roman-giertych-od-a-do-z-alfabet-politycznego-kameleona</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Figurski</description>
+<pubDate>Tue, 11 Aug 2026 06:02:00 +0200</pubDate>
+</item>
+<item>
+<title>Roman Giertych i sojusz z Rosją</title>
+<link>https://zero.pl/news/roman-giertych-i-sojusz-z-rosja</link>
+<guid isPermaLink="true">https://zero.pl/news/roman-giertych-i-sojusz-z-rosja</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Figurski</description>
+<pubDate>Tue, 11 Aug 2026 06:02:00 +0200</pubDate>
+</item>
 <item>
 <title>Hakerzy wykradli dane 19 mln Polaków? Gawkowski zabiera głos</title>
 <link>https://zero.pl/news/hakerzy-wykradli-dane-osobowe-milionow-polakow-gawkowski-zabiera-glos</link>
@@ -1190,22 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Fri, 07 Aug 2026 08:50:00 +0200</pubDate>
-</item>
-<item>
-<title>Noga z gazu zawsze, ale dziś szczególnie. Rusza duża policyjna akcja</title>
-<link>https://zero.pl/news/noga-z-gazu-zawsze-ale-dzis-szczegolnie-rusza-duza-policyjna-akcja</link>
-<guid isPermaLink="true">https://zero.pl/news/noga-z-gazu-zawsze-ale-dzis-szczegolnie-rusza-duza-policyjna-akcja</guid>
-<category>Moto</category>
-<description>Moto — Piotr Rodzik</description>
-<pubDate>Fri, 07 Aug 2026 08:32:00 +0200</pubDate>
-</item>
-<item>
-<title>„Podobno grad miał nawet wielkość pięści”. Burze przeszły przez Warmię i Mazury</title>
-<link>https://zero.pl/news/burze-przeszly-przez-warmie-i-mazury-straz-pozarna-o-stratach</link>
-<guid isPermaLink="true">https://zero.pl/news/burze-przeszly-przez-warmie-i-mazury-straz-pozarna-o-stratach</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Fri, 07 Aug 2026 07:27:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
