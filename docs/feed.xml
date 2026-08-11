@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 11 Aug 2026 19:25:40 +0200</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 20:14:05 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Nie opłaca się kraść przewodów z ładowarek. Na niczym już nie dają zarobić</title>
+<link>https://zero.pl/news/nie-ucinaj-przewodow-ze-stacji-ladowania-slabo-placa-a-przypal-prawie-pewny</link>
+<guid isPermaLink="true">https://zero.pl/news/nie-ucinaj-przewodow-ze-stacji-ladowania-slabo-placa-a-przypal-prawie-pewny</guid>
+<category>Moto</category>
+<description>Moto — Tymon Grabowski</description>
+<pubDate>Tue, 11 Aug 2026 20:04:00 +0200</pubDate>
+</item>
+<item>
+<title>Do Polski wróci afrykański żar. Wiadomo, kiedy znów będzie 36 st. C</title>
+<link>https://zero.pl/news/pogoda-pogody-na-10-dni-w-weekend-nadciagnie-upal-do-36-stopni-po-nim-duze-ochlodzenie</link>
+<guid isPermaLink="true">https://zero.pl/news/pogoda-pogody-na-10-dni-w-weekend-nadciagnie-upal-do-36-stopni-po-nim-duze-ochlodzenie</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Tue, 11 Aug 2026 19:48:00 +0200</pubDate>
+</item>
+<item>
+<title>„Cała ta decyzja jest wzięta z kosmosu”. Trump zmienia zalecenia ws. szczepień dzieci</title>
+<link>https://zero.pl/news/donald-trump-zmienia-zalecenia-ws-szczepien-dzieci-ekspert-komentuje</link>
+<guid isPermaLink="true">https://zero.pl/news/donald-trump-zmienia-zalecenia-ws-szczepien-dzieci-ekspert-komentuje</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Krzysztof Jabłonowski</description>
+<pubDate>Tue, 11 Aug 2026 19:34:00 +0200</pubDate>
+</item>
+<item>
+<title>Co dzieje się z mózgiem po 50. roku życia? Przełomowe odkrycie naukowców</title>
+<link>https://zero.pl/news/co-dzieje-sie-z-mozgiem-po-50-roku-zycia-nowe-wyniki-badan</link>
+<guid isPermaLink="true">https://zero.pl/news/co-dzieje-sie-z-mozgiem-po-50-roku-zycia-nowe-wyniki-badan</guid>
+<category>Nauka</category>
+<description>Nauka — Agnieszka Waś-Turecka</description>
+<pubDate>Tue, 11 Aug 2026 19:24:00 +0200</pubDate>
+</item>
 <item>
 <title>Co Polacy robią w czasie wolnym? Zaskakujące wyniki sondażu</title>
 <link>https://zero.pl/news/jak-spedzamy-czas-wolny-cbos-27-proc-czyta-ksiazki-a-tylko-10-proc-wybiera-rodzine</link>
@@ -1174,38 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Tomasz Pałasz</description>
 <pubDate>Fri, 07 Aug 2026 21:23:00 +0200</pubDate>
-</item>
-<item>
-<title>Kryzys migracyjny w Ceucie. Wśród migrantów dużo dziewczynek i dzieci</title>
-<link>https://zero.pl/news/kryzys-migracyjny-w-ceucie-wsrod-migrantow-duzo-dziewczynek-i-dzieci</link>
-<guid isPermaLink="true">https://zero.pl/news/kryzys-migracyjny-w-ceucie-wsrod-migrantow-duzo-dziewczynek-i-dzieci</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Fri, 07 Aug 2026 20:57:00 +0200</pubDate>
-</item>
-<item>
-<title>Gibała rusza z kampanią. Tak chce zawalczyć o fotel prezydenta Krakowa</title>
-<link>https://zero.pl/news/lukasz-gibala-kandydatem-na-prezydenta-krakowa-polityk-oglosil-start-w-wyborach</link>
-<guid isPermaLink="true">https://zero.pl/news/lukasz-gibala-kandydatem-na-prezydenta-krakowa-polityk-oglosil-start-w-wyborach</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Fri, 07 Aug 2026 20:32:00 +0200</pubDate>
-</item>
-<item>
-<title>Audyty warszawskich SOR-ów. Ratusz publikuje wyniki</title>
-<link>https://zero.pl/news/afera-w-szpitalu-poludniowym-ratusz-w-warszawie-publikuje-wyniki-audytu-sor-ow</link>
-<guid isPermaLink="true">https://zero.pl/news/afera-w-szpitalu-poludniowym-ratusz-w-warszawie-publikuje-wyniki-audytu-sor-ow</guid>
-<category>Zdrowie</category>
-<description>Zdrowie — Tomasz Pałasz</description>
-<pubDate>Fri, 07 Aug 2026 20:13:00 +0200</pubDate>
-</item>
-<item>
-<title>W BMW na ekranie wyświetla się reklama. BMW twierdzi, że to nie reklama</title>
-<link>https://zero.pl/news/bmw-wyswietla-reklame-na-ekranie-centralnym-musisz-obejrzec-film-o-filmie</link>
-<guid isPermaLink="true">https://zero.pl/news/bmw-wyswietla-reklame-na-ekranie-centralnym-musisz-obejrzec-film-o-filmie</guid>
-<category>Moto</category>
-<description>Moto — Tymon Grabowski</description>
-<pubDate>Fri, 07 Aug 2026 19:54:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
