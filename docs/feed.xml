@@ -5,8 +5,48 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 11 Aug 2026 15:03:30 +0200</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 16:23:53 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Podatek od zysków wraca na agendę rządu. Możliwy też „plan B” z ważną rolą Orlenu</title>
+<link>https://zero.pl/news/rzad-nie-odpuszcza-podatku-od-zyskow-liczy-na-miliardy-jak-zareaguje-karol-nawrocki</link>
+<guid isPermaLink="true">https://zero.pl/news/rzad-nie-odpuszcza-podatku-od-zyskow-liczy-na-miliardy-jak-zareaguje-karol-nawrocki</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Tue, 11 Aug 2026 16:04:00 +0200</pubDate>
+</item>
+<item>
+<title>W Rotterdamie ekshumowano pierwszego szefa OUN. Zostanie pochowany pod Kijowem</title>
+<link>https://zero.pl/news/w-rotterdamie-ekshumowano-pierwszego-szefa-oun-zostanie-pochowany-pod-kijowem</link>
+<guid isPermaLink="true">https://zero.pl/news/w-rotterdamie-ekshumowano-pierwszego-szefa-oun-zostanie-pochowany-pod-kijowem</guid>
+<category>Świat</category>
+<description>Świat — Kasjan Owsianko</description>
+<pubDate>Tue, 11 Aug 2026 15:48:00 +0200</pubDate>
+</item>
+<item>
+<title>Węgry mają nowego prezydenta. Parlament zdecydował</title>
+<link>https://zero.pl/news/wegry-andras-baka-wybrany-na-urzad-prezydenta</link>
+<guid isPermaLink="true">https://zero.pl/news/wegry-andras-baka-wybrany-na-urzad-prezydenta</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Tue, 11 Aug 2026 15:45:00 +0200</pubDate>
+</item>
+<item>
+<title>Prestiż bez kanalizacji. Kupili mieszkania, w których nie mogą żyć. „Stoimy w miejscu”</title>
+<link>https://zero.pl/news/od-6-lat-nie-moga-wprowadzic-sie-do-swoich-mieszkan-batalia-z-deweloperem-w-warszawie</link>
+<guid isPermaLink="true">https://zero.pl/news/od-6-lat-nie-moga-wprowadzic-sie-do-swoich-mieszkan-batalia-z-deweloperem-w-warszawie</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Barejka</description>
+<pubDate>Tue, 11 Aug 2026 15:35:00 +0200</pubDate>
+</item>
+<item>
+<title>Fikcyjne transporty odpadów i fałszywe faktury. Reporterzy ujawniają</title>
+<link>https://zero.pl/news/fikcyjny-recykling-elektrosmieci-dziennikarze-ujawniaja-nieprawidlowosci</link>
+<guid isPermaLink="true">https://zero.pl/news/fikcyjny-recykling-elektrosmieci-dziennikarze-ujawniaja-nieprawidlowosci</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Tue, 11 Aug 2026 15:18:00 +0200</pubDate>
+</item>
 <item>
 <title>Miliardy w skarpetach. Pod względem gotówki w domach Polaków wyprzedza tylko jedna nacja</title>
 <link>https://zero.pl/news/polska-wiceliderem-ue-w-przywiazaniu-do-gotowki-ustepujemy-tylko-niemcom</link>
@@ -1166,46 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Fri, 07 Aug 2026 16:34:00 +0200</pubDate>
-</item>
-<item>
-<title>Volkswagen tonie na oczach właścicieli. Dramatyczny apel o działanie</title>
-<link>https://zero.pl/news/kryzys-w-volkswagenie-poglebia-sie-glos-zabieraja-zaniepokojeni-akcjonariusze</link>
-<guid isPermaLink="true">https://zero.pl/news/kryzys-w-volkswagenie-poglebia-sie-glos-zabieraja-zaniepokojeni-akcjonariusze</guid>
-<category>Moto</category>
-<description>Moto — Katarzyna Dybińska</description>
-<pubDate>Fri, 07 Aug 2026 16:00:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na poniedziałek 10 sierpnia. Mazurek i Józefaciuk w Porannych Rozmowach</title>
-<link>https://zero.pl/news/ramowka-zero-tv-na-10-08-mazurek-i-jozefaciuk-w-porannych-rozmowach</link>
-<guid isPermaLink="true">https://zero.pl/news/ramowka-zero-tv-na-10-08-mazurek-i-jozefaciuk-w-porannych-rozmowach</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Fri, 07 Aug 2026 15:55:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na niedzielę 9 sierpnia. Ulubione programy Kanału Zero w telewizji</title>
-<link>https://zero.pl/news/ramowka-zero-tv-na-niedziele-9-sierpnia-ulubione-programy-kanalu-zero-w-telewizji</link>
-<guid isPermaLink="true">https://zero.pl/news/ramowka-zero-tv-na-niedziele-9-sierpnia-ulubione-programy-kanalu-zero-w-telewizji</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Fri, 07 Aug 2026 15:41:00 +0200</pubDate>
-</item>
-<item>
-<title>Kierowca autobusu przyszedł do pracy w spódnicy. ZTM go ukarał</title>
-<link>https://zero.pl/news/upal-w-polsce-kierowca-autobusu-zalozyl-spodnice-ztm-go-ukaral</link>
-<guid isPermaLink="true">https://zero.pl/news/upal-w-polsce-kierowca-autobusu-zalozyl-spodnice-ztm-go-ukaral</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Fri, 07 Aug 2026 15:39:00 +0200</pubDate>
-</item>
-<item>
-<title>Test Samsung Galaxy Z Fold8 Ultra. Nadal jest nudny, ale nigdy nie był tak dobry</title>
-<link>https://zero.pl/news/samsung-galaxy-z-fold8-ultra-najlepszy-fold-w-historii-ale-zeby-12-000-zl</link>
-<guid isPermaLink="true">https://zero.pl/news/samsung-galaxy-z-fold8-ultra-najlepszy-fold-w-historii-ale-zeby-12-000-zl</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Fri, 07 Aug 2026 15:29:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
