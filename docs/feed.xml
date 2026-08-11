@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 11 Aug 2026 18:23:53 +0200</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 19:25:40 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Co Polacy robią w czasie wolnym? Zaskakujące wyniki sondażu</title>
+<link>https://zero.pl/news/jak-spedzamy-czas-wolny-cbos-27-proc-czyta-ksiazki-a-tylko-10-proc-wybiera-rodzine</link>
+<guid isPermaLink="true">https://zero.pl/news/jak-spedzamy-czas-wolny-cbos-27-proc-czyta-ksiazki-a-tylko-10-proc-wybiera-rodzine</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Tue, 11 Aug 2026 19:12:00 +0200</pubDate>
+</item>
+<item>
+<title>Ukraińcy zagrożeni w Polsce? „Od dłuższego czasu te nastroje się pogarszają”</title>
+<link>https://zero.pl/news/ataki-na-ukraincow-w-polsce-czy-rosnie-przemoc-na-tle-narodowosciowym-kryminolog-odpowiada</link>
+<guid isPermaLink="true">https://zero.pl/news/ataki-na-ukraincow-w-polsce-czy-rosnie-przemoc-na-tle-narodowosciowym-kryminolog-odpowiada</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Tue, 11 Aug 2026 18:47:00 +0200</pubDate>
+</item>
+<item>
+<title>Ramówka Zero TV na środę 12 sierpnia. Henryk Kowalczyk w Porannych Rozmowach Zero</title>
+<link>https://zero.pl/news/ramowka-zero-tv-na-srode-12-sierpnia-co-i-o-ktorej-ogladac</link>
+<guid isPermaLink="true">https://zero.pl/news/ramowka-zero-tv-na-srode-12-sierpnia-co-i-o-ktorej-ogladac</guid>
+<category>Program TV</category>
+<description>Program TV — Redakcja Zero.pl</description>
+<pubDate>Tue, 11 Aug 2026 18:33:00 +0200</pubDate>
+</item>
 <item>
 <title>Susza już niemal w całym kraju. Rolnicy apelują o pomoc i zmianę prawa</title>
 <link>https://zero.pl/news/susza-w-polsce-2026-male-zbiory-rolnikow-i-brak-wody-w-rzekach-susza-na-terenie-calego-kraju</link>
@@ -1182,30 +1206,6 @@
 <category>Moto</category>
 <description>Moto — Tymon Grabowski</description>
 <pubDate>Fri, 07 Aug 2026 19:54:00 +0200</pubDate>
-</item>
-<item>
-<title>Niewiadoma-Phinney wygrywa etap na Mont Ventoux. Polka liderką Tour de France</title>
-<link>https://zero.pl/news/tour-de-france-niewiadoma-phinney-wygrywa-7-etap-i-zostaje-liderka-wyscigu</link>
-<guid isPermaLink="true">https://zero.pl/news/tour-de-france-niewiadoma-phinney-wygrywa-7-etap-i-zostaje-liderka-wyscigu</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Fri, 07 Aug 2026 19:27:00 +0200</pubDate>
-</item>
-<item>
-<title>Chwila ochłody, ale potem lato nie odpuści. Mamy nową wakacyjną prognozę</title>
-<link>https://zero.pl/news/prognoza-pogody-na-wakacje-jaka-temperatura-bedzie-w-drugiej-polowie-sierpnia</link>
-<guid isPermaLink="true">https://zero.pl/news/prognoza-pogody-na-wakacje-jaka-temperatura-bedzie-w-drugiej-polowie-sierpnia</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Fri, 07 Aug 2026 19:12:00 +0200</pubDate>
-</item>
-<item>
-<title>Wiek emerytalny do zmiany? Pełczyńska-Nałęcz tłumaczy się ze swoich słów</title>
-<link>https://zero.pl/news/wiek-emerytalny-do-zmiany-katarzyna-pelczynska-nalecz-tlumaczy-sie-ze-swoich-slow</link>
-<guid isPermaLink="true">https://zero.pl/news/wiek-emerytalny-do-zmiany-katarzyna-pelczynska-nalecz-tlumaczy-sie-ze-swoich-slow</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Fri, 07 Aug 2026 18:54:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
