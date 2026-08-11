@@ -5,14 +5,30 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 11 Aug 2026 13:14:40 +0200</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 13:58:44 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>„Rambo latałby Apachem”. Nowoczesne pole walki przekreśliło śmigłowce?</title>
+<link>https://zero.pl/news/rambo-latalby-apachem-centrum-serwisowe-apache-smiglowce-a-doswiadczenia-ukrainy-i-izraela</link>
+<guid isPermaLink="true">https://zero.pl/news/rambo-latalby-apachem-centrum-serwisowe-apache-smiglowce-a-doswiadczenia-ukrainy-i-izraela</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Tue, 11 Aug 2026 13:20:00 +0200</pubDate>
+</item>
+<item>
+<title>Trump sprzedaje szybszy dostęp do swoich wpisów. Firmy płacą nawet 100 tys. dolarów miesięcznie</title>
+<link>https://zero.pl/news/trump-sprzedaje-szybszy-dostep-do-swoich-wpisow-firmy-placa-nawet-100-tys-dolarow-miesiecznie</link>
+<guid isPermaLink="true">https://zero.pl/news/trump-sprzedaje-szybszy-dostep-do-swoich-wpisow-firmy-placa-nawet-100-tys-dolarow-miesiecznie</guid>
+<category>Świat</category>
+<description>Świat — Bartosz Michalski</description>
+<pubDate>Tue, 11 Aug 2026 13:17:00 +0200</pubDate>
+</item>
 <item>
 <title>Dymisja w rządzie. Tusk ogłasza zmianę</title>
 <link>https://zero.pl/news/maciej-berek-odchodzi-z-rzadu-donald-tusk-oglosil-zmiane</link>
 <guid isPermaLink="true">https://zero.pl/news/maciej-berek-odchodzi-z-rzadu-donald-tusk-oglosil-zmiane</guid>
 <category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
+<description>Kraj — Piotr Białczyk,Tomasz Pałasz</description>
 <pubDate>Tue, 11 Aug 2026 13:08:00 +0200</pubDate>
 </item>
 <item>
@@ -1190,22 +1206,6 @@
 <category>Program TV</category>
 <description>Program TV — Redakcja Zero.pl</description>
 <pubDate>Fri, 07 Aug 2026 15:25:00 +0200</pubDate>
-</item>
-<item>
-<title>Taką formę może przyjąć pakt senacki Nawrockiego. Partie deklarują gotowość</title>
-<link>https://zero.pl/news/pakt-senacki-nawrockiego-taka-moze-przyjac-forme-prawicowe-partie-deklaruja-gotowosc</link>
-<guid isPermaLink="true">https://zero.pl/news/pakt-senacki-nawrockiego-taka-moze-przyjac-forme-prawicowe-partie-deklaruja-gotowosc</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Fri, 07 Aug 2026 14:59:00 +0200</pubDate>
-</item>
-<item>
-<title>„Kraj węgla odkrywa OZE”. Niemcy cieszą się ze zmian w Polsce, martwi ich prezydent</title>
-<link>https://zero.pl/news/niemcy-zauwazyli-zmiane-w-polsce-chwala-nas-za-zwrot-ku-oze</link>
-<guid isPermaLink="true">https://zero.pl/news/niemcy-zauwazyli-zmiane-w-polsce-chwala-nas-za-zwrot-ku-oze</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Fri, 07 Aug 2026 14:38:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
