@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 11 Aug 2026 09:24:31 +0200</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 10:29:41 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Nowe dane o cudzoziemcach w Polsce. Ukraińcy wiodą prym, ale to inna nacja zaskakuje</title>
+<link>https://zero.pl/news/cudzoziemcy-w-polsce-ukraincy-dominuja-ale-to-kolumbijczycy-zaskakuja</link>
+<guid isPermaLink="true">https://zero.pl/news/cudzoziemcy-w-polsce-ukraincy-dominuja-ale-to-kolumbijczycy-zaskakuja</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Tue, 11 Aug 2026 10:16:00 +0200</pubDate>
+</item>
+<item>
+<title>Wrzesień prawdy dla niemieckich partii. AfD rośnie w siłę przed wyborami</title>
+<link>https://zero.pl/news/wybory-w-niemczech-2026-afd-prowadzi-w-saksonii-anhalt-i-meklemburgii-walka-o-berlin</link>
+<guid isPermaLink="true">https://zero.pl/news/wybory-w-niemczech-2026-afd-prowadzi-w-saksonii-anhalt-i-meklemburgii-walka-o-berlin</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Tue, 11 Aug 2026 10:01:00 +0200</pubDate>
+</item>
 <item>
 <title>Lipcowy fortel Trumpa w Turcji. Media o tajnej operacji wokół Air Force One</title>
 <link>https://zero.pl/news/trump-ukrywal-sie-w-kontenerze-cateringowym-przed-wylotem-zmienil-samolot</link>
@@ -1190,22 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Fri, 07 Aug 2026 11:38:00 +0200</pubDate>
-</item>
-<item>
-<title>Ministerstwo Zdrowia: Mamy coraz więcej zespołów ratownictwa medycznego. Podano dane</title>
-<link>https://zero.pl/news/zespolow-ratownictwa-jest-juz-blisko-18-tys-ministerstwo-zdrowia-podalo-dane</link>
-<guid isPermaLink="true">https://zero.pl/news/zespolow-ratownictwa-jest-juz-blisko-18-tys-ministerstwo-zdrowia-podalo-dane</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Fri, 07 Aug 2026 11:32:00 +0200</pubDate>
-</item>
-<item>
-<title>Rośnie bilans ofiar strzelaniny w Tajlandii. Nie żyje co najmniej siedem osób</title>
-<link>https://zero.pl/news/strzelanina-w-tajlandii-nie-zyje-co-najmniej-siedem-osob</link>
-<guid isPermaLink="true">https://zero.pl/news/strzelanina-w-tajlandii-nie-zyje-co-najmniej-siedem-osob</guid>
-<category>Świat</category>
-<description>Świat — Krzysztof Jabłonowski</description>
-<pubDate>Fri, 07 Aug 2026 11:17:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
