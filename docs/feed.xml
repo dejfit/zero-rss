@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 11 Aug 2026 12:28:29 +0200</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 13:14:40 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Dymisja w rządzie. Tusk ogłasza zmianę</title>
+<link>https://zero.pl/news/maciej-berek-odchodzi-z-rzadu-donald-tusk-oglosil-zmiane</link>
+<guid isPermaLink="true">https://zero.pl/news/maciej-berek-odchodzi-z-rzadu-donald-tusk-oglosil-zmiane</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Tue, 11 Aug 2026 13:08:00 +0200</pubDate>
+</item>
 <item>
 <title>Nie żyje Alaksandr Milinkiewicz. Lider białoruskiej opozycji miał 79 lat</title>
 <link>https://zero.pl/news/alaksandr-milinkiewicz-nie-zyje-bialoruski-opozycjonista-mial-79-lat</link>
@@ -1198,14 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Fri, 07 Aug 2026 14:38:00 +0200</pubDate>
-</item>
-<item>
-<title>Zakupy online stały się systemem. Wygrywają ci, którzy znają zasady</title>
-<link>https://zero.pl/news/zakupy-online-staly-sie-systemem-wygrywaja-ci-ktorzy-znaja-zasady</link>
-<guid isPermaLink="true">https://zero.pl/news/zakupy-online-staly-sie-systemem-wygrywaja-ci-ktorzy-znaja-zasady</guid>
-<category>Kraj</category>
-<description>Kraj — Redakcja Zero.pl</description>
-<pubDate>Fri, 07 Aug 2026 14:23:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
