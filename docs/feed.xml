@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 11 Aug 2026 20:14:05 +0200</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 21:27:20 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Incydent na Morzu Czarnym. Drony w pobliżu strategicznej inwestycji</title>
+<link>https://zero.pl/news/rumunscy-nurkowie-zniszczyli-drony-gerbera-przy-projekcie-neptun-deep</link>
+<guid isPermaLink="true">https://zero.pl/news/rumunscy-nurkowie-zniszczyli-drony-gerbera-przy-projekcie-neptun-deep</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Tue, 11 Aug 2026 20:12:00 +0200</pubDate>
+</item>
 <item>
 <title>Nie opłaca się kraść przewodów z ładowarek. Na niczym już nie dają zarobić</title>
 <link>https://zero.pl/news/nie-ucinaj-przewodow-ze-stacji-ladowania-slabo-placa-a-przypal-prawie-pewny</link>
@@ -1198,14 +1206,6 @@
 <category>Kultura</category>
 <description>Kultura — Tomasz Pałasz</description>
 <pubDate>Fri, 07 Aug 2026 21:31:00 +0200</pubDate>
-</item>
-<item>
-<title>Przełom na Kapitolu. Senat USA przyjął ustawę sankcyjną wobec Rosji i Iranu</title>
-<link>https://zero.pl/news/sankcje-na-rosje-i-iran-senat-usa-przyjal-ustawe-grahama</link>
-<guid isPermaLink="true">https://zero.pl/news/sankcje-na-rosje-i-iran-senat-usa-przyjal-ustawe-grahama</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Fri, 07 Aug 2026 21:23:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
