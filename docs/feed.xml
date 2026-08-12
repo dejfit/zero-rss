@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 12 Aug 2026 10:38:13 +0200</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 11:44:58 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Tylna oś odpadła od samochodu po kolizji. Czy chińskie auta są niebezpieczne?</title>
+<link>https://zero.pl/news/po-kolizji-odpadla-tylna-os-w-chinskim-samochodzie-to-sie-zdarza-nie-tylko-chinczykom</link>
+<guid isPermaLink="true">https://zero.pl/news/po-kolizji-odpadla-tylna-os-w-chinskim-samochodzie-to-sie-zdarza-nie-tylko-chinczykom</guid>
+<category>Moto</category>
+<description>Moto — Tymon Grabowski</description>
+<pubDate>Wed, 12 Aug 2026 11:36:00 +0200</pubDate>
+</item>
+<item>
+<title>Ramówka Zero TV na czwartek 13 sierpnia. Prezes Arche Władysław Grochowski w Godzinie Zero</title>
+<link>https://zero.pl/news/ramowka-zero-tv-na-czwartek-13-sierpnia-prezes-arche-wladyslaw-grochowski-w-godzinie-zero</link>
+<guid isPermaLink="true">https://zero.pl/news/ramowka-zero-tv-na-czwartek-13-sierpnia-prezes-arche-wladyslaw-grochowski-w-godzinie-zero</guid>
+<category>Program TV</category>
+<description>Program TV — Paweł Żurek</description>
+<pubDate>Wed, 12 Aug 2026 11:01:00 +0200</pubDate>
+</item>
+<item>
+<title>Początki ORP Wicher. Ekspert: Okręt droższy niż przewidywano</title>
+<link>https://zero.pl/news/chrzest-okretu-orp-wicher-co-wiadomo-o-programie-miecznik</link>
+<guid isPermaLink="true">https://zero.pl/news/chrzest-okretu-orp-wicher-co-wiadomo-o-programie-miecznik</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Wed, 12 Aug 2026 10:50:00 +0200</pubDate>
+</item>
+<item>
+<title>Zaćmienie Słońca pod lupą NASA. Naukowcy wyślą samolot i dziesiątki balonów</title>
+<link>https://zero.pl/news/zacmienie-slonca-pod-lupa-nasa-naukowcy-wysla-samolot-i-dziesiatki-balonow</link>
+<guid isPermaLink="true">https://zero.pl/news/zacmienie-slonca-pod-lupa-nasa-naukowcy-wysla-samolot-i-dziesiatki-balonow</guid>
+<category>Nauka</category>
+<description>Nauka — Bartosz Michalski</description>
+<pubDate>Wed, 12 Aug 2026 10:46:00 +0200</pubDate>
+</item>
 <item>
 <title>Były minister przyznał się do porażki w sprawie programu UE. „Nie zablokowaliśmy go”</title>
 <link>https://zero.pl/news/minister-w-rzadzie-pis-przyznal-w-sprawie-programu-ue-faktycznie-to-sie-nie-udalo</link>
@@ -75,8 +107,8 @@
 <title>Tragiczny bilans trzęsienia ziemi w Kolumbii. „Najsilniejszy kataklizm w XXI wieku”</title>
 <link>https://zero.pl/news/tragiczny-bilans-trzesienia-ziemi-w-kolumbii-najsilniejszy-kataklizm-w-xxi-wieku</link>
 <guid isPermaLink="true">https://zero.pl/news/tragiczny-bilans-trzesienia-ziemi-w-kolumbii-najsilniejszy-kataklizm-w-xxi-wieku</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
 <pubDate>Wed, 12 Aug 2026 06:46:00 +0200</pubDate>
 </item>
 <item>
@@ -1174,38 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Aleksandra Cieślik</description>
 <pubDate>Sat, 08 Aug 2026 16:51:00 +0200</pubDate>
-</item>
-<item>
-<title>Węgry mają kandydata na prezydenta. Głosowanie w parlamencie we wtorek</title>
-<link>https://zero.pl/news/tisza-petera-magyara-wskazala-kandydata-na-prezydenta-wegier-to-andras-baka</link>
-<guid isPermaLink="true">https://zero.pl/news/tisza-petera-magyara-wskazala-kandydata-na-prezydenta-wegier-to-andras-baka</guid>
-<category>Świat</category>
-<description>Świat — Aleksandra Cieślik</description>
-<pubDate>Sat, 08 Aug 2026 16:19:00 +0200</pubDate>
-</item>
-<item>
-<title>Prawda czy fikcja? Weryfikujemy wszystkie proroctwa „Czarnego lustra”</title>
-<link>https://zero.pl/news/wirtualna-milosc-mordercze-roboty-polityka-w-rekach-ai-czarne-lustro-pod-lupa</link>
-<guid isPermaLink="true">https://zero.pl/news/wirtualna-milosc-mordercze-roboty-polityka-w-rekach-ai-czarne-lustro-pod-lupa</guid>
-<category>Kultura</category>
-<description>Kultura — Michał Walkiewicz</description>
-<pubDate>Sat, 08 Aug 2026 15:58:00 +0200</pubDate>
-</item>
-<item>
-<title>Prezes argentyńskiej federacji o Messim. Mówił o zakończeniu kariery gwiazdy</title>
-<link>https://zero.pl/news/messi-zakonczy-kariere-prezes-afa-komentuje-przyszlosc-gwiazdy</link>
-<guid isPermaLink="true">https://zero.pl/news/messi-zakonczy-kariere-prezes-afa-komentuje-przyszlosc-gwiazdy</guid>
-<category>Świat</category>
-<description>Świat — Aleksandra Cieślik</description>
-<pubDate>Sat, 08 Aug 2026 15:47:00 +0200</pubDate>
-</item>
-<item>
-<title>Napaść z ostrym przedmiotem w Kamiennej Górze. 16-latek zatrzymany</title>
-<link>https://zero.pl/news/napasc-w-kamiennej-gorze-16-latek-podejrzany-15-latek-ranny</link>
-<guid isPermaLink="true">https://zero.pl/news/napasc-w-kamiennej-gorze-16-latek-podejrzany-15-latek-ranny</guid>
-<category>Kraj</category>
-<description>Kraj — Aleksandra Cieślik</description>
-<pubDate>Sat, 08 Aug 2026 15:22:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
