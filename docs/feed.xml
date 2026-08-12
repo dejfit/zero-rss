@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 12 Aug 2026 14:27:58 +0200</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 15:57:04 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Karol Nawrocki i apartamenty w Muzeum II WŚ. Jest decyzja prokuratury</title>
+<link>https://zero.pl/news/karol-nawrocki-i-apartamenty-w-muzeum-ii-ws-w-gdansku-prokuratura-umarza-sledztwo</link>
+<guid isPermaLink="true">https://zero.pl/news/karol-nawrocki-i-apartamenty-w-muzeum-ii-ws-w-gdansku-prokuratura-umarza-sledztwo</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Wed, 12 Aug 2026 15:30:00 +0200</pubDate>
+</item>
+<item>
+<title>Zaćmienie Słońca nadciąga nad polską sieć. „Zgasi” fotowoltaikę, co z systemem?</title>
+<link>https://zero.pl/news/zacmienie-slonca-12-sierpnia-2026-co-oznacza-dla-fotowoltaiki-i-polskiej-energetyki</link>
+<guid isPermaLink="true">https://zero.pl/news/zacmienie-slonca-12-sierpnia-2026-co-oznacza-dla-fotowoltaiki-i-polskiej-energetyki</guid>
+<category>Kraj</category>
+<description>Kraj — Katarzyna Dybińska</description>
+<pubDate>Wed, 12 Aug 2026 14:58:00 +0200</pubDate>
+</item>
 <item>
 <title>Gawkowski potwierdza wielki wyciek danych Polaków. Wśród nich dane wrażliwe</title>
 <link>https://zero.pl/news/wyciek-danych-19-mln-polakow-gawkowski-potwierdza-dane-wrazliwe</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Aleksandra Cieślik</description>
 <pubDate>Sat, 08 Aug 2026 20:42:00 +0200</pubDate>
-</item>
-<item>
-<title>Ranking europejskich wywiadów. Polska w pierwszej dziesiątce</title>
-<link>https://zero.pl/news/najlepsze-sluzby-wywiadowcze-w-europie-polska-na-9-miejscu-w-rankingu</link>
-<guid isPermaLink="true">https://zero.pl/news/najlepsze-sluzby-wywiadowcze-w-europie-polska-na-9-miejscu-w-rankingu</guid>
-<category>Świat</category>
-<description>Świat — Aleksandra Cieślik</description>
-<pubDate>Sat, 08 Aug 2026 20:34:00 +0200</pubDate>
-</item>
-<item>
-<title>Dwaj chłopcy wyciągnięci ze zbiornika ppoż. w Szczecinie. Udana reanimacja</title>
-<link>https://zero.pl/news/szczecin-dzieci-wyciagniete-ze-zbiornika-ppoz-przy-szkole-udana-reanimacja</link>
-<guid isPermaLink="true">https://zero.pl/news/szczecin-dzieci-wyciagniete-ze-zbiornika-ppoz-przy-szkole-udana-reanimacja</guid>
-<category>Kraj</category>
-<description>Kraj — Aleksandra Cieślik</description>
-<pubDate>Sat, 08 Aug 2026 20:06:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
