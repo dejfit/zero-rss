@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 12 Aug 2026 16:51:57 +0200</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 17:52:15 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Nie tylko zaćmienie Słońca. Kilka godzin później kolejne niezwykłe zjawisko</title>
+<link>https://zero.pl/news/noc-perseidow-2026-kiedy-maksimum-nastapi-zaraz-po-zacmieniu-slonca-12-sierpnia</link>
+<guid isPermaLink="true">https://zero.pl/news/noc-perseidow-2026-kiedy-maksimum-nastapi-zaraz-po-zacmieniu-slonca-12-sierpnia</guid>
+<category>Nauka</category>
+<description>Nauka — Kasjan Owsianko</description>
+<pubDate>Wed, 12 Aug 2026 17:34:00 +0200</pubDate>
+</item>
+<item>
+<title>Romanowski w Naddniestrzu? Matecki: Żartuję, że jeździ na słoniach w Tanzanii</title>
+<link>https://zero.pl/news/marcin-romanowski-w-naddniestrzu-wniosek-do-sadu-wyslano-z-tyraspola-jest-reakcja-pis</link>
+<guid isPermaLink="true">https://zero.pl/news/marcin-romanowski-w-naddniestrzu-wniosek-do-sadu-wyslano-z-tyraspola-jest-reakcja-pis</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Wed, 12 Aug 2026 17:20:00 +0200</pubDate>
+</item>
+<item>
+<title>Polak pokieruje zespołem F1. Wielkie zmiany w stawce</title>
+<link>https://zero.pl/news/marcin-budkowski-szefem-cadillac-f1-team-polak-trafia-na-szczyt</link>
+<guid isPermaLink="true">https://zero.pl/news/marcin-budkowski-szefem-cadillac-f1-team-polak-trafia-na-szczyt</guid>
+<category>Świat</category>
+<description>Świat — Kasjan Owsianko</description>
+<pubDate>Wed, 12 Aug 2026 16:55:00 +0200</pubDate>
+</item>
 <item>
 <title>Człowiek Tuska może trafić do TK. „Osiem lat gadania jak krew w piach”</title>
 <link>https://zero.pl/news/maciej-berek-sedzia-trybunalu-konstytucyjnego-nie-powinno-byc-politykow-w-trybunale</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
 <pubDate>Sun, 09 Aug 2026 07:22:00 +0200</pubDate>
-</item>
-<item>
-<title>Tysiące migrantów koczują przy granicy z Ceutą. Ryzyko kolejnego szturmu?</title>
-<link>https://zero.pl/news/kryzys-w-ceucie-ponad-111-zatrzymanych-i-rozbiezne-dane-o-smiertelnych-ofiarach-szturmu</link>
-<guid isPermaLink="true">https://zero.pl/news/kryzys-w-ceucie-ponad-111-zatrzymanych-i-rozbiezne-dane-o-smiertelnych-ofiarach-szturmu</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Sun, 09 Aug 2026 06:52:00 +0200</pubDate>
-</item>
-<item>
-<title>Amerykańskie zapasy broni na wyczerpaniu. „Okno okazji” dla Rosji i Chin</title>
-<link>https://zero.pl/news/amerykanskie-arsenaly-pustoszeja-przez-wojne-z-iranem-rosja-i-chiny-zyskuja-przewage</link>
-<guid isPermaLink="true">https://zero.pl/news/amerykanskie-arsenaly-pustoszeja-przez-wojne-z-iranem-rosja-i-chiny-zyskuja-przewage</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Sun, 09 Aug 2026 06:22:00 +0200</pubDate>
-</item>
-<item>
-<title>Morawiecki zakłada partię, a nadal go nie wyrzucili. Karski: Liczyliśmy na opamiętanie</title>
-<link>https://zero.pl/news/rozpad-pis-jak-dlugo-potrwa-wyrzucanie-morawieckiego-karski-tlumaczy-sytuacje</link>
-<guid isPermaLink="true">https://zero.pl/news/rozpad-pis-jak-dlugo-potrwa-wyrzucanie-morawieckiego-karski-tlumaczy-sytuacje</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Sun, 09 Aug 2026 06:01:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
