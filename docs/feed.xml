@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 12 Aug 2026 12:44:01 +0200</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 13:32:30 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Nieoczekiwana pomoc dla Gibały. Partia z koalicji rządowej rozważa wsparcie</title>
+<link>https://zero.pl/news/wybory-w-krakowie-giabala-moze-otrzymac-wsparcie-polski-2050</link>
+<guid isPermaLink="true">https://zero.pl/news/wybory-w-krakowie-giabala-moze-otrzymac-wsparcie-polski-2050</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Wed, 12 Aug 2026 13:01:00 +0200</pubDate>
+</item>
 <item>
 <title>Marcin Romanowski odnaleziony. Sąd wskazał miejsce</title>
 <link>https://zero.pl/news/marcin-romanowski-odnaleziony-stamtad-wyslal-wniosek-do-sadu</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Aleksandra Cieślik</description>
 <pubDate>Sat, 08 Aug 2026 18:41:00 +0200</pubDate>
-</item>
-<item>
-<title>Rolnik zaorał nowy asfalt w Gliwicach. Straty to ok. 400 tys. zł</title>
-<link>https://zero.pl/news/gliwice-rolnik-zniszczyl-nowy-asfalt-na-ul-rybackiej-straty-400-tys-zl</link>
-<guid isPermaLink="true">https://zero.pl/news/gliwice-rolnik-zniszczyl-nowy-asfalt-na-ul-rybackiej-straty-400-tys-zl</guid>
-<category>Kraj</category>
-<description>Kraj — Aleksandra Cieślik</description>
-<pubDate>Sat, 08 Aug 2026 18:17:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
