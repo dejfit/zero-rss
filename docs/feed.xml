@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 12 Aug 2026 15:57:04 +0200</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 16:51:57 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Człowiek Tuska może trafić do TK. „Osiem lat gadania jak krew w piach”</title>
+<link>https://zero.pl/news/maciej-berek-sedzia-trybunalu-konstytucyjnego-nie-powinno-byc-politykow-w-trybunale</link>
+<guid isPermaLink="true">https://zero.pl/news/maciej-berek-sedzia-trybunalu-konstytucyjnego-nie-powinno-byc-politykow-w-trybunale</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Wed, 12 Aug 2026 16:29:00 +0200</pubDate>
+</item>
+<item>
+<title>Nowe transfery do frakcji Morawieckiego. Tym razem samorządowcy</title>
+<link>https://zero.pl/news/rozwoj-plus-z-nowymi-czlonkami-samorzadowcy-opuszczaja-pis</link>
+<guid isPermaLink="true">https://zero.pl/news/rozwoj-plus-z-nowymi-czlonkami-samorzadowcy-opuszczaja-pis</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Wed, 12 Aug 2026 16:04:00 +0200</pubDate>
+</item>
 <item>
 <title>Karol Nawrocki i apartamenty w Muzeum II WŚ. Jest decyzja prokuratury</title>
 <link>https://zero.pl/news/karol-nawrocki-i-apartamenty-w-muzeum-ii-ws-w-gdansku-prokuratura-umarza-sledztwo</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Kasjan Owsianko</description>
 <pubDate>Sun, 09 Aug 2026 06:01:00 +0200</pubDate>
-</item>
-<item>
-<title>Zełenski: Mamy porozumienie z USA ws. Patriotów, ale rakiet wciąż za mało</title>
-<link>https://zero.pl/news/zelenski-o-dostawach-patriotow-ukraina-ma-porozumienie-z-usa-ale-rakiet-jest-za-malo</link>
-<guid isPermaLink="true">https://zero.pl/news/zelenski-o-dostawach-patriotow-ukraina-ma-porozumienie-z-usa-ale-rakiet-jest-za-malo</guid>
-<category>Świat</category>
-<description>Świat — Aleksandra Cieślik</description>
-<pubDate>Sat, 08 Aug 2026 21:51:00 +0200</pubDate>
-</item>
-<item>
-<title>Ekshumacje na Wołyniu. Władze Ukrainy wydały kolejne zgody</title>
-<link>https://zero.pl/news/rzez-wolynska-ukraina-wydala-zgody-na-kolejne-ekshumacje</link>
-<guid isPermaLink="true">https://zero.pl/news/rzez-wolynska-ukraina-wydala-zgody-na-kolejne-ekshumacje</guid>
-<category>Świat</category>
-<description>Świat — Aleksandra Cieślik</description>
-<pubDate>Sat, 08 Aug 2026 20:42:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
