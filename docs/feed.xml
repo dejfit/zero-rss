@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 12 Aug 2026 04:38:32 +0200</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 06:26:01 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Nie masz okularów do zaćmienia? Astronom pokazuje prosty sposób</title>
+<link>https://zero.pl/news/zacmienie-slonca-12-sierpnia-2026-jak-je-ogladac-bezpiecznie-bez-okularow</link>
+<guid isPermaLink="true">https://zero.pl/news/zacmienie-slonca-12-sierpnia-2026-jak-je-ogladac-bezpiecznie-bez-okularow</guid>
+<category>Nauka</category>
+<description>Nauka — Bartosz Michalski</description>
+<pubDate>Wed, 12 Aug 2026 05:59:00 +0200</pubDate>
+</item>
+<item>
+<title>Mordor po sezonie. Jak słabnie internetowa armia Romana Giertycha</title>
+<link>https://zero.pl/news/siec-na-wybory-i-silni-razem-w-kryzysie-jak-slabnie-internetowa-armia-romana-giertycha</link>
+<guid isPermaLink="true">https://zero.pl/news/siec-na-wybory-i-silni-razem-w-kryzysie-jak-slabnie-internetowa-armia-romana-giertycha</guid>
+<category>Kraj</category>
+<description>Kraj — Jakub Szymczuk</description>
+<pubDate>Wed, 12 Aug 2026 05:57:00 +0200</pubDate>
+</item>
+<item>
+<title>Minister od mundurków i amnestii. Jak Roman Giertych wstrząsnął polską szkołą</title>
+<link>https://zero.pl/news/amnestia-maturalna-i-mundurki-bilans-rzadow-romana-giertycha-w-edukacji</link>
+<guid isPermaLink="true">https://zero.pl/news/amnestia-maturalna-i-mundurki-bilans-rzadow-romana-giertycha-w-edukacji</guid>
+<category>Kraj</category>
+<description>Kraj — Łukasz Wolański</description>
+<pubDate>Wed, 12 Aug 2026 05:55:00 +0200</pubDate>
+</item>
+<item>
+<title>Brakuje pieniędzy na godne umieranie. Hospicja ograniczają przyjęcia</title>
+<link>https://zero.pl/news/problemy-hospicjow-z-finansowaniem-chorzy-czekaja-na-przyjecie</link>
+<guid isPermaLink="true">https://zero.pl/news/problemy-hospicjow-z-finansowaniem-chorzy-czekaja-na-przyjecie</guid>
+<category>Kraj</category>
+<description>Kraj — Filip Baczkura,Patryk Słowik,Jakub Styczyński</description>
+<pubDate>Wed, 12 Aug 2026 05:55:00 +0200</pubDate>
+</item>
 <item>
 <title>Ukraina gotowa do rozmów z Rosją. „Przekazaliśmy USA nasze propozycje”</title>
 <link>https://zero.pl/news/ukraina-gotowa-do-rozmow-z-rosja-przekazalismy-usa-nasze-propozycje</link>
@@ -1174,38 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
 <pubDate>Sat, 08 Aug 2026 09:20:00 +0200</pubDate>
-</item>
-<item>
-<title>Konfederacja wyśmiewa obietnicę wyborczą PiS. „Nikt nie wybierze podróbki”</title>
-<link>https://zero.pl/news/konfederacja-o-obietnicy-wyborczej-pis-to-podbieranie-naszych-pomyslow</link>
-<guid isPermaLink="true">https://zero.pl/news/konfederacja-o-obietnicy-wyborczej-pis-to-podbieranie-naszych-pomyslow</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Sat, 08 Aug 2026 09:18:00 +0200</pubDate>
-</item>
-<item>
-<title>Tysiące dzieci żyją w skrajnym ubóstwie. „Utrudniony dostęp do posiłków”</title>
-<link>https://zero.pl/news/tysiace-dzieci-zyja-w-skrajnym-ubostwie-utrudniony-dostep-do-posilkow</link>
-<guid isPermaLink="true">https://zero.pl/news/tysiace-dzieci-zyja-w-skrajnym-ubostwie-utrudniony-dostep-do-posilkow</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Sat, 08 Aug 2026 08:34:00 +0200</pubDate>
-</item>
-<item>
-<title>Tylu Polaków je mięso. „To podstawa koszyka zakupowego”</title>
-<link>https://zero.pl/news/tylu-polakow-je-mieso-to-podstawa-koszyka-zakupowego</link>
-<guid isPermaLink="true">https://zero.pl/news/tylu-polakow-je-mieso-to-podstawa-koszyka-zakupowego</guid>
-<category>Nauka</category>
-<description>Nauka — Paweł Żurek</description>
-<pubDate>Sat, 08 Aug 2026 07:36:00 +0200</pubDate>
-</item>
-<item>
-<title>Rolnik zaorał świeżo położony asfalt na ulicy. „Twierdzi, że to jego droga”</title>
-<link>https://zero.pl/news/rolnik-zaoral-swiezo-polozony-asfalt-na-ulicy-twierdzi-ze-to-jego-droga</link>
-<guid isPermaLink="true">https://zero.pl/news/rolnik-zaoral-swiezo-polozony-asfalt-na-ulicy-twierdzi-ze-to-jego-droga</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Sat, 08 Aug 2026 07:11:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
