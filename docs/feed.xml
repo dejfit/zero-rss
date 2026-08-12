@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 12 Aug 2026 18:47:31 +0200</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 19:45:13 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Wysoki sądzie, Fabianek nie żyje. I to twoja wina</title>
+<link>https://zero.pl/news/kierowca-pod-wplywem-narkotykow-mial-wyrok-w-zawieszeniu-zabil-fabianka</link>
+<guid isPermaLink="true">https://zero.pl/news/kierowca-pod-wplywem-narkotykow-mial-wyrok-w-zawieszeniu-zabil-fabianka</guid>
+<category>Kraj</category>
+<description>Kraj — Łukasz Zboralski</description>
+<pubDate>Wed, 12 Aug 2026 19:34:00 +0200</pubDate>
+</item>
+<item>
+<title>Opakowaniowa rewolucja w UE. Nowe przepisy zmienią naszą codzienność</title>
+<link>https://zero.pl/news/unijne-rozporzadzenie-ppwr-wchodzi-w-zycie-to-rewolucja-dotyczaca-opakowan</link>
+<guid isPermaLink="true">https://zero.pl/news/unijne-rozporzadzenie-ppwr-wchodzi-w-zycie-to-rewolucja-dotyczaca-opakowan</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Wed, 12 Aug 2026 19:17:00 +0200</pubDate>
+</item>
+<item>
+<title>To tam może przebywać Romanowski. Czym jest Naddniestrze?</title>
+<link>https://zero.pl/news/czym-jest-naddniestrze-przyblizamy-historie-separatystycznego-parapanstwa</link>
+<guid isPermaLink="true">https://zero.pl/news/czym-jest-naddniestrze-przyblizamy-historie-separatystycznego-parapanstwa</guid>
+<category>Świat</category>
+<description>Świat — Kasjan Owsianko</description>
+<pubDate>Wed, 12 Aug 2026 18:48:00 +0200</pubDate>
+</item>
 <item>
 <title>Komandosi z Formozy, czyli polscy Navy SEALs. Z kim ćwiczył prezydent Nawrocki?</title>
 <link>https://zero.pl/news/prezydent-nawrocki-cwiczyl-z-formoza-kim-sa-polscy-navy-seals</link>
@@ -1182,30 +1206,6 @@
 <category>Moto</category>
 <description>Moto — Agnieszka Waś-Turecka</description>
 <pubDate>Sun, 09 Aug 2026 09:44:00 +0200</pubDate>
-</item>
-<item>
-<title>Liban znowu w ogniu. Co z polskimi żołnierzami?</title>
-<link>https://zero.pl/news/misja-unifil-w-libanie-konczy-mandat-a-wojna-trwa-co-z-polskimi-zolnierzami</link>
-<guid isPermaLink="true">https://zero.pl/news/misja-unifil-w-libanie-konczy-mandat-a-wojna-trwa-co-z-polskimi-zolnierzami</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Sun, 09 Aug 2026 09:11:00 +0200</pubDate>
-</item>
-<item>
-<title>Incydent w parlamencie Kosowa. Premier obrzucony jajkami</title>
-<link>https://zero.pl/news/kosowo-premier-albin-kurti-obrzucony-jajkami-kryzys-polityczny</link>
-<guid isPermaLink="true">https://zero.pl/news/kosowo-premier-albin-kurti-obrzucony-jajkami-kryzys-polityczny</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Sun, 09 Aug 2026 08:43:00 +0200</pubDate>
-</item>
-<item>
-<title>Nadchodzi pogodowy rollercoaster. Na termometrach znów będzie 36 stopni</title>
-<link>https://zero.pl/news/prognoza-pogody-na-10-dni-po-krotkim-ochlodzeniu-czeka-nas-powrot-upalow-do-36-stopni</link>
-<guid isPermaLink="true">https://zero.pl/news/prognoza-pogody-na-10-dni-po-krotkim-ochlodzeniu-czeka-nas-powrot-upalow-do-36-stopni</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Sun, 09 Aug 2026 08:22:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
