@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 12 Aug 2026 21:44:45 +0200</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 22:24:13 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Kiedy kolejne zaćmienie Słońca? Czeka nas dekada widowisk</title>
+<link>https://zero.pl/news/kiedy-kolejne-zacmienie-slonca-czeka-nas-dekada-widowisk</link>
+<guid isPermaLink="true">https://zero.pl/news/kiedy-kolejne-zacmienie-slonca-czeka-nas-dekada-widowisk</guid>
+<category>Nauka</category>
+<description>Nauka — Kasjan Owsianko</description>
+<pubDate>Wed, 12 Aug 2026 22:09:00 +0200</pubDate>
+</item>
+<item>
+<title>Ukraiński cios w bazę Floty Czarnomorskiej. Cztery okręty trafione</title>
+<link>https://zero.pl/news/atak-ukrainy-na-port-w-noworosyjsku-uszkodzone-rosyjskie-okrety-i-fregaty</link>
+<guid isPermaLink="true">https://zero.pl/news/atak-ukrainy-na-port-w-noworosyjsku-uszkodzone-rosyjskie-okrety-i-fregaty</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Wed, 12 Aug 2026 21:57:00 +0200</pubDate>
+</item>
 <item>
 <title>Hiszpania odpowiada Maroku. Ceuta i Melilla „są superhiszpańskie i nietykalne”</title>
 <link>https://zero.pl/news/spor-o-ceute-i-melille-hiszpania-stanowczo-odpowiada-na-roszczenia-maroka</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
 <pubDate>Sun, 09 Aug 2026 13:05:00 +0200</pubDate>
-</item>
-<item>
-<title>USA dały zielone światło. Turcja odsprzedaje Ukrainie pokaźny pakiet broni</title>
-<link>https://zero.pl/news/ukraina-kupila-od-turcji-rakiety-atacms-wyrzutnie-m270-i-amunicje</link>
-<guid isPermaLink="true">https://zero.pl/news/ukraina-kupila-od-turcji-rakiety-atacms-wyrzutnie-m270-i-amunicje</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Sun, 09 Aug 2026 12:37:00 +0200</pubDate>
-</item>
-<item>
-<title>Rolnik zaorał nową drogę. Usłyszał zarzut, grozi mu do 10 lat więzienia</title>
-<link>https://zero.pl/news/gliwice-rolnik-zaoral-asfalt-na-ul-rybackiej-uslyszal-zarzut-grozi-mu-do-10-lat-wiezienia</link>
-<guid isPermaLink="true">https://zero.pl/news/gliwice-rolnik-zaoral-asfalt-na-ul-rybackiej-uslyszal-zarzut-grozi-mu-do-10-lat-wiezienia</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Sun, 09 Aug 2026 12:14:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
