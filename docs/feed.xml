@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 12 Aug 2026 07:52:04 +0200</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 09:09:28 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Rząd gasi pożar w „Czystym powietrzu”. Ekspert: Postawienie problemu na głowie</title>
+<link>https://zero.pl/news/tysiace-oszukanych-na-czyste-powietrze-rzad-wkracza-do-akcji-ekspert-studzi-emocje</link>
+<guid isPermaLink="true">https://zero.pl/news/tysiace-oszukanych-na-czyste-powietrze-rzad-wkracza-do-akcji-ekspert-studzi-emocje</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Wed, 12 Aug 2026 08:34:00 +0200</pubDate>
+</item>
+<item>
+<title>Afera w Szpitalu Południowym doprowadzi do reformy? „Powinno nas skłonić do refleksji”</title>
+<link>https://zero.pl/news/afera-w-szpitalu-poludniowym-doprowadzi-do-zmian-wiceprezydent-warszawy-o-kulisach-rozmow</link>
+<guid isPermaLink="true">https://zero.pl/news/afera-w-szpitalu-poludniowym-doprowadzi-do-zmian-wiceprezydent-warszawy-o-kulisach-rozmow</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Krzysztof Jabłonowski</description>
+<pubDate>Wed, 12 Aug 2026 08:17:00 +0200</pubDate>
+</item>
+<item>
+<title>Ren wysycha. Historycznie niski poziom wody zaczyna uderzać w niemiecką gospodarkę</title>
+<link>https://zero.pl/news/ren-wysycha-historycznie-niski-poziom-wody-zaczyna-uderzac-w-niemiecka-gospodarke</link>
+<guid isPermaLink="true">https://zero.pl/news/ren-wysycha-historycznie-niski-poziom-wody-zaczyna-uderzac-w-niemiecka-gospodarke</guid>
+<category>Świat</category>
+<description>Świat — Bartosz Michalski</description>
+<pubDate>Wed, 12 Aug 2026 08:17:00 +0200</pubDate>
+</item>
+<item>
+<title>Tysiące turystów na jednego mieszkańca. Małe włoskie miasteczka mają ogromny problem</title>
+<link>https://zero.pl/news/tysiace-turystow-na-jednego-mieszkanca-male-wloskie-miasteczka-maja-ogromny-problem</link>
+<guid isPermaLink="true">https://zero.pl/news/tysiace-turystow-na-jednego-mieszkanca-male-wloskie-miasteczka-maja-ogromny-problem</guid>
+<category>Świat</category>
+<description>Świat — Bartosz Michalski</description>
+<pubDate>Wed, 12 Aug 2026 07:53:00 +0200</pubDate>
+</item>
 <item>
 <title>Tragiczny bilans trzęsienia ziemi w Kolumbii. „Najsilniejszy kataklizm w XXI wieku”</title>
 <link>https://zero.pl/news/tragiczny-bilans-trzesienia-ziemi-w-kolumbii-najsilniejszy-kataklizm-w-xxi-wieku</link>
@@ -1174,38 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Sat, 08 Aug 2026 13:28:00 +0200</pubDate>
-</item>
-<item>
-<title>Barcelona odwołała mecz towarzyski. Chodzi o sytuację w Ceucie</title>
-<link>https://zero.pl/news/barcelona-odwolala-mecz-towarzyski-chodzi-o-sytuacje-w-ceucie</link>
-<guid isPermaLink="true">https://zero.pl/news/barcelona-odwolala-mecz-towarzyski-chodzi-o-sytuacje-w-ceucie</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Sat, 08 Aug 2026 13:18:00 +0200</pubDate>
-</item>
-<item>
-<title>To najlepszy prezydent od 1989 roku? Jednoznaczny wynik sondażu</title>
-<link>https://zero.pl/news/to-byl-najlepszy-prezydent-od-1989-r-jednoznaczny-wynik-sondazu</link>
-<guid isPermaLink="true">https://zero.pl/news/to-byl-najlepszy-prezydent-od-1989-r-jednoznaczny-wynik-sondazu</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Sat, 08 Aug 2026 12:42:00 +0200</pubDate>
-</item>
-<item>
-<title>Książka zwrócona do biblioteki po 150 lat. „Była w dobrym stanie”</title>
-<link>https://zero.pl/news/ksiazka-zwrocona-do-biblioteki-po-150-lat-przetrwala-w-kominku-byla-w-dobrym-stanie</link>
-<guid isPermaLink="true">https://zero.pl/news/ksiazka-zwrocona-do-biblioteki-po-150-lat-przetrwala-w-kominku-byla-w-dobrym-stanie</guid>
-<category>Świat</category>
-<description>Świat — Paweł Żurek</description>
-<pubDate>Sat, 08 Aug 2026 12:25:00 +0200</pubDate>
-</item>
-<item>
-<title>Kłótnia polityków o rakietę. Zembaczyński ostro zaatakował PiS i Konfederację</title>
-<link>https://zero.pl/news/klotnia-politykow-o-rakiete-zembaczynski-ostro-zaatakowal-pis-i-konfederacje</link>
-<guid isPermaLink="true">https://zero.pl/news/klotnia-politykow-o-rakiete-zembaczynski-ostro-zaatakowal-pis-i-konfederacje</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Sat, 08 Aug 2026 11:22:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
