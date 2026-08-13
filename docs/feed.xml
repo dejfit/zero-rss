@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 13 Aug 2026 14:06:36 +0200</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 15:39:40 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Wyciek danych z MyDr. Prokuratura bada cyberatak na firmę</title>
+<link>https://zero.pl/news/wyciek-danych-z-mydr-prokuratura-bada-cyberatak-na-firme</link>
+<guid isPermaLink="true">https://zero.pl/news/wyciek-danych-z-mydr-prokuratura-bada-cyberatak-na-firme</guid>
+<category>Kraj</category>
+<description>Kraj — Bartosz Michalski</description>
+<pubDate>Thu, 13 Aug 2026 15:16:00 +0200</pubDate>
+</item>
+<item>
+<title>Wraca program CPN. Premier Tusk zapowiedział tańsze paliwa</title>
+<link>https://zero.pl/news/program-ceny-paliw-nizej-wraca-tansza-benzyna-i-diesel-od-poniedzialku</link>
+<guid isPermaLink="true">https://zero.pl/news/program-ceny-paliw-nizej-wraca-tansza-benzyna-i-diesel-od-poniedzialku</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Thu, 13 Aug 2026 14:48:00 +0200</pubDate>
+</item>
+<item>
+<title>Czy Polska odda Ukrainie kolejne pociski do Patriotów? Wiceminister zabrała głos</title>
+<link>https://zero.pl/news/polska-przekaze-ukrainie-kolejne-pociski-do-patriotow-jest-deklaracja-mon</link>
+<guid isPermaLink="true">https://zero.pl/news/polska-przekaze-ukrainie-kolejne-pociski-do-patriotow-jest-deklaracja-mon</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Thu, 13 Aug 2026 14:44:00 +0200</pubDate>
+</item>
+<item>
+<title>Znamy gospodarza Eurowizji w 2027 r. Wybrano nadmorskie miasto</title>
+<link>https://zero.pl/news/eurowizja-2027-ebu-oglosila-gospodarza-kolejnej-edycji-konkursu</link>
+<guid isPermaLink="true">https://zero.pl/news/eurowizja-2027-ebu-oglosila-gospodarza-kolejnej-edycji-konkursu</guid>
+<category>Kultura</category>
+<description>Kultura — Krzysztof Jabłonowski</description>
+<pubDate>Thu, 13 Aug 2026 14:35:00 +0200</pubDate>
+</item>
 <item>
 <title>Wycieku danych można było uniknąć? Frakcja Morawieckiego uderza w rząd</title>
 <link>https://zero.pl/news/wyciek-danych-z-mydr-rozwoj-plus-krytykuje-rzad-donalda-tuska</link>
@@ -1174,38 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Piotr Białczyk</description>
 <pubDate>Mon, 10 Aug 2026 07:00:00 +0200</pubDate>
-</item>
-<item>
-<title>Tajwan szykuje „piekielny krajobraz” dla chińskiej armii. Stawia na drony</title>
-<link>https://zero.pl/news/tajwan-rozwija-drony-i-bezzalogowe-lodzie-to-odpowiedz-na-zagrozenie-ze-strony-chin</link>
-<guid isPermaLink="true">https://zero.pl/news/tajwan-rozwija-drony-i-bezzalogowe-lodzie-to-odpowiedz-na-zagrozenie-ze-strony-chin</guid>
-<category>Wojsko</category>
-<description>Wojsko — Piotr Białczyk</description>
-<pubDate>Mon, 10 Aug 2026 06:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Od wszechpolaka do platformersa. Kalendarium kariery Romana Giertycha</title>
-<link>https://zero.pl/news/kim-jest-roman-giertych-kalendarium-kariery-wplywowego-posla-ko</link>
-<guid isPermaLink="true">https://zero.pl/news/kim-jest-roman-giertych-kalendarium-kariery-wplywowego-posla-ko</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Mon, 10 Aug 2026 05:59:00 +0200</pubDate>
-</item>
-<item>
-<title>Giertych, „Foka” i Polnord. Czyli jak znany mecenas o niczym nie wiedział</title>
-<link>https://zero.pl/news/roman-giertych-i-afera-polnordu-dlaczego-prokuratura-umorzyla-sledztwo</link>
-<guid isPermaLink="true">https://zero.pl/news/roman-giertych-i-afera-polnordu-dlaczego-prokuratura-umorzyla-sledztwo</guid>
-<category>Kraj</category>
-<description>Kraj — Patryk Słowik</description>
-<pubDate>Mon, 10 Aug 2026 05:59:00 +0200</pubDate>
-</item>
-<item>
-<title>Zakaz rozwodów i publiczna chłosta. Polska marzeń Romana Giertycha</title>
-<link>https://zero.pl/news/zakaz-rozwodow-i-publiczna-chlosta-polska-marzen-i-ewolucja-pogladow-romana-giertycha</link>
-<guid isPermaLink="true">https://zero.pl/news/zakaz-rozwodow-i-publiczna-chlosta-polska-marzen-i-ewolucja-pogladow-romana-giertycha</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Figurski</description>
-<pubDate>Mon, 10 Aug 2026 05:59:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
