@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 13 Aug 2026 13:24:08 +0200</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 14:06:36 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Wycieku danych można było uniknąć? Frakcja Morawieckiego uderza w rząd</title>
+<link>https://zero.pl/news/wyciek-danych-z-mydr-rozwoj-plus-krytykuje-rzad-donalda-tuska</link>
+<guid isPermaLink="true">https://zero.pl/news/wyciek-danych-z-mydr-rozwoj-plus-krytykuje-rzad-donalda-tuska</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Thu, 13 Aug 2026 13:54:00 +0200</pubDate>
+</item>
+<item>
+<title>Inflacja w lipcu wzrosła. Zadecydował jeden impuls</title>
+<link>https://zero.pl/news/jaka-inflacja-w-lipcu-glowny-powod-wzrostu-byl-jeden</link>
+<guid isPermaLink="true">https://zero.pl/news/jaka-inflacja-w-lipcu-glowny-powod-wzrostu-byl-jeden</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Thu, 13 Aug 2026 13:51:00 +0200</pubDate>
+</item>
+<item>
+<title>Z tej firmy wyciekły dane prawie 19 mln pacjentów. Czym jest MyDr?</title>
+<link>https://zero.pl/news/wyciek-danych-z-mydr-co-to-za-firma</link>
+<guid isPermaLink="true">https://zero.pl/news/wyciek-danych-z-mydr-co-to-za-firma</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Thu, 13 Aug 2026 13:25:00 +0200</pubDate>
+</item>
 <item>
 <title>Polacy obawiają się kryzysu migracyjnego. Mamy nowy sondaż</title>
 <link>https://zero.pl/news/kryzys-migracyjny-w-europie-i-obawy-polakow-jest-nowy-sondaz-sw-research</link>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Paweł Figurski</description>
 <pubDate>Mon, 10 Aug 2026 05:59:00 +0200</pubDate>
-</item>
-<item>
-<title>Lewandowski bohaterem w doliczonym czasie. Chicago Fire odwraca losy meczu</title>
-<link>https://zero.pl/news/lewandowski-bohaterem-w-doliczonym-czasie-chicago-fire-odwraca-losy-meczu</link>
-<guid isPermaLink="true">https://zero.pl/news/lewandowski-bohaterem-w-doliczonym-czasie-chicago-fire-odwraca-losy-meczu</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Mon, 10 Aug 2026 04:33:00 +0200</pubDate>
-</item>
-<item>
-<title>Klacz Pila za 160 tys. euro. Tak zakończyła się aukcja Pride of Poland</title>
-<link>https://zero.pl/news/pride-of-poland-2026-wyniki-aukcji-koni-arabskich-w-janowie-podlaskim</link>
-<guid isPermaLink="true">https://zero.pl/news/pride-of-poland-2026-wyniki-aukcji-koni-arabskich-w-janowie-podlaskim</guid>
-<category>Kraj</category>
-<description>Kraj — Aleksandra Cieślik</description>
-<pubDate>Sun, 09 Aug 2026 21:59:00 +0200</pubDate>
-</item>
-<item>
-<title>Niewiadoma-Phinney wicemistrzynią Tour de France. Piąte podium Polki w Nicei</title>
-<link>https://zero.pl/news/niewiadoma-phinney-wicemistrzynia-tour-de-france-piate-podium-polki-w-nicei</link>
-<guid isPermaLink="true">https://zero.pl/news/niewiadoma-phinney-wicemistrzynia-tour-de-france-piate-podium-polki-w-nicei</guid>
-<category>Świat</category>
-<description>Świat — Aleksandra Cieślik</description>
-<pubDate>Sun, 09 Aug 2026 21:12:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
