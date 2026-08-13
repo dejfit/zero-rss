@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 13 Aug 2026 21:39:58 +0200</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 22:18:17 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Prezydent Karol Nawrocki podpisał ustawę. Kluczowa zmiana dla atomu w Polsce</title>
+<link>https://zero.pl/news/elektrownia-jadrowa-w-polsce-karol-nawrocki-podpisal-nowelizacje-ustawy</link>
+<guid isPermaLink="true">https://zero.pl/news/elektrownia-jadrowa-w-polsce-karol-nawrocki-podpisal-nowelizacje-ustawy</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Thu, 13 Aug 2026 21:37:00 +0200</pubDate>
+</item>
 <item>
 <title>Słodko-gorzki czwartek w pucharach. Raków gra dalej, pech Górnika</title>
 <link>https://zero.pl/news/liga-europy-i-liga-konferencji-wyniki-meczow-gornika-zabrze-i-rakowa</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Piotr Ikonowicz</description>
 <pubDate>Mon, 10 Aug 2026 18:19:00 +0200</pubDate>
-</item>
-<item>
-<title>„Klatki” na polskich pojazdach wojskowych. Antydronowe osłony na defiladzie</title>
-<link>https://zero.pl/news/defilada-wojska-polskiego-klatki-na-polskich-pojazdach-wojskowych-do-czego-sluza</link>
-<guid isPermaLink="true">https://zero.pl/news/defilada-wojska-polskiego-klatki-na-polskich-pojazdach-wojskowych-do-czego-sluza</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Mon, 10 Aug 2026 17:47:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
