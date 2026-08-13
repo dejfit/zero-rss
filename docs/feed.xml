@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 13 Aug 2026 07:08:13 +0200</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 08:41:52 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Rzeczniczka Trumpa odchodzi ze stanowiska. Prezydent podał powód</title>
+<link>https://zero.pl/news/karoline-leavitt-rezygnuje-ze-stanowiska-w-bialym-domu-trump-wyjasnia</link>
+<guid isPermaLink="true">https://zero.pl/news/karoline-leavitt-rezygnuje-ze-stanowiska-w-bialym-domu-trump-wyjasnia</guid>
+<category>Świat</category>
+<description>Świat — Krzysztof Jabłonowski</description>
+<pubDate>Thu, 13 Aug 2026 08:27:00 +0200</pubDate>
+</item>
+<item>
+<title>Świątek w finale po raz pierwszy w sezonie. Ograła Switolinę w Toronto</title>
+<link>https://zero.pl/news/iga-swiatek-w-finale-w-toronto-polka-pokonala-eline-switoline</link>
+<guid isPermaLink="true">https://zero.pl/news/iga-swiatek-w-finale-w-toronto-polka-pokonala-eline-switoline</guid>
+<category>Świat</category>
+<description>Świat — Krzysztof Jabłonowski</description>
+<pubDate>Thu, 13 Aug 2026 07:54:00 +0200</pubDate>
+</item>
+<item>
+<title>Waldemar Żurek zapowiada zmiany. „Prezes TK nie jest królem Słońce”</title>
+<link>https://zero.pl/news/waldemar-zurek-zapowiada-zmiany-prezes-tk-nie-jest-krolem-slonce</link>
+<guid isPermaLink="true">https://zero.pl/news/waldemar-zurek-zapowiada-zmiany-prezes-tk-nie-jest-krolem-slonce</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Thu, 13 Aug 2026 07:04:00 +0200</pubDate>
+</item>
 <item>
 <title>Jest potwierdzenie w sprawie Romanowskiego. Mec. Lewandowski zabiera głos</title>
 <link>https://zero.pl/news/jest-potwierdzenie-w-sprawie-romanowskiego-mec-lewandowski-zabiera-glos</link>
@@ -1182,30 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Sun, 09 Aug 2026 17:41:00 +0200</pubDate>
-</item>
-<item>
-<title>Wisła w Warszawie na alarmowo niskim poziomie. Susza może potrwać do października</title>
-<link>https://zero.pl/news/wisla-w-warszawie-na-alarmowo-niskim-poziomie-susza-moze-potrwac-do-pazdziernika</link>
-<guid isPermaLink="true">https://zero.pl/news/wisla-w-warszawie-na-alarmowo-niskim-poziomie-susza-moze-potrwac-do-pazdziernika</guid>
-<category>Kraj</category>
-<description>Kraj — Aleksandra Cieślik</description>
-<pubDate>Sun, 09 Aug 2026 16:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Nawrocki w Skawinie: Pilnowanie żyrandoli jest nie dla mnie</title>
-<link>https://zero.pl/news/nawrocki-w-skawinie-pilnowanie-zyrandoli-jest-nie-dla-mnie</link>
-<guid isPermaLink="true">https://zero.pl/news/nawrocki-w-skawinie-pilnowanie-zyrandoli-jest-nie-dla-mnie</guid>
-<category>Kraj</category>
-<description>Kraj — Aleksandra Cieślik</description>
-<pubDate>Sun, 09 Aug 2026 16:07:00 +0200</pubDate>
-</item>
-<item>
-<title>Grenlandia ostrzega USA. Firma powiązana z Trumpem szykuje odwierty naftowe</title>
-<link>https://zero.pl/news/grenlandia-ostrzega-usa-firma-powiazana-z-trumpem-szykuje-odwierty-naftowe</link>
-<guid isPermaLink="true">https://zero.pl/news/grenlandia-ostrzega-usa-firma-powiazana-z-trumpem-szykuje-odwierty-naftowe</guid>
-<category>Świat</category>
-<description>Świat — Aleksandra Cieślik</description>
-<pubDate>Sun, 09 Aug 2026 15:35:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
