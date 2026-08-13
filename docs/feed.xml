@@ -5,8 +5,48 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 13 Aug 2026 20:31:23 +0200</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 21:39:58 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Słodko-gorzki czwartek w pucharach. Raków gra dalej, pech Górnika</title>
+<link>https://zero.pl/news/liga-europy-i-liga-konferencji-wyniki-meczow-gornika-zabrze-i-rakowa</link>
+<guid isPermaLink="true">https://zero.pl/news/liga-europy-i-liga-konferencji-wyniki-meczow-gornika-zabrze-i-rakowa</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Thu, 13 Aug 2026 21:36:00 +0200</pubDate>
+</item>
+<item>
+<title>Powrót do kultowych lat. Lewandowski prezentuje wyjątkowy trykot Chicago Fire</title>
+<link>https://zero.pl/news/chicago-fire-archive-kit-lewandowski-w-nowej-koszulce-w-stylu-retro</link>
+<guid isPermaLink="true">https://zero.pl/news/chicago-fire-archive-kit-lewandowski-w-nowej-koszulce-w-stylu-retro</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Thu, 13 Aug 2026 21:14:00 +0200</pubDate>
+</item>
+<item>
+<title>21 nominacji generalskich zaakceptowanych. Prezydent i premier podjęli decyzję</title>
+<link>https://zero.pl/news/21-nominacji-generalskich-zaakceptowanych-prezydent-i-premier-podjeli-decyzje</link>
+<guid isPermaLink="true">https://zero.pl/news/21-nominacji-generalskich-zaakceptowanych-prezydent-i-premier-podjeli-decyzje</guid>
+<category>Wojsko</category>
+<description>Wojsko — Bartosz Michalski</description>
+<pubDate>Thu, 13 Aug 2026 21:07:00 +0200</pubDate>
+</item>
+<item>
+<title>Ceny paliw spadną nawet o złotówkę? Eksperci wskazują, czego mogą spodziewać się kierowcy</title>
+<link>https://zero.pl/news/ceny-paliw-spadna-nawet-o-zlotowke-eksperci-wskazuja-czego-moga-spodziewac-sie-kierowcy</link>
+<guid isPermaLink="true">https://zero.pl/news/ceny-paliw-spadna-nawet-o-zlotowke-eksperci-wskazuja-czego-moga-spodziewac-sie-kierowcy</guid>
+<category>Kraj</category>
+<description>Kraj — Bartosz Michalski</description>
+<pubDate>Thu, 13 Aug 2026 20:51:00 +0200</pubDate>
+</item>
+<item>
+<title>Pożar w Grecji wymknął się spod kontroli. Turyści musieli uciekać</title>
+<link>https://zero.pl/news/pozar-w-grecji-wymknal-sie-spod-kontroli-turysci-musieli-uciekac</link>
+<guid isPermaLink="true">https://zero.pl/news/pozar-w-grecji-wymknal-sie-spod-kontroli-turysci-musieli-uciekac</guid>
+<category>Świat</category>
+<description>Świat — Bartosz Michalski</description>
+<pubDate>Thu, 13 Aug 2026 20:40:00 +0200</pubDate>
+</item>
 <item>
 <title>Afera w Szpitalu Południowym. Zniknął z mediów, ale znów widziano go w luksusowym porsche</title>
 <link>https://zero.pl/news/afera-w-szpitalu-poludniowym-dawid-kacprzyk-widziany-w-porsche-panamera-slowik-komentuje</link>
@@ -1166,46 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Michał Bruszewski</description>
 <pubDate>Mon, 10 Aug 2026 17:47:00 +0200</pubDate>
-</item>
-<item>
-<title>Żłobki i przedszkola zamknięte z powodu upałów? Resort Dziemianowicz-Bąk szykuje zmiany</title>
-<link>https://zero.pl/news/zlobki-i-przedszkola-zamkniete-w-czasie-upalow-ministerstwo-chce-zmian</link>
-<guid isPermaLink="true">https://zero.pl/news/zlobki-i-przedszkola-zamkniete-w-czasie-upalow-ministerstwo-chce-zmian</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Mon, 10 Aug 2026 17:25:00 +0200</pubDate>
-</item>
-<item>
-<title>Zastrzelona rysica pod Złocieńcem. „Państwo jest bezradne”</title>
-<link>https://zero.pl/news/zastrzelona-rysica-w-rzece-kokna-pod-zlociencem-sprawa-trafi-do-prokuratury</link>
-<guid isPermaLink="true">https://zero.pl/news/zastrzelona-rysica-w-rzece-kokna-pod-zlociencem-sprawa-trafi-do-prokuratury</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Mon, 10 Aug 2026 17:07:00 +0200</pubDate>
-</item>
-<item>
-<title>Pełczyńska-Nałęcz o rzekomych planach Hołowni: Superobciach</title>
-<link>https://zero.pl/news/pelczynska-nalecz-o-holowni-w-rzadzie-superobciach</link>
-<guid isPermaLink="true">https://zero.pl/news/pelczynska-nalecz-o-holowni-w-rzadzie-superobciach</guid>
-<category>Kraj</category>
-<description>Kraj — Tymon Zalewski</description>
-<pubDate>Mon, 10 Aug 2026 16:47:00 +0200</pubDate>
-</item>
-<item>
-<title>Złote żniwa firm paliwowych. Minister energii wskazuje na Trumpa i krytykuje Nawrockiego</title>
-<link>https://zero.pl/news/minister-energii-wskazuje-na-trumpa-i-krytykuje-prezydenta-nawrockiego-chodzi-o-ceny-paliw</link>
-<guid isPermaLink="true">https://zero.pl/news/minister-energii-wskazuje-na-trumpa-i-krytykuje-prezydenta-nawrockiego-chodzi-o-ceny-paliw</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Mon, 10 Aug 2026 16:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Miliardy z KPO dla Polski. Komisja Europejska potwierdza</title>
-<link>https://zero.pl/news/komisja-europejska-zaakceptowala-wniosek-miliardy-z-kpo-trafia-do-polski</link>
-<guid isPermaLink="true">https://zero.pl/news/komisja-europejska-zaakceptowala-wniosek-miliardy-z-kpo-trafia-do-polski</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Mon, 10 Aug 2026 16:14:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
