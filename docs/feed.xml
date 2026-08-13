@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 13 Aug 2026 11:21:39 +0200</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 12:34:19 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Polacy obawiają się kryzysu migracyjnego. Mamy nowy sondaż</title>
+<link>https://zero.pl/news/kryzys-migracyjny-w-europie-i-obawy-polakow-jest-nowy-sondaz-sw-research</link>
+<guid isPermaLink="true">https://zero.pl/news/kryzys-migracyjny-w-europie-i-obawy-polakow-jest-nowy-sondaz-sw-research</guid>
+<category>Świat</category>
+<description>Świat — Piotr Białczyk</description>
+<pubDate>Thu, 13 Aug 2026 12:18:00 +0200</pubDate>
+</item>
+<item>
+<title>Wyciek danych prawie 19 mln pacjentów. Tak sprawdzisz (lub nie), czy padłeś ofiarą</title>
+<link>https://zero.pl/news/wyciek-danych-z-mydr-jak-sprawdzic-czy-moje-dane-zostaly-ukradzione-instrukcja</link>
+<guid isPermaLink="true">https://zero.pl/news/wyciek-danych-z-mydr-jak-sprawdzic-czy-moje-dane-zostaly-ukradzione-instrukcja</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Thu, 13 Aug 2026 11:52:00 +0200</pubDate>
+</item>
+<item>
+<title>Trzecia Droga bis? PSL ma plan. „Potrzebny jest nowy pomysł”</title>
+<link>https://zero.pl/news/trzecia-droga-bis-psl-chce-nowej-koalicji-z-polska-2050-i-unia-centrum</link>
+<guid isPermaLink="true">https://zero.pl/news/trzecia-droga-bis-psl-chce-nowej-koalicji-z-polska-2050-i-unia-centrum</guid>
+<category>Kraj</category>
+<description>Kraj — Tymon Zalewski</description>
+<pubDate>Thu, 13 Aug 2026 11:26:00 +0200</pubDate>
+</item>
 <item>
 <title>Gawkowski z nowymi informacjami o cyberataku. „Możecie, obywatele, być spokojni”</title>
 <link>https://zero.pl/news/krzysztof-gawkowski-przekazal-nowe-informacje-o-cyberataku-co-z-bazami-mydr</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Aleksandra Cieślik</description>
 <pubDate>Sun, 09 Aug 2026 21:12:00 +0200</pubDate>
-</item>
-<item>
-<title>Gwiazdowski odpowiada Dymkowi. „Komu i czemu przeszkadza Nawrocki?”</title>
-<link>https://zero.pl/news/gwiazdowski-odpowiada-dymkowi-komu-i-czemu-przeszkadza-nawrocki</link>
-<guid isPermaLink="true">https://zero.pl/news/gwiazdowski-odpowiada-dymkowi-komu-i-czemu-przeszkadza-nawrocki</guid>
-<category>Kraj</category>
-<description>Kraj — Robert Gwiazdowski</description>
-<pubDate>Sun, 09 Aug 2026 20:27:00 +0200</pubDate>
-</item>
-<item>
-<title>Tragedia na Mazurach. 16-latek zginął po zderzeniu skutera z motorówką</title>
-<link>https://zero.pl/news/tragedia-na-mazurach-16-latek-zginal-po-zderzeniu-skutera-z-motorowka</link>
-<guid isPermaLink="true">https://zero.pl/news/tragedia-na-mazurach-16-latek-zginal-po-zderzeniu-skutera-z-motorowka</guid>
-<category>Kraj</category>
-<description>Kraj — Aleksandra Cieślik</description>
-<pubDate>Sun, 09 Aug 2026 20:26:00 +0200</pubDate>
-</item>
-<item>
-<title>Dziecko godzinę samo na balkonie, potem szło po barierce. Uratował je koc</title>
-<link>https://zero.pl/news/dziecko-godzine-samo-na-balkonie-potem-szlo-po-barierce-jak-kot-uratowal-je-koc</link>
-<guid isPermaLink="true">https://zero.pl/news/dziecko-godzine-samo-na-balkonie-potem-szlo-po-barierce-jak-kot-uratowal-je-koc</guid>
-<category>Kraj</category>
-<description>Kraj — Aleksandra Cieślik</description>
-<pubDate>Sun, 09 Aug 2026 19:53:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
