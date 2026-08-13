@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 13 Aug 2026 19:34:48 +0200</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 20:31:23 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Afera w Szpitalu Południowym. Zniknął z mediów, ale znów widziano go w luksusowym porsche</title>
+<link>https://zero.pl/news/afera-w-szpitalu-poludniowym-dawid-kacprzyk-widziany-w-porsche-panamera-slowik-komentuje</link>
+<guid isPermaLink="true">https://zero.pl/news/afera-w-szpitalu-poludniowym-dawid-kacprzyk-widziany-w-porsche-panamera-slowik-komentuje</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Thu, 13 Aug 2026 20:16:00 +0200</pubDate>
+</item>
+<item>
+<title>Ramówka Zero TV na piątek 14 sierpnia. Mecz KTS Weszło – Mławianka Mława</title>
+<link>https://zero.pl/news/program-tv-zero-14-08-co-dzis-mozna-obejrzec-mecz-kts-weszlo-mlawianka-mlawa</link>
+<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-14-08-co-dzis-mozna-obejrzec-mecz-kts-weszlo-mlawianka-mlawa</guid>
+<category>Program TV</category>
+<description>Program TV — Redakcja Zero.pl</description>
+<pubDate>Thu, 13 Aug 2026 20:05:00 +0200</pubDate>
+</item>
 <item>
 <title>Koncert Sanah z okazji 100-lecia Gdyni. Wstęp tylko dla wybranych</title>
 <link>https://zero.pl/news/sanah-zaspiewa-w-gdyni-22-sierpnia-zasady-wejscia-na-koncert-mieszkancy-oburzeni</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Jabłonowski</description>
 <pubDate>Mon, 10 Aug 2026 16:14:00 +0200</pubDate>
-</item>
-<item>
-<title>Korupcja przy usuwaniu skutków powodzi? Sprawę zbada prokuratura</title>
-<link>https://zero.pl/news/nieprawidlowosci-przy-usuwaniu-skutkow-powodzi-sprawa-zajmuje-sie-prokuratura</link>
-<guid isPermaLink="true">https://zero.pl/news/nieprawidlowosci-przy-usuwaniu-skutkow-powodzi-sprawa-zajmuje-sie-prokuratura</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Mon, 10 Aug 2026 15:51:00 +0200</pubDate>
-</item>
-<item>
-<title>Wysychające serce Niemiec. Możliwa powtórka z czarnego scenariusza</title>
-<link>https://zero.pl/news/susza-na-renie-uderza-w-gospodarke-niemiec-logistyka-zagrozona-paralizem</link>
-<guid isPermaLink="true">https://zero.pl/news/susza-na-renie-uderza-w-gospodarke-niemiec-logistyka-zagrozona-paralizem</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Mon, 10 Aug 2026 15:21:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
