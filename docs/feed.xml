@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 13 Aug 2026 08:41:52 +0200</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 10:06:22 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Włoszka ukarana za trzymanie telefonu w czasie jazdy. Twierdzi, że to była cukinia</title>
+<link>https://zero.pl/news/wloszka-ukarana-za-trzymanie-telefonu-w-czasie-jazdy-twierdzi-ze-to-byla-cukinia</link>
+<guid isPermaLink="true">https://zero.pl/news/wloszka-ukarana-za-trzymanie-telefonu-w-czasie-jazdy-twierdzi-ze-to-byla-cukinia</guid>
+<category>Moto</category>
+<description>Moto — Krzysztof Jabłonowski</description>
+<pubDate>Thu, 13 Aug 2026 09:28:00 +0200</pubDate>
+</item>
+<item>
+<title>Coraz więcej deportacji z Polski. Są najnowsze dane</title>
+<link>https://zero.pl/news/deportacje-cudzoziemcow-najnowsze-dane-mswia</link>
+<guid isPermaLink="true">https://zero.pl/news/deportacje-cudzoziemcow-najnowsze-dane-mswia</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Thu, 13 Aug 2026 09:14:00 +0200</pubDate>
+</item>
 <item>
 <title>Rzeczniczka Trumpa odchodzi ze stanowiska. Prezydent podał powód</title>
 <link>https://zero.pl/news/karoline-leavitt-rezygnuje-ze-stanowiska-w-bialym-domu-trump-wyjasnia</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Aleksandra Cieślik</description>
 <pubDate>Sun, 09 Aug 2026 19:08:00 +0200</pubDate>
-</item>
-<item>
-<title>Zaćmienie Słońca i Perseidy. W środę gratka dla fanów astronomii</title>
-<link>https://zero.pl/news/zacmienie-slonca-i-perseidy-w-srode-gratka-dla-fanow-astronomii</link>
-<guid isPermaLink="true">https://zero.pl/news/zacmienie-slonca-i-perseidy-w-srode-gratka-dla-fanow-astronomii</guid>
-<category>Nauka</category>
-<description>Nauka — Aleksandra Cieślik</description>
-<pubDate>Sun, 09 Aug 2026 18:22:00 +0200</pubDate>
-</item>
-<item>
-<title>Pola torsyjne miały nas smażyć siecią 5G, pseudomedycyna chce nimi leczyć.  Skąd popularność tej ściemy?</title>
-<link>https://zero.pl/news/pola-torsyjne-radziecka-teoria-z-pogranicza-fantastyki-w-rekach-psedumedycyny</link>
-<guid isPermaLink="true">https://zero.pl/news/pola-torsyjne-radziecka-teoria-z-pogranicza-fantastyki-w-rekach-psedumedycyny</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Sun, 09 Aug 2026 17:41:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
