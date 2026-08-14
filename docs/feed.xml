@@ -5,7 +5,7 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 14 Aug 2026 09:10:39 +0200</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 10:39:05 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
 <title>Romanowski wybrał kapitulację i robienie z siebie papierowego rycerza walki o sprawiedliwość</title>
@@ -14,6 +14,30 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Izdebski</description>
 <pubDate>Fri, 14 Aug 2026 18:06:00 +0200</pubDate>
+</item>
+<item>
+<title>„Słyszałem takie plotki na mieście”. Arłukowicz komentuje doniesienia Zero.pl</title>
+<link>https://zero.pl/news/kolejne-kontrowersje-wokol-kacprzyka-arlukowicz-komentuje-doniesienia-o-senator-ko-agnieszce-gorgon-komor-i-jej-mezu</link>
+<guid isPermaLink="true">https://zero.pl/news/kolejne-kontrowersje-wokol-kacprzyka-arlukowicz-komentuje-doniesienia-o-senator-ko-agnieszce-gorgon-komor-i-jej-mezu</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 14 Aug 2026 10:34:00 +0200</pubDate>
+</item>
+<item>
+<title>Cyfrowa klęska żywiołowa. Co wyciek z MyDr oznacza dla 19 mln osób</title>
+<link>https://zero.pl/news/pesel-historia-chorob-recepty-co-ukradziono-w-wycieku-danych-z-mydr</link>
+<guid isPermaLink="true">https://zero.pl/news/pesel-historia-chorob-recepty-co-ukradziono-w-wycieku-danych-z-mydr</guid>
+<category>Kraj</category>
+<description>Kraj — Łukasz Olejnik</description>
+<pubDate>Fri, 14 Aug 2026 09:59:00 +0200</pubDate>
+</item>
+<item>
+<title>Pojawił się koło Igi Świątek i skradł show. Co wiemy o Elwayu</title>
+<link>https://zero.pl/news/elway-skradl-show-idze-swiatek-co-wiemy-o-psie-celebrycie</link>
+<guid isPermaLink="true">https://zero.pl/news/elway-skradl-show-idze-swiatek-co-wiemy-o-psie-celebrycie</guid>
+<category>Świat</category>
+<description>Świat — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 14 Aug 2026 09:55:00 +0200</pubDate>
 </item>
 <item>
 <title>Kolejny szturm na Ceutę? Ekspert o „cichym szantażu za kulisami”</title>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Tomasz Pałasz</description>
 <pubDate>Tue, 11 Aug 2026 06:17:00 +0200</pubDate>
-</item>
-<item>
-<title>Roman Giertych od A do Z. Alfabet politycznego kameleona</title>
-<link>https://zero.pl/news/roman-giertych-od-a-do-z-alfabet-politycznego-kameleona</link>
-<guid isPermaLink="true">https://zero.pl/news/roman-giertych-od-a-do-z-alfabet-politycznego-kameleona</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Figurski</description>
-<pubDate>Tue, 11 Aug 2026 06:02:00 +0200</pubDate>
-</item>
-<item>
-<title>Roman Giertych i sojusz z Rosją</title>
-<link>https://zero.pl/news/roman-giertych-i-sojusz-z-rosja</link>
-<guid isPermaLink="true">https://zero.pl/news/roman-giertych-i-sojusz-z-rosja</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Figurski</description>
-<pubDate>Tue, 11 Aug 2026 06:02:00 +0200</pubDate>
-</item>
-<item>
-<title>Hakerzy wykradli dane 19 mln Polaków? Gawkowski zabiera głos</title>
-<link>https://zero.pl/news/hakerzy-wykradli-dane-osobowe-milionow-polakow-gawkowski-zabiera-glos</link>
-<guid isPermaLink="true">https://zero.pl/news/hakerzy-wykradli-dane-osobowe-milionow-polakow-gawkowski-zabiera-glos</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Mon, 10 Aug 2026 21:51:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
