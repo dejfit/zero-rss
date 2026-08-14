@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 14 Aug 2026 19:13:00 +0200</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 20:07:57 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Najlepszy rok ever. 30 lat temu wszyscy zostaliśmy graczami</title>
+<link>https://zero.pl/news/diablo-tomb-raider-resident-evil-quake-czy-rok-1996-rok-najlepszym-w-historii-gier-wideo</link>
+<guid isPermaLink="true">https://zero.pl/news/diablo-tomb-raider-resident-evil-quake-czy-rok-1996-rok-najlepszym-w-historii-gier-wideo</guid>
+<category>Kultura</category>
+<description>Kultura — Michał Walkiewicz</description>
+<pubDate>Fri, 14 Aug 2026 20:02:00 +0200</pubDate>
+</item>
+<item>
+<title>Cytadela pod festiwalowym walcem? Aktywiści kontra organizatorzy BitterSweet Festival</title>
+<link>https://zero.pl/news/bittersweet-festival-2026-w-poznaniu-zarzuty-aktywistow-o-zniszczenia-i-incydent</link>
+<guid isPermaLink="true">https://zero.pl/news/bittersweet-festival-2026-w-poznaniu-zarzuty-aktywistow-o-zniszczenia-i-incydent</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Fri, 14 Aug 2026 19:44:00 +0200</pubDate>
+</item>
+<item>
+<title>Premiera Google Pixel 11. Czy kolorowa dioda na obudowie to największa nowość?</title>
+<link>https://zero.pl/news/premiera-google-pixel-11-zyskuja-przy-blizszym-poznaniu</link>
+<guid isPermaLink="true">https://zero.pl/news/premiera-google-pixel-11-zyskuja-przy-blizszym-poznaniu</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Fri, 14 Aug 2026 19:35:00 +0200</pubDate>
+</item>
+<item>
+<title>Wojna o wodę na Zachodnim Brzegu. Osadnicy odcinają Palestyńczyków od źródeł</title>
+<link>https://zero.pl/news/zachodni-brzeg-osadnicy-przejmuja-wode-palestynczycy-bez-dostepu-do-zrodel</link>
+<guid isPermaLink="true">https://zero.pl/news/zachodni-brzeg-osadnicy-przejmuja-wode-palestynczycy-bez-dostepu-do-zrodel</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Fri, 14 Aug 2026 19:17:00 +0200</pubDate>
+</item>
 <item>
 <title>Zaorał nowy asfalt i trafił do aresztu. Teraz prokuratura zmienia decyzję</title>
 <link>https://zero.pl/news/gliwice-uchylono-areszt-rolnikowi-za-zaoranie-asfaltu-na-ul-rybackiej</link>
@@ -48,7 +80,7 @@
 <pubDate>Fri, 14 Aug 2026 17:42:00 +0200</pubDate>
 </item>
 <item>
-<title>Atak na Starym Mieście w Poznaniu. Policja zatrzymała jedną z kobiet</title>
+<title>Atak na Starym Mieście w Poznaniu. Policja zatrzymała obie kobiety</title>
 <link>https://zero.pl/news/poznan-atak-na-obywateli-ukrainy-na-starym-miescie-jedna-z-kobiet-zatrzymana</link>
 <guid isPermaLink="true">https://zero.pl/news/poznan-atak-na-obywateli-ukrainy-na-starym-miescie-jedna-z-kobiet-zatrzymana</guid>
 <category>Kraj</category>
@@ -1174,38 +1206,6 @@
 <category>Zdrowie</category>
 <description>Zdrowie — Tomasz Pałasz</description>
 <pubDate>Tue, 11 Aug 2026 17:25:00 +0200</pubDate>
-</item>
-<item>
-<title>Afera z pomocą po powodzi. Anna Konieczyńska straciła stanowisko</title>
-<link>https://zero.pl/news/afera-z-pomoca-po-powodzi-anna-konieczynska-stracila-stanowisko</link>
-<guid isPermaLink="true">https://zero.pl/news/afera-z-pomoca-po-powodzi-anna-konieczynska-stracila-stanowisko</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 11 Aug 2026 17:07:00 +0200</pubDate>
-</item>
-<item>
-<title>Netanyahu rzuca wyzwanie Trumpowi. Rakowski: Bibi patrzy na Iran i wybory</title>
-<link>https://zero.pl/news/netanyahu-odrzucil-15-punktowy-plan-trumpa-dla-gazy-o-co-gra-izraelski-premier</link>
-<guid isPermaLink="true">https://zero.pl/news/netanyahu-odrzucil-15-punktowy-plan-trumpa-dla-gazy-o-co-gra-izraelski-premier</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Tue, 11 Aug 2026 17:03:00 +0200</pubDate>
-</item>
-<item>
-<title>Szpitale będą rozliczać godziny pracy medyków. ZPP ma poważne zastrzeżenia</title>
-<link>https://zero.pl/news/szpitale-beda-rozliczac-godziny-pracy-medykow-zpp-ma-powazne-zastrzezenia</link>
-<guid isPermaLink="true">https://zero.pl/news/szpitale-beda-rozliczac-godziny-pracy-medykow-zpp-ma-powazne-zastrzezenia</guid>
-<category>Zdrowie</category>
-<description>Zdrowie — Bartosz Michalski</description>
-<pubDate>Tue, 11 Aug 2026 16:27:00 +0200</pubDate>
-</item>
-<item>
-<title>Podatek od zysków wraca na agendę rządu. Możliwy też „plan B” z ważną rolą Orlenu</title>
-<link>https://zero.pl/news/rzad-nie-odpuszcza-podatku-od-zyskow-liczy-na-miliardy-jak-zareaguje-karol-nawrocki</link>
-<guid isPermaLink="true">https://zero.pl/news/rzad-nie-odpuszcza-podatku-od-zyskow-liczy-na-miliardy-jak-zareaguje-karol-nawrocki</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Tue, 11 Aug 2026 16:04:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
