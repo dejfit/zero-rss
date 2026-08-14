@@ -5,7 +5,7 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 14 Aug 2026 06:25:58 +0200</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 07:53:02 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
 <title>Romanowski wybrał kapitulację i robienie z siebie papierowego rycerza walki o sprawiedliwość</title>
@@ -14,6 +14,22 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Izdebski</description>
 <pubDate>Fri, 14 Aug 2026 18:06:00 +0200</pubDate>
+</item>
+<item>
+<title>Będą deportacje Ukraińców z Niemiec? Rząd nie wyklucza</title>
+<link>https://zero.pl/news/beda-deportacje-ukraincow-z-niemiec-rzad-nie-wyklucza</link>
+<guid isPermaLink="true">https://zero.pl/news/beda-deportacje-ukraincow-z-niemiec-rzad-nie-wyklucza</guid>
+<category>Świat</category>
+<description>Świat — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 14 Aug 2026 07:21:00 +0200</pubDate>
+</item>
+<item>
+<title>Dron nad Łotwą. „Samoloty sojuszników pomyślnie zestrzeliły bezzałogowy statek powietrzny”</title>
+<link>https://zero.pl/news/lotwa-oglosila-alert-powietrzny-estonia-wprowadzila-ograniczenia-przy-granicy-z-rosja</link>
+<guid isPermaLink="true">https://zero.pl/news/lotwa-oglosila-alert-powietrzny-estonia-wprowadzila-ograniczenia-przy-granicy-z-rosja</guid>
+<category>Wojsko</category>
+<description>Wojsko — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 14 Aug 2026 06:59:00 +0200</pubDate>
 </item>
 <item>
 <title>Chicago Fire lepsze od faworyta. Sędzia „skrzywdził” Lewandowskiego</title>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Krzysztof Jabłonowski</description>
 <pubDate>Mon, 10 Aug 2026 20:31:00 +0200</pubDate>
-</item>
-<item>
-<title>Lęki spolaryzowanego Wuja Sama. Bromski: Amerykanin ma czego się bać</title>
-<link>https://zero.pl/news/abdul-el-sayed-wygrywa-prawybory-w-michigan-powiazania-z-cair-isna-i-srodowiskami-zwiazanymi-z-hamasem</link>
-<guid isPermaLink="true">https://zero.pl/news/abdul-el-sayed-wygrywa-prawybory-w-michigan-powiazania-z-cair-isna-i-srodowiskami-zwiazanymi-z-hamasem</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Mon, 10 Aug 2026 20:09:00 +0200</pubDate>
-</item>
-<item>
-<title>1000 dni od pierwszego filmu Kanału Zero. „Dzięki, że jesteście z nami”</title>
-<link>https://zero.pl/news/1000-dni-od-publikacji-pierwszego-filmu-na-kanale-zero</link>
-<guid isPermaLink="true">https://zero.pl/news/1000-dni-od-publikacji-pierwszego-filmu-na-kanale-zero</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Mon, 10 Aug 2026 20:07:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
