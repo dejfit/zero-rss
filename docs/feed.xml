@@ -5,7 +5,7 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 14 Aug 2026 04:38:52 +0200</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 06:25:58 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
 <title>Romanowski wybrał kapitulację i robienie z siebie papierowego rycerza walki o sprawiedliwość</title>
@@ -14,6 +14,46 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Izdebski</description>
 <pubDate>Fri, 14 Aug 2026 18:06:00 +0200</pubDate>
+</item>
+<item>
+<title>Chicago Fire lepsze od faworyta. Sędzia „skrzywdził” Lewandowskiego</title>
+<link>https://zero.pl/news/chicago-fire-lepsze-od-faworyta-sedzia-nie-uznal-gola-lewandowskiego</link>
+<guid isPermaLink="true">https://zero.pl/news/chicago-fire-lepsze-od-faworyta-sedzia-nie-uznal-gola-lewandowskiego</guid>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
+<pubDate>Fri, 14 Aug 2026 06:01:00 +0200</pubDate>
+</item>
+<item>
+<title>400 tysięcy za milczenie. Kulczyk, Nisztor i „taśmy Giertycha”</title>
+<link>https://zero.pl/news/roman-giertych-tasma-giertycha-nagranie-sledztwo-umorzenie</link>
+<guid isPermaLink="true">https://zero.pl/news/roman-giertych-tasma-giertycha-nagranie-sledztwo-umorzenie</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Fri, 14 Aug 2026 05:54:00 +0200</pubDate>
+</item>
+<item>
+<title>Jak Giertych rozlicza – i nie rozlicza – PiS. „Apetyty były większe”</title>
+<link>https://zero.pl/news/jak-giertych-rozlicza-i-nie-rozlicza-pis</link>
+<guid isPermaLink="true">https://zero.pl/news/jak-giertych-rozlicza-i-nie-rozlicza-pis</guid>
+<category>Kraj</category>
+<description>Kraj — Kamil Szałecki</description>
+<pubDate>Fri, 14 Aug 2026 05:54:00 +0200</pubDate>
+</item>
+<item>
+<title>Mecenas rodziny i polityczny cyngiel. „Tusk jest uzależniony od Giertycha”</title>
+<link>https://zero.pl/news/adwokat-rodziny-premiera-jak-roman-giertych-zbudowal-pozycje-w-ko</link>
+<guid isPermaLink="true">https://zero.pl/news/adwokat-rodziny-premiera-jak-roman-giertych-zbudowal-pozycje-w-ko</guid>
+<category>Kraj</category>
+<description>Kraj — Jacek Prusinowski</description>
+<pubDate>Fri, 14 Aug 2026 05:53:00 +0200</pubDate>
+</item>
+<item>
+<title>Wpływowe małżeństwo polityków KO pomagało Dawidowi Kacprzykowi</title>
+<link>https://zero.pl/news/dawid-kacprzyk-i-komorowie-jak-politycy-ko-pomagali-mlodemu-lekarzowi</link>
+<guid isPermaLink="true">https://zero.pl/news/dawid-kacprzyk-i-komorowie-jak-politycy-ko-pomagali-mlodemu-lekarzowi</guid>
+<category>Kraj</category>
+<description>Kraj — Patryk Słowik,Jakub Styczyński</description>
+<pubDate>Fri, 14 Aug 2026 05:53:00 +0200</pubDate>
 </item>
 <item>
 <title>Iga Świątek mistrzynią WTA w Toronto. Pokonała Rybakinę w finale</title>
@@ -1166,46 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Jabłonowski</description>
 <pubDate>Mon, 10 Aug 2026 20:07:00 +0200</pubDate>
-</item>
-<item>
-<title>Miłość na rynku uwagi. Co aplikacje randkowe zrobiły z naszymi relacjami?</title>
-<link>https://zero.pl/news/tinder-i-aplikacje-randkowe-jak-wplywaja-na-milosc-zwiazki-i-samotnosc</link>
-<guid isPermaLink="true">https://zero.pl/news/tinder-i-aplikacje-randkowe-jak-wplywaja-na-milosc-zwiazki-i-samotnosc</guid>
-<category>Technologia</category>
-<description>Technologia — Michał Chudoliński</description>
-<pubDate>Mon, 10 Aug 2026 19:44:00 +0200</pubDate>
-</item>
-<item>
-<title>Fotoradary będą bardziej tolerancyjne. A czy nieuchronne?</title>
-<link>https://zero.pl/news/zmiany-w-fotoradarach-rzad-nadal-nie-potrafi-uszczelnic-prawa</link>
-<guid isPermaLink="true">https://zero.pl/news/zmiany-w-fotoradarach-rzad-nadal-nie-potrafi-uszczelnic-prawa</guid>
-<category>Moto</category>
-<description>Moto — Łukasz Zboralski</description>
-<pubDate>Mon, 10 Aug 2026 19:32:00 +0200</pubDate>
-</item>
-<item>
-<title>Kto odpowiada za dzieci w kulturze ekranów? Rodzice, szkoła czy platformy?</title>
-<link>https://zero.pl/news/smartfon-a-zdrowie-dziecka-sen-koncentracja-i-uzaleznienie-od-ekranow</link>
-<guid isPermaLink="true">https://zero.pl/news/smartfon-a-zdrowie-dziecka-sen-koncentracja-i-uzaleznienie-od-ekranow</guid>
-<category>Technologia</category>
-<description>Technologia — Michał Chudoliński</description>
-<pubDate>Mon, 10 Aug 2026 18:50:00 +0200</pubDate>
-</item>
-<item>
-<title>Mniej w portfelach Polaków. GUS podał najnowsze dane</title>
-<link>https://zero.pl/news/wynagrodzenia-w-polsce-spadly-gus-podal-najnowsze-dane</link>
-<guid isPermaLink="true">https://zero.pl/news/wynagrodzenia-w-polsce-spadly-gus-podal-najnowsze-dane</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Mon, 10 Aug 2026 18:49:00 +0200</pubDate>
-</item>
-<item>
-<title>„Wilk syty i Wilkowyje City”. Donald Tusk na planie Rancza</title>
-<link>https://zero.pl/news/donald-tusk-na-planie-serialu-tvp-ranczo-rozmawial-z-wojtem-ktory-zostal-prezydentem</link>
-<guid isPermaLink="true">https://zero.pl/news/donald-tusk-na-planie-serialu-tvp-ranczo-rozmawial-z-wojtem-ktory-zostal-prezydentem</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Mon, 10 Aug 2026 18:34:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
