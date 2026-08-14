@@ -5,7 +5,7 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 14 Aug 2026 14:10:21 +0200</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 15:38:15 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
 <title>Romanowski wybrał kapitulację i robienie z siebie papierowego rycerza walki o sprawiedliwość</title>
@@ -14,6 +14,30 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Izdebski</description>
 <pubDate>Fri, 14 Aug 2026 18:06:00 +0200</pubDate>
+</item>
+<item>
+<title>Od podwykonawcy do zbawcy? Polska ratuje niemieckich eksporterów</title>
+<link>https://zero.pl/news/eksport-do-polski-pomaga-niemcom-tylko-do-trzech-krajow-wysylaja-wiecej</link>
+<guid isPermaLink="true">https://zero.pl/news/eksport-do-polski-pomaga-niemcom-tylko-do-trzech-krajow-wysylaja-wiecej</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Fri, 14 Aug 2026 15:16:00 +0200</pubDate>
+</item>
+<item>
+<title>„Dziennikarstwo musi mieć duszę”. Pożegnanie Andrzeja Morozowskiego</title>
+<link>https://zero.pl/news/pozegnanie-dziennikarza-tvn24-andrzeja-morozowskiego-dziennikarstwo-musi-miec-dusze</link>
+<guid isPermaLink="true">https://zero.pl/news/pozegnanie-dziennikarza-tvn24-andrzeja-morozowskiego-dziennikarstwo-musi-miec-dusze</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 14 Aug 2026 14:56:00 +0200</pubDate>
+</item>
+<item>
+<title>Energia z OZE marnuje się. Polacy zapłacili już za to ponad 100 mln zł</title>
+<link>https://zero.pl/news/nadmiar-energii-z-oze-i-rachunek-na-ponad-100-mln-zl-placa-odbiorcy-koncowi</link>
+<guid isPermaLink="true">https://zero.pl/news/nadmiar-energii-z-oze-i-rachunek-na-ponad-100-mln-zl-placa-odbiorcy-koncowi</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Fri, 14 Aug 2026 14:56:00 +0200</pubDate>
 </item>
 <item>
 <title>Pensje nauczycieli poszły w górę. Ale to nadal może nie wystarczyć</title>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Tomasz Pałasz</description>
 <pubDate>Tue, 11 Aug 2026 12:26:00 +0200</pubDate>
-</item>
-<item>
-<title>Zaćmienie Słońca nad Polską. Te miejsca będą najlepsze do obserwacji</title>
-<link>https://zero.pl/news/zacmienie-slonca-nad-polska-te-miejsca-beda-najlepsze-do-obserwacji</link>
-<guid isPermaLink="true">https://zero.pl/news/zacmienie-slonca-nad-polska-te-miejsca-beda-najlepsze-do-obserwacji</guid>
-<category>Kraj</category>
-<description>Kraj — Bartosz Michalski</description>
-<pubDate>Tue, 11 Aug 2026 12:24:00 +0200</pubDate>
-</item>
-<item>
-<title>Przełom dla wynajmujących mieszkania. Podatek może być niższy o kilka tysięcy złotych</title>
-<link>https://zero.pl/news/wynajmowanie-mieszkan-a-podatki-przelomowa-interpretacja-fiskusa-ucieszy-tysiace-polakow</link>
-<guid isPermaLink="true">https://zero.pl/news/wynajmowanie-mieszkan-a-podatki-przelomowa-interpretacja-fiskusa-ucieszy-tysiace-polakow</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Tue, 11 Aug 2026 12:04:00 +0200</pubDate>
-</item>
-<item>
-<title>Rozłam w PiS nie ratuje koalicji Tuska. Prawica może przejąć władzę</title>
-<link>https://zero.pl/news/partia-morawieckiego-odbiera-glosy-pis-samodzielny-start-rozwoj-plus-nie-ratuje-tuska</link>
-<guid isPermaLink="true">https://zero.pl/news/partia-morawieckiego-odbiera-glosy-pis-samodzielny-start-rozwoj-plus-nie-ratuje-tuska</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Tue, 11 Aug 2026 11:52:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
