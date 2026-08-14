@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 14 Aug 2026 20:07:57 +0200</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 21:09:44 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Ramówka Zero TV na poniedziałek 17 sierpnia. Ground Zero już wieczorem</title>
+<link>https://zero.pl/news/program-tv-zero-17-08-co-dzis-mozna-obejrzec-ground-zero</link>
+<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-17-08-co-dzis-mozna-obejrzec-ground-zero</guid>
+<category>Program TV</category>
+<description>Program TV — Redakcja Zero.pl</description>
+<pubDate>Fri, 14 Aug 2026 21:04:00 +0200</pubDate>
+</item>
+<item>
+<title>Ramówka Zero TV na niedzielę 16 sierpnia. Mazurek &amp; Stanowski</title>
+<link>https://zero.pl/news/program-tv-zero-16-08-co-dzis-mozna-obejrzec-mazurek-stanowski</link>
+<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-16-08-co-dzis-mozna-obejrzec-mazurek-stanowski</guid>
+<category>Program TV</category>
+<description>Program TV — Redakcja Zero.pl</description>
+<pubDate>Fri, 14 Aug 2026 21:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Ramówka Zero TV na sobotę 15 sierpnia. Obchody Święta Wojska Polskiego</title>
+<link>https://zero.pl/news/swieto-wojska-polskiego-2026-na-zywo-w-telewizji-zero-program-i-relacja</link>
+<guid isPermaLink="true">https://zero.pl/news/swieto-wojska-polskiego-2026-na-zywo-w-telewizji-zero-program-i-relacja</guid>
+<category>Program TV</category>
+<description>Program TV — Redakcja Zero.pl</description>
+<pubDate>Fri, 14 Aug 2026 20:56:00 +0200</pubDate>
+</item>
 <item>
 <title>Najlepszy rok ever. 30 lat temu wszyscy zostaliśmy graczami</title>
 <link>https://zero.pl/news/diablo-tomb-raider-resident-evil-quake-czy-rok-1996-rok-najlepszym-w-historii-gier-wideo</link>
@@ -1182,30 +1206,6 @@
 <category>Program TV</category>
 <description>Program TV — Redakcja Zero.pl</description>
 <pubDate>Tue, 11 Aug 2026 18:33:00 +0200</pubDate>
-</item>
-<item>
-<title>Susza już niemal w całym kraju. Rolnicy apelują o pomoc i zmianę prawa</title>
-<link>https://zero.pl/news/susza-w-polsce-2026-male-zbiory-rolnikow-i-brak-wody-w-rzekach-susza-na-terenie-calego-kraju</link>
-<guid isPermaLink="true">https://zero.pl/news/susza-w-polsce-2026-male-zbiory-rolnikow-i-brak-wody-w-rzekach-susza-na-terenie-calego-kraju</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Tue, 11 Aug 2026 18:10:00 +0200</pubDate>
-</item>
-<item>
-<title>Nietypowy problem francuskiej elektrowni. Meduzy zatrzymały trzy reaktory</title>
-<link>https://zero.pl/news/nietypowy-problem-francuskiej-elektrowni-meduzy-zatrzymaly-trzy-reaktory</link>
-<guid isPermaLink="true">https://zero.pl/news/nietypowy-problem-francuskiej-elektrowni-meduzy-zatrzymaly-trzy-reaktory</guid>
-<category>Świat</category>
-<description>Świat — Bartosz Michalski</description>
-<pubDate>Tue, 11 Aug 2026 17:49:00 +0200</pubDate>
-</item>
-<item>
-<title>Ryby, strączki i mniej cukru. Nowe zasady żywienia w szkołach od września</title>
-<link>https://zero.pl/news/od-1-wrzesnia-2026-r-nowe-zasady-zywienia-w-szkolach-ryby-straczki-i-mniej-cukru</link>
-<guid isPermaLink="true">https://zero.pl/news/od-1-wrzesnia-2026-r-nowe-zasady-zywienia-w-szkolach-ryby-straczki-i-mniej-cukru</guid>
-<category>Zdrowie</category>
-<description>Zdrowie — Tomasz Pałasz</description>
-<pubDate>Tue, 11 Aug 2026 17:25:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
