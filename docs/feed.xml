@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 14 Aug 2026 18:12:49 +0200</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 19:13:00 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Zaorał nowy asfalt i trafił do aresztu. Teraz prokuratura zmienia decyzję</title>
+<link>https://zero.pl/news/gliwice-uchylono-areszt-rolnikowi-za-zaoranie-asfaltu-na-ul-rybackiej</link>
+<guid isPermaLink="true">https://zero.pl/news/gliwice-uchylono-areszt-rolnikowi-za-zaoranie-asfaltu-na-ul-rybackiej</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Fri, 14 Aug 2026 18:43:00 +0200</pubDate>
+</item>
+<item>
+<title>„Lewandowski oczekuje tego od władz Chicago”. Były zawodnik MLS mówi o sytuacji Polaka</title>
+<link>https://zero.pl/news/lewandowski-oczekuje-tego-do-wladz-chicago-fire-frankowski-mowi-o-sytuacji-polaka</link>
+<guid isPermaLink="true">https://zero.pl/news/lewandowski-oczekuje-tego-do-wladz-chicago-fire-frankowski-mowi-o-sytuacji-polaka</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Fri, 14 Aug 2026 18:22:00 +0200</pubDate>
+</item>
 <item>
 <title>Romanowski wybrał kapitulację i robienie z siebie papierowego rycerza walki o sprawiedliwość</title>
 <link>https://zero.pl/news/romanowski-w-tyraspolu-polityk-pis-znalazlby-sie-w-miejscu-zaleznym-od-rosji</link>
@@ -1190,22 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Tue, 11 Aug 2026 16:04:00 +0200</pubDate>
-</item>
-<item>
-<title>W Rotterdamie ekshumowano pierwszego szefa OUN. Zostanie pochowany pod Kijowem</title>
-<link>https://zero.pl/news/w-rotterdamie-ekshumowano-pierwszego-szefa-oun-zostanie-pochowany-pod-kijowem</link>
-<guid isPermaLink="true">https://zero.pl/news/w-rotterdamie-ekshumowano-pierwszego-szefa-oun-zostanie-pochowany-pod-kijowem</guid>
-<category>Świat</category>
-<description>Świat — Kasjan Owsianko</description>
-<pubDate>Tue, 11 Aug 2026 15:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Węgry mają nowego prezydenta. Parlament zdecydował</title>
-<link>https://zero.pl/news/wegry-andras-baka-wybrany-na-urzad-prezydenta</link>
-<guid isPermaLink="true">https://zero.pl/news/wegry-andras-baka-wybrany-na-urzad-prezydenta</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 11 Aug 2026 15:45:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
