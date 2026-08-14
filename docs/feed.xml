@@ -5,7 +5,7 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 14 Aug 2026 15:38:15 +0200</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 16:35:54 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
 <title>Romanowski wybrał kapitulację i robienie z siebie papierowego rycerza walki o sprawiedliwość</title>
@@ -14,6 +14,30 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Izdebski</description>
 <pubDate>Fri, 14 Aug 2026 18:06:00 +0200</pubDate>
+</item>
+<item>
+<title>Czy w przyszłym tygodniu na pewno zatankujemy taniej? „Nie przeskoczymy rzeczywistości”</title>
+<link>https://zero.pl/news/jakie-ceny-paliw-na-stacjach-w-przyszlym-tygodniu-nie-przeskoczymy-rzeczywistosci</link>
+<guid isPermaLink="true">https://zero.pl/news/jakie-ceny-paliw-na-stacjach-w-przyszlym-tygodniu-nie-przeskoczymy-rzeczywistosci</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Fri, 14 Aug 2026 16:35:00 +0200</pubDate>
+</item>
+<item>
+<title>Małżeństwo polityków KO wspierało Kacprzyka? Posłanka PiS: Wiedzieli, co on robi</title>
+<link>https://zero.pl/news/dawid-kacprzyk-wspierany-przez-malzenstwo-politykow-ko-poslanka-pis-komentuje</link>
+<guid isPermaLink="true">https://zero.pl/news/dawid-kacprzyk-wspierany-przez-malzenstwo-politykow-ko-poslanka-pis-komentuje</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Fri, 14 Aug 2026 16:09:00 +0200</pubDate>
+</item>
+<item>
+<title>Awantura o koncert Sanah w Gdyni. Nie każdy mieszkaniec wejdzie na urodziny miasta</title>
+<link>https://zero.pl/news/koncert-sanah-w-gdyni-22-sierpnia-wstep-z-karta-mieszkanca-radni-opozycji-krytykuja</link>
+<guid isPermaLink="true">https://zero.pl/news/koncert-sanah-w-gdyni-22-sierpnia-wstep-z-karta-mieszkanca-radni-opozycji-krytykuja</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Fri, 14 Aug 2026 15:42:00 +0200</pubDate>
 </item>
 <item>
 <title>Od podwykonawcy do zbawcy? Polska ratuje niemieckich eksporterów</title>
@@ -1182,30 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Michał Bruszewski</description>
 <pubDate>Tue, 11 Aug 2026 13:20:00 +0200</pubDate>
-</item>
-<item>
-<title>Trump sprzedaje szybszy dostęp do swoich wpisów. Firmy płacą nawet 100 tys. dolarów miesięcznie</title>
-<link>https://zero.pl/news/trump-sprzedaje-szybszy-dostep-do-swoich-wpisow-firmy-placa-nawet-100-tys-dolarow-miesiecznie</link>
-<guid isPermaLink="true">https://zero.pl/news/trump-sprzedaje-szybszy-dostep-do-swoich-wpisow-firmy-placa-nawet-100-tys-dolarow-miesiecznie</guid>
-<category>Świat</category>
-<description>Świat — Bartosz Michalski</description>
-<pubDate>Tue, 11 Aug 2026 13:17:00 +0200</pubDate>
-</item>
-<item>
-<title>Dymisja w rządzie. Tusk ogłasza zmianę</title>
-<link>https://zero.pl/news/maciej-berek-odchodzi-z-rzadu-donald-tusk-oglosil-zmiane</link>
-<guid isPermaLink="true">https://zero.pl/news/maciej-berek-odchodzi-z-rzadu-donald-tusk-oglosil-zmiane</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Białczyk,Tomasz Pałasz</description>
-<pubDate>Tue, 11 Aug 2026 13:08:00 +0200</pubDate>
-</item>
-<item>
-<title>Nie żyje Alaksandr Milinkiewicz. Lider białoruskiej opozycji miał 79 lat</title>
-<link>https://zero.pl/news/alaksandr-milinkiewicz-nie-zyje-bialoruski-opozycjonista-mial-79-lat</link>
-<guid isPermaLink="true">https://zero.pl/news/alaksandr-milinkiewicz-nie-zyje-bialoruski-opozycjonista-mial-79-lat</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Tue, 11 Aug 2026 12:26:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
