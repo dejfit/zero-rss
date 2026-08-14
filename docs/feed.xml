@@ -5,7 +5,7 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 14 Aug 2026 17:25:49 +0200</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 18:12:49 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
 <title>Romanowski wybrał kapitulację i robienie z siebie papierowego rycerza walki o sprawiedliwość</title>
@@ -14,6 +14,22 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Izdebski</description>
 <pubDate>Fri, 14 Aug 2026 18:06:00 +0200</pubDate>
+</item>
+<item>
+<title>Dramat w Chorwacji. Polacy poszkodowani w groźnym pożarze</title>
+<link>https://zero.pl/news/pozary-w-chorwacji-4-polakow-poszkodowanych-w-omiszu-komunikat-msz</link>
+<guid isPermaLink="true">https://zero.pl/news/pozary-w-chorwacji-4-polakow-poszkodowanych-w-omiszu-komunikat-msz</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Fri, 14 Aug 2026 18:03:00 +0200</pubDate>
+</item>
+<item>
+<title>Rząd o nich zapomniał? Kiedy rosną koszty tych firm, drożeje wszystko inne</title>
+<link>https://zero.pl/news/zapomniana-grupa-kierowcow-obnizka-vat-na-paliwa-nie-przynosi-im-ulgi</link>
+<guid isPermaLink="true">https://zero.pl/news/zapomniana-grupa-kierowcow-obnizka-vat-na-paliwa-nie-przynosi-im-ulgi</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Fri, 14 Aug 2026 17:42:00 +0200</pubDate>
 </item>
 <item>
 <title>Atak na Starym Mieście w Poznaniu. Policja zatrzymała jedną z kobiet</title>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
 <pubDate>Tue, 11 Aug 2026 15:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Prestiż bez kanalizacji. Kupili mieszkania, w których nie mogą żyć. „Stoimy w miejscu”</title>
-<link>https://zero.pl/news/od-6-lat-nie-moga-wprowadzic-sie-do-swoich-mieszkan-batalia-z-deweloperem-w-warszawie</link>
-<guid isPermaLink="true">https://zero.pl/news/od-6-lat-nie-moga-wprowadzic-sie-do-swoich-mieszkan-batalia-z-deweloperem-w-warszawie</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Barejka</description>
-<pubDate>Tue, 11 Aug 2026 15:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Fikcyjne transporty odpadów i fałszywe faktury. Reporterzy ujawniają</title>
-<link>https://zero.pl/news/fikcyjny-recykling-elektrosmieci-dziennikarze-ujawniaja-nieprawidlowosci</link>
-<guid isPermaLink="true">https://zero.pl/news/fikcyjny-recykling-elektrosmieci-dziennikarze-ujawniaja-nieprawidlowosci</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 11 Aug 2026 15:18:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
