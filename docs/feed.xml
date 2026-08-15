@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 15 Aug 2026 08:53:54 +0200</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 09:23:19 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Więcej w gotówce niż na koncie. Państwowy fundusz podał sumę oszczędności Polaków</title>
+<link>https://zero.pl/news/wiecej-w-gotowce-niz-na-koncie-panstwowy-fundusz-podal-sume-oszczednosci-polakow</link>
+<guid isPermaLink="true">https://zero.pl/news/wiecej-w-gotowce-niz-na-koncie-panstwowy-fundusz-podal-sume-oszczednosci-polakow</guid>
+<category>Biznes</category>
+<description>Biznes — Paweł Żurek</description>
+<pubDate>Sat, 15 Aug 2026 09:00:00 +0200</pubDate>
+</item>
 <item>
 <title>Naukowcy odkryli gwiazdę większą niż Układ Słoneczny. „Emituje gigantyczną ilość energii”</title>
 <link>https://zero.pl/news/naukowcy-odkryli-gwiazde-wieksza-niz-uklad-sloneczny-emituje-gigantyczna-ilosc-energii</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Krzysztof Jabłonowski</description>
 <pubDate>Tue, 11 Aug 2026 21:39:00 +0200</pubDate>
-</item>
-<item>
-<title>„Politycy mają słabość do cynicznych doradców”. O Giertychu w debacie Kanału Zero</title>
-<link>https://zero.pl/news/debata-kanalu-zero-o-drodze-romana-giertycha-jurek-winnicki-i-slowik-o-roli-polityka</link>
-<guid isPermaLink="true">https://zero.pl/news/debata-kanalu-zero-o-drodze-romana-giertycha-jurek-winnicki-i-slowik-o-roli-polityka</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 11 Aug 2026 21:30:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
