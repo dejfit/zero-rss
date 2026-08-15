@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 15 Aug 2026 12:13:40 +0200</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 12:41:26 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>„Naszym największym wrogiem nie jest Unia i Ukraina”. Tusk zaapelował do opozycji</title>
+<link>https://zero.pl/news/naszym-najwiekszym-wrogiem-nie-jest-unia-i-ukraina-tusk-zaapelowal-do-opozycji</link>
+<guid isPermaLink="true">https://zero.pl/news/naszym-najwiekszym-wrogiem-nie-jest-unia-i-ukraina-tusk-zaapelowal-do-opozycji</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Sat, 15 Aug 2026 12:18:00 +0200</pubDate>
+</item>
 <item>
 <title>Nie żyje najmłodszy profesor w historii Cambridge. Oskarżano go o zmyślenie osiągnięć</title>
 <link>https://zero.pl/news/nie-zyje-najmlodszy-profesor-w-historii-cambridge-oskarzano-go-o-zmyslenie-osiagniec</link>
@@ -1197,14 +1205,6 @@
 <guid isPermaLink="true">https://zero.pl/news/amnestia-maturalna-i-mundurki-bilans-rzadow-romana-giertycha-w-edukacji</guid>
 <category>Kraj</category>
 <description>Kraj — Łukasz Wolański</description>
-<pubDate>Wed, 12 Aug 2026 05:55:00 +0200</pubDate>
-</item>
-<item>
-<title>Brakuje pieniędzy na godne umieranie. Hospicja ograniczają przyjęcia</title>
-<link>https://zero.pl/news/problemy-hospicjow-z-finansowaniem-chorzy-czekaja-na-przyjecie</link>
-<guid isPermaLink="true">https://zero.pl/news/problemy-hospicjow-z-finansowaniem-chorzy-czekaja-na-przyjecie</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura,Patryk Słowik,Jakub Styczyński</description>
 <pubDate>Wed, 12 Aug 2026 05:55:00 +0200</pubDate>
 </item>
 </channel>
