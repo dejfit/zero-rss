@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 15 Aug 2026 08:01:53 +0200</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 08:53:54 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Naukowcy odkryli gwiazdę większą niż Układ Słoneczny. „Emituje gigantyczną ilość energii”</title>
+<link>https://zero.pl/news/naukowcy-odkryli-gwiazde-wieksza-niz-uklad-sloneczny-emituje-gigantyczna-ilosc-energii</link>
+<guid isPermaLink="true">https://zero.pl/news/naukowcy-odkryli-gwiazde-wieksza-niz-uklad-sloneczny-emituje-gigantyczna-ilosc-energii</guid>
+<category>Nauka</category>
+<description>Nauka — Paweł Żurek</description>
+<pubDate>Sat, 15 Aug 2026 08:03:00 +0200</pubDate>
+</item>
 <item>
 <title>Zamknięte drogi i mosty. W trakcie defilady stanie ruch w Warszawie</title>
 <link>https://zero.pl/news/zamkniete-drogi-i-mosty-w-trakcie-defilady-stanie-ruch-w-warszawie</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Agnieszka Waś-Turecka</description>
 <pubDate>Tue, 11 Aug 2026 21:30:00 +0200</pubDate>
-</item>
-<item>
-<title>Incydent na Morzu Czarnym. Drony w pobliżu strategicznej inwestycji</title>
-<link>https://zero.pl/news/rumunscy-nurkowie-zniszczyli-drony-gerbera-przy-projekcie-neptun-deep</link>
-<guid isPermaLink="true">https://zero.pl/news/rumunscy-nurkowie-zniszczyli-drony-gerbera-przy-projekcie-neptun-deep</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 11 Aug 2026 20:12:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
