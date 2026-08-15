@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 15 Aug 2026 07:10:42 +0200</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 07:43:15 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Zamknięte drogi i mosty. W trakcie defilady stanie ruch w Warszawie</title>
+<link>https://zero.pl/news/zamkniete-drogi-i-mosty-w-trakcie-defilady-stanie-ruch-w-warszawie</link>
+<guid isPermaLink="true">https://zero.pl/news/zamkniete-drogi-i-mosty-w-trakcie-defilady-stanie-ruch-w-warszawie</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Sat, 15 Aug 2026 07:38:00 +0200</pubDate>
+</item>
 <item>
 <title>Trump groził Iranowi, Teheran odpowiedział. „Nie ulegniemy tym demonstracjom”</title>
 <link>https://zero.pl/news/trump-grozil-iranowi-teheran-odpowiedzial-nie-ulegniemy-tym-demonstracjom</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
 <pubDate>Tue, 11 Aug 2026 20:12:00 +0200</pubDate>
-</item>
-<item>
-<title>Nie opłaca się kraść przewodów z ładowarek. Na niczym już nie dają zarobić</title>
-<link>https://zero.pl/news/nie-ucinaj-przewodow-ze-stacji-ladowania-slabo-placa-a-przypal-prawie-pewny</link>
-<guid isPermaLink="true">https://zero.pl/news/nie-ucinaj-przewodow-ze-stacji-ladowania-slabo-placa-a-przypal-prawie-pewny</guid>
-<category>Moto</category>
-<description>Moto — Tymon Grabowski</description>
-<pubDate>Tue, 11 Aug 2026 20:04:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
