@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 15 Aug 2026 06:15:45 +0200</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 06:48:54 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Trump groził Iranowi, Teheran odpowiedział. „Nie ulegniemy tym demonstracjom”</title>
+<link>https://zero.pl/news/trump-grozil-iranowi-teheran-odpowiedzial-nie-ulegniemy-tym-demonstracjom</link>
+<guid isPermaLink="true">https://zero.pl/news/trump-grozil-iranowi-teheran-odpowiedzial-nie-ulegniemy-tym-demonstracjom</guid>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
+<pubDate>Sat, 15 Aug 2026 06:47:00 +0200</pubDate>
+</item>
 <item>
 <title>Kurz spod końskich kopyt. Babel, Mackiewicz i cywilizacyjne starcie 1920 roku</title>
 <link>https://zero.pl/news/kurz-spod-konskich-kopyt-babel-mackiewicz-i-cywilizacyjne-starcie-1920-roku</link>
@@ -1198,14 +1206,6 @@
 <category>Moto</category>
 <description>Moto — Tymon Grabowski</description>
 <pubDate>Tue, 11 Aug 2026 20:04:00 +0200</pubDate>
-</item>
-<item>
-<title>Do Polski wróci afrykański żar. Wiadomo, kiedy znów będzie 36 st. C</title>
-<link>https://zero.pl/news/pogoda-pogody-na-10-dni-w-weekend-nadciagnie-upal-do-36-stopni-po-nim-duze-ochlodzenie</link>
-<guid isPermaLink="true">https://zero.pl/news/pogoda-pogody-na-10-dni-w-weekend-nadciagnie-upal-do-36-stopni-po-nim-duze-ochlodzenie</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 11 Aug 2026 19:48:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
