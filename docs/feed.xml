@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 15 Aug 2026 13:58:18 +0200</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 14:33:43 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Abp Depo o sześciu chorobach Polski. „Jakżeż aktualne są słowa Piotra Skargi”</title>
+<link>https://zero.pl/news/abp-depo-o-szesciu-chorobach-polski-jakzez-aktualne-sa-slowa-piotra-skargi</link>
+<guid isPermaLink="true">https://zero.pl/news/abp-depo-o-szesciu-chorobach-polski-jakzez-aktualne-sa-slowa-piotra-skargi</guid>
+<category>Kraj</category>
+<description>Kraj — Marcin Darmas</description>
+<pubDate>Sat, 15 Aug 2026 14:28:00 +0200</pubDate>
+</item>
+<item>
+<title>„Polska absolutnym liderem NATO”. Szef MON podsumował wydatki na wojsko</title>
+<link>https://zero.pl/news/polska-absolutnym-liderem-nato-szef-mon-podsumowal-wydatki-na-wojsko</link>
+<guid isPermaLink="true">https://zero.pl/news/polska-absolutnym-liderem-nato-szef-mon-podsumowal-wydatki-na-wojsko</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Sat, 15 Aug 2026 14:24:00 +0200</pubDate>
+</item>
+<item>
+<title>Polskie uczelnie daleko od światowej czołówki. Najnowsze wydanie rankingu</title>
+<link>https://zero.pl/news/polskie-uczelnie-daleko-od-swiatowej-czolowki-najnowsze-wydanie-rankingu</link>
+<guid isPermaLink="true">https://zero.pl/news/polskie-uczelnie-daleko-od-swiatowej-czolowki-najnowsze-wydanie-rankingu</guid>
+<category>Nauka</category>
+<description>Nauka — Paweł Żurek</description>
+<pubDate>Sat, 15 Aug 2026 13:58:00 +0200</pubDate>
+</item>
 <item>
 <title>„Bezpieczeństwo jest ważniejsze niż spory”. Nawrocki odpowiedział Tuskowi</title>
 <link>https://zero.pl/news/bezpieczenstwo-jest-wazniejsze-niz-spory-nawrocki-odpowiedzial-tuskowi</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Bartosz Michalski</description>
 <pubDate>Wed, 12 Aug 2026 08:17:00 +0200</pubDate>
-</item>
-<item>
-<title>Tysiące turystów na jednego mieszkańca. Małe włoskie miasteczka mają ogromny problem</title>
-<link>https://zero.pl/news/tysiace-turystow-na-jednego-mieszkanca-male-wloskie-miasteczka-maja-ogromny-problem</link>
-<guid isPermaLink="true">https://zero.pl/news/tysiace-turystow-na-jednego-mieszkanca-male-wloskie-miasteczka-maja-ogromny-problem</guid>
-<category>Świat</category>
-<description>Świat — Bartosz Michalski</description>
-<pubDate>Wed, 12 Aug 2026 07:53:00 +0200</pubDate>
-</item>
-<item>
-<title>Tragiczny bilans trzęsienia ziemi w Kolumbii. „Najsilniejszy kataklizm w XXI wieku”</title>
-<link>https://zero.pl/news/tragiczny-bilans-trzesienia-ziemi-w-kolumbii-najsilniejszy-kataklizm-w-xxi-wieku</link>
-<guid isPermaLink="true">https://zero.pl/news/tragiczny-bilans-trzesienia-ziemi-w-kolumbii-najsilniejszy-kataklizm-w-xxi-wieku</guid>
-<category>Świat</category>
-<description>Świat — Paweł Żurek</description>
-<pubDate>Wed, 12 Aug 2026 06:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Pierwsze takie zaćmienie od 27 lat. Dziś na niebie niezwykłe zjawisko</title>
-<link>https://zero.pl/news/pierwsze-takie-zacmienie-od-27-lat-dzis-na-niebie-niezwykle-zjawisko</link>
-<guid isPermaLink="true">https://zero.pl/news/pierwsze-takie-zacmienie-od-27-lat-dzis-na-niebie-niezwykle-zjawisko</guid>
-<category>Nauka</category>
-<description>Nauka — Paweł Żurek</description>
-<pubDate>Wed, 12 Aug 2026 06:27:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
