@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 15 Aug 2026 15:44:51 +0200</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 16:00:18 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Tam, gdzie śpiewają cykady, a morze pamięta Odyseusza. Opowieść z Rodos</title>
+<link>https://zero.pl/news/tam-gdzie-spiewaja-cykady-a-morze-pamieta-odyseusza-opowiesc-z-rodos</link>
+<guid isPermaLink="true">https://zero.pl/news/tam-gdzie-spiewaja-cykady-a-morze-pamieta-odyseusza-opowiesc-z-rodos</guid>
+<category>Świat</category>
+<description>Świat — Marcin Darmas</description>
+<pubDate>Sat, 15 Aug 2026 15:48:00 +0200</pubDate>
+</item>
+<item>
+<title>Włoskie wakacje. Jak Giertych prowadził kampanię wyborczą</title>
+<link>https://zero.pl/news/jak-roman-giertych-zdobyl-mandat-posla-prowadzac-kampanie-z-wloch</link>
+<guid isPermaLink="true">https://zero.pl/news/jak-roman-giertych-zdobyl-mandat-posla-prowadzac-kampanie-z-wloch</guid>
+<category>Kraj</category>
+<description>Kraj — Maria Stepan</description>
+<pubDate>Sat, 15 Aug 2026 15:47:00 +0200</pubDate>
+</item>
 <item>
 <title>18-latek znalazł złoto warte 9 mln euro. Skarb był zamurowany w ścianie</title>
 <link>https://zero.pl/news/18-latek-znalazl-zloto-warte-9-mln-euro-skarb-byl-zamurowany-w-scianie</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Jabłonowski</description>
 <pubDate>Wed, 12 Aug 2026 10:09:00 +0200</pubDate>
-</item>
-<item>
-<title>Prognoza pogody dla Polski. Teraz jeszcze spokojnie, ale upały szybko wrócą</title>
-<link>https://zero.pl/news/prognoza-pogody-dla-polski-kiedy-wroca-upaly</link>
-<guid isPermaLink="true">https://zero.pl/news/prognoza-pogody-dla-polski-kiedy-wroca-upaly</guid>
-<category>Kraj</category>
-<description>Kraj — Bartosz Michalski</description>
-<pubDate>Wed, 12 Aug 2026 09:37:00 +0200</pubDate>
-</item>
-<item>
-<title>Starlink zmienia zasady dla Polaków. Gawkowski napisał do Muska</title>
-<link>https://zero.pl/news/starlink-wykluczyl-polske-minister-zareagowal-pilne-przywrocenie-rownych-zasad</link>
-<guid isPermaLink="true">https://zero.pl/news/starlink-wykluczyl-polske-minister-zareagowal-pilne-przywrocenie-rownych-zasad</guid>
-<category>Technologia</category>
-<description>Technologia — Paweł Żurek</description>
-<pubDate>Wed, 12 Aug 2026 09:35:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
