@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 15 Aug 2026 11:04:15 +0200</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 11:35:34 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Nie żyje najmłodszy profesor w historii Cambridge. Oskarżano go o zmyślenie osiągnięć</title>
+<link>https://zero.pl/news/nie-zyje-najmlodszy-profesor-w-historii-cambridge-oskarzano-go-o-zmyslenie-osiagniec</link>
+<guid isPermaLink="true">https://zero.pl/news/nie-zyje-najmlodszy-profesor-w-historii-cambridge-oskarzano-go-o-zmyslenie-osiagniec</guid>
+<category>Nauka</category>
+<description>Nauka — Paweł Żurek</description>
+<pubDate>Sat, 15 Aug 2026 11:07:00 +0200</pubDate>
+</item>
 <item>
 <title>Pomnik Matki Boskiej w Konotopiu zostanie otwarty. Jest wyższy niż Chrystus ze Świebodzina</title>
 <link>https://zero.pl/news/pomnik-matki-boskiej-w-konotopiu-zostanie-otwarty-jest-wyzszy-niz-chrystus-ze-swiebodzina</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura,Patryk Słowik,Jakub Styczyński</description>
 <pubDate>Wed, 12 Aug 2026 05:55:00 +0200</pubDate>
-</item>
-<item>
-<title>Ukraina gotowa do rozmów z Rosją. „Przekazaliśmy USA nasze propozycje”</title>
-<link>https://zero.pl/news/ukraina-gotowa-do-rozmow-z-rosja-przekazalismy-usa-nasze-propozycje</link>
-<guid isPermaLink="true">https://zero.pl/news/ukraina-gotowa-do-rozmow-z-rosja-przekazalismy-usa-nasze-propozycje</guid>
-<category>Świat</category>
-<description>Świat — Kasjan Owsianko</description>
-<pubDate>Tue, 11 Aug 2026 21:58:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
