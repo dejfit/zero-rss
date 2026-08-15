@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 15 Aug 2026 10:03:27 +0200</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 10:40:46 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Pomnik Matki Boskiej w Konotopiu zostanie otwarty. Jest wyższy niż Chrystus ze Świebodzina</title>
+<link>https://zero.pl/news/pomnik-matki-boskiej-w-konotopiu-zostanie-otwarty-jest-wyzszy-niz-chrystus-ze-swiebodzina</link>
+<guid isPermaLink="true">https://zero.pl/news/pomnik-matki-boskiej-w-konotopiu-zostanie-otwarty-jest-wyzszy-niz-chrystus-ze-swiebodzina</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Sat, 15 Aug 2026 10:38:00 +0200</pubDate>
+</item>
 <item>
 <title>Defilada wojskowa w Kanale Zero. Pokażemy transmisję z żołnierskiego święta</title>
 <link>https://zero.pl/news/defilada-wojskowa-w-kanale-zero-pokazemy-transmisje-z-zolnierskiego-swieta</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Kasjan Owsianko</description>
 <pubDate>Tue, 11 Aug 2026 21:58:00 +0200</pubDate>
-</item>
-<item>
-<title>150 minut ruchu w tygodniu nie wystarczy. Naukowcy podali nowy limit</title>
-<link>https://zero.pl/news/ile-cwiczyc-by-uniknac-chorob-serca-nowe-wyniki-badan-naukowcow</link>
-<guid isPermaLink="true">https://zero.pl/news/ile-cwiczyc-by-uniknac-chorob-serca-nowe-wyniki-badan-naukowcow</guid>
-<category>Nauka</category>
-<description>Nauka — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 11 Aug 2026 21:50:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
