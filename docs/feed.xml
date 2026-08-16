@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 16 Aug 2026 20:28:46 +0200</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 20:56:26 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Kushner spotkał się z Hamasem. USA żądają rozbrojenia, Izrael stawia warunki</title>
+<link>https://zero.pl/news/kushner-spotkal-sie-z-hamasem-usa-zadaja-rozbrojenia-izrael-stawia-warunki</link>
+<guid isPermaLink="true">https://zero.pl/news/kushner-spotkal-sie-z-hamasem-usa-zadaja-rozbrojenia-izrael-stawia-warunki</guid>
+<category>Świat</category>
+<description>Świat — Marcin Darmas</description>
+<pubDate>Sun, 16 Aug 2026 20:46:00 +0200</pubDate>
+</item>
 <item>
 <title>Tucker Carlson odwraca się od Trumpa. Prorosyjski komentator szuka Ameryki po trumpizmie</title>
 <link>https://zero.pl/news/tucker-carlson-odwraca-sie-od-trumpa-prorosyjski-komentator-szuka-ameryki-po-trumpizmie</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
 <pubDate>Thu, 13 Aug 2026 13:25:00 +0200</pubDate>
-</item>
-<item>
-<title>Polacy obawiają się kryzysu migracyjnego. Mamy nowy sondaż</title>
-<link>https://zero.pl/news/kryzys-migracyjny-w-europie-i-obawy-polakow-jest-nowy-sondaz-sw-research</link>
-<guid isPermaLink="true">https://zero.pl/news/kryzys-migracyjny-w-europie-i-obawy-polakow-jest-nowy-sondaz-sw-research</guid>
-<category>Świat</category>
-<description>Świat — Piotr Białczyk</description>
-<pubDate>Thu, 13 Aug 2026 12:18:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
