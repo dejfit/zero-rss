@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 16 Aug 2026 10:18:04 +0200</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 10:50:02 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Co dzieje się w organizmie, gdy pijesz sok pomarańczowy? Przełomowe odkrycie badaczy</title>
+<link>https://zero.pl/news/szklanka-soku-pomaranczowego-codziennie-zmienia-aktywnosc-ponad-1700-genow</link>
+<guid isPermaLink="true">https://zero.pl/news/szklanka-soku-pomaranczowego-codziennie-zmienia-aktywnosc-ponad-1700-genow</guid>
+<category>Nauka</category>
+<description>Nauka — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 16 Aug 2026 10:46:00 +0200</pubDate>
+</item>
+<item>
+<title>Strzelanina pod Poznaniem. Kobieta w ciężkim stanie, sprawca poszukiwany</title>
+<link>https://zero.pl/news/strzelanina-w-swarzedzu-kobieta-odniosla-rany-policja-szuka-sprawcy</link>
+<guid isPermaLink="true">https://zero.pl/news/strzelanina-w-swarzedzu-kobieta-odniosla-rany-policja-szuka-sprawcy</guid>
+<category>Kraj</category>
+<description>Kraj — Katarzyna Dybińska</description>
+<pubDate>Sun, 16 Aug 2026 10:22:00 +0200</pubDate>
+</item>
+<item>
+<title>Tragedia podczas powrotu do domu. Wracali z pielgrzymki</title>
+<link>https://zero.pl/news/wypadek-polskiego-autokaru-na-wegrzech-wracali-z-pielgrzymki-zwolano-sztab-kryzysowy</link>
+<guid isPermaLink="true">https://zero.pl/news/wypadek-polskiego-autokaru-na-wegrzech-wracali-z-pielgrzymki-zwolano-sztab-kryzysowy</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 16 Aug 2026 10:16:00 +0200</pubDate>
+</item>
 <item>
 <title>Zmasowany atak Rosji na ukraińskie miasta. Zginęło pięć osób</title>
 <link>https://zero.pl/news/zmasowany-nalot-rosji-na-ukraine-nie-zyje-piec-osob</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Kasjan Owsianko</description>
 <pubDate>Wed, 12 Aug 2026 18:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Komandosi z Formozy, czyli polscy Navy SEALs. Z kim ćwiczył prezydent Nawrocki?</title>
-<link>https://zero.pl/news/prezydent-nawrocki-cwiczyl-z-formoza-kim-sa-polscy-navy-seals</link>
-<guid isPermaLink="true">https://zero.pl/news/prezydent-nawrocki-cwiczyl-z-formoza-kim-sa-polscy-navy-seals</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Wed, 12 Aug 2026 18:22:00 +0200</pubDate>
-</item>
-<item>
-<title>Polacy chcą deportacji Ukraińców? „Sygnał licytacji PiS-u z Braunem”</title>
-<link>https://zero.pl/news/67-proc-za-deportacja-ukrainskich-niepracujacych-mezczyzn-eksperci-krytykuja-pytanie</link>
-<guid isPermaLink="true">https://zero.pl/news/67-proc-za-deportacja-ukrainskich-niepracujacych-mezczyzn-eksperci-krytykuja-pytanie</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Wed, 12 Aug 2026 17:58:00 +0200</pubDate>
-</item>
-<item>
-<title>Nie tylko zaćmienie Słońca. Kilka godzin później kolejne niezwykłe zjawisko</title>
-<link>https://zero.pl/news/noc-perseidow-2026-kiedy-maksimum-nastapi-zaraz-po-zacmieniu-slonca-12-sierpnia</link>
-<guid isPermaLink="true">https://zero.pl/news/noc-perseidow-2026-kiedy-maksimum-nastapi-zaraz-po-zacmieniu-slonca-12-sierpnia</guid>
-<category>Nauka</category>
-<description>Nauka — Kasjan Owsianko</description>
-<pubDate>Wed, 12 Aug 2026 17:34:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
