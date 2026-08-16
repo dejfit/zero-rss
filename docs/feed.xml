@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 16 Aug 2026 18:43:49 +0200</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 19:02:02 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Gospodarcza cena politycznych haseł. komu ma służyć deportacja Ukraińców?</title>
+<link>https://zero.pl/news/migracyjny-populizm-pis-komu-ma-sluzyc-deportacja-ukraincow</link>
+<guid isPermaLink="true">https://zero.pl/news/migracyjny-populizm-pis-komu-ma-sluzyc-deportacja-ukraincow</guid>
+<category>Kraj</category>
+<description>Kraj — Wojciech J. Kittel</description>
+<pubDate>Sun, 16 Aug 2026 18:56:00 +0200</pubDate>
+</item>
+<item>
+<title>Gdzie najlepiej zamieszkać za granicą? Te kraje podbiły ranking ekspatów</title>
+<link>https://zero.pl/news/gdzie-najlepiej-zamieszkac-za-granica-te-kraje-podbily-ranking-ekspatow</link>
+<guid isPermaLink="true">https://zero.pl/news/gdzie-najlepiej-zamieszkac-za-granica-te-kraje-podbily-ranking-ekspatow</guid>
+<category>Świat</category>
+<description>Świat — Marcin Darmas</description>
+<pubDate>Sun, 16 Aug 2026 18:55:00 +0200</pubDate>
+</item>
 <item>
 <title>Wypadek polskiego autokaru na Węgrzech. Program specjalny Kanału Zero</title>
 <link>https://zero.pl/news/wypadek-polskiego-autokaru-na-wegrzech-program-specjalny-kanalu-zero</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Jabłonowski</description>
 <pubDate>Thu, 13 Aug 2026 11:12:00 +0200</pubDate>
-</item>
-<item>
-<title>Świergocka: Postawa Ziobry i Romanowskiego jest jawną kpiną</title>
-<link>https://zero.pl/news/anna-swiergocka-z-konfederacji-o-marcinie-romanowskim-i-zbigniewie-ziobrze</link>
-<guid isPermaLink="true">https://zero.pl/news/anna-swiergocka-z-konfederacji-o-marcinie-romanowskim-i-zbigniewie-ziobrze</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Thu, 13 Aug 2026 10:38:00 +0200</pubDate>
-</item>
-<item>
-<title>Włoszka ukarana za trzymanie telefonu w czasie jazdy. Twierdzi, że to była cukinia</title>
-<link>https://zero.pl/news/wloszka-ukarana-za-trzymanie-telefonu-w-czasie-jazdy-twierdzi-ze-to-byla-cukinia</link>
-<guid isPermaLink="true">https://zero.pl/news/wloszka-ukarana-za-trzymanie-telefonu-w-czasie-jazdy-twierdzi-ze-to-byla-cukinia</guid>
-<category>Moto</category>
-<description>Moto — Krzysztof Jabłonowski</description>
-<pubDate>Thu, 13 Aug 2026 09:28:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
