@@ -5,10 +5,18 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 16 Aug 2026 13:02:19 +0200</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 13:30:35 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
-<title>Pogodowy rollercoaster do 25 sierpnia. Pogoda mocno zaskoczy</title>
+<title>Wypadek polskich pątników na Węgrzech. To kolejny taki przypadek na trasie z Medziugorie</title>
+<link>https://zero.pl/news/wypadek-polskiego-autokaru-na-wegrzech-podobnych-zdarzen-w-xxi-w-bylo-wiecej</link>
+<guid isPermaLink="true">https://zero.pl/news/wypadek-polskiego-autokaru-na-wegrzech-podobnych-zdarzen-w-xxi-w-bylo-wiecej</guid>
+<category>Kraj</category>
+<description>Kraj — Katarzyna Dybińska</description>
+<pubDate>Sun, 16 Aug 2026 13:17:00 +0200</pubDate>
+</item>
+<item>
+<title>Pogodowy rollercoaster do 25 sierpnia. Temperatura mocno zaskoczy</title>
 <link>https://zero.pl/news/prognoza-pogody-do-25-sierpnia-ochlodzenie-od-poniedzialku-od-czwartku-znow-do-31-st-c</link>
 <guid isPermaLink="true">https://zero.pl/news/prognoza-pogody-do-25-sierpnia-ochlodzenie-od-poniedzialku-od-czwartku-znow-do-31-st-c</guid>
 <category>Kraj</category>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
 <pubDate>Wed, 12 Aug 2026 21:57:00 +0200</pubDate>
-</item>
-<item>
-<title>Hiszpania odpowiada Maroku. Ceuta i Melilla „są superhiszpańskie i nietykalne”</title>
-<link>https://zero.pl/news/spor-o-ceute-i-melille-hiszpania-stanowczo-odpowiada-na-roszczenia-maroka</link>
-<guid isPermaLink="true">https://zero.pl/news/spor-o-ceute-i-melille-hiszpania-stanowczo-odpowiada-na-roszczenia-maroka</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Wed, 12 Aug 2026 21:37:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
