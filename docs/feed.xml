@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 16 Aug 2026 06:00:56 +0200</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 06:45:36 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Niezwykła sobota polskich lekkoatletów. Cztery medale na mistrzostwach Europy</title>
+<link>https://zero.pl/news/me-w-lekkoatletyce-birmingham-4-medale-polakow-w-sobote-bukowiecka-zdzieblo-i-zodzik-ze-srebrem</link>
+<guid isPermaLink="true">https://zero.pl/news/me-w-lekkoatletyce-birmingham-4-medale-polakow-w-sobote-bukowiecka-zdzieblo-i-zodzik-ze-srebrem</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 16 Aug 2026 06:24:00 +0200</pubDate>
+</item>
+<item>
+<title>„Owce nie wiedzą, jaki to dzień tygodnia”. Zamiast ruszyć w świat, została bacą</title>
+<link>https://zero.pl/news/polska-od-srodka-bacowka-to-jej-drugi-dom-anna-opowiada-o-zyciu-wsrod-owiec-i-wyrobie-oscypkow</link>
+<guid isPermaLink="true">https://zero.pl/news/polska-od-srodka-bacowka-to-jej-drugi-dom-anna-opowiada-o-zyciu-wsrod-owiec-i-wyrobie-oscypkow</guid>
+<category>Kraj</category>
+<description>Kraj — Aleksandra Cieślik</description>
+<pubDate>Sun, 16 Aug 2026 06:02:00 +0200</pubDate>
+</item>
+<item>
+<title>Niemcy chcą przywrócenia handlu w niedziele. A co zrobi u nas Donald Tusk?</title>
+<link>https://zero.pl/news/niemcy-robia-krok-w-sprawie-handlu-w-niedziele-co-z-obietnica-donalda-tuska</link>
+<guid isPermaLink="true">https://zero.pl/news/niemcy-robia-krok-w-sprawie-handlu-w-niedziele-co-z-obietnica-donalda-tuska</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Sun, 16 Aug 2026 05:59:00 +0200</pubDate>
+</item>
 <item>
 <title>Katarzyna Wasick mistrzynią Europy! Polka pobiła rekord Polski</title>
 <link>https://zero.pl/news/katarzyna-wasick-mistrzynia-europy-polka-pobila-rekord-polski</link>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Kasjan Owsianko</description>
 <pubDate>Wed, 12 Aug 2026 15:30:00 +0200</pubDate>
-</item>
-<item>
-<title>Zaćmienie Słońca nadciąga nad polską sieć. „Zgasi” fotowoltaikę, co z systemem?</title>
-<link>https://zero.pl/news/zacmienie-slonca-12-sierpnia-2026-co-oznacza-dla-fotowoltaiki-i-polskiej-energetyki</link>
-<guid isPermaLink="true">https://zero.pl/news/zacmienie-slonca-12-sierpnia-2026-co-oznacza-dla-fotowoltaiki-i-polskiej-energetyki</guid>
-<category>Kraj</category>
-<description>Kraj — Katarzyna Dybińska</description>
-<pubDate>Wed, 12 Aug 2026 14:58:00 +0200</pubDate>
-</item>
-<item>
-<title>Gawkowski potwierdza wielki wyciek danych Polaków. Wśród nich dane wrażliwe</title>
-<link>https://zero.pl/news/wyciek-danych-19-mln-polakow-gawkowski-potwierdza-dane-wrazliwe</link>
-<guid isPermaLink="true">https://zero.pl/news/wyciek-danych-19-mln-polakow-gawkowski-potwierdza-dane-wrazliwe</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Wed, 12 Aug 2026 14:26:00 +0200</pubDate>
-</item>
-<item>
-<title>7-latek tonął na basenie. Po śmierci rodzice oddali chorym jego organy</title>
-<link>https://zero.pl/news/7-latek-tonal-na-basenie-po-smierci-rodzice-zdecydowali-o-oddaniu-jego-organow</link>
-<guid isPermaLink="true">https://zero.pl/news/7-latek-tonal-na-basenie-po-smierci-rodzice-zdecydowali-o-oddaniu-jego-organow</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Wed, 12 Aug 2026 13:54:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
