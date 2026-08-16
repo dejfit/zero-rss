@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 16 Aug 2026 07:44:51 +0200</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 08:02:59 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Incydent nad Rumunią. Hiszpański F-18 zestrzelił drona przy granicy</title>
+<link>https://zero.pl/news/rumunia-hiszpanski-mysliwiec-f-18-zestrzelil-drona-misja-nato</link>
+<guid isPermaLink="true">https://zero.pl/news/rumunia-hiszpanski-mysliwiec-f-18-zestrzelil-drona-misja-nato</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 16 Aug 2026 07:53:00 +0200</pubDate>
+</item>
 <item>
 <title>Groźny pożar w sanockim skansenie. Spłonął cenny zabytkowy kościół</title>
 <link>https://zero.pl/news/grozny-pozar-w-sanockim-skansenie-splonal-cenny-zabytkowy-kosciol</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Kasjan Owsianko</description>
 <pubDate>Wed, 12 Aug 2026 16:55:00 +0200</pubDate>
-</item>
-<item>
-<title>Człowiek Tuska może trafić do TK. „Osiem lat gadania jak krew w piach”</title>
-<link>https://zero.pl/news/maciej-berek-sedzia-trybunalu-konstytucyjnego-nie-powinno-byc-politykow-w-trybunale</link>
-<guid isPermaLink="true">https://zero.pl/news/maciej-berek-sedzia-trybunalu-konstytucyjnego-nie-powinno-byc-politykow-w-trybunale</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Wed, 12 Aug 2026 16:29:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
