@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 16 Aug 2026 13:47:39 +0200</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 14:00:22 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Większość Polaków nie będzie emerytalną arystokracją. Ekspert rozwiewa złudzenia</title>
+<link>https://zero.pl/news/przyszlosc-emerytur-w-czarnych-barwach-wiekszosc-polakow-na-minimalnym-swiadczeniu</link>
+<guid isPermaLink="true">https://zero.pl/news/przyszlosc-emerytur-w-czarnych-barwach-wiekszosc-polakow-na-minimalnym-swiadczeniu</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Sun, 16 Aug 2026 13:58:00 +0200</pubDate>
+</item>
+<item>
+<title>Wiemy, gdzie są Romanowski i Kacprzyk. Tylko naszych danych nie udało się znaleźć [OPINIA]</title>
+<link>https://zero.pl/news/moglo-byc-gorzej-romanowski-w-naddniestrzu-berek-w-trybunale-kacprzyk-w-porsche</link>
+<guid isPermaLink="true">https://zero.pl/news/moglo-byc-gorzej-romanowski-w-naddniestrzu-berek-w-trybunale-kacprzyk-w-porsche</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sun, 16 Aug 2026 13:48:00 +0200</pubDate>
+</item>
 <item>
 <title>Wypadek polskich pątników na Węgrzech. To kolejny taki przypadek na trasie z Medziugorie</title>
 <link>https://zero.pl/news/wypadek-polskiego-autokaru-na-wegrzech-podobnych-zdarzen-w-xxi-w-bylo-wiecej</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Patryk Słowik,Jakub Styczyński</description>
 <pubDate>Thu, 13 Aug 2026 05:58:00 +0200</pubDate>
-</item>
-<item>
-<title>Kiedy kolejne zaćmienie Słońca? Czeka nas dekada widowisk</title>
-<link>https://zero.pl/news/kiedy-kolejne-zacmienie-slonca-czeka-nas-dekada-widowisk</link>
-<guid isPermaLink="true">https://zero.pl/news/kiedy-kolejne-zacmienie-slonca-czeka-nas-dekada-widowisk</guid>
-<category>Nauka</category>
-<description>Nauka — Kasjan Owsianko</description>
-<pubDate>Wed, 12 Aug 2026 22:09:00 +0200</pubDate>
-</item>
-<item>
-<title>Ukraiński cios w bazę Floty Czarnomorskiej. Cztery okręty trafione</title>
-<link>https://zero.pl/news/atak-ukrainy-na-port-w-noworosyjsku-uszkodzone-rosyjskie-okrety-i-fregaty</link>
-<guid isPermaLink="true">https://zero.pl/news/atak-ukrainy-na-port-w-noworosyjsku-uszkodzone-rosyjskie-okrety-i-fregaty</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Wed, 12 Aug 2026 21:57:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
