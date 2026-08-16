@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 16 Aug 2026 19:58:54 +0200</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 20:28:46 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Tucker Carlson odwraca się od Trumpa. Prorosyjski komentator szuka Ameryki po trumpizmie</title>
+<link>https://zero.pl/news/tucker-carlson-odwraca-sie-od-trumpa-prorosyjski-komentator-szuka-ameryki-po-trumpizmie</link>
+<guid isPermaLink="true">https://zero.pl/news/tucker-carlson-odwraca-sie-od-trumpa-prorosyjski-komentator-szuka-ameryki-po-trumpizmie</guid>
+<category>Świat</category>
+<description>Świat — Marcin Darmas</description>
+<pubDate>Sun, 16 Aug 2026 20:08:00 +0200</pubDate>
+</item>
+<item>
+<title>Sześciu medyków leci na Węgry. Będą decydować o transporcie rannych Polaków</title>
+<link>https://zero.pl/news/szesciu-medykow-leci-na-wegry-beda-decydowac-o-transporcie-rannych-polakow</link>
+<guid isPermaLink="true">https://zero.pl/news/szesciu-medykow-leci-na-wegry-beda-decydowac-o-transporcie-rannych-polakow</guid>
+<category>Kraj</category>
+<description>Kraj — Marcin Darmas</description>
+<pubDate>Sun, 16 Aug 2026 20:07:00 +0200</pubDate>
+</item>
 <item>
 <title>Cristiano Ronaldo zapowiada koniec kariery. „To prawdopodobnie mój ostatni rok”</title>
 <link>https://zero.pl/news/cristiano-ronaldo-zapowiada-koniec-kariery-to-prawdopodobnie-moj-ostatni-rok</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Piotr Białczyk</description>
 <pubDate>Thu, 13 Aug 2026 12:18:00 +0200</pubDate>
-</item>
-<item>
-<title>Wyciek danych prawie 19 mln pacjentów. Tak sprawdzisz (lub nie), czy padłeś ofiarą</title>
-<link>https://zero.pl/news/wyciek-danych-z-mydr-jak-sprawdzic-czy-moje-dane-zostaly-ukradzione-instrukcja</link>
-<guid isPermaLink="true">https://zero.pl/news/wyciek-danych-z-mydr-jak-sprawdzic-czy-moje-dane-zostaly-ukradzione-instrukcja</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Thu, 13 Aug 2026 11:52:00 +0200</pubDate>
-</item>
-<item>
-<title>Trzecia Droga bis? PSL ma plan. „Potrzebny jest nowy pomysł”</title>
-<link>https://zero.pl/news/trzecia-droga-bis-psl-chce-nowej-koalicji-z-polska-2050-i-unia-centrum</link>
-<guid isPermaLink="true">https://zero.pl/news/trzecia-droga-bis-psl-chce-nowej-koalicji-z-polska-2050-i-unia-centrum</guid>
-<category>Kraj</category>
-<description>Kraj — Tymon Zalewski</description>
-<pubDate>Thu, 13 Aug 2026 11:26:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
