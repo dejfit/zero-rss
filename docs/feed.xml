@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 16 Aug 2026 14:45:26 +0200</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 15:20:01 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Rabunek w Mesynie. Z muzeum skradziono trzy dzieła Antonella da Messina</title>
+<link>https://zero.pl/news/rabunek-w-mesynie-z-muzeum-skradziono-trzy-dziela-antonella-da-messina</link>
+<guid isPermaLink="true">https://zero.pl/news/rabunek-w-mesynie-z-muzeum-skradziono-trzy-dziela-antonella-da-messina</guid>
+<category>Kultura</category>
+<description>Kultura — Marcin Darmas</description>
+<pubDate>Sun, 16 Aug 2026 15:18:00 +0200</pubDate>
+</item>
+<item>
+<title>Nie twórzmy armii rezerwowej. Zbudujmy system rezerw. Polemika po wywiadzie Zero.pl z gen. Gromadzińskim</title>
+<link>https://zero.pl/news/armia-rezerwowa-czy-system-rezerw-jak-powinna-wygladac-polska-rezerwa-wojskowa</link>
+<guid isPermaLink="true">https://zero.pl/news/armia-rezerwowa-czy-system-rezerw-jak-powinna-wygladac-polska-rezerwa-wojskowa</guid>
+<category>Wojsko</category>
+<description>Wojsko — Grzegorz Matyasik</description>
+<pubDate>Sun, 16 Aug 2026 14:51:00 +0200</pubDate>
+</item>
 <item>
 <title>600 dronów nad Moskwą. Ukraina uderza coraz głębiej w Rosję</title>
 <link>https://zero.pl/news/600-dronow-nad-moskwa-ukraina-uderza-coraz-glebiej-w-rosje</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Jacek Prusinowski</description>
 <pubDate>Thu, 13 Aug 2026 06:01:00 +0200</pubDate>
-</item>
-<item>
-<title>Sebuś, „goryl”, wierny człowiek Giertycha. Tak działał „Foka”</title>
-<link>https://zero.pl/news/sebus-goryl-wierny-czlowiek-giertycha-tak-dzialal-sebastian-j-foka</link>
-<guid isPermaLink="true">https://zero.pl/news/sebus-goryl-wierny-czlowiek-giertycha-tak-dzialal-sebastian-j-foka</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Barejka</description>
-<pubDate>Thu, 13 Aug 2026 05:58:00 +0200</pubDate>
-</item>
-<item>
-<title>100 dni narodowego rządu Romana Giertycha</title>
-<link>https://zero.pl/news/100-dni-narodowego-rzadu-romana-giertycha</link>
-<guid isPermaLink="true">https://zero.pl/news/100-dni-narodowego-rzadu-romana-giertycha</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Figurski</description>
-<pubDate>Thu, 13 Aug 2026 05:58:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
