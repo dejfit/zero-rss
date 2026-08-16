@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 16 Aug 2026 12:48:25 +0200</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 13:02:19 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Pogodowy rollercoaster do 25 sierpnia. Pogoda mocno zaskoczy</title>
+<link>https://zero.pl/news/prognoza-pogody-do-25-sierpnia-ochlodzenie-od-poniedzialku-od-czwartku-znow-do-31-st-c</link>
+<guid isPermaLink="true">https://zero.pl/news/prognoza-pogody-do-25-sierpnia-ochlodzenie-od-poniedzialku-od-czwartku-znow-do-31-st-c</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 16 Aug 2026 12:58:00 +0200</pubDate>
+</item>
 <item>
 <title>Gigantyczne odszkodowanie dla ofiar molestowania od archidiecezji. Pierwszy taki pozew</title>
 <link>https://zero.pl/news/kosciol-w-quebecu-wyplaci-miliony-ofiarom-molestowania-pierwszy-taki-pozew-w-historii</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
 <pubDate>Wed, 12 Aug 2026 21:37:00 +0200</pubDate>
-</item>
-<item>
-<title>Konie znikną z najtrudniejszego odcinka do Morskiego Oka. TPN rusza z pilotażem</title>
-<link>https://zero.pl/news/przewozy-konne-na-morskim-oku-od-wrzesnia-testy-krotszej-trasy</link>
-<guid isPermaLink="true">https://zero.pl/news/przewozy-konne-na-morskim-oku-od-wrzesnia-testy-krotszej-trasy</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Wed, 12 Aug 2026 21:24:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
