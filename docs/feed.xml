@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 16 Aug 2026 14:00:22 +0200</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 14:45:26 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>600 dronów nad Moskwą. Ukraina uderza coraz głębiej w Rosję</title>
+<link>https://zero.pl/news/600-dronow-nad-moskwa-ukraina-uderza-coraz-glebiej-w-rosje</link>
+<guid isPermaLink="true">https://zero.pl/news/600-dronow-nad-moskwa-ukraina-uderza-coraz-glebiej-w-rosje</guid>
+<category>Świat</category>
+<description>Świat — Marcin Darmas</description>
+<pubDate>Sun, 16 Aug 2026 14:27:00 +0200</pubDate>
+</item>
 <item>
 <title>Większość Polaków nie będzie emerytalną arystokracją. Ekspert rozwiewa złudzenia</title>
 <link>https://zero.pl/news/przyszlosc-emerytur-w-czarnych-barwach-wiekszosc-polakow-na-minimalnym-swiadczeniu</link>
@@ -1197,14 +1205,6 @@
 <guid isPermaLink="true">https://zero.pl/news/100-dni-narodowego-rzadu-romana-giertycha</guid>
 <category>Kraj</category>
 <description>Kraj — Paweł Figurski</description>
-<pubDate>Thu, 13 Aug 2026 05:58:00 +0200</pubDate>
-</item>
-<item>
-<title>Lekarze widmo i publiczne pieniądze. NFZ ruszył z masowymi kontrolami</title>
-<link>https://zero.pl/news/lekarze-widmo-w-szpitalach-nfz-ruszyl-z-masowymi-kontrolami</link>
-<guid isPermaLink="true">https://zero.pl/news/lekarze-widmo-w-szpitalach-nfz-ruszyl-z-masowymi-kontrolami</guid>
-<category>Kraj</category>
-<description>Kraj — Patryk Słowik,Jakub Styczyński</description>
 <pubDate>Thu, 13 Aug 2026 05:58:00 +0200</pubDate>
 </item>
 </channel>
