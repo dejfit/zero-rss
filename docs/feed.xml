@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 16 Aug 2026 12:00:31 +0200</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 12:27:44 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Gigantyczne odszkodowanie dla ofiar molestowania od archidiecezji. Pierwszy taki pozew</title>
+<link>https://zero.pl/news/kosciol-w-quebecu-wyplaci-miliony-ofiarom-molestowania-pierwszy-taki-pozew-w-historii</link>
+<guid isPermaLink="true">https://zero.pl/news/kosciol-w-quebecu-wyplaci-miliony-ofiarom-molestowania-pierwszy-taki-pozew-w-historii</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Sun, 16 Aug 2026 12:22:00 +0200</pubDate>
+</item>
+<item>
+<title>Rok z iPhone'em 17 Pro. Apple zabrał mi moją ulubioną rzecz</title>
+<link>https://zero.pl/news/koncze-rok-z-iphoneem-17-pro-za-jedna-rzecza-nie-bede-tesknic</link>
+<guid isPermaLink="true">https://zero.pl/news/koncze-rok-z-iphoneem-17-pro-za-jedna-rzecza-nie-bede-tesknic</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Sun, 16 Aug 2026 12:13:00 +0200</pubDate>
+</item>
+<item>
+<title>Tragedia Polaków na Węgrzech. Jest ruch polskiej prokuratury</title>
+<link>https://zero.pl/news/tragiczny-wypadek-autokaru-na-wegrzech-zginelo-12-polakow-prokuratura-wszczyna-sledztwo</link>
+<guid isPermaLink="true">https://zero.pl/news/tragiczny-wypadek-autokaru-na-wegrzech-zginelo-12-polakow-prokuratura-wszczyna-sledztwo</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 16 Aug 2026 12:06:00 +0200</pubDate>
+</item>
 <item>
 <title>Śmierć Polaków na Węgrzech. Najnowsze informacje z MSZ</title>
 <link>https://zero.pl/news/wpadek-polakow-na-wegrzech-najnowsze-informacje-z-msz</link>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Kasjan Owsianko</description>
 <pubDate>Wed, 12 Aug 2026 21:24:00 +0200</pubDate>
-</item>
-<item>
-<title>Zaćmienie Słońca w obiektywach czytelników Zero.pl. Najlepsze zdjęcia</title>
-<link>https://zero.pl/news/tak-zacmienie-slonca-wygladalo-z-waszej-perspektywy-zdjecia-czytelnikow-zero-pl</link>
-<guid isPermaLink="true">https://zero.pl/news/tak-zacmienie-slonca-wygladalo-z-waszej-perspektywy-zdjecia-czytelnikow-zero-pl</guid>
-<category>Kraj</category>
-<description>Kraj — Redakcja Zero.pl</description>
-<pubDate>Wed, 12 Aug 2026 21:01:00 +0200</pubDate>
-</item>
-<item>
-<title>Wyraźne zmiany w cenach paliw. Oto najnowsze dane z polskich stacji</title>
-<link>https://zero.pl/news/ceny-paliw-mocno-w-dol-ile-kosztuje-benzyna-i-diesel-raport</link>
-<guid isPermaLink="true">https://zero.pl/news/ceny-paliw-mocno-w-dol-ile-kosztuje-benzyna-i-diesel-raport</guid>
-<category>Biznes</category>
-<description>Biznes — Agnieszka Waś-Turecka</description>
-<pubDate>Wed, 12 Aug 2026 20:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Wyciekły dane milionów Polaków. Eksperci alarmują</title>
-<link>https://zero.pl/news/wyciek-danych-z-mydr-jak-nalezy-sie-zabezpieczyc</link>
-<guid isPermaLink="true">https://zero.pl/news/wyciek-danych-z-mydr-jak-nalezy-sie-zabezpieczyc</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Wed, 12 Aug 2026 20:10:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
