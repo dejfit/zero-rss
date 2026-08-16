@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 16 Aug 2026 06:45:36 +0200</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 07:12:38 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Katar odpowiada na zarzuty Iranu. Chodzi o zestrzelonych pilotów</title>
+<link>https://zero.pl/news/tajemnica-zestrzelonych-samolotow-katar-stanowczo-odpowiada-teheranowi</link>
+<guid isPermaLink="true">https://zero.pl/news/tajemnica-zestrzelonych-samolotow-katar-stanowczo-odpowiada-teheranowi</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Sun, 16 Aug 2026 06:47:00 +0200</pubDate>
+</item>
 <item>
 <title>Niezwykła sobota polskich lekkoatletów. Cztery medale na mistrzostwach Europy</title>
 <link>https://zero.pl/news/me-w-lekkoatletyce-birmingham-4-medale-polakow-w-sobote-bukowiecka-zdzieblo-i-zodzik-ze-srebrem</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Kasjan Owsianko</description>
 <pubDate>Wed, 12 Aug 2026 16:04:00 +0200</pubDate>
-</item>
-<item>
-<title>Karol Nawrocki i apartamenty w Muzeum II WŚ. Jest decyzja prokuratury</title>
-<link>https://zero.pl/news/karol-nawrocki-i-apartamenty-w-muzeum-ii-ws-w-gdansku-prokuratura-umarza-sledztwo</link>
-<guid isPermaLink="true">https://zero.pl/news/karol-nawrocki-i-apartamenty-w-muzeum-ii-ws-w-gdansku-prokuratura-umarza-sledztwo</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Wed, 12 Aug 2026 15:30:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
