@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 17 Aug 2026 16:46:25 +0200</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 17:04:58 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Wzruszające pożegnanie Frycza. „Byłem pewien, że spotkamy się jeszcze wielokrotnie”</title>
+<link>https://zero.pl/news/jan-frycz-nie-zyje-wybitny-aktor-zegnany-przez-ludzi-kina-i-polityki</link>
+<guid isPermaLink="true">https://zero.pl/news/jan-frycz-nie-zyje-wybitny-aktor-zegnany-przez-ludzi-kina-i-polityki</guid>
+<category>Kultura</category>
+<description>Kultura — Paweł Żurek</description>
+<pubDate>Mon, 17 Aug 2026 16:47:00 +0200</pubDate>
+</item>
 <item>
 <title>„Prawa ręka” Tuska chce do TK. Jest potwierdzenie z Sejmu</title>
 <link>https://zero.pl/news/maciej-berek-kandydatem-do-trybunalu-konstytucyjnego-jest-oficjalny-wniosek</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Tomasz Pałasz</description>
 <pubDate>Thu, 13 Aug 2026 21:36:00 +0200</pubDate>
-</item>
-<item>
-<title>Powrót do kultowych lat. Lewandowski prezentuje wyjątkowy trykot Chicago Fire</title>
-<link>https://zero.pl/news/chicago-fire-archive-kit-lewandowski-w-nowej-koszulce-w-stylu-retro</link>
-<guid isPermaLink="true">https://zero.pl/news/chicago-fire-archive-kit-lewandowski-w-nowej-koszulce-w-stylu-retro</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Thu, 13 Aug 2026 21:14:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
