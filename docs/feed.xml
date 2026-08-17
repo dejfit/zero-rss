@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 17 Aug 2026 18:16:37 +0200</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 18:47:54 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>„Nie zauważył grupy 30 osób z kamerami”. Kto pomaga poszkodowanym na Węgrzech?</title>
+<link>https://zero.pl/news/wypadek-polskiego-autokaru-na-wegrzech-rodziny-poszkodowanych-mowia-o-chaosie-informacyjnym</link>
+<guid isPermaLink="true">https://zero.pl/news/wypadek-polskiego-autokaru-na-wegrzech-rodziny-poszkodowanych-mowia-o-chaosie-informacyjnym</guid>
+<category>Świat</category>
+<description>Świat — Joanna Pinkwart</description>
+<pubDate>Mon, 17 Aug 2026 18:33:00 +0200</pubDate>
+</item>
+<item>
+<title>250 dni na morzu. Co naprawdę działo się na USS Abraham Lincoln?</title>
+<link>https://zero.pl/news/uss-abraham-lincoln-wraca-do-usa-250-dni-na-morzu-i-problemy-zalogi</link>
+<guid isPermaLink="true">https://zero.pl/news/uss-abraham-lincoln-wraca-do-usa-250-dni-na-morzu-i-problemy-zalogi</guid>
+<category>Wojsko</category>
+<description>Wojsko — Przemysław Staciwa</description>
+<pubDate>Mon, 17 Aug 2026 18:21:00 +0200</pubDate>
+</item>
 <item>
 <title>Kto mógłby zastąpić Tuska? Jest nowy sondaż</title>
 <link>https://zero.pl/news/kto-moglby-zastapic-tuska-na-stanowisku-premiera-wyniki-sondazu</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Kamil Szałecki</description>
 <pubDate>Fri, 14 Aug 2026 05:54:00 +0200</pubDate>
-</item>
-<item>
-<title>Mecenas rodziny i polityczny cyngiel. „Tusk jest uzależniony od Giertycha”</title>
-<link>https://zero.pl/news/adwokat-rodziny-premiera-jak-roman-giertych-zbudowal-pozycje-w-ko</link>
-<guid isPermaLink="true">https://zero.pl/news/adwokat-rodziny-premiera-jak-roman-giertych-zbudowal-pozycje-w-ko</guid>
-<category>Kraj</category>
-<description>Kraj — Jacek Prusinowski</description>
-<pubDate>Fri, 14 Aug 2026 05:53:00 +0200</pubDate>
-</item>
-<item>
-<title>Wpływowe małżeństwo polityków KO pomagało Dawidowi Kacprzykowi</title>
-<link>https://zero.pl/news/dawid-kacprzyk-i-komorowie-jak-politycy-ko-pomagali-mlodemu-lekarzowi</link>
-<guid isPermaLink="true">https://zero.pl/news/dawid-kacprzyk-i-komorowie-jak-politycy-ko-pomagali-mlodemu-lekarzowi</guid>
-<category>Kraj</category>
-<description>Kraj — Patryk Słowik,Jakub Styczyński</description>
-<pubDate>Fri, 14 Aug 2026 05:53:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
