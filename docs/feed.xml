@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 17 Aug 2026 07:59:13 +0200</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 08:56:31 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Nowe ustalenia ws. wypadku autokaru na Węgrzech. Działania polskich służb</title>
+<link>https://zero.pl/news/wypadek-autokaru-na-wegrzech-nowe-ustalenia-dzialania-polskich-sluzb</link>
+<guid isPermaLink="true">https://zero.pl/news/wypadek-autokaru-na-wegrzech-nowe-ustalenia-dzialania-polskich-sluzb</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 17 Aug 2026 08:31:00 +0200</pubDate>
+</item>
+<item>
+<title>Załamanie pogody nad Polską. IMGW wydaje alerty pierwszego i drugiego stopnia</title>
+<link>https://zero.pl/news/pogoda-na-dzis-ostrzezenia-imgw-przed-burzami-i-deszczem-sprawdz-mape-alertow-dla-polski</link>
+<guid isPermaLink="true">https://zero.pl/news/pogoda-na-dzis-ostrzezenia-imgw-przed-burzami-i-deszczem-sprawdz-mape-alertow-dla-polski</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 17 Aug 2026 08:07:00 +0200</pubDate>
+</item>
 <item>
 <title>Plan pokojowy dla Strefy Gazy. Palestyńczycy żądają presji na Izrael</title>
 <link>https://zero.pl/news/plan-pokojowy-dla-strefy-gazy-hamas-wzywa-do-naciskow-na-izrael</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Piotr Białczyk</description>
 <pubDate>Thu, 13 Aug 2026 17:22:00 +0200</pubDate>
-</item>
-<item>
-<title>Dane tak dobre, że aż zachwyciły ministra Domańskiego. „Coraz szybciej!”</title>
-<link>https://zero.pl/news/jak-rosla-polska-gospodarka-w-ii-kwartale-nowe-dane-wskazuja-na-przyspieszenie</link>
-<guid isPermaLink="true">https://zero.pl/news/jak-rosla-polska-gospodarka-w-ii-kwartale-nowe-dane-wskazuja-na-przyspieszenie</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Thu, 13 Aug 2026 16:51:00 +0200</pubDate>
-</item>
-<item>
-<title>Doniesienia o pumie w lesie pod Kłodzkiem. Starostwo apeluje o ostrożność</title>
-<link>https://zero.pl/news/klodzko-puma-w-lesie-klodzko-ostrzezenie-starostwa-i-poszukiwania-lesnikow</link>
-<guid isPermaLink="true">https://zero.pl/news/klodzko-puma-w-lesie-klodzko-ostrzezenie-starostwa-i-poszukiwania-lesnikow</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Thu, 13 Aug 2026 16:44:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
