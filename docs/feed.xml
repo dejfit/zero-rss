@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 17 Aug 2026 05:11:27 +0200</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 06:04:40 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Setki firm czekają na pieniądze od państwowego giganta. „Mi Skarb Państwa nie odpuści”</title>
+<link>https://zero.pl/news/panstwowy-titanic-ciagnie-na-dno-setki-firm-my-wszyscy-mamy-to-zrozumiec</link>
+<guid isPermaLink="true">https://zero.pl/news/panstwowy-titanic-ciagnie-na-dno-setki-firm-my-wszyscy-mamy-to-zrozumiec</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Mon, 17 Aug 2026 06:01:00 +0200</pubDate>
+</item>
+<item>
+<title>Chicago Fire FC pokonuje Portland Timbers. Piąta wygrana z rzędu</title>
+<link>https://zero.pl/news/chicago-fire-fc-pokonuje-portland-timbers-piata-wygrana-z-rzedu</link>
+<guid isPermaLink="true">https://zero.pl/news/chicago-fire-fc-pokonuje-portland-timbers-piata-wygrana-z-rzedu</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Mon, 17 Aug 2026 05:12:00 +0200</pubDate>
+</item>
 <item>
 <title>Kushner spotkał się z Hamasem. USA żądają rozbrojenia, Izrael stawia warunki</title>
 <link>https://zero.pl/news/kushner-spotkal-sie-z-hamasem-usa-zadaja-rozbrojenia-izrael-stawia-warunki</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Jabłonowski</description>
 <pubDate>Thu, 13 Aug 2026 13:54:00 +0200</pubDate>
-</item>
-<item>
-<title>Inflacja w lipcu wzrosła. Zadecydował jeden impuls</title>
-<link>https://zero.pl/news/jaka-inflacja-w-lipcu-glowny-powod-wzrostu-byl-jeden</link>
-<guid isPermaLink="true">https://zero.pl/news/jaka-inflacja-w-lipcu-glowny-powod-wzrostu-byl-jeden</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Thu, 13 Aug 2026 13:51:00 +0200</pubDate>
-</item>
-<item>
-<title>Z tej firmy wyciekły dane prawie 19 mln pacjentów. Czym jest MyDr?</title>
-<link>https://zero.pl/news/wyciek-danych-z-mydr-co-to-za-firma</link>
-<guid isPermaLink="true">https://zero.pl/news/wyciek-danych-z-mydr-co-to-za-firma</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Thu, 13 Aug 2026 13:25:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
