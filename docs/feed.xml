@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 17 Aug 2026 15:49:18 +0200</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 16:12:46 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Google przygotował dużo nowych funkcji AI. Większości nie zobaczymy w Unii Europejskiej</title>
+<link>https://zero.pl/news/duzo-nowych-funkcji-ai-google-nie-trafi-do-unii-europejskiej-kabaret-unijnych-przepisow</link>
+<guid isPermaLink="true">https://zero.pl/news/duzo-nowych-funkcji-ai-google-nie-trafi-do-unii-europejskiej-kabaret-unijnych-przepisow</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Mon, 17 Aug 2026 16:05:00 +0200</pubDate>
+</item>
 <item>
 <title>Ramówka Zero TV na wtorek 18 sierpnia. Prof. Chris w Godzinie Zero</title>
 <link>https://zero.pl/news/program-tv-zero-18-08-co-dzis-mozna-obejrzec-godzina-zero-i-prof-chris</link>
@@ -28,7 +36,7 @@
 <link>https://zero.pl/news/jan-frycz-nie-zyje-aktor-mial-72-lata</link>
 <guid isPermaLink="true">https://zero.pl/news/jan-frycz-nie-zyje-aktor-mial-72-lata</guid>
 <category>Kultura</category>
-<description>Kultura — Piotr Białczyk</description>
+<description>Kultura — Piotr Białczyk,Tomasz Pałasz</description>
 <pubDate>Mon, 17 Aug 2026 15:14:00 +0200</pubDate>
 </item>
 <item>
@@ -1198,14 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Bartosz Michalski</description>
 <pubDate>Thu, 13 Aug 2026 21:07:00 +0200</pubDate>
-</item>
-<item>
-<title>Ceny paliw spadną nawet o złotówkę? Eksperci wskazują, czego mogą spodziewać się kierowcy</title>
-<link>https://zero.pl/news/ceny-paliw-spadna-nawet-o-zlotowke-eksperci-wskazuja-czego-moga-spodziewac-sie-kierowcy</link>
-<guid isPermaLink="true">https://zero.pl/news/ceny-paliw-spadna-nawet-o-zlotowke-eksperci-wskazuja-czego-moga-spodziewac-sie-kierowcy</guid>
-<category>Kraj</category>
-<description>Kraj — Bartosz Michalski</description>
-<pubDate>Thu, 13 Aug 2026 20:51:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
