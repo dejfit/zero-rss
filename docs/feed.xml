@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 17 Aug 2026 13:17:26 +0200</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 13:44:19 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Huawei i Samsung mogą zmienić rynek. Czy jesteśmy gotowi na inne proporcje ekranów?</title>
+<link>https://zero.pl/news/huawei-i-samsung-moga-zmienic-rynek-czy-jestesmy-gotowi-na-inne-proporcje-ekranow</link>
+<guid isPermaLink="true">https://zero.pl/news/huawei-i-samsung-moga-zmienic-rynek-czy-jestesmy-gotowi-na-inne-proporcje-ekranow</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Mon, 17 Aug 2026 13:41:00 +0200</pubDate>
+</item>
+<item>
+<title>Tragedia na Węgrzech. Ekspert: powrót poszkodowanych do Polski jest kluczowy</title>
+<link>https://zero.pl/news/wypadek-autokaru-na-wegrzech-polacy-wroca-do-kraju-dlaczego-to-wazne</link>
+<guid isPermaLink="true">https://zero.pl/news/wypadek-autokaru-na-wegrzech-polacy-wroca-do-kraju-dlaczego-to-wazne</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Kamil Szałecki</description>
+<pubDate>Mon, 17 Aug 2026 13:35:00 +0200</pubDate>
+</item>
+<item>
+<title>Górnicy JSW szykują protest. „Pudrowanie trupa” zamiast ratowania spółki</title>
+<link>https://zero.pl/news/jsw-na-skraju-bankructwa-zwiazkowcy-planuja-protest-na-25-sierpnia-i-uderzaja-w-rzad-tuska</link>
+<guid isPermaLink="true">https://zero.pl/news/jsw-na-skraju-bankructwa-zwiazkowcy-planuja-protest-na-25-sierpnia-i-uderzaja-w-rzad-tuska</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Mon, 17 Aug 2026 13:22:00 +0200</pubDate>
+</item>
 <item>
 <title>Jest postępowanie przeciwko kierowcy polskiego autokaru. Informacje węgierskiej policji</title>
 <link>https://zero.pl/news/wypadek-autokaru-na-wegrzech-jest-postepowanie-przeciwko-kierowcy-polskiego-autokaru</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Paweł Żurek</description>
 <pubDate>Thu, 13 Aug 2026 19:16:00 +0200</pubDate>
-</item>
-<item>
-<title>Polityk AfD publikuje mapę wysiedleń Niemców. W Polsce zawrzało. „Buta i chamstwo”</title>
-<link>https://zero.pl/news/helmut-strauf-z-afd-o-wysiedleniach-niemcow-sikorski-odpowiada-czarnek-bosak-i-sosnierz-komentuja</link>
-<guid isPermaLink="true">https://zero.pl/news/helmut-strauf-z-afd-o-wysiedleniach-niemcow-sikorski-odpowiada-czarnek-bosak-i-sosnierz-komentuja</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Thu, 13 Aug 2026 19:09:00 +0200</pubDate>
-</item>
-<item>
-<title>Morawiecki wykluczony z PiS. Sąd dyscyplinarny wyrzuca 40 parlamentarzystów</title>
-<link>https://zero.pl/news/rozpad-pis-sad-dyscyplinarny-wyrzuca-40-poslow-i-senatorow-morawiecki-poza-partia</link>
-<guid isPermaLink="true">https://zero.pl/news/rozpad-pis-sad-dyscyplinarny-wyrzuca-40-poslow-i-senatorow-morawiecki-poza-partia</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Thu, 13 Aug 2026 18:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Powrót powszechnego poboru do wojska? Polacy niejednoznacznie</title>
-<link>https://zero.pl/news/15-sierpnia-swieto-wojska-polskiego-polacy-zapytani-o-powszechny-pobor-sondaz</link>
-<guid isPermaLink="true">https://zero.pl/news/15-sierpnia-swieto-wojska-polskiego-polacy-zapytani-o-powszechny-pobor-sondaz</guid>
-<category>Wojsko</category>
-<description>Wojsko — Piotr Białczyk</description>
-<pubDate>Thu, 13 Aug 2026 18:32:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
