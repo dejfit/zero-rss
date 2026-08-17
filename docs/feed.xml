@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 17 Aug 2026 17:04:58 +0200</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 17:34:59 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Wycieczka po kosztach, życie na szali? Po wypadku na Węgrzech mnożą się pytania</title>
+<link>https://zero.pl/news/wycieczka-po-kosztach-zycie-na-szali-po-wypadku-polakow-na-wegrzech-mnoza-sie-pytania</link>
+<guid isPermaLink="true">https://zero.pl/news/wycieczka-po-kosztach-zycie-na-szali-po-wypadku-polakow-na-wegrzech-mnoza-sie-pytania</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Mon, 17 Aug 2026 17:21:00 +0200</pubDate>
+</item>
+<item>
+<title>Jan Frycz nie żyje. Za te role pokochali go widzowie</title>
+<link>https://zero.pl/news/jan-frycz-nie-zyje-wybitny-aktor-teatralny-i-filmowy-zmarl-w-wieku-72-lat</link>
+<guid isPermaLink="true">https://zero.pl/news/jan-frycz-nie-zyje-wybitny-aktor-teatralny-i-filmowy-zmarl-w-wieku-72-lat</guid>
+<category>Kultura</category>
+<description>Kultura — Tomasz Pałasz</description>
+<pubDate>Mon, 17 Aug 2026 17:08:00 +0200</pubDate>
+</item>
 <item>
 <title>Wzruszające pożegnanie Frycza. „Byłem pewien, że spotkamy się jeszcze wielokrotnie”</title>
 <link>https://zero.pl/news/jan-frycz-nie-zyje-wybitny-aktor-zegnany-przez-ludzi-kina-i-polityki</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Tomasz Pałasz</description>
 <pubDate>Fri, 14 Aug 2026 01:44:00 +0200</pubDate>
-</item>
-<item>
-<title>Prezydent Karol Nawrocki podpisał ustawę. Kluczowa zmiana dla atomu w Polsce</title>
-<link>https://zero.pl/news/elektrownia-jadrowa-w-polsce-karol-nawrocki-podpisal-nowelizacje-ustawy</link>
-<guid isPermaLink="true">https://zero.pl/news/elektrownia-jadrowa-w-polsce-karol-nawrocki-podpisal-nowelizacje-ustawy</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Thu, 13 Aug 2026 21:37:00 +0200</pubDate>
-</item>
-<item>
-<title>Słodko-gorzki czwartek w pucharach. Raków gra dalej, pech Górnika</title>
-<link>https://zero.pl/news/liga-europy-i-liga-konferencji-wyniki-meczow-gornika-zabrze-i-rakowa</link>
-<guid isPermaLink="true">https://zero.pl/news/liga-europy-i-liga-konferencji-wyniki-meczow-gornika-zabrze-i-rakowa</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Thu, 13 Aug 2026 21:36:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
