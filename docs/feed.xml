@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 17 Aug 2026 07:27:15 +0200</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 07:59:13 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Plan pokojowy dla Strefy Gazy. Palestyńczycy żądają presji na Izrael</title>
+<link>https://zero.pl/news/plan-pokojowy-dla-strefy-gazy-hamas-wzywa-do-naciskow-na-izrael</link>
+<guid isPermaLink="true">https://zero.pl/news/plan-pokojowy-dla-strefy-gazy-hamas-wzywa-do-naciskow-na-izrael</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 17 Aug 2026 07:47:00 +0200</pubDate>
+</item>
 <item>
 <title>Duże zmiany na stacjach benzynowych. Ile kosztuje benzyna i diesel?</title>
 <link>https://zero.pl/news/maksymalne-ceny-paliw-i-vat-8-proc-ile-kosztuje-benzyna-i-diesel-w-poniedzialek</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Tomasz Pałasz</description>
 <pubDate>Thu, 13 Aug 2026 16:44:00 +0200</pubDate>
-</item>
-<item>
-<title>Wpadka na konferencji Donalda Tuska. „Dlaczego ja siebie słyszę?”</title>
-<link>https://zero.pl/news/wpadka-na-konferencji-donalda-tuska-ws-cpn-akcji-abw-i-berku-sam-siebie-slysze</link>
-<guid isPermaLink="true">https://zero.pl/news/wpadka-na-konferencji-donalda-tuska-ws-cpn-akcji-abw-i-berku-sam-siebie-slysze</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Thu, 13 Aug 2026 16:39:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
