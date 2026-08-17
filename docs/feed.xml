@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 17 Aug 2026 09:46:29 +0200</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 10:26:31 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>„To postulat populistyczny”. Dworczyk o pomyśle Kaczyńskiego</title>
+<link>https://zero.pl/news/dworczyk-w-kanale-zero-pomysl-kaczynskiego-jest-populistyczny-a-wspolna-lista-to-mrzonka</link>
+<guid isPermaLink="true">https://zero.pl/news/dworczyk-w-kanale-zero-pomysl-kaczynskiego-jest-populistyczny-a-wspolna-lista-to-mrzonka</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 17 Aug 2026 09:45:00 +0200</pubDate>
+</item>
 <item>
 <title>Nowe ustalenia ws. wypadku autokaru na Węgrzech. Działania polskich służb</title>
 <link>https://zero.pl/news/wypadek-autokaru-na-wegrzech-nowe-ustalenia-dzialania-polskich-sluzb</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Tomasz Pałasz</description>
 <pubDate>Thu, 13 Aug 2026 17:23:00 +0200</pubDate>
-</item>
-<item>
-<title>Krakowskim targiem. Czyli ulotny folklor pod Wawelem</title>
-<link>https://zero.pl/news/wybory-prezydenckie-w-krakowie-czyli-ulotny-folklor-pod-wawelem-opinia</link>
-<guid isPermaLink="true">https://zero.pl/news/wybory-prezydenckie-w-krakowie-czyli-ulotny-folklor-pod-wawelem-opinia</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Białczyk</description>
-<pubDate>Thu, 13 Aug 2026 17:22:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
