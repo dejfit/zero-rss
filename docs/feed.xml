@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 17 Aug 2026 06:04:40 +0200</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 06:53:37 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Niespodziewana decyzja Trumpa. Tłumaczy ją swoimi dobrymi relacjami z Kim Dzong Unem</title>
+<link>https://zero.pl/news/usa-ograniczaja-cwiczenia-z-korea-poludniowa-trump-wskazuje-na-swoje-relacje-kim-dzong-unem</link>
+<guid isPermaLink="true">https://zero.pl/news/usa-ograniczaja-cwiczenia-z-korea-poludniowa-trump-wskazuje-na-swoje-relacje-kim-dzong-unem</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 17 Aug 2026 06:43:00 +0200</pubDate>
+</item>
+<item>
+<title>Kapitalny bieg Polki. Mamy kolejny medal Mistrzostw Europy</title>
+<link>https://zero.pl/news/lekkoatletyczne-me-birmingham-klaudia-kazimierska-ze-srebrnym-medalem-na-1500-m-polacy-z-osmioma-medalami</link>
+<guid isPermaLink="true">https://zero.pl/news/lekkoatletyczne-me-birmingham-klaudia-kazimierska-ze-srebrnym-medalem-na-1500-m-polacy-z-osmioma-medalami</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 17 Aug 2026 06:27:00 +0200</pubDate>
+</item>
+<item>
+<title>Akt, który przestraszył się własnych konsekwencji. Opieka kończy się o 21:00</title>
+<link>https://zero.pl/news/opieka-nad-seniorami-w-domu-co-przewiduja-nowe-standardy-uslug-opiekunczych</link>
+<guid isPermaLink="true">https://zero.pl/news/opieka-nad-seniorami-w-domu-co-przewiduja-nowe-standardy-uslug-opiekunczych</guid>
+<category>Kraj</category>
+<description>Kraj — Ryszard Szarfenberg</description>
+<pubDate>Mon, 17 Aug 2026 06:08:00 +0200</pubDate>
+</item>
+<item>
+<title>Jeziora znikają z mapy Wielkopolski. Rząd ma plan za ponad 100 mln zł</title>
+<link>https://zero.pl/news/pojezierze-gnieznienskie-wysycha-hennig-kloska-o-planie-ratowania-jezior</link>
+<guid isPermaLink="true">https://zero.pl/news/pojezierze-gnieznienskie-wysycha-hennig-kloska-o-planie-ratowania-jezior</guid>
+<category>Kraj</category>
+<description>Kraj — Aleksandra Cieślik</description>
+<pubDate>Mon, 17 Aug 2026 06:04:00 +0200</pubDate>
+</item>
 <item>
 <title>Setki firm czekają na pieniądze od państwowego giganta. „Mi Skarb Państwa nie odpuści”</title>
 <link>https://zero.pl/news/panstwowy-titanic-ciagnie-na-dno-setki-firm-my-wszyscy-mamy-to-zrozumiec</link>
@@ -1174,38 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Bartosz Michalski</description>
 <pubDate>Thu, 13 Aug 2026 15:16:00 +0200</pubDate>
-</item>
-<item>
-<title>Wraca program CPN. Premier Tusk zapowiedział tańsze paliwa</title>
-<link>https://zero.pl/news/program-ceny-paliw-nizej-wraca-tansza-benzyna-i-diesel-od-poniedzialku</link>
-<guid isPermaLink="true">https://zero.pl/news/program-ceny-paliw-nizej-wraca-tansza-benzyna-i-diesel-od-poniedzialku</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Thu, 13 Aug 2026 14:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Czy Polska odda Ukrainie kolejne pociski do Patriotów? Wiceminister zabrała głos</title>
-<link>https://zero.pl/news/polska-przekaze-ukrainie-kolejne-pociski-do-patriotow-jest-deklaracja-mon</link>
-<guid isPermaLink="true">https://zero.pl/news/polska-przekaze-ukrainie-kolejne-pociski-do-patriotow-jest-deklaracja-mon</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Thu, 13 Aug 2026 14:44:00 +0200</pubDate>
-</item>
-<item>
-<title>Znamy gospodarza Eurowizji w 2027 r. Wybrano nadmorskie miasto</title>
-<link>https://zero.pl/news/eurowizja-2027-ebu-oglosila-gospodarza-kolejnej-edycji-konkursu</link>
-<guid isPermaLink="true">https://zero.pl/news/eurowizja-2027-ebu-oglosila-gospodarza-kolejnej-edycji-konkursu</guid>
-<category>Kultura</category>
-<description>Kultura — Krzysztof Jabłonowski</description>
-<pubDate>Thu, 13 Aug 2026 14:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Wycieku danych można było uniknąć? Frakcja Morawieckiego uderza w rząd</title>
-<link>https://zero.pl/news/wyciek-danych-z-mydr-rozwoj-plus-krytykuje-rzad-donalda-tuska</link>
-<guid isPermaLink="true">https://zero.pl/news/wyciek-danych-z-mydr-rozwoj-plus-krytykuje-rzad-donalda-tuska</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Thu, 13 Aug 2026 13:54:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
