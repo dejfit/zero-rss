@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 17 Aug 2026 20:15:05 +0200</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 20:58:44 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Stanowski odpowiedział organizatorom festiwalu. „To wszystko kłamstwa, zmyślona historia”</title>
+<link>https://zero.pl/news/stanowski-odpowiedzial-organizatorom-festiwalu-to-wszystko-zmyslona-historia</link>
+<guid isPermaLink="true">https://zero.pl/news/stanowski-odpowiedzial-organizatorom-festiwalu-to-wszystko-zmyslona-historia</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Mon, 17 Aug 2026 20:48:00 +0200</pubDate>
+</item>
+<item>
+<title>Bruksela z Legionem Europejskim. Wojskowe absurdy pomysłu Sikorskiego</title>
+<link>https://zero.pl/news/legion-europejski-wojskowe-absurdy-pomyslu-sikorskiego-opinia</link>
+<guid isPermaLink="true">https://zero.pl/news/legion-europejski-wojskowe-absurdy-pomyslu-sikorskiego-opinia</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Mon, 17 Aug 2026 20:32:00 +0200</pubDate>
+</item>
 <item>
 <title>Trochę straszny, trochę śmieszny. Jan Frycz był większy niż polskie kino</title>
 <link>https://zero.pl/news/zmarl-jan-frycz-to-dzieki-niemu-slepnac-od-swiatel-i-pozegnanie-jesieni-weszly-do-klasyki-kina-i-telewizji</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
 <pubDate>Fri, 14 Aug 2026 08:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Google wreszcie wprowadza odpowiedź na AirTaga. A Pixel Watch 5 mógł być aktualizacją oprogramowania</title>
-<link>https://zero.pl/news/google-prezentuje-zegarki-pixel-watch-5-i-pixel-tag-wiecej-ai-i-sledzenia-aktywnosci</link>
-<guid isPermaLink="true">https://zero.pl/news/google-prezentuje-zegarki-pixel-watch-5-i-pixel-tag-wiecej-ai-i-sledzenia-aktywnosci</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Fri, 14 Aug 2026 08:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Kto nie dostanie 14. emerytury? ZUS podaje konkretne wyliczenia</title>
-<link>https://zero.pl/news/zus-wyplaci-14-emeryture-we-wrzesniu-oto-terminy-progi-i-kwoty-netto</link>
-<guid isPermaLink="true">https://zero.pl/news/zus-wyplaci-14-emeryture-we-wrzesniu-oto-terminy-progi-i-kwoty-netto</guid>
-<category>Biznes</category>
-<description>Biznes — Agnieszka Waś-Turecka</description>
-<pubDate>Fri, 14 Aug 2026 08:42:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
