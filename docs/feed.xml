@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 17 Aug 2026 20:58:44 +0200</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 21:27:30 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Gwałtowne burze nad Polską. Grad, ulewy i powalone drzewa</title>
+<link>https://zero.pl/news/burze-nad-polska-grad-ulewy-i-silny-wiatr-strazacy-interweniuja</link>
+<guid isPermaLink="true">https://zero.pl/news/burze-nad-polska-grad-ulewy-i-silny-wiatr-strazacy-interweniuja</guid>
+<category>Kraj</category>
+<description>Kraj — Filip Baczkura</description>
+<pubDate>Mon, 17 Aug 2026 21:04:00 +0200</pubDate>
+</item>
 <item>
 <title>Stanowski odpowiedział organizatorom festiwalu. „To wszystko kłamstwa, zmyślona historia”</title>
 <link>https://zero.pl/news/stanowski-odpowiedzial-organizatorom-festiwalu-to-wszystko-zmyslona-historia</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Krzysztof Jabłonowski</description>
 <pubDate>Fri, 14 Aug 2026 09:55:00 +0200</pubDate>
-</item>
-<item>
-<title>Kolejny szturm na Ceutę? Ekspert o „cichym szantażu za kulisami”</title>
-<link>https://zero.pl/news/maroko-szantazuje-hiszpanie-migrantami-dr-wilczynski-madryt-jest-dzis-bezradny</link>
-<guid isPermaLink="true">https://zero.pl/news/maroko-szantazuje-hiszpanie-migrantami-dr-wilczynski-madryt-jest-dzis-bezradny</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Fri, 14 Aug 2026 08:46:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
