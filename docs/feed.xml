@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 17 Aug 2026 15:02:14 +0200</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 15:49:18 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Ramówka Zero TV na wtorek 18 sierpnia. Prof. Chris w Godzinie Zero</title>
+<link>https://zero.pl/news/program-tv-zero-18-08-co-dzis-mozna-obejrzec-godzina-zero-i-prof-chris</link>
+<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-18-08-co-dzis-mozna-obejrzec-godzina-zero-i-prof-chris</guid>
+<category>Program TV</category>
+<description>Program TV — Redakcja Zero.pl</description>
+<pubDate>Mon, 17 Aug 2026 15:32:00 +0200</pubDate>
+</item>
+<item>
+<title>Tragedia z polskimi pielgrzymami. Nowe informacje z prokuratury</title>
+<link>https://zero.pl/news/wypadek-polskiego-autokaru-na-wegrzech-rusza-sledztwo-prokuratury</link>
+<guid isPermaLink="true">https://zero.pl/news/wypadek-polskiego-autokaru-na-wegrzech-rusza-sledztwo-prokuratury</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Mon, 17 Aug 2026 15:30:00 +0200</pubDate>
+</item>
+<item>
+<title>Jan Frycz nie żyje. Aktor miał 72 lata</title>
+<link>https://zero.pl/news/jan-frycz-nie-zyje-aktor-mial-72-lata</link>
+<guid isPermaLink="true">https://zero.pl/news/jan-frycz-nie-zyje-aktor-mial-72-lata</guid>
+<category>Kultura</category>
+<description>Kultura — Piotr Białczyk</description>
+<pubDate>Mon, 17 Aug 2026 15:14:00 +0200</pubDate>
+</item>
 <item>
 <title>„Wojna wróciła do Rosji”. Czy Rosjanie zaczynają odczuwać jej skutki na własnej skórze?</title>
 <link>https://zero.pl/news/ukraina-zmienila-podejscie-czy-rosjanie-zaczynaja-odczuwac-skutki-wojny</link>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Bartosz Michalski</description>
 <pubDate>Thu, 13 Aug 2026 20:51:00 +0200</pubDate>
-</item>
-<item>
-<title>Pożar w Grecji wymknął się spod kontroli. Turyści musieli uciekać</title>
-<link>https://zero.pl/news/pozar-w-grecji-wymknal-sie-spod-kontroli-turysci-musieli-uciekac</link>
-<guid isPermaLink="true">https://zero.pl/news/pozar-w-grecji-wymknal-sie-spod-kontroli-turysci-musieli-uciekac</guid>
-<category>Świat</category>
-<description>Świat — Bartosz Michalski</description>
-<pubDate>Thu, 13 Aug 2026 20:40:00 +0200</pubDate>
-</item>
-<item>
-<title>Afera w Szpitalu Południowym. Zniknął z mediów, ale znów widziano go w luksusowym porsche</title>
-<link>https://zero.pl/news/afera-w-szpitalu-poludniowym-dawid-kacprzyk-widziany-w-porsche-panamera-slowik-komentuje</link>
-<guid isPermaLink="true">https://zero.pl/news/afera-w-szpitalu-poludniowym-dawid-kacprzyk-widziany-w-porsche-panamera-slowik-komentuje</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Thu, 13 Aug 2026 20:16:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na piątek 14 sierpnia. Mecz KTS Weszło – Mławianka Mława</title>
-<link>https://zero.pl/news/program-tv-zero-14-08-co-dzis-mozna-obejrzec-mecz-kts-weszlo-mlawianka-mlawa</link>
-<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-14-08-co-dzis-mozna-obejrzec-mecz-kts-weszlo-mlawianka-mlawa</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Thu, 13 Aug 2026 20:05:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
