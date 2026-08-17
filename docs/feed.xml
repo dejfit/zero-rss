@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 17 Aug 2026 14:01:26 +0200</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 15:02:14 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>„Wojna wróciła do Rosji”. Czy Rosjanie zaczynają odczuwać jej skutki na własnej skórze?</title>
+<link>https://zero.pl/news/ukraina-zmienila-podejscie-czy-rosjanie-zaczynaja-odczuwac-skutki-wojny</link>
+<guid isPermaLink="true">https://zero.pl/news/ukraina-zmienila-podejscie-czy-rosjanie-zaczynaja-odczuwac-skutki-wojny</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Mon, 17 Aug 2026 14:49:00 +0200</pubDate>
+</item>
+<item>
+<title>Pułapka na szefa brytyjskiego rządu. Oszust podszył się pod współpracowniczkę Trumpa</title>
+<link>https://zero.pl/news/wielka-brytania-burnham-wymienial-wiadomosci-z-oszustem-podszywajacym-sie-pod-wspolpracowniczke-trumpa</link>
+<guid isPermaLink="true">https://zero.pl/news/wielka-brytania-burnham-wymienial-wiadomosci-z-oszustem-podszywajacym-sie-pod-wspolpracowniczke-trumpa</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 17 Aug 2026 14:10:00 +0200</pubDate>
+</item>
 <item>
 <title>Huawei i Samsung mogą zmienić rynek. Czy jesteśmy gotowi na inne proporcje ekranów?</title>
 <link>https://zero.pl/news/huawei-i-samsung-moga-zmienic-rynek-czy-jestesmy-gotowi-na-inne-proporcje-ekranow</link>
@@ -1190,22 +1206,6 @@
 <category>Program TV</category>
 <description>Program TV — Redakcja Zero.pl</description>
 <pubDate>Thu, 13 Aug 2026 20:05:00 +0200</pubDate>
-</item>
-<item>
-<title>Koncert Sanah z okazji 100-lecia Gdyni. Wstęp tylko dla wybranych</title>
-<link>https://zero.pl/news/sanah-zaspiewa-w-gdyni-22-sierpnia-zasady-wejscia-na-koncert-mieszkancy-oburzeni</link>
-<guid isPermaLink="true">https://zero.pl/news/sanah-zaspiewa-w-gdyni-22-sierpnia-zasady-wejscia-na-koncert-mieszkancy-oburzeni</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Thu, 13 Aug 2026 19:29:00 +0200</pubDate>
-</item>
-<item>
-<title>Lewandowski ma szanse na tytuł króla strzelców MLS? Tak kibice odpowiedzieli w sondażu</title>
-<link>https://zero.pl/news/sondaz-robert-lewandowski-ma-szanse-na-tytul-krola-strzelcow-mls-tak-odpowiedzieli-kibice</link>
-<guid isPermaLink="true">https://zero.pl/news/sondaz-robert-lewandowski-ma-szanse-na-tytul-krola-strzelcow-mls-tak-odpowiedzieli-kibice</guid>
-<category>Świat</category>
-<description>Świat — Paweł Żurek</description>
-<pubDate>Thu, 13 Aug 2026 19:16:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
