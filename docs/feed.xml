@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 18 Aug 2026 13:43:43 +0200</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 14:02:06 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Rafał Brzoska odda swój skarb w nowe ręce. Transakcja warta miliardy na ostatniej prostej</title>
+<link>https://zero.pl/news/przejecie-inpostu-za-miliardy-przesadzone-jest-kluczowa-decyzja-ke</link>
+<guid isPermaLink="true">https://zero.pl/news/przejecie-inpostu-za-miliardy-przesadzone-jest-kluczowa-decyzja-ke</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Tue, 18 Aug 2026 13:58:00 +0200</pubDate>
+</item>
+<item>
+<title>Będą przyspieszone wybory? Chwedoruk: Myślę, że dla KO jest to wariant brany pod uwagę</title>
+<link>https://zero.pl/news/przyspieszone-wybory-parlamentarne-eksperci-o-planach-ko-i-rzadzie-tuska</link>
+<guid isPermaLink="true">https://zero.pl/news/przyspieszone-wybory-parlamentarne-eksperci-o-planach-ko-i-rzadzie-tuska</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Tue, 18 Aug 2026 13:51:00 +0200</pubDate>
+</item>
+<item>
+<title>DOKI – mieszkaj lub inwestuj w legendarnej części Gdańska</title>
+<link>https://zero.pl/news/doki-mieszkaj-lub-inwestuj-w-legendarnej-czesci-gdanska</link>
+<guid isPermaLink="true">https://zero.pl/news/doki-mieszkaj-lub-inwestuj-w-legendarnej-czesci-gdanska</guid>
+<category>Kraj</category>
+<description>Kraj — Redakcja Zero.pl</description>
+<pubDate>Tue, 18 Aug 2026 13:47:00 +0200</pubDate>
+</item>
 <item>
 <title>Co się dzieje na rynku nieruchomości? Tych mieszkań jest coraz więcej</title>
 <link>https://zero.pl/news/ceny-mieszkan-w-polsce-2026-w-metropoliach-przybywa-drozszych-mieszkan</link>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Izdebski</description>
 <pubDate>Fri, 14 Aug 2026 18:06:00 +0200</pubDate>
-</item>
-<item>
-<title>Dramat w Chorwacji. Polacy poszkodowani w groźnym pożarze</title>
-<link>https://zero.pl/news/pozary-w-chorwacji-4-polakow-poszkodowanych-w-omiszu-komunikat-msz</link>
-<guid isPermaLink="true">https://zero.pl/news/pozary-w-chorwacji-4-polakow-poszkodowanych-w-omiszu-komunikat-msz</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Fri, 14 Aug 2026 18:03:00 +0200</pubDate>
-</item>
-<item>
-<title>Rząd o nich zapomniał? Kiedy rosną koszty tych firm, drożeje wszystko inne</title>
-<link>https://zero.pl/news/zapomniana-grupa-kierowcow-obnizka-vat-na-paliwa-nie-przynosi-im-ulgi</link>
-<guid isPermaLink="true">https://zero.pl/news/zapomniana-grupa-kierowcow-obnizka-vat-na-paliwa-nie-przynosi-im-ulgi</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Fri, 14 Aug 2026 17:42:00 +0200</pubDate>
-</item>
-<item>
-<title>Atak na Starym Mieście w Poznaniu. Policja zatrzymała obie kobiety</title>
-<link>https://zero.pl/news/poznan-atak-na-obywateli-ukrainy-na-starym-miescie-jedna-z-kobiet-zatrzymana</link>
-<guid isPermaLink="true">https://zero.pl/news/poznan-atak-na-obywateli-ukrainy-na-starym-miescie-jedna-z-kobiet-zatrzymana</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Fri, 14 Aug 2026 17:17:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
