@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 18 Aug 2026 16:23:30 +0200</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 16:59:56 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Granice podwyżek nie istnieją. Ceny pamięci RAM wzrosły o prawie 500 proc.</title>
+<link>https://zero.pl/news/granice-podwyzek-nie-istnieja-ceny-pamieci-ram-wzrosly-o-prawie-500-proc</link>
+<guid isPermaLink="true">https://zero.pl/news/granice-podwyzek-nie-istnieja-ceny-pamieci-ram-wzrosly-o-prawie-500-proc</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Tue, 18 Aug 2026 16:50:00 +0200</pubDate>
+</item>
+<item>
+<title>Kto z PiS kandydatem na premiera? Wyniki sondażu mogą zaskoczyć</title>
+<link>https://zero.pl/news/czarnek-bogucki-czy-tarczynski-kto-powinien-byc-kandydatem-pis-na-premiera-sondaz</link>
+<guid isPermaLink="true">https://zero.pl/news/czarnek-bogucki-czy-tarczynski-kto-powinien-byc-kandydatem-pis-na-premiera-sondaz</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Tue, 18 Aug 2026 16:37:00 +0200</pubDate>
+</item>
 <item>
 <title>Pieniądze PAŻP zajęte. Sąd w Belgii podjął decyzję</title>
 <link>https://zero.pl/news/spor-polski-z-pfizerem-sad-podjal-decyzje-w-sprawie</link>
@@ -1190,22 +1206,6 @@
 <category>Program TV</category>
 <description>Program TV — Redakcja Zero.pl</description>
 <pubDate>Fri, 14 Aug 2026 21:04:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na niedzielę 16 sierpnia. Mazurek &amp; Stanowski</title>
-<link>https://zero.pl/news/program-tv-zero-16-08-co-dzis-mozna-obejrzec-mazurek-stanowski</link>
-<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-16-08-co-dzis-mozna-obejrzec-mazurek-stanowski</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Fri, 14 Aug 2026 21:00:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na sobotę 15 sierpnia. Obchody Święta Wojska Polskiego</title>
-<link>https://zero.pl/news/swieto-wojska-polskiego-2026-na-zywo-w-telewizji-zero-program-i-relacja</link>
-<guid isPermaLink="true">https://zero.pl/news/swieto-wojska-polskiego-2026-na-zywo-w-telewizji-zero-program-i-relacja</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Fri, 14 Aug 2026 20:56:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
