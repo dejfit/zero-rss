@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 18 Aug 2026 15:52:13 +0200</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 16:23:30 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Pieniądze PAŻP zajęte. Sąd w Belgii podjął decyzję</title>
+<link>https://zero.pl/news/spor-polski-z-pfizerem-sad-podjal-decyzje-w-sprawie</link>
+<guid isPermaLink="true">https://zero.pl/news/spor-polski-z-pfizerem-sad-podjal-decyzje-w-sprawie</guid>
+<category>Biznes</category>
+<description>Biznes — Kamil Szałecki</description>
+<pubDate>Tue, 18 Aug 2026 16:04:00 +0200</pubDate>
+</item>
+<item>
+<title>Historia największego sukcesu Chicago Fire. Pierwszy tytuł wywalczyło trzech Polaków</title>
+<link>https://zero.pl/news/chicago-fire-czeka-na-mistrzostwo-30-lat-trzech-polakow-wyprzedzilo-roberta-lewandowskiego</link>
+<guid isPermaLink="true">https://zero.pl/news/chicago-fire-czeka-na-mistrzostwo-30-lat-trzech-polakow-wyprzedzilo-roberta-lewandowskiego</guid>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
+<pubDate>Tue, 18 Aug 2026 15:53:00 +0200</pubDate>
+</item>
 <item>
 <title>Tragedia na Węgrzech. Jest decyzja sądu ws. kierowcy autokaru</title>
 <link>https://zero.pl/news/tragedia-na-wegrzech-jest-decyzja-sadu-ws-kierowcy-autokaru</link>
@@ -1190,22 +1206,6 @@
 <category>Program TV</category>
 <description>Program TV — Redakcja Zero.pl</description>
 <pubDate>Fri, 14 Aug 2026 20:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Najlepszy rok ever. 30 lat temu wszyscy zostaliśmy graczami</title>
-<link>https://zero.pl/news/diablo-tomb-raider-resident-evil-quake-czy-rok-1996-rok-najlepszym-w-historii-gier-wideo</link>
-<guid isPermaLink="true">https://zero.pl/news/diablo-tomb-raider-resident-evil-quake-czy-rok-1996-rok-najlepszym-w-historii-gier-wideo</guid>
-<category>Kultura</category>
-<description>Kultura — Michał Walkiewicz</description>
-<pubDate>Fri, 14 Aug 2026 20:02:00 +0200</pubDate>
-</item>
-<item>
-<title>Cytadela pod festiwalowym walcem? Aktywiści kontra organizatorzy BitterSweet Festival</title>
-<link>https://zero.pl/news/bittersweet-festival-2026-w-poznaniu-zarzuty-aktywistow-o-zniszczenia-i-incydent</link>
-<guid isPermaLink="true">https://zero.pl/news/bittersweet-festival-2026-w-poznaniu-zarzuty-aktywistow-o-zniszczenia-i-incydent</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Fri, 14 Aug 2026 19:44:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
