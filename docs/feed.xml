@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 18 Aug 2026 13:17:26 +0200</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 13:43:43 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Co się dzieje na rynku nieruchomości? Tych mieszkań jest coraz więcej</title>
+<link>https://zero.pl/news/ceny-mieszkan-w-polsce-2026-w-metropoliach-przybywa-drozszych-mieszkan</link>
+<guid isPermaLink="true">https://zero.pl/news/ceny-mieszkan-w-polsce-2026-w-metropoliach-przybywa-drozszych-mieszkan</guid>
+<category>Biznes</category>
+<description>Biznes — Agnieszka Waś-Turecka</description>
+<pubDate>Tue, 18 Aug 2026 13:38:00 +0200</pubDate>
+</item>
 <item>
 <title>Jest stanowisko prokuratora ws. Marcina Romanowskiego. Wydano komunikat</title>
 <link>https://zero.pl/news/jest-stanowisko-prokuratora-ws-marcina-romanowskiego-wydano-komunikat</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Agnieszka Waś-Turecka</description>
 <pubDate>Fri, 14 Aug 2026 17:17:00 +0200</pubDate>
-</item>
-<item>
-<title>Propozycja rozejmu na Morzu Czarnym. Stanowcza reakcja Rosji</title>
-<link>https://zero.pl/news/rosja-odrzuca-moratorium-na-morzu-czarnym-ukrainski-eksport-zboza-drastycznie-spada</link>
-<guid isPermaLink="true">https://zero.pl/news/rosja-odrzuca-moratorium-na-morzu-czarnym-ukrainski-eksport-zboza-drastycznie-spada</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Fri, 14 Aug 2026 17:00:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
