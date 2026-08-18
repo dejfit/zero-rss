@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 18 Aug 2026 10:06:15 +0200</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 10:49:46 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Idzie śladem Haalanda. Piłkarski mistrz świata wszedł w nowy biznes</title>
+<link>https://zero.pl/news/gerard-pique-udzialowcem-w-global-chess-league-gwiazdy-sportu-inwestuja-w-szachy</link>
+<guid isPermaLink="true">https://zero.pl/news/gerard-pique-udzialowcem-w-global-chess-league-gwiazdy-sportu-inwestuja-w-szachy</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Tue, 18 Aug 2026 10:34:00 +0200</pubDate>
+</item>
+<item>
+<title>Paweł Piskorski wskazuje słabość Tuska. W tle kontrowersyjna nominacja</title>
+<link>https://zero.pl/news/piskorski-tusk-rzadzi-twardsza-reka-niz-kaczynski-ale-traci-instynkt</link>
+<guid isPermaLink="true">https://zero.pl/news/piskorski-tusk-rzadzi-twardsza-reka-niz-kaczynski-ale-traci-instynkt</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Tue, 18 Aug 2026 10:06:00 +0200</pubDate>
+</item>
 <item>
 <title>Oni powalczą o prezydenturę w Krakowie. Zgłoszono 24 komitety</title>
 <link>https://zero.pl/news/wybory-na-prezydenta-krakowa-te-komitety-zostaly-zgloszone</link>
@@ -1190,22 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Fri, 14 Aug 2026 14:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Pensje nauczycieli poszły w górę. Ale to nadal może nie wystarczyć</title>
-<link>https://zero.pl/news/zarobki-nauczycieli-w-polsce-pensje-wzrosly-o-40-proc-ale-nadal-jest-pewien-problem</link>
-<guid isPermaLink="true">https://zero.pl/news/zarobki-nauczycieli-w-polsce-pensje-wzrosly-o-40-proc-ale-nadal-jest-pewien-problem</guid>
-<category>Nauka</category>
-<description>Nauka — Kasjan Owsianko</description>
-<pubDate>Fri, 14 Aug 2026 13:16:00 +0200</pubDate>
-</item>
-<item>
-<title>Skazany za szpiegostwo na rzecz Polski. Wyrok wieloletniego więzienia</title>
-<link>https://zero.pl/news/sad-w-moskwie-wydal-wyrok-za-szpiegostwo-na-rzecz-polski-wieloletnie-wiezienie</link>
-<guid isPermaLink="true">https://zero.pl/news/sad-w-moskwie-wydal-wyrok-za-szpiegostwo-na-rzecz-polski-wieloletnie-wiezienie</guid>
-<category>Świat</category>
-<description>Świat — Krzysztof Jabłonowski</description>
-<pubDate>Fri, 14 Aug 2026 13:13:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
