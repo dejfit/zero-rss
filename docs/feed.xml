@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 18 Aug 2026 10:49:46 +0200</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 11:17:16 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Zastrzeżenie PESEL-u to nie proteza. To jeden z dwóch składników tożsamości, jakie dziś mamy</title>
+<link>https://zero.pl/news/cieszynski-zastrzezenie-pesel-u-to-nie-proteza-tylko-realna-ochrona</link>
+<guid isPermaLink="true">https://zero.pl/news/cieszynski-zastrzezenie-pesel-u-to-nie-proteza-tylko-realna-ochrona</guid>
+<category>Kraj</category>
+<description>Kraj — Janusz Cieszyński</description>
+<pubDate>Tue, 18 Aug 2026 11:08:00 +0200</pubDate>
+</item>
+<item>
+<title>„System impregnowany na przejawy opozycjonizmu”. Kolejne represje w Rosji</title>
+<link>https://zero.pl/news/protesty-w-moskwie-przeciw-represjonowaniu-czlonkow-partii-jabloko-komentarz-eksperta</link>
+<guid isPermaLink="true">https://zero.pl/news/protesty-w-moskwie-przeciw-represjonowaniu-czlonkow-partii-jabloko-komentarz-eksperta</guid>
+<category>Świat</category>
+<description>Świat — Krzysztof Jabłonowski</description>
+<pubDate>Tue, 18 Aug 2026 10:54:00 +0200</pubDate>
+</item>
 <item>
 <title>Idzie śladem Haalanda. Piłkarski mistrz świata wszedł w nowy biznes</title>
 <link>https://zero.pl/news/gerard-pique-udzialowcem-w-global-chess-league-gwiazdy-sportu-inwestuja-w-szachy</link>
@@ -1190,22 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Fri, 14 Aug 2026 15:16:00 +0200</pubDate>
-</item>
-<item>
-<title>„Dziennikarstwo musi mieć duszę”. Pożegnanie Andrzeja Morozowskiego</title>
-<link>https://zero.pl/news/pozegnanie-dziennikarza-tvn24-andrzeja-morozowskiego-dziennikarstwo-musi-miec-dusze</link>
-<guid isPermaLink="true">https://zero.pl/news/pozegnanie-dziennikarza-tvn24-andrzeja-morozowskiego-dziennikarstwo-musi-miec-dusze</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Fri, 14 Aug 2026 14:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Energia z OZE marnuje się. Polacy zapłacili już za to ponad 100 mln zł</title>
-<link>https://zero.pl/news/nadmiar-energii-z-oze-i-rachunek-na-ponad-100-mln-zl-placa-odbiorcy-koncowi</link>
-<guid isPermaLink="true">https://zero.pl/news/nadmiar-energii-z-oze-i-rachunek-na-ponad-100-mln-zl-placa-odbiorcy-koncowi</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Fri, 14 Aug 2026 14:56:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
