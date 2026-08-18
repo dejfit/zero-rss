@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 18 Aug 2026 12:19:12 +0200</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 12:51:36 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Tusk o miejscu pobytu Romanowskiego. „Na 99 proc.”</title>
+<link>https://zero.pl/news/tusk-o-miejscu-pobytu-romanowskiego-na-99-proc</link>
+<guid isPermaLink="true">https://zero.pl/news/tusk-o-miejscu-pobytu-romanowskiego-na-99-proc</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Tue, 18 Aug 2026 12:46:00 +0200</pubDate>
+</item>
+<item>
+<title>Oszuści żerują na tragedii na Węgrzech. Wojewoda ostrzega rodziny</title>
+<link>https://zero.pl/news/wypadek-autokaru-na-wegrzech-oszusci-dzwonia-do-rodzin-poszkodowanych</link>
+<guid isPermaLink="true">https://zero.pl/news/wypadek-autokaru-na-wegrzech-oszusci-dzwonia-do-rodzin-poszkodowanych</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Tue, 18 Aug 2026 12:28:00 +0200</pubDate>
+</item>
 <item>
 <title>Potoki na ulicach i powalone drzewa. Krajobraz po ulewie w Głuchołazach</title>
 <link>https://zero.pl/news/ulewy-i-zalania-w-glucholazach-kierwinski-i-szlapka-komentuja-skutki-nawalnicy</link>
@@ -1190,22 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Fri, 14 Aug 2026 16:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Małżeństwo polityków KO wspierało Kacprzyka? Posłanka PiS: Wiedzieli, co on robi</title>
-<link>https://zero.pl/news/dawid-kacprzyk-wspierany-przez-malzenstwo-politykow-ko-poslanka-pis-komentuje</link>
-<guid isPermaLink="true">https://zero.pl/news/dawid-kacprzyk-wspierany-przez-malzenstwo-politykow-ko-poslanka-pis-komentuje</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Fri, 14 Aug 2026 16:09:00 +0200</pubDate>
-</item>
-<item>
-<title>Awantura o koncert Sanah w Gdyni. Nie każdy mieszkaniec wejdzie na urodziny miasta</title>
-<link>https://zero.pl/news/koncert-sanah-w-gdyni-22-sierpnia-wstep-z-karta-mieszkanca-radni-opozycji-krytykuja</link>
-<guid isPermaLink="true">https://zero.pl/news/koncert-sanah-w-gdyni-22-sierpnia-wstep-z-karta-mieszkanca-radni-opozycji-krytykuja</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Fri, 14 Aug 2026 15:42:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
