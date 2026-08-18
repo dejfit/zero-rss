@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 18 Aug 2026 11:17:16 +0200</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 11:51:29 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Potoki na ulicach i powalone drzewa. Krajobraz po ulewie w Głuchołazach</title>
+<link>https://zero.pl/news/ulewy-i-zalania-w-glucholazach-kierwinski-i-szlapka-komentuja-skutki-nawalnicy</link>
+<guid isPermaLink="true">https://zero.pl/news/ulewy-i-zalania-w-glucholazach-kierwinski-i-szlapka-komentuja-skutki-nawalnicy</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Tue, 18 Aug 2026 11:28:00 +0200</pubDate>
+</item>
 <item>
 <title>Zastrzeżenie PESEL-u to nie proteza. To jeden z dwóch składników tożsamości, jakie dziś mamy</title>
 <link>https://zero.pl/news/cieszynski-zastrzezenie-pesel-u-to-nie-proteza-tylko-realna-ochrona</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Tomasz Pałasz</description>
 <pubDate>Fri, 14 Aug 2026 15:42:00 +0200</pubDate>
-</item>
-<item>
-<title>Od podwykonawcy do zbawcy? Polska ratuje niemieckich eksporterów</title>
-<link>https://zero.pl/news/eksport-do-polski-pomaga-niemcom-tylko-do-trzech-krajow-wysylaja-wiecej</link>
-<guid isPermaLink="true">https://zero.pl/news/eksport-do-polski-pomaga-niemcom-tylko-do-trzech-krajow-wysylaja-wiecej</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Fri, 14 Aug 2026 15:16:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
