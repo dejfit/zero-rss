@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 19 Aug 2026 15:53:08 +0200</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 16:23:52 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Pytania w sprawie pumy. „Dużo groźniejsze niż alpaka czy mały kangur”</title>
+<link>https://zero.pl/news/dzika-puma-w-polsce-ekspert-wyjasnia-gdzie-je-widziano-i-skad-sie-wziely</link>
+<guid isPermaLink="true">https://zero.pl/news/dzika-puma-w-polsce-ekspert-wyjasnia-gdzie-je-widziano-i-skad-sie-wziely</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Wed, 19 Aug 2026 16:07:00 +0200</pubDate>
+</item>
+<item>
+<title>CBA w jeleniogórskim ratuszu. Sprawdza zaświadczenia powodziowe</title>
+<link>https://zero.pl/news/cba-kontroluje-jeleniogorski-ratusz-chodzi-o-zaswiadczenia-powodziowe</link>
+<guid isPermaLink="true">https://zero.pl/news/cba-kontroluje-jeleniogorski-ratusz-chodzi-o-zaswiadczenia-powodziowe</guid>
+<category>Kraj</category>
+<description>Kraj — Filip Baczkura</description>
+<pubDate>Wed, 19 Aug 2026 16:01:00 +0200</pubDate>
+</item>
+<item>
+<title>Po ośmiu latach zamknęli restaurację Arkadiusza Milika. Została kartonowa podobizna piłkarza</title>
+<link>https://zero.pl/news/foodball-arkadiusza-milika-zamkniete-restauracja-znika-z-galerii-libero</link>
+<guid isPermaLink="true">https://zero.pl/news/foodball-arkadiusza-milika-zamkniete-restauracja-znika-z-galerii-libero</guid>
+<category>Biznes</category>
+<description>Biznes — Bartosz Michalski</description>
+<pubDate>Wed, 19 Aug 2026 15:55:00 +0200</pubDate>
+</item>
 <item>
 <title>Pałac Prezydencki reaguje na plan premiera. „Chce jeszcze bardziej skomplikować podatki”</title>
 <link>https://zero.pl/news/prezydent-reaguje-na-plan-premiera-szefernaker-krytykuje-zmiany-podatkowe</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
 <pubDate>Sun, 16 Aug 2026 06:47:00 +0200</pubDate>
-</item>
-<item>
-<title>Niezwykła sobota polskich lekkoatletów. Cztery medale na mistrzostwach Europy</title>
-<link>https://zero.pl/news/me-w-lekkoatletyce-birmingham-4-medale-polakow-w-sobote-bukowiecka-zdzieblo-i-zodzik-ze-srebrem</link>
-<guid isPermaLink="true">https://zero.pl/news/me-w-lekkoatletyce-birmingham-4-medale-polakow-w-sobote-bukowiecka-zdzieblo-i-zodzik-ze-srebrem</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Sun, 16 Aug 2026 06:24:00 +0200</pubDate>
-</item>
-<item>
-<title>„Owce nie wiedzą, jaki to dzień tygodnia”. Zamiast ruszyć w świat, została bacą</title>
-<link>https://zero.pl/news/polska-od-srodka-bacowka-to-jej-drugi-dom-anna-opowiada-o-zyciu-wsrod-owiec-i-wyrobie-oscypkow</link>
-<guid isPermaLink="true">https://zero.pl/news/polska-od-srodka-bacowka-to-jej-drugi-dom-anna-opowiada-o-zyciu-wsrod-owiec-i-wyrobie-oscypkow</guid>
-<category>Kraj</category>
-<description>Kraj — Aleksandra Cieślik</description>
-<pubDate>Sun, 16 Aug 2026 06:02:00 +0200</pubDate>
-</item>
-<item>
-<title>Niemcy chcą przywrócenia handlu w niedziele. A co zrobi u nas Donald Tusk?</title>
-<link>https://zero.pl/news/niemcy-robia-krok-w-sprawie-handlu-w-niedziele-co-z-obietnica-donalda-tuska</link>
-<guid isPermaLink="true">https://zero.pl/news/niemcy-robia-krok-w-sprawie-handlu-w-niedziele-co-z-obietnica-donalda-tuska</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Sun, 16 Aug 2026 05:59:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
