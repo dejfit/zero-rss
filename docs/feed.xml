@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 19 Aug 2026 05:55:22 +0200</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 06:30:16 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Zmarła Wanda Traczyk-Stawska, bohaterka Powstania Warszawskiego. Miała 99 lat</title>
+<link>https://zero.pl/news/zmarla-wanda-traczyk-stawska-bohaterka-powstania-warszawskiego-miala-99-lat</link>
+<guid isPermaLink="true">https://zero.pl/news/zmarla-wanda-traczyk-stawska-bohaterka-powstania-warszawskiego-miala-99-lat</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Wed, 19 Aug 2026 06:14:00 +0200</pubDate>
+</item>
+<item>
+<title>Kto zarobi na niezwróconych kaucjach? Tu zacznie się afera</title>
+<link>https://zero.pl/news/system-kaucyjny-co-dzieje-sie-z-pieniedzmi-z-niezwroconych-kaucji</link>
+<guid isPermaLink="true">https://zero.pl/news/system-kaucyjny-co-dzieje-sie-z-pieniedzmi-z-niezwroconych-kaucji</guid>
+<category>Biznes</category>
+<description>Biznes — Patryk Słowik</description>
+<pubDate>Wed, 19 Aug 2026 05:59:00 +0200</pubDate>
+</item>
+<item>
+<title>Polacy oddają butelki, policja kupuje wodę bez kaucji. Ujawniamy absurd systemu</title>
+<link>https://zero.pl/news/absurd-systemu-kaucyjnego-polacy-biegaja-z-workami-butelek-policja-kupuje-wode-bez-kaucji</link>
+<guid isPermaLink="true">https://zero.pl/news/absurd-systemu-kaucyjnego-polacy-biegaja-z-workami-butelek-policja-kupuje-wode-bez-kaucji</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Wed, 19 Aug 2026 05:57:00 +0200</pubDate>
+</item>
+<item>
+<title>Patrioty nie wystarczą. Kryzys polskiego modelu obrony powietrznej</title>
+<link>https://zero.pl/news/rakiety-patriot-nie-wystarcza-jak-dlugo-polska-moze-bronic-sie-przed-rosja</link>
+<guid isPermaLink="true">https://zero.pl/news/rakiety-patriot-nie-wystarcza-jak-dlugo-polska-moze-bronic-sie-przed-rosja</guid>
+<category>Wojsko</category>
+<description>Wojsko — Wojciech J. Kittel</description>
+<pubDate>Wed, 19 Aug 2026 05:56:00 +0200</pubDate>
+</item>
 <item>
 <title>Lewandowski i Chicago Fire ruszają w trudną trasę. Cztery mecze na wyjeździe</title>
 <link>https://zero.pl/news/lewandowski-cztery-mecze-wyjazdowe-chicago-fire-zagra-z-orlando-rbny-seattle-toronto</link>
@@ -1174,38 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Marcin Darmas</description>
 <pubDate>Sat, 15 Aug 2026 14:28:00 +0200</pubDate>
-</item>
-<item>
-<title>„Polska absolutnym liderem NATO”. Szef MON podsumował wydatki na wojsko</title>
-<link>https://zero.pl/news/polska-absolutnym-liderem-nato-szef-mon-podsumowal-wydatki-na-wojsko</link>
-<guid isPermaLink="true">https://zero.pl/news/polska-absolutnym-liderem-nato-szef-mon-podsumowal-wydatki-na-wojsko</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Sat, 15 Aug 2026 14:24:00 +0200</pubDate>
-</item>
-<item>
-<title>Polskie uczelnie daleko od światowej czołówki. Najnowsze wydanie rankingu</title>
-<link>https://zero.pl/news/polskie-uczelnie-daleko-od-swiatowej-czolowki-najnowsze-wydanie-rankingu</link>
-<guid isPermaLink="true">https://zero.pl/news/polskie-uczelnie-daleko-od-swiatowej-czolowki-najnowsze-wydanie-rankingu</guid>
-<category>Nauka</category>
-<description>Nauka — Paweł Żurek</description>
-<pubDate>Sat, 15 Aug 2026 13:58:00 +0200</pubDate>
-</item>
-<item>
-<title>„Bezpieczeństwo jest ważniejsze niż spory”. Nawrocki odpowiedział Tuskowi</title>
-<link>https://zero.pl/news/bezpieczenstwo-jest-wazniejsze-niz-spory-nawrocki-odpowiedzial-tuskowi</link>
-<guid isPermaLink="true">https://zero.pl/news/bezpieczenstwo-jest-wazniejsze-niz-spory-nawrocki-odpowiedzial-tuskowi</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Sat, 15 Aug 2026 13:22:00 +0200</pubDate>
-</item>
-<item>
-<title>Mamy nowych generałów i admirałów. Nawrocki wręczył nominację oficerom</title>
-<link>https://zero.pl/news/mamy-nowych-generalow-i-admiralow-nawrocki-wreczyl-nominacje-oficerom</link>
-<guid isPermaLink="true">https://zero.pl/news/mamy-nowych-generalow-i-admiralow-nawrocki-wreczyl-nominacje-oficerom</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Sat, 15 Aug 2026 13:00:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
