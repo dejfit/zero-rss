@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 19 Aug 2026 16:23:52 +0200</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 17:00:14 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Śmierć pięciolatki i 15 ratowników w Strefie Gazy. Izraelska armia wszczyna postępowanie</title>
+<link>https://zero.pl/news/smierc-5-letniej-hind-rajab-i-15-ratownikow-izraelska-armia-wszczyna-postepowanie</link>
+<guid isPermaLink="true">https://zero.pl/news/smierc-5-letniej-hind-rajab-i-15-ratownikow-izraelska-armia-wszczyna-postepowanie</guid>
+<category>Świat</category>
+<description>Świat — Filip Baczkura</description>
+<pubDate>Wed, 19 Aug 2026 16:39:00 +0200</pubDate>
+</item>
 <item>
 <title>Pytania w sprawie pumy. „Dużo groźniejsze niż alpaka czy mały kangur”</title>
 <link>https://zero.pl/news/dzika-puma-w-polsce-ekspert-wyjasnia-gdzie-je-widziano-i-skad-sie-wziely</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Agnieszka Waś-Turecka</description>
 <pubDate>Sun, 16 Aug 2026 07:16:00 +0200</pubDate>
-</item>
-<item>
-<title>Katar odpowiada na zarzuty Iranu. Chodzi o zestrzelonych pilotów</title>
-<link>https://zero.pl/news/tajemnica-zestrzelonych-samolotow-katar-stanowczo-odpowiada-teheranowi</link>
-<guid isPermaLink="true">https://zero.pl/news/tajemnica-zestrzelonych-samolotow-katar-stanowczo-odpowiada-teheranowi</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Sun, 16 Aug 2026 06:47:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
