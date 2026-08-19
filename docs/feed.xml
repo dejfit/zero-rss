@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 19 Aug 2026 14:10:06 +0200</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 15:04:21 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Tragedia w Darłówku. Ksiądz utonął, śledczy sprawdzają czerwoną flagę</title>
+<link>https://zero.pl/news/ksiadz-utonal-w-darlowku-czy-na-plazy-byla-czerwona-flaga</link>
+<guid isPermaLink="true">https://zero.pl/news/ksiadz-utonal-w-darlowku-czy-na-plazy-byla-czerwona-flaga</guid>
+<category>Kraj</category>
+<description>Kraj — Bartosz Michalski</description>
+<pubDate>Wed, 19 Aug 2026 14:50:00 +0200</pubDate>
+</item>
+<item>
+<title>Polityka o niczym. Nie potrzebujemy więcej kontentu, potrzebujemy treści</title>
+<link>https://zero.pl/news/izabela-bodnar-i-zdjecie-z-tunczykiem-spurek-o-pustych-mediach-spolecznosciowych</link>
+<guid isPermaLink="true">https://zero.pl/news/izabela-bodnar-i-zdjecie-z-tunczykiem-spurek-o-pustych-mediach-spolecznosciowych</guid>
+<category>Kraj</category>
+<description>Kraj — Sylwia Spurek</description>
+<pubDate>Wed, 19 Aug 2026 14:24:00 +0200</pubDate>
+</item>
 <item>
 <title>Zero.pl zapytało Tuska o pomysł Morawieckiego. „Absolutnie bezwstydne”</title>
 <link>https://zero.pl/news/morawiecki-chce-powolac-polskie-ice-tusk-po-pytaniu-zero-pl-absolutnie-bezwstydne</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Marcin Darmas</description>
 <pubDate>Sat, 15 Aug 2026 20:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Surogatka odmówiła aborcji. Teraz walczy o dziecko i pieniądze</title>
-<link>https://zero.pl/news/surogatka-odmowila-aborcji-teraz-walczy-o-dziecko-i-pieniadze</link>
-<guid isPermaLink="true">https://zero.pl/news/surogatka-odmowila-aborcji-teraz-walczy-o-dziecko-i-pieniadze</guid>
-<category>Świat</category>
-<description>Świat — Marcin Darmas</description>
-<pubDate>Sat, 15 Aug 2026 20:25:00 +0200</pubDate>
-</item>
-<item>
-<title>Nawrocki jako patron prawicy? Siła realna, ale ograniczona</title>
-<link>https://zero.pl/news/bedzie-jedna-lista-do-sejmu-pod-patronatem-prezydenta-ekspert-mozna-wlozyc-miedzy-bajki</link>
-<guid isPermaLink="true">https://zero.pl/news/bedzie-jedna-lista-do-sejmu-pod-patronatem-prezydenta-ekspert-mozna-wlozyc-miedzy-bajki</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Musiałek</description>
-<pubDate>Sat, 15 Aug 2026 19:58:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
