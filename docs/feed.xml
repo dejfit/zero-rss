@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 19 Aug 2026 05:09:33 +0200</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 05:55:22 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Lewandowski i Chicago Fire ruszają w trudną trasę. Cztery mecze na wyjeździe</title>
+<link>https://zero.pl/news/lewandowski-cztery-mecze-wyjazdowe-chicago-fire-zagra-z-orlando-rbny-seattle-toronto</link>
+<guid isPermaLink="true">https://zero.pl/news/lewandowski-cztery-mecze-wyjazdowe-chicago-fire-zagra-z-orlando-rbny-seattle-toronto</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Wed, 19 Aug 2026 05:49:00 +0200</pubDate>
+</item>
 <item>
 <title>Kontrowersyjny raper z USA zagra w Rosji. Możliwe spotkanie z Putinem</title>
 <link>https://zero.pl/news/kanye-west-wystapi-w-rosji-moze-spotkac-sie-z-putinem</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
 <pubDate>Sat, 15 Aug 2026 13:00:00 +0200</pubDate>
-</item>
-<item>
-<title>Wojsko ma swoje święto. Władze Ukrainy podziękowały polskiemu dowództwu</title>
-<link>https://zero.pl/news/wojsko-ma-swoje-swieto-wladze-ukrainy-podziekowaly-polskiemu-dowodztwu</link>
-<guid isPermaLink="true">https://zero.pl/news/wojsko-ma-swoje-swieto-wladze-ukrainy-podziekowaly-polskiemu-dowodztwu</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Sat, 15 Aug 2026 12:44:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
