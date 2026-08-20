@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 20 Aug 2026 06:27:55 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 07:04:10 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Z tego powodu najczęściej idziemy na L4. ZUS podał najnowsze dane</title>
+<link>https://zero.pl/news/z-tego-powodu-najczesciej-idziemy-na-l4-zus-podal-najnowsze-dane</link>
+<guid isPermaLink="true">https://zero.pl/news/z-tego-powodu-najczesciej-idziemy-na-l4-zus-podal-najnowsze-dane</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Thu, 20 Aug 2026 06:52:00 +0200</pubDate>
+</item>
+<item>
+<title>Izrael ogłosił kolejny etap przejęcia Palestyny. „Przetnie ją na dwie części”</title>
+<link>https://zero.pl/news/izrael-oglosil-kolejny-etap-przejecia-palestyny-przetnie-ja-na-dwie-czesci</link>
+<guid isPermaLink="true">https://zero.pl/news/izrael-oglosil-kolejny-etap-przejecia-palestyny-przetnie-ja-na-dwie-czesci</guid>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
+<pubDate>Thu, 20 Aug 2026 06:34:00 +0200</pubDate>
+</item>
 <item>
 <title>Dlaczego USA i Iranowi nie spieszy się do pokoju? Ekspert ujawnia kulisy konfliktu</title>
 <link>https://zero.pl/news/wojna-usa-z-iranem-prof-urbanczyk-zadnej-ze-stron-nie-zalezy-na-szybkim-kompromisie</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Marcin Darmas</description>
 <pubDate>Sun, 16 Aug 2026 15:58:00 +0200</pubDate>
-</item>
-<item>
-<title>Rabunek w Mesynie. Z muzeum skradziono trzy dzieła Antonella da Messina</title>
-<link>https://zero.pl/news/rabunek-w-mesynie-z-muzeum-skradziono-trzy-dziela-antonella-da-messina</link>
-<guid isPermaLink="true">https://zero.pl/news/rabunek-w-mesynie-z-muzeum-skradziono-trzy-dziela-antonella-da-messina</guid>
-<category>Kultura</category>
-<description>Kultura — Marcin Darmas</description>
-<pubDate>Sun, 16 Aug 2026 15:18:00 +0200</pubDate>
-</item>
-<item>
-<title>Nie twórzmy armii rezerwowej. Zbudujmy system rezerw. Polemika po wywiadzie Zero.pl z gen. Gromadzińskim</title>
-<link>https://zero.pl/news/armia-rezerwowa-czy-system-rezerw-jak-powinna-wygladac-polska-rezerwa-wojskowa</link>
-<guid isPermaLink="true">https://zero.pl/news/armia-rezerwowa-czy-system-rezerw-jak-powinna-wygladac-polska-rezerwa-wojskowa</guid>
-<category>Wojsko</category>
-<description>Wojsko — Grzegorz Matyasik</description>
-<pubDate>Sun, 16 Aug 2026 14:51:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
