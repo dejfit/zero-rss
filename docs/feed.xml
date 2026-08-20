@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 20 Aug 2026 18:52:22 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 19:20:34 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Poseł Rozwój Plus odpowiada Tuskowi. Premier zaatakował go na konferencji</title>
+<link>https://zero.pl/news/schreiber-odpowiada-tuskowi-w-tle-polskie-ice-i-referendum-ws-schengen</link>
+<guid isPermaLink="true">https://zero.pl/news/schreiber-odpowiada-tuskowi-w-tle-polskie-ice-i-referendum-ws-schengen</guid>
+<category>Kraj</category>
+<description>Kraj — Tymon Zalewski</description>
+<pubDate>Thu, 20 Aug 2026 19:16:00 +0200</pubDate>
+</item>
+<item>
+<title>Załamanie pogody już za kilka godzin. Burze i ulewy, możliwe podtopienia</title>
+<link>https://zero.pl/news/pogoda-21-sierpnia-burze-i-ulewy-wroca-ze-zdwojona-sila-mozliwe-podtopienia</link>
+<guid isPermaLink="true">https://zero.pl/news/pogoda-21-sierpnia-burze-i-ulewy-wroca-ze-zdwojona-sila-mozliwe-podtopienia</guid>
+<category>Kraj</category>
+<description>Kraj — Filip Baczkura</description>
+<pubDate>Thu, 20 Aug 2026 18:55:00 +0200</pubDate>
+</item>
 <item>
 <title>Jaka piękna katastrofa. W Holandii nie chcą ubezpieczać chińskich aut, powody są znane także w Polsce</title>
 <link>https://zero.pl/news/w-holandii-nie-chca-ubezpieczac-chinskich-aut-problem-z-czesciami-zamiennymi-generuje-koszty</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
 <pubDate>Mon, 17 Aug 2026 12:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Dziura w państwowej kasie się powiększa. Są najnowsze dane</title>
-<link>https://zero.pl/news/deficyt-budzetu-panstwa-przekroczyl-kolejny-prog-oto-najnowsze-dane</link>
-<guid isPermaLink="true">https://zero.pl/news/deficyt-budzetu-panstwa-przekroczyl-kolejny-prog-oto-najnowsze-dane</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Mon, 17 Aug 2026 12:27:00 +0200</pubDate>
-</item>
-<item>
-<title>Polityka Trumpa a Korea Południowa. Ekspert: Azja rozważa zwrot w relacjach z USA</title>
-<link>https://zero.pl/news/trump-kim-dzong-un-i-ciesnina-ormuz-ekspert-azja-rozwaza-zwrot-w-relacjach-z-usa</link>
-<guid isPermaLink="true">https://zero.pl/news/trump-kim-dzong-un-i-ciesnina-ormuz-ekspert-azja-rozwaza-zwrot-w-relacjach-z-usa</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Mon, 17 Aug 2026 12:25:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
