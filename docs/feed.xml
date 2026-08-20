@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 20 Aug 2026 13:45:02 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 14:03:21 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Książulo wybrał nie to Porsche, które trzeba. Najfajniejsze 911 jest zdecydowanie wolniejsze... i tańsze</title>
+<link>https://zero.pl/news/ksiazulo-kupil-porsche-911-turbo-s-a-wystarczylo-wziac-zwykla-carrere-najwolniejszy-model-w-gamie</link>
+<guid isPermaLink="true">https://zero.pl/news/ksiazulo-kupil-porsche-911-turbo-s-a-wystarczylo-wziac-zwykla-carrere-najwolniejszy-model-w-gamie</guid>
+<category>Moto</category>
+<description>Moto — Piotr Rodzik</description>
+<pubDate>Thu, 20 Aug 2026 13:50:00 +0200</pubDate>
+</item>
 <item>
 <title>Polacy oddali miliardy butelek z kaucją. Resort klimatu planuje zmiany w systemie</title>
 <link>https://zero.pl/news/miliardy-oddanych-butelek-resort-srodowiska-podsumowuje-10-miesiecy-systemu-kaucyjnego</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
 <pubDate>Mon, 17 Aug 2026 06:27:00 +0200</pubDate>
-</item>
-<item>
-<title>Akt, który przestraszył się własnych konsekwencji. Opieka kończy się o 21:00</title>
-<link>https://zero.pl/news/opieka-nad-seniorami-w-domu-co-przewiduja-nowe-standardy-uslug-opiekunczych</link>
-<guid isPermaLink="true">https://zero.pl/news/opieka-nad-seniorami-w-domu-co-przewiduja-nowe-standardy-uslug-opiekunczych</guid>
-<category>Kraj</category>
-<description>Kraj — Ryszard Szarfenberg</description>
-<pubDate>Mon, 17 Aug 2026 06:08:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
