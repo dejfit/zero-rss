@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 20 Aug 2026 13:11:33 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 13:45:02 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Polacy oddali miliardy butelek z kaucją. Resort klimatu planuje zmiany w systemie</title>
+<link>https://zero.pl/news/miliardy-oddanych-butelek-resort-srodowiska-podsumowuje-10-miesiecy-systemu-kaucyjnego</link>
+<guid isPermaLink="true">https://zero.pl/news/miliardy-oddanych-butelek-resort-srodowiska-podsumowuje-10-miesiecy-systemu-kaucyjnego</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Thu, 20 Aug 2026 13:32:00 +0200</pubDate>
+</item>
+<item>
+<title>Ukryte menu dostępne dla każdego. Nowe funkcje smartfonów Samsunga</title>
+<link>https://zero.pl/news/ukryte-menu-serwisowe-dostepne-dla-kazdego-nowe-funkcje-smartfonow-samsunga</link>
+<guid isPermaLink="true">https://zero.pl/news/ukryte-menu-serwisowe-dostepne-dla-kazdego-nowe-funkcje-smartfonow-samsunga</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Thu, 20 Aug 2026 13:21:00 +0200</pubDate>
+</item>
 <item>
 <title>Ustawa „lex szarlatan”. Jest decyzja prezydenta</title>
 <link>https://zero.pl/news/ustawa-lex-szarlatan-jest-decyzja-prezydenta</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Ryszard Szarfenberg</description>
 <pubDate>Mon, 17 Aug 2026 06:08:00 +0200</pubDate>
-</item>
-<item>
-<title>Jeziora znikają z mapy Wielkopolski. Rząd ma plan za ponad 100 mln zł</title>
-<link>https://zero.pl/news/pojezierze-gnieznienskie-wysycha-hennig-kloska-o-planie-ratowania-jezior</link>
-<guid isPermaLink="true">https://zero.pl/news/pojezierze-gnieznienskie-wysycha-hennig-kloska-o-planie-ratowania-jezior</guid>
-<category>Kraj</category>
-<description>Kraj — Aleksandra Cieślik</description>
-<pubDate>Mon, 17 Aug 2026 06:04:00 +0200</pubDate>
-</item>
-<item>
-<title>Setki firm czekają na pieniądze od państwowego giganta. „Mi Skarb Państwa nie odpuści”</title>
-<link>https://zero.pl/news/panstwowy-titanic-ciagnie-na-dno-setki-firm-my-wszyscy-mamy-to-zrozumiec</link>
-<guid isPermaLink="true">https://zero.pl/news/panstwowy-titanic-ciagnie-na-dno-setki-firm-my-wszyscy-mamy-to-zrozumiec</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Mon, 17 Aug 2026 06:01:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
