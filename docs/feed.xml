@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 20 Aug 2026 16:26:17 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 17:03:48 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Paliwa drożeją od piątku. Nawet z niższym VAT ceny maksymalne w górę</title>
+<link>https://zero.pl/news/ceny-paliw-od-piatku-benzyna-95-98-i-diesel-w-gore</link>
+<guid isPermaLink="true">https://zero.pl/news/ceny-paliw-od-piatku-benzyna-95-98-i-diesel-w-gore</guid>
+<category>Biznes</category>
+<description>Biznes — Tomasz Pałasz</description>
+<pubDate>Thu, 20 Aug 2026 16:59:00 +0200</pubDate>
+</item>
+<item>
+<title>Politycy podzieleni po decyzji prezydenta. „Nie zrozumiał tej ustawy”</title>
+<link>https://zero.pl/news/lex-szarlatan-prezydent-nawrocki-kieruje-ustawe-do-tk-rzecznik-praw-pacjenta-komentuje</link>
+<guid isPermaLink="true">https://zero.pl/news/lex-szarlatan-prezydent-nawrocki-kieruje-ustawe-do-tk-rzecznik-praw-pacjenta-komentuje</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Thu, 20 Aug 2026 16:28:00 +0200</pubDate>
+</item>
 <item>
 <title>Pandora Gate. Sąd zdecydował ws. Stuu</title>
 <link>https://zero.pl/news/stuu-zostaje-w-areszcie-sad-przedluzyl-tymczasowe-aresztowanie-o-miesiac</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Agnieszka Waś-Turecka</description>
 <pubDate>Mon, 17 Aug 2026 09:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Nowe ustalenia ws. wypadku autokaru na Węgrzech. Działania polskich służb</title>
-<link>https://zero.pl/news/wypadek-autokaru-na-wegrzech-nowe-ustalenia-dzialania-polskich-sluzb</link>
-<guid isPermaLink="true">https://zero.pl/news/wypadek-autokaru-na-wegrzech-nowe-ustalenia-dzialania-polskich-sluzb</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Mon, 17 Aug 2026 08:31:00 +0200</pubDate>
-</item>
-<item>
-<title>Załamanie pogody nad Polską. IMGW wydaje alerty pierwszego i drugiego stopnia</title>
-<link>https://zero.pl/news/pogoda-na-dzis-ostrzezenia-imgw-przed-burzami-i-deszczem-sprawdz-mape-alertow-dla-polski</link>
-<guid isPermaLink="true">https://zero.pl/news/pogoda-na-dzis-ostrzezenia-imgw-przed-burzami-i-deszczem-sprawdz-mape-alertow-dla-polski</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Mon, 17 Aug 2026 08:07:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
