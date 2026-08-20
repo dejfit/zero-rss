@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 20 Aug 2026 21:03:16 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 21:39:43 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Miała być puma, jest wielkie sprostowanie. Zdjęcie okazało się fałszywe</title>
+<link>https://zero.pl/news/poszukiwania-pumy-pod-walbrzychem-sluzby-ujawnily-prawde-o-glosnym-zdjeciu</link>
+<guid isPermaLink="true">https://zero.pl/news/poszukiwania-pumy-pod-walbrzychem-sluzby-ujawnily-prawde-o-glosnym-zdjeciu</guid>
+<category>Kraj</category>
+<description>Kraj — Filip Baczkura</description>
+<pubDate>Thu, 20 Aug 2026 21:31:00 +0200</pubDate>
+</item>
+<item>
+<title>Lech miażdży Thun, Jagiellonia ogrywa Iberię. Wieczór marzeń w pucharach</title>
+<link>https://zero.pl/news/polskie-kluby-w-pucharach-lech-poznan-fc-thun-70-jagiellonia-iberia-tbilisi-40</link>
+<guid isPermaLink="true">https://zero.pl/news/polskie-kluby-w-pucharach-lech-poznan-fc-thun-70-jagiellonia-iberia-tbilisi-40</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Thu, 20 Aug 2026 21:18:00 +0200</pubDate>
+</item>
+<item>
+<title>Mundial w Disneylandzie i mecz Izrael–Palestyna? Media ujawniają plan Infantino</title>
+<link>https://zero.pl/news/infantino-planowal-mundial-u-15-w-disneylandzie-media-ujawniaja-niezwykly-pomysl-fifa</link>
+<guid isPermaLink="true">https://zero.pl/news/infantino-planowal-mundial-u-15-w-disneylandzie-media-ujawniaja-niezwykly-pomysl-fifa</guid>
+<category>Świat</category>
+<description>Świat — Filip Baczkura</description>
+<pubDate>Thu, 20 Aug 2026 21:00:00 +0200</pubDate>
+</item>
 <item>
 <title>Hofman stracił ważnego klienta. „Ktoś nosił brzydkie kwity”</title>
 <link>https://zero.pl/news/adam-hofman-w-godzinie-zero-gosc-roberta-mazurka-o-ziobrze-kaminskim-polityce-i-biznesie</link>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
 <pubDate>Mon, 17 Aug 2026 15:30:00 +0200</pubDate>
-</item>
-<item>
-<title>Jan Frycz nie żyje. Aktor miał 72 lata</title>
-<link>https://zero.pl/news/jan-frycz-nie-zyje-aktor-mial-72-lata</link>
-<guid isPermaLink="true">https://zero.pl/news/jan-frycz-nie-zyje-aktor-mial-72-lata</guid>
-<category>Kultura</category>
-<description>Kultura — Piotr Białczyk,Tomasz Pałasz</description>
-<pubDate>Mon, 17 Aug 2026 15:14:00 +0200</pubDate>
-</item>
-<item>
-<title>„Wojna wróciła do Rosji”. Czy Rosjanie zaczynają odczuwać jej skutki na własnej skórze?</title>
-<link>https://zero.pl/news/ukraina-zmienila-podejscie-czy-rosjanie-zaczynaja-odczuwac-skutki-wojny</link>
-<guid isPermaLink="true">https://zero.pl/news/ukraina-zmienila-podejscie-czy-rosjanie-zaczynaja-odczuwac-skutki-wojny</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Mon, 17 Aug 2026 14:49:00 +0200</pubDate>
-</item>
-<item>
-<title>Pułapka na szefa brytyjskiego rządu. Oszust podszył się pod współpracowniczkę Trumpa</title>
-<link>https://zero.pl/news/wielka-brytania-burnham-wymienial-wiadomosci-z-oszustem-podszywajacym-sie-pod-wspolpracowniczke-trumpa</link>
-<guid isPermaLink="true">https://zero.pl/news/wielka-brytania-burnham-wymienial-wiadomosci-z-oszustem-podszywajacym-sie-pod-wspolpracowniczke-trumpa</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Mon, 17 Aug 2026 14:10:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
