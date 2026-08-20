@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 20 Aug 2026 15:06:28 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 15:55:42 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Zaskakujące błędy w raporcie dla ministerstwa. W tle pytania o udział AI i 200 tys. zł</title>
+<link>https://zero.pl/news/raport-polakow-portret-wlasny-fundacji-marka-polska-w-tle-pytania-o-udzial-ai-i-200-tys-zl</link>
+<guid isPermaLink="true">https://zero.pl/news/raport-polakow-portret-wlasny-fundacji-marka-polska-w-tle-pytania-o-udzial-ai-i-200-tys-zl</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Thu, 20 Aug 2026 15:47:00 +0200</pubDate>
+</item>
+<item>
+<title>Państwo NATO zestrzeliło ukraiński dron. Wleciał z Białorusi</title>
+<link>https://zero.pl/news/lotwa-zestrzelila-ukrainski-dron-wlecial-z-bialorusi</link>
+<guid isPermaLink="true">https://zero.pl/news/lotwa-zestrzelila-ukrainski-dron-wlecial-z-bialorusi</guid>
+<category>Wojsko</category>
+<description>Wojsko — Filip Baczkura</description>
+<pubDate>Thu, 20 Aug 2026 15:17:00 +0200</pubDate>
+</item>
 <item>
 <title>Koniec sporu w rodzinie królewskiej? Harry i Meghan wracają do Wielkiej Brytanii</title>
 <link>https://zero.pl/news/harry-i-meghan-wracaja-do-wielkiej-brytanii-dzieci-pojda-do-szkoly</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
 <pubDate>Mon, 17 Aug 2026 07:47:00 +0200</pubDate>
-</item>
-<item>
-<title>Duże zmiany na stacjach benzynowych. Ile kosztuje benzyna i diesel?</title>
-<link>https://zero.pl/news/maksymalne-ceny-paliw-i-vat-8-proc-ile-kosztuje-benzyna-i-diesel-w-poniedzialek</link>
-<guid isPermaLink="true">https://zero.pl/news/maksymalne-ceny-paliw-i-vat-8-proc-ile-kosztuje-benzyna-i-diesel-w-poniedzialek</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Mon, 17 Aug 2026 07:23:00 +0200</pubDate>
-</item>
-<item>
-<title>Wielka obława na granicy z Ceutą. Marokańskie służby zatrzymały setki osób</title>
-<link>https://zero.pl/news/kryzys-migracyjny-w-ceucie-maroko-zatrzymalo-niemal-300-migrantow-na-granicy</link>
-<guid isPermaLink="true">https://zero.pl/news/kryzys-migracyjny-w-ceucie-maroko-zatrzymalo-niemal-300-migrantow-na-granicy</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Mon, 17 Aug 2026 07:04:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
