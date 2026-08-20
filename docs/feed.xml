@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 20 Aug 2026 12:48:52 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 13:11:33 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Ustawa „lex szarlatan”. Jest decyzja prezydenta</title>
+<link>https://zero.pl/news/ustawa-lex-szarlatan-jest-decyzja-prezydenta</link>
+<guid isPermaLink="true">https://zero.pl/news/ustawa-lex-szarlatan-jest-decyzja-prezydenta</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Thu, 20 Aug 2026 12:50:00 +0200</pubDate>
+</item>
 <item>
 <title>Reforma podatków ulgą dla całej klasy średniej? Eksperci: Nic z tego</title>
 <link>https://zero.pl/news/reforma-podatkowa-kto-skorzysta-i-dlaczego-nie-bedzie-to-cala-klasa-srednia</link>
@@ -1198,14 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Mon, 17 Aug 2026 06:01:00 +0200</pubDate>
-</item>
-<item>
-<title>Chicago Fire FC pokonuje Portland Timbers. Piąta wygrana z rzędu</title>
-<link>https://zero.pl/news/chicago-fire-fc-pokonuje-portland-timbers-piata-wygrana-z-rzedu</link>
-<guid isPermaLink="true">https://zero.pl/news/chicago-fire-fc-pokonuje-portland-timbers-piata-wygrana-z-rzedu</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Mon, 17 Aug 2026 05:12:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
