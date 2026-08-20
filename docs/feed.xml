@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 20 Aug 2026 17:03:48 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 17:45:04 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Tak działa sekta. Jak inteligentni ludzie dają się nabrać</title>
+<link>https://zero.pl/news/jak-dziala-sekta-poznaj-psychologiczne-mechanizmy-manipulacji-i-model-bite</link>
+<guid isPermaLink="true">https://zero.pl/news/jak-dziala-sekta-poznaj-psychologiczne-mechanizmy-manipulacji-i-model-bite</guid>
+<category>Kraj</category>
+<description>Kraj — Mateusz Grzesiak</description>
+<pubDate>Thu, 20 Aug 2026 17:42:00 +0200</pubDate>
+</item>
+<item>
+<title>Prezydent Nawrocki zatrzymał lex Szarlatan. Moim zdaniem to błąd</title>
+<link>https://zero.pl/news/slowik-o-lex-szarlatan-nawrocki-nie-podpisal-ustawy-co-to-oznacza-dla-pacjentow</link>
+<guid isPermaLink="true">https://zero.pl/news/slowik-o-lex-szarlatan-nawrocki-nie-podpisal-ustawy-co-to-oznacza-dla-pacjentow</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Patryk Słowik</description>
+<pubDate>Thu, 20 Aug 2026 17:23:00 +0200</pubDate>
+</item>
+<item>
+<title>Ramówka Zero TV na piątek 21 sierpnia. Szejna w Porannych Rozmowach</title>
+<link>https://zero.pl/news/program-tv-zero-21-08-co-dzis-mozna-obejrzec-andrzej-szczerba-w-porannych-rozmowach-zero</link>
+<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-21-08-co-dzis-mozna-obejrzec-andrzej-szczerba-w-porannych-rozmowach-zero</guid>
+<category>Program TV</category>
+<description>Program TV — Redakcja Zero.pl</description>
+<pubDate>Thu, 20 Aug 2026 17:18:00 +0200</pubDate>
+</item>
 <item>
 <title>Paliwa drożeją od piątku. Nawet z niższym VAT ceny maksymalne w górę</title>
 <link>https://zero.pl/news/ceny-paliw-od-piatku-benzyna-95-98-i-diesel-w-gore</link>
@@ -32,11 +56,11 @@
 <pubDate>Thu, 20 Aug 2026 16:07:00 +0200</pubDate>
 </item>
 <item>
-<title>Zaskakujące błędy w raporcie dla ministerstwa. W tle pytania o udział AI i 200 tys. zł</title>
+<title>Zaskakujące błędy w raporcie pełnomocniczki rządu. W tle pytania o udział AI i 200 tys. zł</title>
 <link>https://zero.pl/news/raport-polakow-portret-wlasny-fundacji-marka-polska-w-tle-pytania-o-udzial-ai-i-200-tys-zl</link>
 <guid isPermaLink="true">https://zero.pl/news/raport-polakow-portret-wlasny-fundacji-marka-polska-w-tle-pytania-o-udzial-ai-i-200-tys-zl</guid>
 <category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
+<description>Kraj — Filip Baczkura,Agnieszka Waś-Turecka</description>
 <pubDate>Thu, 20 Aug 2026 15:47:00 +0200</pubDate>
 </item>
 <item>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Agnieszka Waś-Turecka</description>
 <pubDate>Mon, 17 Aug 2026 11:18:00 +0200</pubDate>
-</item>
-<item>
-<title>Hayden Panettiere nie żyje. Aktorka miała 36 lat</title>
-<link>https://zero.pl/news/hayden-panettiere-nie-zyje-aktorka-miala-36-lat</link>
-<guid isPermaLink="true">https://zero.pl/news/hayden-panettiere-nie-zyje-aktorka-miala-36-lat</guid>
-<category>Kultura</category>
-<description>Kultura — Agnieszka Waś-Turecka</description>
-<pubDate>Mon, 17 Aug 2026 10:59:00 +0200</pubDate>
-</item>
-<item>
-<title>Ważne szkolenie dla wszystkich Polaków. Termin już 29 sierpnia</title>
-<link>https://zero.pl/news/krajowy-trening-reagowania-mswia-kiedy-akcja-i-jak-rozpoznac-sygnaly-alarmowe</link>
-<guid isPermaLink="true">https://zero.pl/news/krajowy-trening-reagowania-mswia-kiedy-akcja-i-jak-rozpoznac-sygnaly-alarmowe</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Mon, 17 Aug 2026 10:34:00 +0200</pubDate>
-</item>
-<item>
-<title>„To postulat populistyczny”. Dworczyk o pomyśle Kaczyńskiego</title>
-<link>https://zero.pl/news/dworczyk-w-kanale-zero-pomysl-kaczynskiego-jest-populistyczny-a-wspolna-lista-to-mrzonka</link>
-<guid isPermaLink="true">https://zero.pl/news/dworczyk-w-kanale-zero-pomysl-kaczynskiego-jest-populistyczny-a-wspolna-lista-to-mrzonka</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Mon, 17 Aug 2026 09:45:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
