@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 20 Aug 2026 12:13:36 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 12:48:52 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Reforma podatków ulgą dla całej klasy średniej? Eksperci: Nic z tego</title>
+<link>https://zero.pl/news/reforma-podatkowa-kto-skorzysta-i-dlaczego-nie-bedzie-to-cala-klasa-srednia</link>
+<guid isPermaLink="true">https://zero.pl/news/reforma-podatkowa-kto-skorzysta-i-dlaczego-nie-bedzie-to-cala-klasa-srednia</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Thu, 20 Aug 2026 12:44:00 +0200</pubDate>
+</item>
+<item>
+<title>Ponad 17 tys. ofert pracy w szkołach. MEN podał nowe dane</title>
+<link>https://zero.pl/news/men-17-tys-ofert-pracy-w-szkolach-brak-wakatow-dla-edukacji-zdrowotnej</link>
+<guid isPermaLink="true">https://zero.pl/news/men-17-tys-ofert-pracy-w-szkolach-brak-wakatow-dla-edukacji-zdrowotnej</guid>
+<category>Kraj</category>
+<description>Kraj — Tymon Zalewski</description>
+<pubDate>Thu, 20 Aug 2026 12:36:00 +0200</pubDate>
+</item>
+<item>
+<title>USA zbroją chińskie AI. Układy Nvidia trafiają do kolejnych firm</title>
+<link>https://zero.pl/news/usa-zbroja-chinskie-ai-uklady-nvidia-trafiaja-do-kolejnych-firm</link>
+<guid isPermaLink="true">https://zero.pl/news/usa-zbroja-chinskie-ai-uklady-nvidia-trafiaja-do-kolejnych-firm</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Thu, 20 Aug 2026 12:25:00 +0200</pubDate>
+</item>
 <item>
 <title>Kiedy matury i egzamin ósmoklasisty w 2027 r.? CKE opublikowała oficjalny kalendarz</title>
 <link>https://zero.pl/news/harmonogram-cke-na-rok-szkolny-2026-2027-znamy-daty-matur-i-egzaminu-osmoklasisty</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Tomasz Pałasz</description>
 <pubDate>Mon, 17 Aug 2026 05:12:00 +0200</pubDate>
-</item>
-<item>
-<title>Kushner spotkał się z Hamasem. USA żądają rozbrojenia, Izrael stawia warunki</title>
-<link>https://zero.pl/news/kushner-spotkal-sie-z-hamasem-usa-zadaja-rozbrojenia-izrael-stawia-warunki</link>
-<guid isPermaLink="true">https://zero.pl/news/kushner-spotkal-sie-z-hamasem-usa-zadaja-rozbrojenia-izrael-stawia-warunki</guid>
-<category>Świat</category>
-<description>Świat — Marcin Darmas</description>
-<pubDate>Sun, 16 Aug 2026 20:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Tucker Carlson odwraca się od Trumpa. Prorosyjski komentator szuka Ameryki po trumpizmie</title>
-<link>https://zero.pl/news/tucker-carlson-odwraca-sie-od-trumpa-prorosyjski-komentator-szuka-ameryki-po-trumpizmie</link>
-<guid isPermaLink="true">https://zero.pl/news/tucker-carlson-odwraca-sie-od-trumpa-prorosyjski-komentator-szuka-ameryki-po-trumpizmie</guid>
-<category>Świat</category>
-<description>Świat — Marcin Darmas</description>
-<pubDate>Sun, 16 Aug 2026 20:08:00 +0200</pubDate>
-</item>
-<item>
-<title>Sześciu medyków leci na Węgry. Będą decydować o transporcie rannych Polaków</title>
-<link>https://zero.pl/news/szesciu-medykow-leci-na-wegry-beda-decydowac-o-transporcie-rannych-polakow</link>
-<guid isPermaLink="true">https://zero.pl/news/szesciu-medykow-leci-na-wegry-beda-decydowac-o-transporcie-rannych-polakow</guid>
-<category>Kraj</category>
-<description>Kraj — Marcin Darmas</description>
-<pubDate>Sun, 16 Aug 2026 20:07:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
