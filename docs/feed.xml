@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 20 Aug 2026 11:05:01 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 11:46:38 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Kiedy matury i egzamin ósmoklasisty w 2027 r.? CKE opublikowała oficjalny kalendarz</title>
+<link>https://zero.pl/news/harmonogram-cke-na-rok-szkolny-2026-2027-znamy-daty-matur-i-egzaminu-osmoklasisty</link>
+<guid isPermaLink="true">https://zero.pl/news/harmonogram-cke-na-rok-szkolny-2026-2027-znamy-daty-matur-i-egzaminu-osmoklasisty</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Thu, 20 Aug 2026 11:42:00 +0200</pubDate>
+</item>
+<item>
+<title>„Dysponujemy tym, co mamy”. Szef MON wskazał miejsca bezpośrednio chronione z powietrza</title>
+<link>https://zero.pl/news/szef-mon-jestesmy-w-trakcie-budowy-obrony-powietrznej-dysponujemy-tym-co-mamy</link>
+<guid isPermaLink="true">https://zero.pl/news/szef-mon-jestesmy-w-trakcie-budowy-obrony-powietrznej-dysponujemy-tym-co-mamy</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Thu, 20 Aug 2026 11:35:00 +0200</pubDate>
+</item>
+<item>
+<title>Drony w przestrzeni powietrznej dwóch krajów. „Poważne naruszenie suwerenności”</title>
+<link>https://zero.pl/news/drony-naruszyly-przestrzen-powietrzna-moldawii-i-rumunii</link>
+<guid isPermaLink="true">https://zero.pl/news/drony-naruszyly-przestrzen-powietrzna-moldawii-i-rumunii</guid>
+<category>Świat</category>
+<description>Świat — Tymon Zalewski</description>
+<pubDate>Thu, 20 Aug 2026 11:22:00 +0200</pubDate>
+</item>
+<item>
+<title>500 nieletnich migrantek z Ceuty trafi na kontynent. „Wyższa konieczność”</title>
+<link>https://zero.pl/news/hiszpania-500-nieletnich-migrantek-z-ceuty-trafi-na-kontynent-rzad-ma-plan</link>
+<guid isPermaLink="true">https://zero.pl/news/hiszpania-500-nieletnich-migrantek-z-ceuty-trafi-na-kontynent-rzad-ma-plan</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Thu, 20 Aug 2026 11:14:00 +0200</pubDate>
+</item>
 <item>
 <title>„Puma miała być widziana w lesie. To nie jest żart”. Kolejna gmina ostrzega</title>
 <link>https://zero.pl/news/puma-pod-jedwabnem-gmina-ostrzega-mieszkancow-przed-drapieznikiem</link>
@@ -1174,38 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Marcin Darmas</description>
 <pubDate>Sun, 16 Aug 2026 20:07:00 +0200</pubDate>
-</item>
-<item>
-<title>Cristiano Ronaldo zapowiada koniec kariery. „To prawdopodobnie mój ostatni rok”</title>
-<link>https://zero.pl/news/cristiano-ronaldo-zapowiada-koniec-kariery-to-prawdopodobnie-moj-ostatni-rok</link>
-<guid isPermaLink="true">https://zero.pl/news/cristiano-ronaldo-zapowiada-koniec-kariery-to-prawdopodobnie-moj-ostatni-rok</guid>
-<category>Świat</category>
-<description>Świat — Marcin Darmas</description>
-<pubDate>Sun, 16 Aug 2026 19:27:00 +0200</pubDate>
-</item>
-<item>
-<title>Gospodarcza cena politycznych haseł. komu ma służyć deportacja Ukraińców?</title>
-<link>https://zero.pl/news/migracyjny-populizm-pis-komu-ma-sluzyc-deportacja-ukraincow</link>
-<guid isPermaLink="true">https://zero.pl/news/migracyjny-populizm-pis-komu-ma-sluzyc-deportacja-ukraincow</guid>
-<category>Kraj</category>
-<description>Kraj — Wojciech J. Kittel</description>
-<pubDate>Sun, 16 Aug 2026 18:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Gdzie najlepiej zamieszkać za granicą? Te kraje podbiły ranking ekspatów</title>
-<link>https://zero.pl/news/gdzie-najlepiej-zamieszkac-za-granica-te-kraje-podbily-ranking-ekspatow</link>
-<guid isPermaLink="true">https://zero.pl/news/gdzie-najlepiej-zamieszkac-za-granica-te-kraje-podbily-ranking-ekspatow</guid>
-<category>Świat</category>
-<description>Świat — Marcin Darmas</description>
-<pubDate>Sun, 16 Aug 2026 18:55:00 +0200</pubDate>
-</item>
-<item>
-<title>Wypadek polskiego autokaru na Węgrzech. Program specjalny Kanału Zero</title>
-<link>https://zero.pl/news/wypadek-polskiego-autokaru-na-wegrzech-program-specjalny-kanalu-zero</link>
-<guid isPermaLink="true">https://zero.pl/news/wypadek-polskiego-autokaru-na-wegrzech-program-specjalny-kanalu-zero</guid>
-<category>Kraj</category>
-<description>Kraj — Marcin Darmas</description>
-<pubDate>Sun, 16 Aug 2026 18:25:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
