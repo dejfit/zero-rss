@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 20 Aug 2026 14:03:21 +0200</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 15:06:28 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Koniec sporu w rodzinie królewskiej? Harry i Meghan wracają do Wielkiej Brytanii</title>
+<link>https://zero.pl/news/harry-i-meghan-wracaja-do-wielkiej-brytanii-dzieci-pojda-do-szkoly</link>
+<guid isPermaLink="true">https://zero.pl/news/harry-i-meghan-wracaja-do-wielkiej-brytanii-dzieci-pojda-do-szkoly</guid>
+<category>Świat</category>
+<description>Świat — Filip Baczkura</description>
+<pubDate>Thu, 20 Aug 2026 14:57:00 +0200</pubDate>
+</item>
+<item>
+<title>ABW zatrzymała Ukraińca. Jest podejrzany o próbę zamachu na zlecenie Rosji</title>
+<link>https://zero.pl/news/abw-zatrzymala-ukrainca-mial-planowac-zamach-na-zlecenie-rosyjskich-sluzb</link>
+<guid isPermaLink="true">https://zero.pl/news/abw-zatrzymala-ukrainca-mial-planowac-zamach-na-zlecenie-rosyjskich-sluzb</guid>
+<category>Kraj</category>
+<description>Kraj — Tymon Zalewski</description>
+<pubDate>Thu, 20 Aug 2026 14:32:00 +0200</pubDate>
+</item>
 <item>
 <title>Książulo wybrał nie to Porsche, które trzeba. Najfajniejsze 911 jest zdecydowanie wolniejsze... i tańsze</title>
 <link>https://zero.pl/news/ksiazulo-kupil-porsche-911-turbo-s-a-wystarczylo-wziac-zwykla-carrere-najwolniejszy-model-w-gamie</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
 <pubDate>Mon, 17 Aug 2026 07:04:00 +0200</pubDate>
-</item>
-<item>
-<title>Niespodziewana decyzja Trumpa. Tłumaczy ją swoimi dobrymi relacjami z Kim Dzong Unem</title>
-<link>https://zero.pl/news/usa-ograniczaja-cwiczenia-z-korea-poludniowa-trump-wskazuje-na-swoje-relacje-kim-dzong-unem</link>
-<guid isPermaLink="true">https://zero.pl/news/usa-ograniczaja-cwiczenia-z-korea-poludniowa-trump-wskazuje-na-swoje-relacje-kim-dzong-unem</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Mon, 17 Aug 2026 06:43:00 +0200</pubDate>
-</item>
-<item>
-<title>Kapitalny bieg Polki. Mamy kolejny medal Mistrzostw Europy</title>
-<link>https://zero.pl/news/lekkoatletyczne-me-birmingham-klaudia-kazimierska-ze-srebrnym-medalem-na-1500-m-polacy-z-osmioma-medalami</link>
-<guid isPermaLink="true">https://zero.pl/news/lekkoatletyczne-me-birmingham-klaudia-kazimierska-ze-srebrnym-medalem-na-1500-m-polacy-z-osmioma-medalami</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Mon, 17 Aug 2026 06:27:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
