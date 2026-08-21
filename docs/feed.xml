@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 21 Aug 2026 19:13:54 +0200</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 19:46:57 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>PiS nie składa broni ws. wypłaty subwencji. Mamy pismo partii do PKW</title>
+<link>https://zero.pl/news/spor-o-subwencje-pis-ugrupowanie-wzywa-szefa-pkw-do-dzialania</link>
+<guid isPermaLink="true">https://zero.pl/news/spor-o-subwencje-pis-ugrupowanie-wzywa-szefa-pkw-do-dzialania</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Fri, 21 Aug 2026 19:34:00 +0200</pubDate>
+</item>
+<item>
+<title>Uber bez kierowców wjeżdża do Europy. Usługa jest już dostępna</title>
+<link>https://zero.pl/news/autonomiczny-uber-wjezdza-do-europy-niedlugo-pojedziemy-bez-kierowcy</link>
+<guid isPermaLink="true">https://zero.pl/news/autonomiczny-uber-wjezdza-do-europy-niedlugo-pojedziemy-bez-kierowcy</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Fri, 21 Aug 2026 19:15:00 +0200</pubDate>
+</item>
 <item>
 <title>Dymisja w rządzie. Pełnomocniczka od marki Polska rezygnuje</title>
 <link>https://zero.pl/news/barbara-mroz-gorgon-skladam-dymisje-z-funkcji-pelnomocniczki-rzadu-do-spraw-promocji-marki-polski</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Jabłonowski</description>
 <pubDate>Tue, 18 Aug 2026 14:29:00 +0200</pubDate>
-</item>
-<item>
-<title>Rafał Brzoska odda swój skarb w nowe ręce. Transakcja warta miliardy na ostatniej prostej</title>
-<link>https://zero.pl/news/przejecie-inpostu-za-miliardy-przesadzone-jest-kluczowa-decyzja-ke</link>
-<guid isPermaLink="true">https://zero.pl/news/przejecie-inpostu-za-miliardy-przesadzone-jest-kluczowa-decyzja-ke</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Tue, 18 Aug 2026 13:58:00 +0200</pubDate>
-</item>
-<item>
-<title>Będą przyspieszone wybory? Chwedoruk: Myślę, że dla KO jest to wariant brany pod uwagę</title>
-<link>https://zero.pl/news/przyspieszone-wybory-parlamentarne-eksperci-o-planach-ko-i-rzadzie-tuska</link>
-<guid isPermaLink="true">https://zero.pl/news/przyspieszone-wybory-parlamentarne-eksperci-o-planach-ko-i-rzadzie-tuska</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Tue, 18 Aug 2026 13:51:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
