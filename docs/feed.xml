@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 21 Aug 2026 20:57:36 +0200</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 21:23:10 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Policja uderzyła w przemytników ludzi z Ceuty. Zatrzymania w Hiszpanii</title>
+<link>https://zero.pl/news/ceuta-hiszpanska-policja-rozbila-dwie-grupy-przestepcze-przemycajace-ludzi</link>
+<guid isPermaLink="true">https://zero.pl/news/ceuta-hiszpanska-policja-rozbila-dwie-grupy-przestepcze-przemycajace-ludzi</guid>
+<category>Świat</category>
+<description>Świat — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 21 Aug 2026 21:15:00 +0200</pubDate>
+</item>
+<item>
+<title>Stachu Jones, Tumu(L)ec i spółka. Jak internet uczynił z nas gwiazdy</title>
+<link>https://zero.pl/news/stachu-jones-tumulec-lech-roch-pawlak-avengersi-polskiego-internetu</link>
+<guid isPermaLink="true">https://zero.pl/news/stachu-jones-tumulec-lech-roch-pawlak-avengersi-polskiego-internetu</guid>
+<category>Kultura</category>
+<description>Kultura — Michał Walkiewicz</description>
+<pubDate>Fri, 21 Aug 2026 20:59:00 +0200</pubDate>
+</item>
 <item>
 <title>„Milczenie Friedricha Merza”. Niemieckie media pytają, gdzie jest kanclerz</title>
 <link>https://zero.pl/news/gdzie-jest-kanclerz-friedrich-merz-spekulacje-niemieckich-mediow</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Paweł Żurek</description>
 <pubDate>Tue, 18 Aug 2026 15:53:00 +0200</pubDate>
-</item>
-<item>
-<title>Tragedia na Węgrzech. Jest decyzja sądu ws. kierowcy autokaru</title>
-<link>https://zero.pl/news/tragedia-na-wegrzech-jest-decyzja-sadu-ws-kierowcy-autokaru</link>
-<guid isPermaLink="true">https://zero.pl/news/tragedia-na-wegrzech-jest-decyzja-sadu-ws-kierowcy-autokaru</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Tue, 18 Aug 2026 15:17:00 +0200</pubDate>
-</item>
-<item>
-<title>Polska wyprodukuje pociski do Patriotów? Rozmowy z Amerykanami</title>
-<link>https://zero.pl/news/polska-wyprodukuje-pociski-do-patriotow-rozmowy-z-amerykanami</link>
-<guid isPermaLink="true">https://zero.pl/news/polska-wyprodukuje-pociski-do-patriotow-rozmowy-z-amerykanami</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Tue, 18 Aug 2026 15:16:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
