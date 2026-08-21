@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 21 Aug 2026 11:19:00 +0200</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 11:54:54 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Samsung ponosi ceny chipów, rynek smartfonów w kryzysie. Gdzie jest sufit?</title>
+<link>https://zero.pl/news/samsung-ponosi-ceny-chipow-rynek-smartfonow-w-kryzysie-gdzie-jest-sufit</link>
+<guid isPermaLink="true">https://zero.pl/news/samsung-ponosi-ceny-chipow-rynek-smartfonow-w-kryzysie-gdzie-jest-sufit</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Fri, 21 Aug 2026 11:49:00 +0200</pubDate>
+</item>
+<item>
+<title>Polscy marynarze na szwedzkim okręcie podwodnym. Szykują się na przyszłość</title>
+<link>https://zero.pl/news/polscy-marynarze-na-szwedzkim-okrecie-podwodnym-typu-a17-szkola-sie-na-przyszlosc</link>
+<guid isPermaLink="true">https://zero.pl/news/polscy-marynarze-na-szwedzkim-okrecie-podwodnym-typu-a17-szkola-sie-na-przyszlosc</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Fri, 21 Aug 2026 11:38:00 +0200</pubDate>
+</item>
+<item>
+<title>Ciała ofiar wypadku na Węgrzech wrócą do Polski. Prokuratura podała termin</title>
+<link>https://zero.pl/news/wypadek-autokaru-na-wegrzech-kiedy-ciala-ofiar-wroca-do-polski</link>
+<guid isPermaLink="true">https://zero.pl/news/wypadek-autokaru-na-wegrzech-kiedy-ciala-ofiar-wroca-do-polski</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Fri, 21 Aug 2026 11:21:00 +0200</pubDate>
+</item>
+<item>
+<title>Coraz mniej nauczycieli pobiera to świadczenie. ZUS ujawnia dane</title>
+<link>https://zero.pl/news/nauczycielskie-swiadczenia-kompensacyjne-2026-zus-podaje-kwoty-i-liczbe-pobierajacych</link>
+<guid isPermaLink="true">https://zero.pl/news/nauczycielskie-swiadczenia-kompensacyjne-2026-zus-podaje-kwoty-i-liczbe-pobierajacych</guid>
+<category>Biznes</category>
+<description>Biznes — Agnieszka Waś-Turecka</description>
+<pubDate>Fri, 21 Aug 2026 11:18:00 +0200</pubDate>
+</item>
 <item>
 <title>Rekordowe temperatury w europejskich morzach. Badacze alarmują</title>
 <link>https://zero.pl/news/woda-w-morzu-srodziemnym-miala-33-stopnie-naukowcy-ujawniaja-nowy-raport</link>
@@ -1174,38 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Mon, 17 Aug 2026 21:52:00 +0200</pubDate>
-</item>
-<item>
-<title>Tajne bazy dronów zagrożeniem dla Warszawy? Ekspert wyjaśnia</title>
-<link>https://zero.pl/news/w-rosji-odkryto-tajne-bazy-dronow-moga-sluzyc-atakom-na-kraje-nato</link>
-<guid isPermaLink="true">https://zero.pl/news/w-rosji-odkryto-tajne-bazy-dronow-moga-sluzyc-atakom-na-kraje-nato</guid>
-<category>Wojsko</category>
-<description>Wojsko — Krzysztof Jabłonowski</description>
-<pubDate>Mon, 17 Aug 2026 21:31:00 +0200</pubDate>
-</item>
-<item>
-<title>Gwałtowne burze nad Polską. Grad, ulewy i powalone drzewa</title>
-<link>https://zero.pl/news/burze-nad-polska-grad-ulewy-i-silny-wiatr-strazacy-interweniuja</link>
-<guid isPermaLink="true">https://zero.pl/news/burze-nad-polska-grad-ulewy-i-silny-wiatr-strazacy-interweniuja</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Mon, 17 Aug 2026 21:04:00 +0200</pubDate>
-</item>
-<item>
-<title>Stanowski odpowiedział organizatorom festiwalu. „To wszystko kłamstwa, zmyślona historia”</title>
-<link>https://zero.pl/news/stanowski-odpowiedzial-organizatorom-festiwalu-to-wszystko-zmyslona-historia</link>
-<guid isPermaLink="true">https://zero.pl/news/stanowski-odpowiedzial-organizatorom-festiwalu-to-wszystko-zmyslona-historia</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Mon, 17 Aug 2026 20:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Bruksela z Legionem Europejskim. Wojskowe absurdy pomysłu Sikorskiego</title>
-<link>https://zero.pl/news/legion-europejski-wojskowe-absurdy-pomyslu-sikorskiego-opinia</link>
-<guid isPermaLink="true">https://zero.pl/news/legion-europejski-wojskowe-absurdy-pomyslu-sikorskiego-opinia</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Mon, 17 Aug 2026 20:32:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
