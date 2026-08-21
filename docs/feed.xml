@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 21 Aug 2026 18:47:25 +0200</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 19:13:54 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Dymisja w rządzie. Pełnomocniczka od marki Polska rezygnuje</title>
+<link>https://zero.pl/news/barbara-mroz-gorgon-skladam-dymisje-z-funkcji-pelnomocniczki-rzadu-do-spraw-promocji-marki-polski</link>
+<guid isPermaLink="true">https://zero.pl/news/barbara-mroz-gorgon-skladam-dymisje-z-funkcji-pelnomocniczki-rzadu-do-spraw-promocji-marki-polski</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Fri, 21 Aug 2026 18:55:00 +0200</pubDate>
+</item>
 <item>
 <title>Prezydent chce ścigać szarlatanów. Nowy projekt już w Sejmie</title>
 <link>https://zero.pl/news/prezydent-karol-nawrocki-zlozyl-w-sejmie-projekt-ustawy-ws-szarlatanow</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Przemysław Staciwa</description>
 <pubDate>Tue, 18 Aug 2026 13:51:00 +0200</pubDate>
-</item>
-<item>
-<title>DOKI – mieszkaj lub inwestuj w legendarnej części Gdańska</title>
-<link>https://zero.pl/news/doki-mieszkaj-lub-inwestuj-w-legendarnej-czesci-gdanska</link>
-<guid isPermaLink="true">https://zero.pl/news/doki-mieszkaj-lub-inwestuj-w-legendarnej-czesci-gdanska</guid>
-<category>Kraj</category>
-<description>Kraj — Redakcja Zero.pl</description>
-<pubDate>Tue, 18 Aug 2026 13:47:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
