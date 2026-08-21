@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 21 Aug 2026 16:25:33 +0200</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 17:01:10 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Piddington kontra Londyn. Mała wieś stała się symbolem brytyjskiego sporu o migrację</title>
+<link>https://zero.pl/news/piddington-i-migranci-referendum-obawy-mieszkancow-i-nowa-debata-migracyjna-w-wielkiej-brytanii</link>
+<guid isPermaLink="true">https://zero.pl/news/piddington-i-migranci-referendum-obawy-mieszkancow-i-nowa-debata-migracyjna-w-wielkiej-brytanii</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Fri, 21 Aug 2026 16:44:00 +0200</pubDate>
+</item>
 <item>
 <title>Stanowcze oświadczenie Cienkowskiej. Ministra reaguje na kontrowersje</title>
 <link>https://zero.pl/news/ministra-kultury-marta-cienkowska-po-kontrowersjach-wokol-obchodow-powstania-warszawskiego</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Agnieszka Waś-Turecka</description>
 <pubDate>Tue, 18 Aug 2026 11:28:00 +0200</pubDate>
-</item>
-<item>
-<title>Były minister odpowiada Stanowskiemu. „Zastrzeżenie PESEL-u to nie proteza”</title>
-<link>https://zero.pl/news/cieszynski-zastrzezenie-pesel-u-to-nie-proteza-tylko-realna-ochrona</link>
-<guid isPermaLink="true">https://zero.pl/news/cieszynski-zastrzezenie-pesel-u-to-nie-proteza-tylko-realna-ochrona</guid>
-<category>Kraj</category>
-<description>Kraj — Janusz Cieszyński</description>
-<pubDate>Tue, 18 Aug 2026 11:08:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
