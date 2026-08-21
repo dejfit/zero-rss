@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 21 Aug 2026 04:55:51 +0200</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 05:43:07 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Szybki awans Igi Świątek do półfinału w Cincinnati. Rywalka Polki miała problemy</title>
+<link>https://zero.pl/news/szybki-awans-igi-swiatek-do-polfinalu-w-cincinnati-rywalka-polki-miala-problemy</link>
+<guid isPermaLink="true">https://zero.pl/news/szybki-awans-igi-swiatek-do-polfinalu-w-cincinnati-rywalka-polki-miala-problemy</guid>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
+<pubDate>Fri, 21 Aug 2026 05:00:00 +0200</pubDate>
+</item>
 <item>
 <title>Rosja fałszuje zdobycze wideo z AI. Ukraińcy zdemaskowali oszustwo</title>
 <link>https://zero.pl/news/wojna-w-ukrainie-rosja-i-ai-falszywe-wideo-z-oskola-deepstate-demaskuje-propagande</link>
@@ -1198,14 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Mon, 17 Aug 2026 16:05:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na wtorek 18 sierpnia. Prof. Chris w Godzinie Zero</title>
-<link>https://zero.pl/news/program-tv-zero-18-08-co-dzis-mozna-obejrzec-godzina-zero-i-prof-chris</link>
-<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-18-08-co-dzis-mozna-obejrzec-godzina-zero-i-prof-chris</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Mon, 17 Aug 2026 15:32:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
