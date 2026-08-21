@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 21 Aug 2026 18:05:14 +0200</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 18:47:25 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Prezydent chce ścigać szarlatanów. Nowy projekt już w Sejmie</title>
+<link>https://zero.pl/news/prezydent-karol-nawrocki-zlozyl-w-sejmie-projekt-ustawy-ws-szarlatanow</link>
+<guid isPermaLink="true">https://zero.pl/news/prezydent-karol-nawrocki-zlozyl-w-sejmie-projekt-ustawy-ws-szarlatanow</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 21 Aug 2026 18:24:00 +0200</pubDate>
+</item>
 <item>
 <title>Ukraina przeprowadzi wybory w czasie wojny? „Podskórna rywalizacja trwa”</title>
 <link>https://zero.pl/news/wybory-w-ukrainie-w-czasie-wojny-eksperci-osw-i-pism-brak-woli-i-realnych-szans</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Redakcja Zero.pl</description>
 <pubDate>Tue, 18 Aug 2026 13:47:00 +0200</pubDate>
-</item>
-<item>
-<title>Co się dzieje na rynku nieruchomości? Tych mieszkań jest coraz więcej</title>
-<link>https://zero.pl/news/ceny-mieszkan-w-polsce-2026-w-metropoliach-przybywa-drozszych-mieszkan</link>
-<guid isPermaLink="true">https://zero.pl/news/ceny-mieszkan-w-polsce-2026-w-metropoliach-przybywa-drozszych-mieszkan</guid>
-<category>Biznes</category>
-<description>Biznes — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 18 Aug 2026 13:38:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
