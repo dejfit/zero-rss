@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 21 Aug 2026 09:59:01 +0200</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 10:39:52 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Raport o Marce Polska zniknął ze strony think tanku. Publikujemy go na Zero.pl</title>
+<link>https://zero.pl/news/polakow-portret-wlasny-raport-z-badan-dna-marki-polska-publikujemy-calosc-dokumentu-pobierz-go-na-zero-pl</link>
+<guid isPermaLink="true">https://zero.pl/news/polakow-portret-wlasny-raport-z-badan-dna-marki-polska-publikujemy-calosc-dokumentu-pobierz-go-na-zero-pl</guid>
+<category>Kraj</category>
+<description>Kraj — Redakcja Zero.pl</description>
+<pubDate>Fri, 21 Aug 2026 10:31:00 +0200</pubDate>
+</item>
+<item>
+<title>Czy to początek nowego trendu? Ten telefon jest jak składany smartfon, ale się nie składa</title>
+<link>https://zero.pl/news/huawei-faktycznie-to-zrobil-pura-x-view-jest-jak-skladany-smartfon-ale-sie-nie-sklada</link>
+<guid isPermaLink="true">https://zero.pl/news/huawei-faktycznie-to-zrobil-pura-x-view-jest-jak-skladany-smartfon-ale-sie-nie-sklada</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Fri, 21 Aug 2026 10:26:00 +0200</pubDate>
+</item>
+<item>
+<title>Będą kolejne wnioski o uchylenie immunitetów posłom. Prokurator mówi o rozliczeniu PiS</title>
+<link>https://zero.pl/news/beda-kolejne-wnioski-o-uchylenie-immunitetow-poslom-prokurator-chce-rozliczenia-pis</link>
+<guid isPermaLink="true">https://zero.pl/news/beda-kolejne-wnioski-o-uchylenie-immunitetow-poslom-prokurator-chce-rozliczenia-pis</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Fri, 21 Aug 2026 10:15:00 +0200</pubDate>
+</item>
 <item>
 <title>„Nie powinien ujrzeć światła dziennego”. Szejna mówi o raporcie „Polaków portret własny”</title>
 <link>https://zero.pl/news/marka-polska-polityk-lewicy-szczerze-o-raporcie-nie-powinien-ujrzec-swiatla-dziennego</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Paweł Żurek</description>
 <pubDate>Mon, 17 Aug 2026 19:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Przeżyli katastrofę na Węgrzech. 21 poszkodowanych wróciło do Polski</title>
-<link>https://zero.pl/news/wypadek-autokaru-na-wegrzech-ranni-polacy-wrocili-do-kraju</link>
-<guid isPermaLink="true">https://zero.pl/news/wypadek-autokaru-na-wegrzech-ranni-polacy-wrocili-do-kraju</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Mon, 17 Aug 2026 19:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Wątpliwości wokół samochodu posła. Słowik komentuje</title>
-<link>https://zero.pl/news/watpliwosci-wokol-wynajmu-auta-przez-posla-slowik-komentuje</link>
-<guid isPermaLink="true">https://zero.pl/news/watpliwosci-wokol-wynajmu-auta-przez-posla-slowik-komentuje</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Mon, 17 Aug 2026 19:32:00 +0200</pubDate>
-</item>
-<item>
-<title>Europejski rynek smartfonów będzie ultra-nudny. Smartfony Ultra tylko dla Chin</title>
-<link>https://zero.pl/news/europejski-rynek-smartfonow-bedzie-ultra-nudny-smartfony-ultra-tylko-dla-chin</link>
-<guid isPermaLink="true">https://zero.pl/news/europejski-rynek-smartfonow-bedzie-ultra-nudny-smartfony-ultra-tylko-dla-chin</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Mon, 17 Aug 2026 19:01:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
