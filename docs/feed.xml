@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 21 Aug 2026 10:39:52 +0200</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 11:19:00 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Rekordowe temperatury w europejskich morzach. Badacze alarmują</title>
+<link>https://zero.pl/news/woda-w-morzu-srodziemnym-miala-33-stopnie-naukowcy-ujawniaja-nowy-raport</link>
+<guid isPermaLink="true">https://zero.pl/news/woda-w-morzu-srodziemnym-miala-33-stopnie-naukowcy-ujawniaja-nowy-raport</guid>
+<category>Nauka</category>
+<description>Nauka — Agnieszka Waś-Turecka</description>
+<pubDate>Fri, 21 Aug 2026 11:08:00 +0200</pubDate>
+</item>
+<item>
+<title>Rozwój Plus może zagłosować za częścią propozycji Tuska. Ale ma swoją alternatywę</title>
+<link>https://zero.pl/news/rozwoj-plus-z-propozycja-zmian-podatkowych-co-planuje-stowarzyszenie-mateusza-morawieckiego</link>
+<guid isPermaLink="true">https://zero.pl/news/rozwoj-plus-z-propozycja-zmian-podatkowych-co-planuje-stowarzyszenie-mateusza-morawieckiego</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Fri, 21 Aug 2026 10:58:00 +0200</pubDate>
+</item>
 <item>
 <title>Raport o Marce Polska zniknął ze strony think tanku. Publikujemy go na Zero.pl</title>
 <link>https://zero.pl/news/polakow-portret-wlasny-raport-z-badan-dna-marki-polska-publikujemy-calosc-dokumentu-pobierz-go-na-zero-pl</link>
@@ -1190,22 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Michał Bruszewski</description>
 <pubDate>Mon, 17 Aug 2026 20:32:00 +0200</pubDate>
-</item>
-<item>
-<title>Trochę straszny, trochę śmieszny. Jan Frycz był większy niż polskie kino</title>
-<link>https://zero.pl/news/zmarl-jan-frycz-to-dzieki-niemu-slepnac-od-swiatel-i-pozegnanie-jesieni-weszly-do-klasyki-kina-i-telewizji</link>
-<guid isPermaLink="true">https://zero.pl/news/zmarl-jan-frycz-to-dzieki-niemu-slepnac-od-swiatel-i-pozegnanie-jesieni-weszly-do-klasyki-kina-i-telewizji</guid>
-<category>Kultura</category>
-<description>Kultura — Michał Walkiewicz</description>
-<pubDate>Mon, 17 Aug 2026 20:05:00 +0200</pubDate>
-</item>
-<item>
-<title>Kłopoty na początku, potem dominacja. Kolejna wygrana Świątek</title>
-<link>https://zero.pl/news/swiatek-w-cincinnati-kolejna-wygrana-polki-w-tysieczniku</link>
-<guid isPermaLink="true">https://zero.pl/news/swiatek-w-cincinnati-kolejna-wygrana-polki-w-tysieczniku</guid>
-<category>Świat</category>
-<description>Świat — Paweł Żurek</description>
-<pubDate>Mon, 17 Aug 2026 19:56:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
