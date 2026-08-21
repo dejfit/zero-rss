@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 21 Aug 2026 17:43:50 +0200</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 18:05:14 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Ukraina przeprowadzi wybory w czasie wojny? „Podskórna rywalizacja trwa”</title>
+<link>https://zero.pl/news/wybory-w-ukrainie-w-czasie-wojny-eksperci-osw-i-pism-brak-woli-i-realnych-szans</link>
+<guid isPermaLink="true">https://zero.pl/news/wybory-w-ukrainie-w-czasie-wojny-eksperci-osw-i-pism-brak-woli-i-realnych-szans</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Fri, 21 Aug 2026 18:02:00 +0200</pubDate>
+</item>
 <item>
 <title>Ramówka Zero TV na poniedziałek 24 sierpnia. Ground Zero o 20</title>
 <link>https://zero.pl/news/ramowka-zero-tv-na-poniedzialek-24-sierpnia-ground-zero-o-20</link>
@@ -1198,14 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Agnieszka Waś-Turecka</description>
 <pubDate>Tue, 18 Aug 2026 13:38:00 +0200</pubDate>
-</item>
-<item>
-<title>Jest stanowisko prokuratora ws. Marcina Romanowskiego. Wydano komunikat</title>
-<link>https://zero.pl/news/jest-stanowisko-prokuratora-ws-marcina-romanowskiego-wydano-komunikat</link>
-<guid isPermaLink="true">https://zero.pl/news/jest-stanowisko-prokuratora-ws-marcina-romanowskiego-wydano-komunikat</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 18 Aug 2026 12:55:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
