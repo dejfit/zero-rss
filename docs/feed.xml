@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 21 Aug 2026 05:43:07 +0200</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 06:24:20 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Robert Lewandowski kończy 38 lat. Oto jego największe piłkarskie sukcesy</title>
+<link>https://zero.pl/news/robert-lewandowski-ma-38-urodziny-trofea-rekordy-i-kariera-legendy-polskiej-pilki</link>
+<guid isPermaLink="true">https://zero.pl/news/robert-lewandowski-ma-38-urodziny-trofea-rekordy-i-kariera-legendy-polskiej-pilki</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Fri, 21 Aug 2026 05:56:00 +0200</pubDate>
+</item>
+<item>
+<title>Cieszyńskie ciasteczka, hoczki i kofola. Tak dorastało się na pograniczu</title>
+<link>https://zero.pl/news/polska-od-srodka-slask-cieszynski-tradycje-gwara-i-zaolzie</link>
+<guid isPermaLink="true">https://zero.pl/news/polska-od-srodka-slask-cieszynski-tradycje-gwara-i-zaolzie</guid>
+<category>Kraj</category>
+<description>Kraj — Aleksandra Cieślik</description>
+<pubDate>Fri, 21 Aug 2026 05:55:00 +0200</pubDate>
+</item>
+<item>
+<title>Propozycje rządu uderzają w firmy? „Podatkowe dyskryminowanie”</title>
+<link>https://zero.pl/news/zmiany-w-podatkach-uderza-w-firmy-propozycje-rzadu-niepokoja-przedsiebiorcow</link>
+<guid isPermaLink="true">https://zero.pl/news/zmiany-w-podatkach-uderza-w-firmy-propozycje-rzadu-niepokoja-przedsiebiorcow</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Fri, 21 Aug 2026 05:55:00 +0200</pubDate>
+</item>
+<item>
+<title>Meta puszcza reklamy oszustów, Polska płaci za sprzątanie</title>
+<link>https://zero.pl/news/meta-facebook-i-oszukancze-reklamy-uokik-wydaje-550-tys-zl-rocznie</link>
+<guid isPermaLink="true">https://zero.pl/news/meta-facebook-i-oszukancze-reklamy-uokik-wydaje-550-tys-zl-rocznie</guid>
+<category>Kraj</category>
+<description>Kraj — Jakub Styczyński,Anna Wittenberg</description>
+<pubDate>Fri, 21 Aug 2026 05:54:00 +0200</pubDate>
+</item>
 <item>
 <title>Szybki awans Igi Świątek do półfinału w Cincinnati. Rywalka Polki miała problemy</title>
 <link>https://zero.pl/news/szybki-awans-igi-swiatek-do-polfinalu-w-cincinnati-rywalka-polki-miala-problemy</link>
@@ -1174,38 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Mon, 17 Aug 2026 17:21:00 +0200</pubDate>
-</item>
-<item>
-<title>Jan Frycz nie żyje. Za te role pokochali go widzowie</title>
-<link>https://zero.pl/news/jan-frycz-nie-zyje-wybitny-aktor-teatralny-i-filmowy-zmarl-w-wieku-72-lat</link>
-<guid isPermaLink="true">https://zero.pl/news/jan-frycz-nie-zyje-wybitny-aktor-teatralny-i-filmowy-zmarl-w-wieku-72-lat</guid>
-<category>Kultura</category>
-<description>Kultura — Tomasz Pałasz</description>
-<pubDate>Mon, 17 Aug 2026 17:08:00 +0200</pubDate>
-</item>
-<item>
-<title>Wzruszające pożegnanie Frycza. „Byłem pewien, że spotkamy się jeszcze wielokrotnie”</title>
-<link>https://zero.pl/news/jan-frycz-nie-zyje-wybitny-aktor-zegnany-przez-ludzi-kina-i-polityki</link>
-<guid isPermaLink="true">https://zero.pl/news/jan-frycz-nie-zyje-wybitny-aktor-zegnany-przez-ludzi-kina-i-polityki</guid>
-<category>Kultura</category>
-<description>Kultura — Paweł Żurek</description>
-<pubDate>Mon, 17 Aug 2026 16:47:00 +0200</pubDate>
-</item>
-<item>
-<title>„Prawa ręka” Tuska chce do TK. Jest potwierdzenie z Sejmu</title>
-<link>https://zero.pl/news/maciej-berek-kandydatem-do-trybunalu-konstytucyjnego-jest-oficjalny-wniosek</link>
-<guid isPermaLink="true">https://zero.pl/news/maciej-berek-kandydatem-do-trybunalu-konstytucyjnego-jest-oficjalny-wniosek</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Mon, 17 Aug 2026 16:36:00 +0200</pubDate>
-</item>
-<item>
-<title>Google przygotował dużo nowych funkcji AI. Większości nie zobaczymy w Unii Europejskiej</title>
-<link>https://zero.pl/news/duzo-nowych-funkcji-ai-google-nie-trafi-do-unii-europejskiej-kabaret-unijnych-przepisow</link>
-<guid isPermaLink="true">https://zero.pl/news/duzo-nowych-funkcji-ai-google-nie-trafi-do-unii-europejskiej-kabaret-unijnych-przepisow</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Mon, 17 Aug 2026 16:05:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
