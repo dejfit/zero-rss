@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 21 Aug 2026 15:05:53 +0200</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 15:54:07 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>USA zmieniają nazwę lotniskowca. Miał uczcić czarnoskórego bohatera, teraz rozważają Trumpa</title>
+<link>https://zero.pl/news/uss-doris-miller-marynarka-usa-zmienia-nazwe-lotniskowca-spor-o-hold-dla-trumpa</link>
+<guid isPermaLink="true">https://zero.pl/news/uss-doris-miller-marynarka-usa-zmienia-nazwe-lotniskowca-spor-o-hold-dla-trumpa</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Fri, 21 Aug 2026 15:48:00 +0200</pubDate>
+</item>
+<item>
+<title>Zarzuty w „ilościach hurtowych”. Żurek komentuje decyzje prokuratury w sprawie Brauna</title>
+<link>https://zero.pl/news/zarzuty-dla-grzegorza-brauna-europosel-jest-podejrzany-o-popelnienie-czterech-przestepstw</link>
+<guid isPermaLink="true">https://zero.pl/news/zarzuty-dla-grzegorza-brauna-europosel-jest-podejrzany-o-popelnienie-czterech-przestepstw</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 21 Aug 2026 15:29:00 +0200</pubDate>
+</item>
+<item>
+<title>Numer PESEL można zastrzec w telefonie. Co nam daje taka możliwość?</title>
+<link>https://zero.pl/news/numer-pesel-mozna-zastrzec-w-telefonie-co-nam-daje-taka-mozliwosc</link>
+<guid isPermaLink="true">https://zero.pl/news/numer-pesel-mozna-zastrzec-w-telefonie-co-nam-daje-taka-mozliwosc</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Fri, 21 Aug 2026 15:16:00 +0200</pubDate>
+</item>
+<item>
+<title>Koalicja Obywatelska nie radzi sobie z kolejną aferą? „To nie strategia, to czysty chaos”</title>
+<link>https://zero.pl/news/afera-wokol-raportu-marka-polska-ekspert-ocenia-dzialania-rzadu</link>
+<guid isPermaLink="true">https://zero.pl/news/afera-wokol-raportu-marka-polska-ekspert-ocenia-dzialania-rzadu</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Fri, 21 Aug 2026 15:05:00 +0200</pubDate>
+</item>
 <item>
 <title>Prokuratura chce kopii raportu „Polaków portret własny”. Śledczy wydali komunikat</title>
 <link>https://zero.pl/news/polakow-portret-wlasny-prokuratura-chce-kopii-raportu-jest-komunikat</link>
@@ -1174,38 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Agnieszka Waś-Turecka</description>
 <pubDate>Tue, 18 Aug 2026 10:06:00 +0200</pubDate>
-</item>
-<item>
-<title>Oni powalczą o prezydenturę w Krakowie. Zgłoszono 24 komitety</title>
-<link>https://zero.pl/news/wybory-na-prezydenta-krakowa-te-komitety-zostaly-zgloszone</link>
-<guid isPermaLink="true">https://zero.pl/news/wybory-na-prezydenta-krakowa-te-komitety-zostaly-zgloszone</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Tue, 18 Aug 2026 09:26:00 +0200</pubDate>
-</item>
-<item>
-<title>Ponad 600 dronów nad Moskwą. Zmasowany atak Ukrainy</title>
-<link>https://zero.pl/news/atak-ukrainskich-dronow-pod-moskwa-pozar-w-magazynie-firmy-wildberries</link>
-<guid isPermaLink="true">https://zero.pl/news/atak-ukrainskich-dronow-pod-moskwa-pozar-w-magazynie-firmy-wildberries</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 18 Aug 2026 08:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Idą spore zmiany w dyskontach. Szukaj czarnych ramek podczas zakupów</title>
-<link>https://zero.pl/news/rewolucja-na-sklepowych-polkach-opakowania-przejda-spora-zmiane</link>
-<guid isPermaLink="true">https://zero.pl/news/rewolucja-na-sklepowych-polkach-opakowania-przejda-spora-zmiane</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Tue, 18 Aug 2026 08:20:00 +0200</pubDate>
-</item>
-<item>
-<title>„Zostałem potrącony przez tę bestię”. Włoskie miasto zakazuje rowerów</title>
-<link>https://zero.pl/news/zakaz-jazdy-rowerem-w-centrum-como-burmistrz-podjal-decyzje-po-wypadku</link>
-<guid isPermaLink="true">https://zero.pl/news/zakaz-jazdy-rowerem-w-centrum-como-burmistrz-podjal-decyzje-po-wypadku</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 18 Aug 2026 08:05:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
