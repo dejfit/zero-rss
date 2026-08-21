@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 21 Aug 2026 09:11:01 +0200</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 09:59:01 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>„Nie powinien ujrzeć światła dziennego”. Szejna mówi o raporcie „Polaków portret własny”</title>
+<link>https://zero.pl/news/marka-polska-polityk-lewicy-szczerze-o-raporcie-nie-powinien-ujrzec-swiatla-dziennego</link>
+<guid isPermaLink="true">https://zero.pl/news/marka-polska-polityk-lewicy-szczerze-o-raporcie-nie-powinien-ujrzec-swiatla-dziennego</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Fri, 21 Aug 2026 09:55:00 +0200</pubDate>
+</item>
+<item>
+<title>Ukrainie brakuje pocisków do Patriotów. Media: Zełenski chce skorzystać z systemu Muska</title>
+<link>https://zero.pl/news/wojna-na-ukrainie-ukrainie-brakuje-waznej-amunicji-zelenski-prosi-muska-o-pomoc</link>
+<guid isPermaLink="true">https://zero.pl/news/wojna-na-ukrainie-ukrainie-brakuje-waznej-amunicji-zelenski-prosi-muska-o-pomoc</guid>
+<category>Wojsko</category>
+<description>Wojsko — Paweł Żurek</description>
+<pubDate>Fri, 21 Aug 2026 09:35:00 +0200</pubDate>
+</item>
 <item>
 <title>Miał planować zamach na czołowych polskich polityków. 23-latek zatrzymany</title>
 <link>https://zero.pl/news/mial-planowac-zamach-na-czolowych-polskich-politykow-23-latek-zatrzymany</link>
@@ -1190,22 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Mon, 17 Aug 2026 19:01:00 +0200</pubDate>
-</item>
-<item>
-<title>„Nie zauważył grupy 30 osób z kamerami”. Kto pomaga poszkodowanym na Węgrzech?</title>
-<link>https://zero.pl/news/wypadek-polskiego-autokaru-na-wegrzech-rodziny-poszkodowanych-mowia-o-chaosie-informacyjnym</link>
-<guid isPermaLink="true">https://zero.pl/news/wypadek-polskiego-autokaru-na-wegrzech-rodziny-poszkodowanych-mowia-o-chaosie-informacyjnym</guid>
-<category>Świat</category>
-<description>Świat — Joanna Pinkwart</description>
-<pubDate>Mon, 17 Aug 2026 18:33:00 +0200</pubDate>
-</item>
-<item>
-<title>250 dni na morzu. Co naprawdę działo się na USS Abraham Lincoln?</title>
-<link>https://zero.pl/news/uss-abraham-lincoln-wraca-do-usa-250-dni-na-morzu-i-problemy-zalogi</link>
-<guid isPermaLink="true">https://zero.pl/news/uss-abraham-lincoln-wraca-do-usa-250-dni-na-morzu-i-problemy-zalogi</guid>
-<category>Wojsko</category>
-<description>Wojsko — Przemysław Staciwa</description>
-<pubDate>Mon, 17 Aug 2026 18:21:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
