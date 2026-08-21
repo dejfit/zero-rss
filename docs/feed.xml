@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 21 Aug 2026 13:17:50 +0200</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 13:45:44 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Izrael rozmywa sprawę śmierci Damiana Sobóla. Zychowicz: Polski MSZ jest za miękki</title>
+<link>https://zero.pl/news/zychowicz-polski-msz-jest-za-miekki-a-izraelska-armia-zdemoralizowana-sprawa-smierci-damiana-sobola</link>
+<guid isPermaLink="true">https://zero.pl/news/zychowicz-polski-msz-jest-za-miekki-a-izraelska-armia-zdemoralizowana-sprawa-smierci-damiana-sobola</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Fri, 21 Aug 2026 13:33:00 +0200</pubDate>
+</item>
 <item>
 <title>Polska z kolejnymi samolotami F-35. Interpelacja posła Błaszczaka, MON daje jasną odpowiedź</title>
 <link>https://zero.pl/news/polska-z-kolejnymi-samolotami-f-35-interpelacja-posla-blaszczaka-mon-potwierdza</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Agnieszka Waś-Turecka</description>
 <pubDate>Tue, 18 Aug 2026 06:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Parkingowa patologia pod szpitalami. Zgaduj, ile będziesz w szpitalu, albo płać karę</title>
-<link>https://zero.pl/news/parkingi-pod-szpitalami-naciagaja-ludzi-na-oplaty-masz-wiedziec-ile-bedziesz-w-szpitalu</link>
-<guid isPermaLink="true">https://zero.pl/news/parkingi-pod-szpitalami-naciagaja-ludzi-na-oplaty-masz-wiedziec-ile-bedziesz-w-szpitalu</guid>
-<category>Moto</category>
-<description>Moto — Tymon Grabowski</description>
-<pubDate>Tue, 18 Aug 2026 06:03:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
