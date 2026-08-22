@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 21:37:16 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 21:52:54 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Zieliński z golem na start Serie A. Inter efektownie rozpoczął sezon</title>
+<link>https://zero.pl/news/piotr-zielinski-z-golem-dla-interu-mediolanianie-wygrali-41-z-monza</link>
+<guid isPermaLink="true">https://zero.pl/news/piotr-zielinski-z-golem-dla-interu-mediolanianie-wygrali-41-z-monza</guid>
+<category>Świat</category>
+<description>Świat — Filip Baczkura</description>
+<pubDate>Sat, 22 Aug 2026 21:45:00 +0200</pubDate>
+</item>
 <item>
 <title>Kraków: 36-latek zmarł po brutalnym pobiciu. Policja zatrzymała dziewięć osób</title>
 <link>https://zero.pl/news/nowa-huta-w-krakowie-smierc-36-latka-policja-szuka-swiadkow</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura</description>
 <pubDate>Wed, 19 Aug 2026 16:01:00 +0200</pubDate>
-</item>
-<item>
-<title>Po ośmiu latach zamknęli restaurację Arkadiusza Milika. Została kartonowa podobizna piłkarza</title>
-<link>https://zero.pl/news/foodball-arkadiusza-milika-zamkniete-restauracja-znika-z-galerii-libero</link>
-<guid isPermaLink="true">https://zero.pl/news/foodball-arkadiusza-milika-zamkniete-restauracja-znika-z-galerii-libero</guid>
-<category>Biznes</category>
-<description>Biznes — Bartosz Michalski</description>
-<pubDate>Wed, 19 Aug 2026 15:55:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
