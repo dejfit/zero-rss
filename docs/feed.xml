@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 19:31:05 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 19:53:22 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Edward Warchocki nie był pierwszy, ale tylko w Polsce tak głupio do niego podchodzimy</title>
+<link>https://zero.pl/news/edward-warchocki-to-nie-jedyny-robot-influencer-tylko-w-polsce-wykracza-poza-rozrywke</link>
+<guid isPermaLink="true">https://zero.pl/news/edward-warchocki-to-nie-jedyny-robot-influencer-tylko-w-polsce-wykracza-poza-rozrywke</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Sat, 22 Aug 2026 19:47:00 +0200</pubDate>
+</item>
+<item>
+<title>Miał potężny połów karasia. Nagle pojawili się policjanci</title>
+<link>https://zero.pl/news/klusownik-zatrzymany-na-zbiorniku-krzczen-policjanci-zabezpieczyli-35-kg-ryb</link>
+<guid isPermaLink="true">https://zero.pl/news/klusownik-zatrzymany-na-zbiorniku-krzczen-policjanci-zabezpieczyli-35-kg-ryb</guid>
+<category>Kraj</category>
+<description>Kraj — Filip Baczkura</description>
+<pubDate>Sat, 22 Aug 2026 19:34:00 +0200</pubDate>
+</item>
 <item>
 <title>Korea wysłała statek do Europy przez Arktykę. Po drodze Gdańsk</title>
 <link>https://zero.pl/news/korea-poludniowa-wyslala-kontenerowiec-przez-arktyke-statek-przyplynie-do-gdanska</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Piotr Białczyk</description>
 <pubDate>Wed, 19 Aug 2026 13:40:00 +0200</pubDate>
-</item>
-<item>
-<title>Ukraińska afera korupcyjna. Sprawdzają ludzi Zełenskiego</title>
-<link>https://zero.pl/news/nowe-sledztwo-ws-korupcji-w-ukrainie-urzednicy-zelenskiego-pod-lupa-nabu-i-sap</link>
-<guid isPermaLink="true">https://zero.pl/news/nowe-sledztwo-ws-korupcji-w-ukrainie-urzednicy-zelenskiego-pod-lupa-nabu-i-sap</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Wed, 19 Aug 2026 12:58:00 +0200</pubDate>
-</item>
-<item>
-<title>Premier zapowiada zmiany podatkowe. Padła deklaracja ws. drugiego progu</title>
-<link>https://zero.pl/news/drugi-prog-podatkowy-do-zmiany-donald-tusk-sklada-obietnice</link>
-<guid isPermaLink="true">https://zero.pl/news/drugi-prog-podatkowy-do-zmiany-donald-tusk-sklada-obietnice</guid>
-<category>Biznes</category>
-<description>Biznes — Piotr Białczyk</description>
-<pubDate>Wed, 19 Aug 2026 12:07:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
