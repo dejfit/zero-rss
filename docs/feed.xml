@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 07:22:43 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 07:51:05 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Wyciek z GTA VI. Sąd będzie ścigał hakera, który pokazał wideo z gry</title>
+<link>https://zero.pl/news/wyciek-z-gta-vi-sad-bedzie-scigal-hakera-ktory-pokazal-wideo-z-gry</link>
+<guid isPermaLink="true">https://zero.pl/news/wyciek-z-gta-vi-sad-bedzie-scigal-hakera-ktory-pokazal-wideo-z-gry</guid>
+<category>Technologia</category>
+<description>Technologia — Paweł Żurek</description>
+<pubDate>Sat, 22 Aug 2026 07:40:00 +0200</pubDate>
+</item>
+<item>
+<title>Zaćmienie Księżyca 2026. Kiedy i gdzie je zobaczyć w Polsce?</title>
+<link>https://zero.pl/news/zacmienie-ksiezyca-2026-kiedy-i-gdzie-je-zobaczyc-w-polsce</link>
+<guid isPermaLink="true">https://zero.pl/news/zacmienie-ksiezyca-2026-kiedy-i-gdzie-je-zobaczyc-w-polsce</guid>
+<category>Nauka</category>
+<description>Nauka — Tomasz Pałasz</description>
+<pubDate>Sat, 22 Aug 2026 07:38:00 +0200</pubDate>
+</item>
 <item>
 <title>Agencja podała rating Polski. Znamy prognozy deficytu i PKB</title>
 <link>https://zero.pl/news/agencja-podala-rating-polski-znamy-prognozy-deficytu-i-pkb</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura</description>
 <pubDate>Tue, 18 Aug 2026 18:22:00 +0200</pubDate>
-</item>
-<item>
-<title>Pożar niedaleko Morskiego Oka. Strażacy desantowali się ze śmigłowca TOPR</title>
-<link>https://zero.pl/news/tatry-pozar-niedaleko-morskiego-oka-strazacy-desantowali-sie-ze-smiglowca</link>
-<guid isPermaLink="true">https://zero.pl/news/tatry-pozar-niedaleko-morskiego-oka-strazacy-desantowali-sie-ze-smiglowca</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Tue, 18 Aug 2026 18:12:00 +0200</pubDate>
-</item>
-<item>
-<title>Jednoczesny atak Chin i Rosji. Media o koszmarnym scenariuszu dla NATO</title>
-<link>https://zero.pl/news/the-atlantic-chinski-atak-na-tajwan-rosyjski-na-nato-koszmarny-scenariusz</link>
-<guid isPermaLink="true">https://zero.pl/news/the-atlantic-chinski-atak-na-tajwan-rosyjski-na-nato-koszmarny-scenariusz</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Tue, 18 Aug 2026 17:52:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
