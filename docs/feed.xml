@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 12:42:09 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 13:00:46 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Trwa drugi dzień Letniej Trasy Kanału Zero. Oto harmonogram imprezy</title>
+<link>https://zero.pl/news/trwa-drugi-dzien-letniej-trasy-kanalu-zero-oto-harmonogram-imprezy</link>
+<guid isPermaLink="true">https://zero.pl/news/trwa-drugi-dzien-letniej-trasy-kanalu-zero-oto-harmonogram-imprezy</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Sat, 22 Aug 2026 12:42:00 +0200</pubDate>
+</item>
+<item>
+<title>Rzecznik KRASP o Barbarze Mróz-Gorgoń. "Jest winna przeprosiny środowisku akademickiemu"</title>
+<link>https://zero.pl/news/rzecznik-krasp-o-barbarze-mroz-gorgon-jest-winna-przeprosiny-srodowisku-akademickiemu</link>
+<guid isPermaLink="true">https://zero.pl/news/rzecznik-krasp-o-barbarze-mroz-gorgon-jest-winna-przeprosiny-srodowisku-akademickiemu</guid>
+<category>Kraj</category>
+<description>Kraj — Wojciech Dąbrówka</description>
+<pubDate>Sat, 22 Aug 2026 12:41:00 +0200</pubDate>
+</item>
 <item>
 <title>Pierwsze zwolnienie w tym sezonie Ekstraklasy. Wieczysta pożegnała trenera</title>
 <link>https://zero.pl/news/pierwsze-zwolnienie-w-tym-sezonie-ekstraklasy-wieczysta-pozegnala-trenera</link>
@@ -1190,22 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Wojciech J. Kittel</description>
 <pubDate>Wed, 19 Aug 2026 05:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Lewandowski i Chicago Fire ruszają w trudną trasę. Cztery mecze na wyjeździe</title>
-<link>https://zero.pl/news/lewandowski-cztery-mecze-wyjazdowe-chicago-fire-zagra-z-orlando-rbny-seattle-toronto</link>
-<guid isPermaLink="true">https://zero.pl/news/lewandowski-cztery-mecze-wyjazdowe-chicago-fire-zagra-z-orlando-rbny-seattle-toronto</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Wed, 19 Aug 2026 05:49:00 +0200</pubDate>
-</item>
-<item>
-<title>Kontrowersyjny raper z USA zagra w Rosji. Możliwe spotkanie z Putinem</title>
-<link>https://zero.pl/news/kanye-west-wystapi-w-rosji-moze-spotkac-sie-z-putinem</link>
-<guid isPermaLink="true">https://zero.pl/news/kanye-west-wystapi-w-rosji-moze-spotkac-sie-z-putinem</guid>
-<category>Kultura</category>
-<description>Kultura — Kamil Szałecki</description>
-<pubDate>Tue, 18 Aug 2026 21:45:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
