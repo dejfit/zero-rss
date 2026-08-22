@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 19:01:04 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 19:31:05 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Korea wysłała statek do Europy przez Arktykę. Po drodze Gdańsk</title>
+<link>https://zero.pl/news/korea-poludniowa-wyslala-kontenerowiec-przez-arktyke-statek-przyplynie-do-gdanska</link>
+<guid isPermaLink="true">https://zero.pl/news/korea-poludniowa-wyslala-kontenerowiec-przez-arktyke-statek-przyplynie-do-gdanska</guid>
+<category>Biznes</category>
+<description>Biznes — Filip Baczkura</description>
+<pubDate>Sat, 22 Aug 2026 19:05:00 +0200</pubDate>
+</item>
 <item>
 <title>Zostawił dziecko samo na Fudżi. Chłopiec czekał kilka godzin na szlaku</title>
 <link>https://zero.pl/news/ojciec-zostawil-7-letniego-syna-na-fudzi-dziecko-znaleziono-na-wysokosci-ponad-2-tys-m</link>
@@ -1198,14 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Piotr Białczyk</description>
 <pubDate>Wed, 19 Aug 2026 12:07:00 +0200</pubDate>
-</item>
-<item>
-<title>TikTokowa afera o pendrive 4w1. Chiński sprzęt okazał się złomem</title>
-<link>https://zero.pl/news/tiktokowa-afera-o-pendrive-4w1-chinski-sprzet-okazal-zlomem</link>
-<guid isPermaLink="true">https://zero.pl/news/tiktokowa-afera-o-pendrive-4w1-chinski-sprzet-okazal-zlomem</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Wed, 19 Aug 2026 11:33:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
