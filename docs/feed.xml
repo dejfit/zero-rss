@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 21:12:09 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 21:37:16 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Kraków: 36-latek zmarł po brutalnym pobiciu. Policja zatrzymała dziewięć osób</title>
+<link>https://zero.pl/news/nowa-huta-w-krakowie-smierc-36-latka-policja-szuka-swiadkow</link>
+<guid isPermaLink="true">https://zero.pl/news/nowa-huta-w-krakowie-smierc-36-latka-policja-szuka-swiadkow</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Sat, 22 Aug 2026 21:18:00 +0200</pubDate>
+</item>
 <item>
 <title>Auto wjechało w pieszych na krakowskim Podgórzu. Dwie osoby zmarły</title>
 <link>https://zero.pl/news/auto-wjechalo-w-pieszych-na-krakowskim-podgorzu-dwie-osoby-zmarly</link>
@@ -1198,14 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Bartosz Michalski</description>
 <pubDate>Wed, 19 Aug 2026 15:55:00 +0200</pubDate>
-</item>
-<item>
-<title>Pałac Prezydencki reaguje na plan premiera. „Chce jeszcze bardziej skomplikować podatki”</title>
-<link>https://zero.pl/news/prezydent-reaguje-na-plan-premiera-szefernaker-krytykuje-zmiany-podatkowe</link>
-<guid isPermaLink="true">https://zero.pl/news/prezydent-reaguje-na-plan-premiera-szefernaker-krytykuje-zmiany-podatkowe</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Wed, 19 Aug 2026 15:45:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
