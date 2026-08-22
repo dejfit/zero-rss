@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 11:36:57 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 11:55:17 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Pierwsze zwolnienie w tym sezonie Ekstraklasy. Wieczysta pożegnała trenera</title>
+<link>https://zero.pl/news/pierwsze-zwolnienie-w-tym-sezonie-ekstraklasy-wieczysta-pozegnala-trenera</link>
+<guid isPermaLink="true">https://zero.pl/news/pierwsze-zwolnienie-w-tym-sezonie-ekstraklasy-wieczysta-pozegnala-trenera</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Sat, 22 Aug 2026 11:36:00 +0200</pubDate>
+</item>
 <item>
 <title>Iran zrobił wyjątek. Otworzył cieśninę Ormuz dla jednego kraju</title>
 <link>https://zero.pl/news/iran-zrobil-wyjatek-otworzyl-ciesnine-ormuz-dla-jednego-kraju</link>
@@ -1198,14 +1206,6 @@
 <category>Kultura</category>
 <description>Kultura — Kamil Szałecki</description>
 <pubDate>Tue, 18 Aug 2026 21:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Tragedia na Węgrzech. Papież modli się za Polaków</title>
-<link>https://zero.pl/news/tragedia-na-wegrzech-papiez-modli-sie-za-polakow</link>
-<guid isPermaLink="true">https://zero.pl/news/tragedia-na-wegrzech-papiez-modli-sie-za-polakow</guid>
-<category>Świat</category>
-<description>Świat — Kamil Szałecki</description>
-<pubDate>Tue, 18 Aug 2026 21:36:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
