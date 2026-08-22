@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 20:16:07 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 20:50:26 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Panoptikum w Lesznowoli. 21 tys. metrów kwadratowych dla polskich skarbów</title>
+<link>https://zero.pl/news/panoptikum-lesznowola-centrum-kompetencji-dla-muzeow-21-tys-m-kw-dla-polskich-skarbow</link>
+<guid isPermaLink="true">https://zero.pl/news/panoptikum-lesznowola-centrum-kompetencji-dla-muzeow-21-tys-m-kw-dla-polskich-skarbow</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Sat, 22 Aug 2026 20:32:00 +0200</pubDate>
+</item>
 <item>
 <title>Siatkarki rozbiły Węgry 3:0 na start Mistrzostw Europy</title>
 <link>https://zero.pl/news/polska-wegry-30-wynik-meczu-siatkarek-na-start-me-2026</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura</description>
 <pubDate>Wed, 19 Aug 2026 15:05:00 +0200</pubDate>
-</item>
-<item>
-<title>Tragedia w Darłówku. Ksiądz utonął, śledczy sprawdzają czerwoną flagę</title>
-<link>https://zero.pl/news/ksiadz-utonal-w-darlowku-czy-na-plazy-byla-czerwona-flaga</link>
-<guid isPermaLink="true">https://zero.pl/news/ksiadz-utonal-w-darlowku-czy-na-plazy-byla-czerwona-flaga</guid>
-<category>Kraj</category>
-<description>Kraj — Bartosz Michalski</description>
-<pubDate>Wed, 19 Aug 2026 14:50:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
