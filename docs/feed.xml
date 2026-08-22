@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 20:50:26 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 21:12:09 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Auto wjechało w pieszych na krakowskim Podgórzu. Dwie osoby zmarły</title>
+<link>https://zero.pl/news/auto-wjechalo-w-pieszych-na-krakowskim-podgorzu-dwie-osoby-zmarly</link>
+<guid isPermaLink="true">https://zero.pl/news/auto-wjechalo-w-pieszych-na-krakowskim-podgorzu-dwie-osoby-zmarly</guid>
+<category>Kraj</category>
+<description>Kraj — Filip Baczkura</description>
+<pubDate>Sat, 22 Aug 2026 20:39:00 +0200</pubDate>
+</item>
 <item>
 <title>Panoptikum w Lesznowoli. 21 tys. metrów kwadratowych dla polskich skarbów</title>
 <link>https://zero.pl/news/panoptikum-lesznowola-centrum-kompetencji-dla-muzeow-21-tys-m-kw-dla-polskich-skarbow</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura</description>
 <pubDate>Wed, 19 Aug 2026 15:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Stuu z zarzutami po aferze Pandora Gate. Nie przyznał się, odmówił wyjaśnień</title>
-<link>https://zero.pl/news/stuu-uslyszal-zarzuty-nie-przyznal-sie-odmowil-wyjasnien</link>
-<guid isPermaLink="true">https://zero.pl/news/stuu-uslyszal-zarzuty-nie-przyznal-sie-odmowil-wyjasnien</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Wed, 19 Aug 2026 15:05:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
