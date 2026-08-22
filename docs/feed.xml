@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 09:41:33 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 10:02:51 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Jak dobrze, że już się kończą! Dlaczego wakacje w Polsce są za długie?</title>
+<link>https://zero.pl/news/dwa-miesiace-wakacji-to-za-duzo-ile-wolnego-powinni-miec-uczniowie-w-polsce</link>
+<guid isPermaLink="true">https://zero.pl/news/dwa-miesiace-wakacji-to-za-duzo-ile-wolnego-powinni-miec-uczniowie-w-polsce</guid>
+<category>Kraj</category>
+<description>Kraj — Jan Wróbel</description>
+<pubDate>Sat, 22 Aug 2026 09:44:00 +0200</pubDate>
+</item>
+<item>
+<title>Nalot policji na domy, mieszkania i hostele. Zatrzymano 78 poszukiwanych</title>
+<link>https://zero.pl/news/nalot-policji-na-domy-mieszkania-i-hostele-zatrzymano-78-poszukiwanych</link>
+<guid isPermaLink="true">https://zero.pl/news/nalot-policji-na-domy-mieszkania-i-hostele-zatrzymano-78-poszukiwanych</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Sat, 22 Aug 2026 09:41:00 +0200</pubDate>
+</item>
 <item>
 <title>Archeolodzy poszukają śladów Bitwy pod Grunwaldem. Rozpoczęto badania</title>
 <link>https://zero.pl/news/archeolodzy-poszukaja-sladow-bitwy-pod-grunwaldem-rozpoczeto-badania</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Kamil Szałecki</description>
 <pubDate>Tue, 18 Aug 2026 20:40:00 +0200</pubDate>
-</item>
-<item>
-<title>Z Warszawy do Krakowa w mniej niż 2 godziny? Podano datę</title>
-<link>https://zero.pl/news/z-warszawy-do-krakowa-w-mniej-niz-2-godziny-podano-date</link>
-<guid isPermaLink="true">https://zero.pl/news/z-warszawy-do-krakowa-w-mniej-niz-2-godziny-podano-date</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Tue, 18 Aug 2026 20:05:00 +0200</pubDate>
-</item>
-<item>
-<title>Profesor Cambridge oskarżony o plagiat nie żyje. „To jest po prostu szaleństwo”</title>
-<link>https://zero.pl/news/jason-arday-nie-zyje-plagiat-cambridge-i-kontrowersje-wokol-profesora</link>
-<guid isPermaLink="true">https://zero.pl/news/jason-arday-nie-zyje-plagiat-cambridge-i-kontrowersje-wokol-profesora</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Tue, 18 Aug 2026 19:39:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
