@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 10:02:51 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 10:42:09 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Nowe umocnienia na granicy Polski. Wojsko podało plany budowy</title>
+<link>https://zero.pl/news/nowe-umocnienia-na-granicy-polski-wojsko-podalo-plany-budowy</link>
+<guid isPermaLink="true">https://zero.pl/news/nowe-umocnienia-na-granicy-polski-wojsko-podalo-plany-budowy</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Sat, 22 Aug 2026 10:04:00 +0200</pubDate>
+</item>
 <item>
 <title>Jak dobrze, że już się kończą! Dlaczego wakacje w Polsce są za długie?</title>
 <link>https://zero.pl/news/dwa-miesiace-wakacji-to-za-duzo-ile-wolnego-powinni-miec-uczniowie-w-polsce</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Tomasz Pałasz</description>
 <pubDate>Tue, 18 Aug 2026 21:03:00 +0200</pubDate>
-</item>
-<item>
-<title>Trump zaprezentował „nowe terytorium USA”. „Mamy całkowitą kontrolę”</title>
-<link>https://zero.pl/news/trump-i-nowe-terytorium-usa-prezydent-zaprezentowal-grafike</link>
-<guid isPermaLink="true">https://zero.pl/news/trump-i-nowe-terytorium-usa-prezydent-zaprezentowal-grafike</guid>
-<category>Świat</category>
-<description>Świat — Kamil Szałecki</description>
-<pubDate>Tue, 18 Aug 2026 20:40:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
