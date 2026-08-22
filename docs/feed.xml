@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 16:40:21 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 16:57:02 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Romanowski w Naddniestrzu. Zapytaliśmy Polaków o przymusowe sprowadzenie posła PiS</title>
+<link>https://zero.pl/news/sondaz-czy-sluzby-powinny-porwac-romanowskiego-polacy-odpowiedzieli</link>
+<guid isPermaLink="true">https://zero.pl/news/sondaz-czy-sluzby-powinny-porwac-romanowskiego-polacy-odpowiedzieli</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Sat, 22 Aug 2026 16:53:00 +0200</pubDate>
+</item>
 <item>
 <title>Janusz Kowalski zagłosował cudzą kartą. Prokuratura wszczęła śledztwo</title>
 <link>https://zero.pl/news/janusz-kowalski-zaglosowal-karta-innego-posla-jest-sledztwo-prokuratury</link>
@@ -1198,14 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Bartosz Michalski</description>
 <pubDate>Wed, 19 Aug 2026 09:57:00 +0200</pubDate>
-</item>
-<item>
-<title>Zwolnił go Zełenski. Teraz były minister obrony Ukrainy chce wyborów</title>
-<link>https://zero.pl/news/fedorow-o-wyborach-w-ukrainie-mimo-wojny-oswiadczenie-bylego-ministra-obrony-ukrainy</link>
-<guid isPermaLink="true">https://zero.pl/news/fedorow-o-wyborach-w-ukrainie-mimo-wojny-oswiadczenie-bylego-ministra-obrony-ukrainy</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Wed, 19 Aug 2026 09:44:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
