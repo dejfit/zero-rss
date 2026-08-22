@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 07:51:05 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 08:23:17 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Rosyjski dron zaatakował cywilów, jest wiele ofiar i rannych. „Na pewno odpowiemy”</title>
+<link>https://zero.pl/news/rosyjski-dron-zaatakowal-cywilow-jest-wiele-ofiar-i-rannych-na-pewno-odpowiemy</link>
+<guid isPermaLink="true">https://zero.pl/news/rosyjski-dron-zaatakowal-cywilow-jest-wiele-ofiar-i-rannych-na-pewno-odpowiemy</guid>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
+<pubDate>Sat, 22 Aug 2026 08:12:00 +0200</pubDate>
+</item>
 <item>
 <title>Wyciek z GTA VI. Sąd będzie ścigał hakera, który pokazał wideo z gry</title>
 <link>https://zero.pl/news/wyciek-z-gta-vi-sad-bedzie-scigal-hakera-ktory-pokazal-wideo-z-gry</link>
@@ -1198,14 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Michał Bruszewski</description>
 <pubDate>Tue, 18 Aug 2026 18:53:00 +0200</pubDate>
-</item>
-<item>
-<title>Poluzowane śruby w aucie prezydent Gdyni. Samochodem jechał jej mąż z trójką dzieci</title>
-<link>https://zero.pl/news/prezydent-gdyni-aleksandra-kosiorek-poluzowane-sruby-w-kolach-auta-sprawa-zajmuje-sie-policja</link>
-<guid isPermaLink="true">https://zero.pl/news/prezydent-gdyni-aleksandra-kosiorek-poluzowane-sruby-w-kolach-auta-sprawa-zajmuje-sie-policja</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Tue, 18 Aug 2026 18:22:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
