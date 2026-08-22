@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 13:31:01 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 13:52:56 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Potężny sum złowiony podczas imprezy w Polsce. Do rekordu zabrakło kilku centymetrów</title>
+<link>https://zero.pl/news/potezny-sum-zlowiony-podczas-imprezy-w-polsce-do-rekordu-zabraklo-kilku-centymetrow</link>
+<guid isPermaLink="true">https://zero.pl/news/potezny-sum-zlowiony-podczas-imprezy-w-polsce-do-rekordu-zabraklo-kilku-centymetrow</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Sat, 22 Aug 2026 13:50:00 +0200</pubDate>
+</item>
+<item>
+<title>Zemsta Ukrainy za masakrę w galerii handlowej. Atak dronów na kilka regionów</title>
+<link>https://zero.pl/news/zemsta-ukrainy-za-masakre-w-galerii-handlowej-atak-dronow-na-kilka-regionow</link>
+<guid isPermaLink="true">https://zero.pl/news/zemsta-ukrainy-za-masakre-w-galerii-handlowej-atak-dronow-na-kilka-regionow</guid>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
+<pubDate>Sat, 22 Aug 2026 13:34:00 +0200</pubDate>
+</item>
 <item>
 <title>Trwa drugi dzień Letniej Trasy Kanału Zero. Oto harmonogram imprezy</title>
 <link>https://zero.pl/news/trwa-drugi-dzien-letniej-trasy-kanalu-zero-oto-harmonogram-imprezy</link>
@@ -1190,22 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Patryk Słowik</description>
 <pubDate>Wed, 19 Aug 2026 05:59:00 +0200</pubDate>
-</item>
-<item>
-<title>Polacy oddają butelki, policja kupuje wodę bez kaucji. Ujawniamy absurd systemu</title>
-<link>https://zero.pl/news/absurd-systemu-kaucyjnego-polacy-biegaja-z-workami-butelek-policja-kupuje-wode-bez-kaucji</link>
-<guid isPermaLink="true">https://zero.pl/news/absurd-systemu-kaucyjnego-polacy-biegaja-z-workami-butelek-policja-kupuje-wode-bez-kaucji</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Wed, 19 Aug 2026 05:57:00 +0200</pubDate>
-</item>
-<item>
-<title>Patrioty nie wystarczą. Kryzys polskiego modelu obrony powietrznej</title>
-<link>https://zero.pl/news/rakiety-patriot-nie-wystarcza-jak-dlugo-polska-moze-bronic-sie-przed-rosja</link>
-<guid isPermaLink="true">https://zero.pl/news/rakiety-patriot-nie-wystarcza-jak-dlugo-polska-moze-bronic-sie-przed-rosja</guid>
-<category>Wojsko</category>
-<description>Wojsko — Wojciech J. Kittel</description>
-<pubDate>Wed, 19 Aug 2026 05:56:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
