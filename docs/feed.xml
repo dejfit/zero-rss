@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 15:05:22 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 15:39:40 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Hakerzy zaatakowali Żabkę, prokuratura reaguje. Co wyciekło?</title>
+<link>https://zero.pl/news/cyberatak-na-zabke-prokuratura-wszczela-postepowanie-nikt-nie-uslyszal-zarzutow</link>
+<guid isPermaLink="true">https://zero.pl/news/cyberatak-na-zabke-prokuratura-wszczela-postepowanie-nikt-nie-uslyszal-zarzutow</guid>
+<category>Biznes</category>
+<description>Biznes — Filip Baczkura</description>
+<pubDate>Sat, 22 Aug 2026 15:38:00 +0200</pubDate>
+</item>
+<item>
+<title>Odeszła z rządu po aferze z raportem. Tak wygląda majątek Barbary Mróz-Gorgoń</title>
+<link>https://zero.pl/news/barbara-mroz-gorgon-majatek-dochody-i-kredyt-co-wynika-z-oswiadczenia</link>
+<guid isPermaLink="true">https://zero.pl/news/barbara-mroz-gorgon-majatek-dochody-i-kredyt-co-wynika-z-oswiadczenia</guid>
+<category>Kraj</category>
+<description>Kraj — Filip Baczkura</description>
+<pubDate>Sat, 22 Aug 2026 15:04:00 +0200</pubDate>
+</item>
 <item>
 <title>System Cell Broadcast zamiast Alertu RCB. Operatorzy czekają na wytyczne</title>
 <link>https://zero.pl/news/alarmy-tylko-przez-alert-rcb-szybkiego-wdrozenia-cell-broadcast-nie-bedzie</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Tomasz Pałasz</description>
 <pubDate>Wed, 19 Aug 2026 07:13:00 +0200</pubDate>
-</item>
-<item>
-<title>Vin Diesel i gwiazdy „Szybkich i wściekłych” świętują 25-lecie kultowej serii</title>
-<link>https://zero.pl/news/vin-diesel-i-gwiazdy-szybkich-i-wscieklych-swietuja-25-lecie-kultowej-serii</link>
-<guid isPermaLink="true">https://zero.pl/news/vin-diesel-i-gwiazdy-szybkich-i-wscieklych-swietuja-25-lecie-kultowej-serii</guid>
-<category>Kultura</category>
-<description>Kultura — Tomasz Pałasz</description>
-<pubDate>Wed, 19 Aug 2026 06:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Ceny paliw znów w górę. W środę drożej za benzynę i diesel</title>
-<link>https://zero.pl/news/ceny-paliw-znow-w-gore-w-srode-drozej-za-benzyne-i-diesel</link>
-<guid isPermaLink="true">https://zero.pl/news/ceny-paliw-znow-w-gore-w-srode-drozej-za-benzyne-i-diesel</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Wed, 19 Aug 2026 06:29:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
