@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 08:23:17 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 09:07:57 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Burze, silny wiatr i gwałtowne wzrosty stanów wody. IMGW wydał ostrzeżenia</title>
+<link>https://zero.pl/news/burze-silny-wiatr-i-gwaltowne-wzrosty-stanow-wody-imgw-wydal-ostrzezenia</link>
+<guid isPermaLink="true">https://zero.pl/news/burze-silny-wiatr-i-gwaltowne-wzrosty-stanow-wody-imgw-wydal-ostrzezenia</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Sat, 22 Aug 2026 08:54:00 +0200</pubDate>
+</item>
 <item>
 <title>Rosyjski dron zaatakował cywilów, jest wiele ofiar i rannych. „Na pewno odpowiemy”</title>
 <link>https://zero.pl/news/rosyjski-dron-zaatakowal-cywilow-jest-wiele-ofiar-i-rannych-na-pewno-odpowiemy</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura</description>
 <pubDate>Tue, 18 Aug 2026 19:17:00 +0200</pubDate>
-</item>
-<item>
-<title>Ponad 600 dronów posłanych na Rosję. Płk Korowaj: Putin nie chce rozejmu</title>
-<link>https://zero.pl/news/wojna-w-ukrainie-ponad-600-dronow-poslanych-na-rosje-plk-korowaj-putin-nie-chce-rozejmu</link>
-<guid isPermaLink="true">https://zero.pl/news/wojna-w-ukrainie-ponad-600-dronow-poslanych-na-rosje-plk-korowaj-putin-nie-chce-rozejmu</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Tue, 18 Aug 2026 18:53:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
