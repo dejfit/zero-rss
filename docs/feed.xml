@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 17:53:15 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 18:13:22 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Nie chcą już sprzedać ci produktu. Masz płacić bez końca</title>
+<link>https://zero.pl/news/wszystko-staje-sie-towarem-milanovic-ostrzega-przed-nowa-faza-kapitalizmu</link>
+<guid isPermaLink="true">https://zero.pl/news/wszystko-staje-sie-towarem-milanovic-ostrzega-przed-nowa-faza-kapitalizmu</guid>
+<category>Kultura</category>
+<description>Kultura — Wydawnictwo Port</description>
+<pubDate>Sat, 22 Aug 2026 18:02:00 +0200</pubDate>
+</item>
 <item>
 <title>„Koniec administracyjnej fikcji”. Nowe zasady dot. małżeństw jednopłciowych</title>
 <link>https://zero.pl/news/malzenstwa-jednoplciowe-od-niedzieli-transkrypcja-zagranicznych-aktow-w-kazdym-usc</link>
@@ -1198,14 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Wed, 19 Aug 2026 11:04:00 +0200</pubDate>
-</item>
-<item>
-<title>Doradca prezydenta krytyczny wobec Brukseli. Uderzył w Sikorskiego i Tuska</title>
-<link>https://zero.pl/news/saryusz-wolski-o-legionie-europejskim-schengen-i-reelekcji-tuska-fikcja</link>
-<guid isPermaLink="true">https://zero.pl/news/saryusz-wolski-o-legionie-europejskim-schengen-i-reelekcji-tuska-fikcja</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Wed, 19 Aug 2026 10:37:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
