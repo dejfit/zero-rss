@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 22 Aug 2026 16:15:23 +0200</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 16:40:21 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Janusz Kowalski zagłosował cudzą kartą. Prokuratura wszczęła śledztwo</title>
+<link>https://zero.pl/news/janusz-kowalski-zaglosowal-karta-innego-posla-jest-sledztwo-prokuratury</link>
+<guid isPermaLink="true">https://zero.pl/news/janusz-kowalski-zaglosowal-karta-innego-posla-jest-sledztwo-prokuratury</guid>
+<category>Kraj</category>
+<description>Kraj — Filip Baczkura</description>
+<pubDate>Sat, 22 Aug 2026 16:36:00 +0200</pubDate>
+</item>
 <item>
 <title>Ronaldinho w Serie C. 46-letni mistrz świata podpisał kontrakt z Ravenną</title>
 <link>https://zero.pl/news/ronaldinho-w-serie-c-46-letni-mistrz-swiata-podpisal-kontrakt-z-ravena</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Tomasz Pałasz</description>
 <pubDate>Wed, 19 Aug 2026 09:44:00 +0200</pubDate>
-</item>
-<item>
-<title>Morawiecki z planem na migracje. Nowe ministerstwo i deportacje</title>
-<link>https://zero.pl/news/piec-filarow-rozwoju-plus-plan-morawieckiego-na-migracje</link>
-<guid isPermaLink="true">https://zero.pl/news/piec-filarow-rozwoju-plus-plan-morawieckiego-na-migracje</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Wed, 19 Aug 2026 08:37:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
