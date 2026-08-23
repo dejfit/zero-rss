@@ -5,7 +5,7 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 23 Aug 2026 10:02:32 +0200</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 10:43:14 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
 <title>Odeszła z rządu po aferze z raportem. Tak wygląda majątek Barbary Mróz-Gorgoń</title>
@@ -14,6 +14,22 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura</description>
 <pubDate>Sun, 23 Aug 2026 15:04:00 +0200</pubDate>
+</item>
+<item>
+<title>Iran wykonał kolejną egzekucję po protestach. Mężczyzna miał współpracować z Izraelem i USA</title>
+<link>https://zero.pl/news/iran-wykonal-kolejna-egzekucje-po-protestach-mezczyzna-mial-wspolpracowac-z-izraelem-i-usa</link>
+<guid isPermaLink="true">https://zero.pl/news/iran-wykonal-kolejna-egzekucje-po-protestach-mezczyzna-mial-wspolpracowac-z-izraelem-i-usa</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Sun, 23 Aug 2026 10:41:00 +0200</pubDate>
+</item>
+<item>
+<title>Wyciek danych z MyDr. Ekspert: skradzione informacje mogą posłużyć do szantażu</title>
+<link>https://zero.pl/news/wyciek-danych-z-mydr-ekspert-ostrzega-przed-oszustwami-i-szantazem</link>
+<guid isPermaLink="true">https://zero.pl/news/wyciek-danych-z-mydr-ekspert-ostrzega-przed-oszustwami-i-szantazem</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Sun, 23 Aug 2026 10:24:00 +0200</pubDate>
 </item>
 <item>
 <title>Na skraju przepaści. Świat na łasce i niełasce kupieckiej mentalności Trumpa</title>
@@ -1190,22 +1206,6 @@
 <category>Moto</category>
 <description>Moto — Piotr Rodzik</description>
 <pubDate>Wed, 19 Aug 2026 18:42:00 +0200</pubDate>
-</item>
-<item>
-<title>Mentzen reaguje na plan Tuska. „Potężne uderzenie w małe firmy”</title>
-<link>https://zero.pl/news/mentzen-krytykuje-zmiany-podatkowe-potezne-uderzenie-w-polskie-male-firmy</link>
-<guid isPermaLink="true">https://zero.pl/news/mentzen-krytykuje-zmiany-podatkowe-potezne-uderzenie-w-polskie-male-firmy</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Wed, 19 Aug 2026 18:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Podatnik syty i Bruksela zadowolona? Rząd próbuje godzić ogień z wodą</title>
-<link>https://zero.pl/news/unijny-rygor-krajowe-obietnice-rzad-przy-reformie-podatkow-szuka-zlotego-srodka</link>
-<guid isPermaLink="true">https://zero.pl/news/unijny-rygor-krajowe-obietnice-rzad-przy-reformie-podatkow-szuka-zlotego-srodka</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Wed, 19 Aug 2026 17:56:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
