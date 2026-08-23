@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 23 Aug 2026 15:29:19 +0200</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 15:55:01 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Miesiąc temu odebrał Golfa o mocy ponad 330 koni. Teraz zginęli rodzice, ich dziecko walczy o życie</title>
+<link>https://zero.pl/news/tragiczny-wypadek-w-krakowie-hubert-b-miesiac-wczesniej-odebral-auto-o-poteznej-mocy</link>
+<guid isPermaLink="true">https://zero.pl/news/tragiczny-wypadek-w-krakowie-hubert-b-miesiac-wczesniej-odebral-auto-o-poteznej-mocy</guid>
+<category>Kraj</category>
+<description>Kraj — Filip Baczkura</description>
+<pubDate>Sun, 23 Aug 2026 15:49:00 +0200</pubDate>
+</item>
 <item>
 <title>Verstappen nie ukończy domowego wyścigu. Kraksa na pierwszym okrążeniu GP Holandii</title>
 <link>https://zero.pl/news/gp-holandii-kraksa-maxa-verstappena</link>
@@ -1197,14 +1205,6 @@
 <guid isPermaLink="true">https://zero.pl/news/wojna-usa-z-iranem-prof-urbanczyk-zadnej-ze-stron-nie-zalezy-na-szybkim-kompromisie</guid>
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 20 Aug 2026 05:52:00 +0200</pubDate>
-</item>
-<item>
-<title>Przeciwlotnicza tarcza w starciu z masą dronów i rakiet. Polskie miasta są bezbronne?</title>
-<link>https://zero.pl/news/przeciwlotnicza-tarcza-w-starciu-z-masa-dronow-i-rakiet-czy-polskie-miasta-sa-bezbronne</link>
-<guid isPermaLink="true">https://zero.pl/news/przeciwlotnicza-tarcza-w-starciu-z-masa-dronow-i-rakiet-czy-polskie-miasta-sa-bezbronne</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
 <pubDate>Thu, 20 Aug 2026 05:52:00 +0200</pubDate>
 </item>
 </channel>
