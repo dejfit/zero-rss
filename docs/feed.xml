@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 23 Aug 2026 20:34:51 +0200</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 21:00:28 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Atak mieczem w szwedzkiej szkole. 18-latek aresztowany po śmierci 17-latki</title>
+<link>https://zero.pl/news/atak-mieczem-w-szwedzkiej-szkole-18-latek-aresztowany-po-smierci-17-latki</link>
+<guid isPermaLink="true">https://zero.pl/news/atak-mieczem-w-szwedzkiej-szkole-18-latek-aresztowany-po-smierci-17-latki</guid>
+<category>Świat</category>
+<description>Świat — Filip Baczkura</description>
+<pubDate>Sun, 23 Aug 2026 20:47:00 +0200</pubDate>
+</item>
 <item>
 <title>Kto zostanie premierem, jeśli prawica wygra? Sondaż przynosi zaskakujące wyniki</title>
 <link>https://zero.pl/news/kto-najlepszym-premierem-po-wygranej-prawicy-sondaz-ibris</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Tymon Zalewski</description>
 <pubDate>Thu, 20 Aug 2026 11:22:00 +0200</pubDate>
-</item>
-<item>
-<title>500 nieletnich migrantek z Ceuty trafi na kontynent. „Wyższa konieczność”</title>
-<link>https://zero.pl/news/hiszpania-500-nieletnich-migrantek-z-ceuty-trafi-na-kontynent-rzad-ma-plan</link>
-<guid isPermaLink="true">https://zero.pl/news/hiszpania-500-nieletnich-migrantek-z-ceuty-trafi-na-kontynent-rzad-ma-plan</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Thu, 20 Aug 2026 11:14:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
