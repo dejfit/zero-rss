@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 23 Aug 2026 21:24:52 +0200</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 21:43:17 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>AfD chce zamknąć granice Niemiec. Weidel zapowiada wyjście z Schengen i euro</title>
+<link>https://zero.pl/news/alice-weidel-afd-chce-wyjscia-z-schengen-i-euro-mocne-zapowiedzi</link>
+<guid isPermaLink="true">https://zero.pl/news/alice-weidel-afd-chce-wyjscia-z-schengen-i-euro-mocne-zapowiedzi</guid>
+<category>Świat</category>
+<description>Świat — Filip Baczkura</description>
+<pubDate>Sun, 23 Aug 2026 21:35:00 +0200</pubDate>
+</item>
 <item>
 <title>Nie wystarczy brak herezji. Msza to nie show proboszcza</title>
 <link>https://zero.pl/news/samowolka-w-liturgii-i-katoliccy-celebryci-co-niszczy-jednosc-kosciola</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
 <pubDate>Thu, 20 Aug 2026 11:42:00 +0200</pubDate>
-</item>
-<item>
-<title>„Dysponujemy tym, co mamy”. Szef MON wskazał miejsca bezpośrednio chronione z powietrza</title>
-<link>https://zero.pl/news/szef-mon-jestesmy-w-trakcie-budowy-obrony-powietrznej-dysponujemy-tym-co-mamy</link>
-<guid isPermaLink="true">https://zero.pl/news/szef-mon-jestesmy-w-trakcie-budowy-obrony-powietrznej-dysponujemy-tym-co-mamy</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Thu, 20 Aug 2026 11:35:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
