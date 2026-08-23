@@ -5,7 +5,7 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 23 Aug 2026 06:03:59 +0200</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 06:48:22 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
 <title>Odeszła z rządu po aferze z raportem. Tak wygląda majątek Barbary Mróz-Gorgoń</title>
@@ -14,6 +14,30 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura</description>
 <pubDate>Sun, 23 Aug 2026 15:04:00 +0200</pubDate>
+</item>
+<item>
+<title>Norwegia tworzy własne AI. Biblioteka Narodowa stawia na ochronę języka</title>
+<link>https://zero.pl/news/norwegia-tworzy-wlasne-ai-biblioteka-narodowa-stawia-na-ochrone-jezyka</link>
+<guid isPermaLink="true">https://zero.pl/news/norwegia-tworzy-wlasne-ai-biblioteka-narodowa-stawia-na-ochrone-jezyka</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Sun, 23 Aug 2026 06:40:00 +0200</pubDate>
+</item>
+<item>
+<title>Maroko żąda zwrotu nieletnich migrantów z Ceuty. Rabat naciska na Madryt</title>
+<link>https://zero.pl/news/maroko-chce-powrotu-nieletnich-migrantow-z-ceuty-jest-zadanie-wobec-hiszpanii</link>
+<guid isPermaLink="true">https://zero.pl/news/maroko-chce-powrotu-nieletnich-migrantow-z-ceuty-jest-zadanie-wobec-hiszpanii</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Sun, 23 Aug 2026 06:09:00 +0200</pubDate>
+</item>
+<item>
+<title>Dzwony kościelne za głośne? „Były zawsze, a teraz nagle komuś przeszkadzają”</title>
+<link>https://zero.pl/news/koscielne-dzwony-a-halas-jakie-obowiazuja-normy-i-dlaczego-parafie-dostaja-kary</link>
+<guid isPermaLink="true">https://zero.pl/news/koscielne-dzwony-a-halas-jakie-obowiazuja-normy-i-dlaczego-parafie-dostaja-kary</guid>
+<category>Kraj</category>
+<description>Kraj — Kamil Szałecki</description>
+<pubDate>Sun, 23 Aug 2026 05:56:00 +0200</pubDate>
 </item>
 <item>
 <title>Chicago Fire nie pobije kolejnego rekordu. Drużyna Lewandowskiego straciła punkty</title>
@@ -1182,30 +1206,6 @@
 <category>Program TV</category>
 <description>Program TV — Redakcja Zero.pl</description>
 <pubDate>Wed, 19 Aug 2026 17:20:00 +0200</pubDate>
-</item>
-<item>
-<title>Pomysł Tuska ma poparcie koalicjantów? „Diabeł tkwi w szczegółach”</title>
-<link>https://zero.pl/news/zmiany-podatkowe-tuska-jak-reaguja-koalicjanci-psl-polska-2050-i-lewica-komentuja</link>
-<guid isPermaLink="true">https://zero.pl/news/zmiany-podatkowe-tuska-jak-reaguja-koalicjanci-psl-polska-2050-i-lewica-komentuja</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Wed, 19 Aug 2026 17:18:00 +0200</pubDate>
-</item>
-<item>
-<title>Na tropie „myślozbrodni”. Francuski regulator coraz mocniej zagląda dziennikarzom przez ramię</title>
-<link>https://zero.pl/news/na-tropie-myslozbrodni-francuski-regulator-coraz-mocniej-zaglada-dziennikarzom-przez-ramie</link>
-<guid isPermaLink="true">https://zero.pl/news/na-tropie-myslozbrodni-francuski-regulator-coraz-mocniej-zaglada-dziennikarzom-przez-ramie</guid>
-<category>Świat</category>
-<description>Świat — Marcin Darmas</description>
-<pubDate>Wed, 19 Aug 2026 17:13:00 +0200</pubDate>
-</item>
-<item>
-<title>Śmierć pięciolatki i 15 ratowników w Strefie Gazy. Izraelska armia wszczyna postępowanie</title>
-<link>https://zero.pl/news/smierc-5-letniej-hind-rajab-i-15-ratownikow-izraelska-armia-wszczyna-postepowanie</link>
-<guid isPermaLink="true">https://zero.pl/news/smierc-5-letniej-hind-rajab-i-15-ratownikow-izraelska-armia-wszczyna-postepowanie</guid>
-<category>Świat</category>
-<description>Świat — Filip Baczkura</description>
-<pubDate>Wed, 19 Aug 2026 16:39:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
