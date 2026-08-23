@@ -5,7 +5,7 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 23 Aug 2026 07:15:10 +0200</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 07:47:04 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
 <title>Odeszła z rządu po aferze z raportem. Tak wygląda majątek Barbary Mróz-Gorgoń</title>
@@ -14,6 +14,14 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura</description>
 <pubDate>Sun, 23 Aug 2026 15:04:00 +0200</pubDate>
+</item>
+<item>
+<title>Od dziś USC mogą transkrybować zagraniczne małżeństwa jednopłciowe</title>
+<link>https://zero.pl/news/od-dzis-usc-moga-transkrybowac-zagraniczne-malzenstwa-jednoplciowe</link>
+<guid isPermaLink="true">https://zero.pl/news/od-dzis-usc-moga-transkrybowac-zagraniczne-malzenstwa-jednoplciowe</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Sun, 23 Aug 2026 07:13:00 +0200</pubDate>
 </item>
 <item>
 <title>Norwegia tworzy własne AI. Biblioteka Narodowa stawia na ochronę języka</title>
@@ -1198,14 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Wed, 19 Aug 2026 17:32:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na czwartek 20 sierpnia. Michał Szczerba w Porannych Rozmowach Zero</title>
-<link>https://zero.pl/news/program-tv-zero-20-08-co-dzis-mozna-obejrzec-michal-szczerba-w-porannych-rozmowach-zero</link>
-<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-20-08-co-dzis-mozna-obejrzec-michal-szczerba-w-porannych-rozmowach-zero</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Wed, 19 Aug 2026 17:20:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
