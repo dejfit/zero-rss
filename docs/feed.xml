@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 23 Aug 2026 17:32:34 +0200</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 17:53:45 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Pogoda: poniedziałek z deszczem i burzami. We wtorek chłodniej i pogodniej</title>
+<link>https://zero.pl/news/pogoda-w-polsce-prognoza-na-poniedzialek-i-wtorek-deszcz-burze-temperatury</link>
+<guid isPermaLink="true">https://zero.pl/news/pogoda-w-polsce-prognoza-na-poniedzialek-i-wtorek-deszcz-burze-temperatury</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Sun, 23 Aug 2026 17:49:00 +0200</pubDate>
+</item>
+<item>
+<title>Były minister Zełenskiego przerwał milczenie. „Prezydent musi na to odpowiedzieć”</title>
+<link>https://zero.pl/news/byly-minister-zelenskiego-o-korupcji-prezydent-powinien-odpowiedziec-na-pytania</link>
+<guid isPermaLink="true">https://zero.pl/news/byly-minister-zelenskiego-o-korupcji-prezydent-powinien-odpowiedziec-na-pytania</guid>
+<category>Świat</category>
+<description>Świat — Filip Baczkura</description>
+<pubDate>Sun, 23 Aug 2026 17:44:00 +0200</pubDate>
+</item>
+<item>
+<title>Brighton rozgromiło Aston Villę 4:0. Cztery gole do przerwy i czerwona kartka dla rywali</title>
+<link>https://zero.pl/news/brighton-aston-villa-40-mocne-otwarcie-sezonu-premier-league</link>
+<guid isPermaLink="true">https://zero.pl/news/brighton-aston-villa-40-mocne-otwarcie-sezonu-premier-league</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Sun, 23 Aug 2026 17:33:00 +0200</pubDate>
+</item>
 <item>
 <title>Śmierć kibica Hutnika w Krakowie. Oświadczenie Wisły Kraków i jej właściciela</title>
 <link>https://zero.pl/news/smierc-w-nowej-hucie-wisla-krakow-wydaje-oswiadczenie-krolewski-komentuje</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Paweł Żurek</description>
 <pubDate>Thu, 20 Aug 2026 08:59:00 +0200</pubDate>
-</item>
-<item>
-<title>Apple ugiął się przed Komisją Europejską. Wyjątek czy początek większych zmian?</title>
-<link>https://zero.pl/news/apple-ugial-sie-przed-komisja-europejska-wyjatek-czy-poczatek-wiekszych-zmian</link>
-<guid isPermaLink="true">https://zero.pl/news/apple-ugial-sie-przed-komisja-europejska-wyjatek-czy-poczatek-wiekszych-zmian</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Thu, 20 Aug 2026 08:49:00 +0200</pubDate>
-</item>
-<item>
-<title>Wojskowe samoloty poderwane do lotu. Dowództwo wydało komunikat po akcji</title>
-<link>https://zero.pl/news/wojskowe-samoloty-poderwane-do-lotu-dowodztwo-wydalo-komunikat-po-akcji</link>
-<guid isPermaLink="true">https://zero.pl/news/wojskowe-samoloty-poderwane-do-lotu-dowodztwo-wydalo-komunikat-po-akcji</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Thu, 20 Aug 2026 07:08:00 +0200</pubDate>
-</item>
-<item>
-<title>Z tego powodu najczęściej idziemy na L4. ZUS podał najnowsze dane</title>
-<link>https://zero.pl/news/z-tego-powodu-najczesciej-idziemy-na-l4-zus-podal-najnowsze-dane</link>
-<guid isPermaLink="true">https://zero.pl/news/z-tego-powodu-najczesciej-idziemy-na-l4-zus-podal-najnowsze-dane</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Thu, 20 Aug 2026 06:52:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
