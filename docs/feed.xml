@@ -5,7 +5,7 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 23 Aug 2026 13:00:56 +0200</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 13:30:40 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
 <title>Odeszła z rządu po aferze z raportem. Tak wygląda majątek Barbary Mróz-Gorgoń</title>
@@ -14,6 +14,14 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura</description>
 <pubDate>Sun, 23 Aug 2026 15:04:00 +0200</pubDate>
+</item>
+<item>
+<title>Superman z Borneo walczy z ogniem. 17-latek został „bohaterem lasu”</title>
+<link>https://zero.pl/news/superman-z-borneo-walczy-z-ogniem-17-latek-zostal-bohaterem-lasu</link>
+<guid isPermaLink="true">https://zero.pl/news/superman-z-borneo-walczy-z-ogniem-17-latek-zostal-bohaterem-lasu</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Sun, 23 Aug 2026 13:20:00 +0200</pubDate>
 </item>
 <item>
 <title>Zełenski: Niemcy dostarczą Ukrainie 600 pocisków do Patriotów</title>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura</description>
 <pubDate>Wed, 19 Aug 2026 21:22:00 +0200</pubDate>
-</item>
-<item>
-<title>Watykan usunął księdza z parafii. Zasłynął z przyjmowania imigrantów</title>
-<link>https://zero.pl/news/watykan-usunal-ksiedza-massimo-biancalaniego-z-parafii-przyjmowal-imigrantow</link>
-<guid isPermaLink="true">https://zero.pl/news/watykan-usunal-ksiedza-massimo-biancalaniego-z-parafii-przyjmowal-imigrantow</guid>
-<category>Świat</category>
-<description>Świat — Filip Baczkura</description>
-<pubDate>Wed, 19 Aug 2026 20:41:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
