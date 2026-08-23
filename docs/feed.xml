@@ -5,7 +5,7 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 23 Aug 2026 11:57:03 +0200</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 12:16:52 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
 <title>Odeszła z rządu po aferze z raportem. Tak wygląda majątek Barbary Mróz-Gorgoń</title>
@@ -16,6 +16,14 @@
 <pubDate>Sun, 23 Aug 2026 15:04:00 +0200</pubDate>
 </item>
 <item>
+<title>Sondaż: Większość Polaków nie ufa, że wojsko jest gotowe na atak wroga</title>
+<link>https://zero.pl/news/sondaz-wiekszosc-polakow-nie-ufa-ze-wojsko-jest-gotowe-na-atak-wroga</link>
+<guid isPermaLink="true">https://zero.pl/news/sondaz-wiekszosc-polakow-nie-ufa-ze-wojsko-jest-gotowe-na-atak-wroga</guid>
+<category>Wojsko</category>
+<description>Wojsko — Przemysław Staciwa</description>
+<pubDate>Sun, 23 Aug 2026 12:04:00 +0200</pubDate>
+</item>
+<item>
 <title>Trzeci tydzień na Grenlandii. Można się poczuć jak na innej planecie</title>
 <link>https://zero.pl/news/dziennik-z-ekspedycji-na-grenlandie-badania-intruzji-skaergaard-i-walka-z-natura</link>
 <guid isPermaLink="true">https://zero.pl/news/dziennik-z-ekspedycji-na-grenlandie-badania-intruzji-skaergaard-i-walka-z-natura</guid>
@@ -24,7 +32,7 @@
 <pubDate>Sun, 23 Aug 2026 11:46:00 +0200</pubDate>
 </item>
 <item>
-<title>Kraków: Nadmierna prędkość przyczyną tragedii na chodniku. Zginęło małżeństwo</title>
+<title>Kraków: Nadmierna prędkość przyczyną tragedii. Zginęło małżeństwo</title>
 <link>https://zero.pl/news/krakow-nadmierna-predkosc-przyczyna-tragedii-na-chodniku-zginelo-malzenstwo</link>
 <guid isPermaLink="true">https://zero.pl/news/krakow-nadmierna-predkosc-przyczyna-tragedii-na-chodniku-zginelo-malzenstwo</guid>
 <category>Kraj</category>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Przemysław Staciwa</description>
 <pubDate>Wed, 19 Aug 2026 20:22:00 +0200</pubDate>
-</item>
-<item>
-<title>ChatGPT z reklamami już za kilka dni. Nowa „funkcja” trafi do Polski</title>
-<link>https://zero.pl/news/chatgpt-z-reklamami-juz-za-kilka-dni-nowa-funkcja-trafi-do-polski</link>
-<guid isPermaLink="true">https://zero.pl/news/chatgpt-z-reklamami-juz-za-kilka-dni-nowa-funkcja-trafi-do-polski</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Wed, 19 Aug 2026 19:43:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
