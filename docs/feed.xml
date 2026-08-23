@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 23 Aug 2026 17:01:43 +0200</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 17:32:34 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Śmierć kibica Hutnika w Krakowie. Oświadczenie Wisły Kraków i jej właściciela</title>
+<link>https://zero.pl/news/smierc-w-nowej-hucie-wisla-krakow-wydaje-oswiadczenie-krolewski-komentuje</link>
+<guid isPermaLink="true">https://zero.pl/news/smierc-w-nowej-hucie-wisla-krakow-wydaje-oswiadczenie-krolewski-komentuje</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Sun, 23 Aug 2026 17:05:00 +0200</pubDate>
+</item>
 <item>
 <title>Były funkcjonariusz SG u Stanowskiego o kryzysie migracyjnym. „Oto rozwiązanie”</title>
 <link>https://zero.pl/news/krzysztof-stanowski-rozmawia-z-b-funkcjonariuszem-sg-o-migracji-totalna-blokada-i-tyle</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
 <pubDate>Thu, 20 Aug 2026 06:52:00 +0200</pubDate>
-</item>
-<item>
-<title>Izrael ogłosił kolejny etap przejęcia Palestyny. „Przetnie ją na dwie części”</title>
-<link>https://zero.pl/news/izrael-oglosil-kolejny-etap-przejecia-palestyny-przetnie-ja-na-dwie-czesci</link>
-<guid isPermaLink="true">https://zero.pl/news/izrael-oglosil-kolejny-etap-przejecia-palestyny-przetnie-ja-na-dwie-czesci</guid>
-<category>Świat</category>
-<description>Świat — Paweł Żurek</description>
-<pubDate>Thu, 20 Aug 2026 06:34:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
