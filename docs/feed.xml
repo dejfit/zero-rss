@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 24 Aug 2026 17:52:29 +0200</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 18:25:16 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>iPhone 18 Pro może uniknąć dużej podwyżki. Za to w Xiaomi jest drożej</title>
+<link>https://zero.pl/news/xiaomi-podnosi-ceny-smartfonow-iphone-18-pro-moze-uniknac-duzej-podwyzki</link>
+<guid isPermaLink="true">https://zero.pl/news/xiaomi-podnosi-ceny-smartfonow-iphone-18-pro-moze-uniknac-duzej-podwyzki</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Mon, 24 Aug 2026 18:11:00 +0200</pubDate>
+</item>
 <item>
 <title>Rozłam w PiS kosztuje partię Kaczyńskiego. KO umacnia przewagę</title>
 <link>https://zero.pl/news/rozlam-w-pis-kosztuje-partie-kaczynskiego-ko-umacnia-przewage</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura</description>
 <pubDate>Thu, 20 Aug 2026 21:31:00 +0200</pubDate>
-</item>
-<item>
-<title>Lech miażdży Thun, Jagiellonia ogrywa Iberię. Wieczór marzeń w pucharach</title>
-<link>https://zero.pl/news/polskie-kluby-w-pucharach-lech-poznan-fc-thun-70-jagiellonia-iberia-tbilisi-40</link>
-<guid isPermaLink="true">https://zero.pl/news/polskie-kluby-w-pucharach-lech-poznan-fc-thun-70-jagiellonia-iberia-tbilisi-40</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Thu, 20 Aug 2026 21:18:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
