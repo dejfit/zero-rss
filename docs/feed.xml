@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 24 Aug 2026 13:02:58 +0200</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 13:38:35 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Tragiczny wypadek w Krakowie. 26-latek usłyszał zarzut</title>
+<link>https://zero.pl/news/tragiczny-wypadek-w-krakowie-26-latek-uslyszal-zarzut</link>
+<guid isPermaLink="true">https://zero.pl/news/tragiczny-wypadek-w-krakowie-26-latek-uslyszal-zarzut</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 24 Aug 2026 13:12:00 +0200</pubDate>
+</item>
 <item>
 <title>Kierowców czeka kolejna podwyżka. Od wtorku drożej na stacjach</title>
 <link>https://zero.pl/news/ceny-paliw-od-wtorku-25-sierpnia-ile-kosztuje-benzyna-95-98-i-diesel</link>
@@ -1198,14 +1206,6 @@
 <category>Zdrowie</category>
 <description>Zdrowie — Patryk Słowik</description>
 <pubDate>Thu, 20 Aug 2026 17:23:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na piątek 21 sierpnia. Szejna w Porannych Rozmowach</title>
-<link>https://zero.pl/news/program-tv-zero-21-08-co-dzis-mozna-obejrzec-andrzej-szczerba-w-porannych-rozmowach-zero</link>
-<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-21-08-co-dzis-mozna-obejrzec-andrzej-szczerba-w-porannych-rozmowach-zero</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Thu, 20 Aug 2026 17:18:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
