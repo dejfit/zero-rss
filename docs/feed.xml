@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 24 Aug 2026 11:51:29 +0200</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 12:29:18 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Rekordowa dotacja dla NFZ. Rząd planuje 41 mld zł w 2027 r.</title>
+<link>https://zero.pl/news/rekordowa-dotacja-dla-nfz-rzad-planuje-41-mld-zl-w-2027-r</link>
+<guid isPermaLink="true">https://zero.pl/news/rekordowa-dotacja-dla-nfz-rzad-planuje-41-mld-zl-w-2027-r</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Kasjan Owsianko</description>
+<pubDate>Mon, 24 Aug 2026 12:10:00 +0200</pubDate>
+</item>
 <item>
 <title>Jak wygląda rezydencja prezydenta w Juracie? Nawrocki oprowadził Stanowskiego</title>
 <link>https://zero.pl/news/kanal-zero-jak-wyglada-rezydencja-prezydenta-w-juracie-nawrocki-oprowadzil-stanowskiego</link>
@@ -1198,14 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Tomasz Pałasz</description>
 <pubDate>Thu, 20 Aug 2026 16:59:00 +0200</pubDate>
-</item>
-<item>
-<title>Politycy podzieleni po decyzji prezydenta. „Nie zrozumiał tej ustawy”</title>
-<link>https://zero.pl/news/lex-szarlatan-prezydent-nawrocki-kieruje-ustawe-do-tk-rzecznik-praw-pacjenta-komentuje</link>
-<guid isPermaLink="true">https://zero.pl/news/lex-szarlatan-prezydent-nawrocki-kieruje-ustawe-do-tk-rzecznik-praw-pacjenta-komentuje</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Thu, 20 Aug 2026 16:28:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
