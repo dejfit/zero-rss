@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 24 Aug 2026 13:59:04 +0200</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 14:50:46 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Tak ma wyglądać Galaxy S27 Ultra. Dyskusja o obudowie pomija ważny szczegół</title>
+<link>https://zero.pl/news/tak-ma-wygladac-galaxy-s27-ultra-w-dyskusji-pomijany-jest-wazny-szczegol</link>
+<guid isPermaLink="true">https://zero.pl/news/tak-ma-wygladac-galaxy-s27-ultra-w-dyskusji-pomijany-jest-wazny-szczegol</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Mon, 24 Aug 2026 14:40:00 +0200</pubDate>
+</item>
 <item>
 <title>Wypadki takie jak ten w Krakowie będą coraz częstsze. Przyzwyczajajcie się</title>
 <link>https://zero.pl/news/taki-wypadek-jak-ten-z-golfem-r-w-krakowie-powtorzy-sie-nieraz-samochody-sa-coraz-mocniejsze-i-tansze</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura</description>
 <pubDate>Thu, 20 Aug 2026 18:55:00 +0200</pubDate>
-</item>
-<item>
-<title>Jaka piękna katastrofa. W Holandii nie chcą ubezpieczać chińskich aut, powody są znane także w Polsce</title>
-<link>https://zero.pl/news/w-holandii-nie-chca-ubezpieczac-chinskich-aut-problem-z-czesciami-zamiennymi-generuje-koszty</link>
-<guid isPermaLink="true">https://zero.pl/news/w-holandii-nie-chca-ubezpieczac-chinskich-aut-problem-z-czesciami-zamiennymi-generuje-koszty</guid>
-<category>Moto</category>
-<description>Moto — Piotr Rodzik</description>
-<pubDate>Thu, 20 Aug 2026 18:30:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
