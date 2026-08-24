@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 24 Aug 2026 13:38:35 +0200</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 13:59:04 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Wypadki takie jak ten w Krakowie będą coraz częstsze. Przyzwyczajajcie się</title>
+<link>https://zero.pl/news/taki-wypadek-jak-ten-z-golfem-r-w-krakowie-powtorzy-sie-nieraz-samochody-sa-coraz-mocniejsze-i-tansze</link>
+<guid isPermaLink="true">https://zero.pl/news/taki-wypadek-jak-ten-z-golfem-r-w-krakowie-powtorzy-sie-nieraz-samochody-sa-coraz-mocniejsze-i-tansze</guid>
+<category>Moto</category>
+<description>Moto — Piotr Rodzik</description>
+<pubDate>Mon, 24 Aug 2026 13:49:00 +0200</pubDate>
+</item>
+<item>
+<title>Pogoda szykuje niespodzianki. Najpierw alerty IMGW, a potem aż 30 stopni</title>
+<link>https://zero.pl/news/prognoza-pogody-na-tydzien-nocne-spadki-do-6-stopni-a-w-piatek-nawet-30-st-c</link>
+<guid isPermaLink="true">https://zero.pl/news/prognoza-pogody-na-tydzien-nocne-spadki-do-6-stopni-a-w-piatek-nawet-30-st-c</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 24 Aug 2026 13:45:00 +0200</pubDate>
+</item>
+<item>
+<title>Think tank Marka Polska kończy działalność. Lub nie. Zależy od wersji oświadczenia</title>
+<link>https://zero.pl/news/think-tank-marka-polska-konczy-dzialalnosc-lub-nie-zalezy-od-wersji-oswiadczenia</link>
+<guid isPermaLink="true">https://zero.pl/news/think-tank-marka-polska-konczy-dzialalnosc-lub-nie-zalezy-od-wersji-oswiadczenia</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Mon, 24 Aug 2026 13:43:00 +0200</pubDate>
+</item>
 <item>
 <title>Tragiczny wypadek w Krakowie. 26-latek usłyszał zarzut</title>
 <link>https://zero.pl/news/tragiczny-wypadek-w-krakowie-26-latek-uslyszal-zarzut</link>
@@ -1182,30 +1206,6 @@
 <category>Moto</category>
 <description>Moto — Piotr Rodzik</description>
 <pubDate>Thu, 20 Aug 2026 18:30:00 +0200</pubDate>
-</item>
-<item>
-<title>Patrycja Wieczorkiewicz przeprasza Kanał Zero. „Okazało się nieprawdą”</title>
-<link>https://zero.pl/news/wieczorkiewicz-przeprasza-kanal-zero-za-pomowienia-ws-all-inclusive-film-festiwal</link>
-<guid isPermaLink="true">https://zero.pl/news/wieczorkiewicz-przeprasza-kanal-zero-za-pomowienia-ws-all-inclusive-film-festiwal</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Thu, 20 Aug 2026 18:09:00 +0200</pubDate>
-</item>
-<item>
-<title>Tak działa sekta. Jak inteligentni ludzie dają się nabrać</title>
-<link>https://zero.pl/news/jak-dziala-sekta-poznaj-psychologiczne-mechanizmy-manipulacji-i-model-bite</link>
-<guid isPermaLink="true">https://zero.pl/news/jak-dziala-sekta-poznaj-psychologiczne-mechanizmy-manipulacji-i-model-bite</guid>
-<category>Kraj</category>
-<description>Kraj — Mateusz Grzesiak</description>
-<pubDate>Thu, 20 Aug 2026 17:42:00 +0200</pubDate>
-</item>
-<item>
-<title>Prezydent Nawrocki zatrzymał lex Szarlatan. Moim zdaniem to błąd</title>
-<link>https://zero.pl/news/slowik-o-lex-szarlatan-nawrocki-nie-podpisal-ustawy-co-to-oznacza-dla-pacjentow</link>
-<guid isPermaLink="true">https://zero.pl/news/slowik-o-lex-szarlatan-nawrocki-nie-podpisal-ustawy-co-to-oznacza-dla-pacjentow</guid>
-<category>Zdrowie</category>
-<description>Zdrowie — Patryk Słowik</description>
-<pubDate>Thu, 20 Aug 2026 17:23:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
