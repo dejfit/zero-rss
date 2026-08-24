@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 24 Aug 2026 16:26:45 +0200</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 17:09:10 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Mały powerbank, z którego zadzwonisz. Debiutuje Nokia 300 Charge</title>
+<link>https://zero.pl/news/nokia-300-charge-to-maly-powerbank-dalej-nie-ma-lte-za-to-ma-latarke</link>
+<guid isPermaLink="true">https://zero.pl/news/nokia-300-charge-to-maly-powerbank-dalej-nie-ma-lte-za-to-ma-latarke</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Mon, 24 Aug 2026 16:53:00 +0200</pubDate>
+</item>
+<item>
+<title>Ramówka Zero TV na wtorek 25 sierpnia. Agnieszka Burzyńska zaprasza na Poranne Rozmowy</title>
+<link>https://zero.pl/news/program-tv-zero-25-08-co-dzis-mozna-obejrzec-poranne-rozmowy-z-agnieszka-burzynska</link>
+<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-25-08-co-dzis-mozna-obejrzec-poranne-rozmowy-z-agnieszka-burzynska</guid>
+<category>Program TV</category>
+<description>Program TV — Redakcja Zero.pl</description>
+<pubDate>Mon, 24 Aug 2026 16:45:00 +0200</pubDate>
+</item>
 <item>
 <title>Kijów świętuje 35 lat niepodległości. Świat: „Ukraina jest obrońcą Europy”</title>
 <link>https://zero.pl/news/35-lecie-niepodleglosci-ukrainy-2026-europejscy-przywodcy-z-wizyta-w-kijowie</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Tomasz Pałasz</description>
 <pubDate>Thu, 20 Aug 2026 20:36:00 +0200</pubDate>
-</item>
-<item>
-<title>MSWiA zmienia system alarmowania. Powstanie nowa aplikacja</title>
-<link>https://zero.pl/news/mswia-pracuje-nad-nowym-systemem-ostrzegania-bedzie-aplikacja-i-cell-broadcast</link>
-<guid isPermaLink="true">https://zero.pl/news/mswia-pracuje-nad-nowym-systemem-ostrzegania-bedzie-aplikacja-i-cell-broadcast</guid>
-<category>Technologia</category>
-<description>Technologia — Filip Baczkura</description>
-<pubDate>Thu, 20 Aug 2026 20:21:00 +0200</pubDate>
-</item>
-<item>
-<title>Rosjanie w panice. Zaczęli uciekać przed potencjalną mobilizacją</title>
-<link>https://zero.pl/news/rosjanie-wyjezdzaja-z-kraju-strach-przed-mobilizacja-wojenna</link>
-<guid isPermaLink="true">https://zero.pl/news/rosjanie-wyjezdzaja-z-kraju-strach-przed-mobilizacja-wojenna</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Thu, 20 Aug 2026 19:52:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
