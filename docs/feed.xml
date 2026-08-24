@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 24 Aug 2026 06:58:40 +0200</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 07:37:56 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Zmiany dla obywateli Ukrainy. ZUS przypomina o ważnym terminie do 31 sierpnia</title>
+<link>https://zero.pl/news/pesel-ukr-do-poprawki-brak-waznego-dokumentu-do-31-sierpnia-oznacza-utrate-800-plus</link>
+<guid isPermaLink="true">https://zero.pl/news/pesel-ukr-do-poprawki-brak-waznego-dokumentu-do-31-sierpnia-oznacza-utrate-800-plus</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 24 Aug 2026 07:02:00 +0200</pubDate>
+</item>
 <item>
 <title>„Potrzebuję kilku dni odpoczynku”. Iga Świątek ogłosiła ważną decyzję</title>
 <link>https://zero.pl/news/us-open-2026-iga-swiatek-zrezygnowala-z-udzialu-w-rywalizacji-mikstow</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Agnieszka Waś-Turecka</description>
 <pubDate>Thu, 20 Aug 2026 12:50:00 +0200</pubDate>
-</item>
-<item>
-<title>Reforma podatków ulgą dla całej klasy średniej? Eksperci: Nic z tego</title>
-<link>https://zero.pl/news/reforma-podatkowa-kto-skorzysta-i-dlaczego-nie-bedzie-to-cala-klasa-srednia</link>
-<guid isPermaLink="true">https://zero.pl/news/reforma-podatkowa-kto-skorzysta-i-dlaczego-nie-bedzie-to-cala-klasa-srednia</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Thu, 20 Aug 2026 12:44:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
