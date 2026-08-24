@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 24 Aug 2026 14:50:46 +0200</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 15:43:04 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Waszyngton sprawdza lojalność sojuszników. Polska dostała ostrzeżenie z Białego Domu</title>
+<link>https://zero.pl/news/wojska-usa-w-polsce-a-handel-z-chinami-jaka-bedzie-cena-bezpieczenstwa</link>
+<guid isPermaLink="true">https://zero.pl/news/wojska-usa-w-polsce-a-handel-z-chinami-jaka-bedzie-cena-bezpieczenstwa</guid>
+<category>Świat</category>
+<description>Świat — Wojciech J. Kittel</description>
+<pubDate>Mon, 24 Aug 2026 15:25:00 +0200</pubDate>
+</item>
+<item>
+<title>Tragedia w Krakowie. Jest nowa decyzja wobec Huberta B.</title>
+<link>https://zero.pl/news/wypadek-w-krakowie-areszt-dla-huberta-b</link>
+<guid isPermaLink="true">https://zero.pl/news/wypadek-w-krakowie-areszt-dla-huberta-b</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Mon, 24 Aug 2026 14:57:00 +0200</pubDate>
+</item>
 <item>
 <title>Tak ma wyglądać Galaxy S27 Ultra. Dyskusja o obudowie pomija ważny szczegół</title>
 <link>https://zero.pl/news/tak-ma-wygladac-galaxy-s27-ultra-w-dyskusji-pomijany-jest-wazny-szczegol</link>
@@ -1190,22 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Bartosz Michalski</description>
 <pubDate>Thu, 20 Aug 2026 19:32:00 +0200</pubDate>
-</item>
-<item>
-<title>Poseł Rozwój Plus odpowiada Tuskowi. Premier zaatakował go na konferencji</title>
-<link>https://zero.pl/news/schreiber-odpowiada-tuskowi-w-tle-polskie-ice-i-referendum-ws-schengen</link>
-<guid isPermaLink="true">https://zero.pl/news/schreiber-odpowiada-tuskowi-w-tle-polskie-ice-i-referendum-ws-schengen</guid>
-<category>Kraj</category>
-<description>Kraj — Tymon Zalewski</description>
-<pubDate>Thu, 20 Aug 2026 19:16:00 +0200</pubDate>
-</item>
-<item>
-<title>Załamanie pogody już za kilka godzin. Burze i ulewy, możliwe podtopienia</title>
-<link>https://zero.pl/news/pogoda-21-sierpnia-burze-i-ulewy-wroca-ze-zdwojona-sila-mozliwe-podtopienia</link>
-<guid isPermaLink="true">https://zero.pl/news/pogoda-21-sierpnia-burze-i-ulewy-wroca-ze-zdwojona-sila-mozliwe-podtopienia</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Thu, 20 Aug 2026 18:55:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
