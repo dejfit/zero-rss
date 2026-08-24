@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 24 Aug 2026 07:37:56 +0200</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 08:07:05 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Zerwali rozmowy z USA. „Jesteśmy panami we własnym domu”</title>
+<link>https://zero.pl/news/sondaz-76-proc-kanadyjczykow-popiera-zawieszenie-negocjacji-z-usa</link>
+<guid isPermaLink="true">https://zero.pl/news/sondaz-76-proc-kanadyjczykow-popiera-zawieszenie-negocjacji-z-usa</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 24 Aug 2026 08:03:00 +0200</pubDate>
+</item>
+<item>
+<title>Wysłannik papieża poleciał do Rosji. Kluczowe rozmowy w Moskwie</title>
+<link>https://zero.pl/news/abp-gallagher-jedzie-do-moskwy-spotka-sie-z-lawrowem-i-lokalnymi-katolikami</link>
+<guid isPermaLink="true">https://zero.pl/news/abp-gallagher-jedzie-do-moskwy-spotka-sie-z-lawrowem-i-lokalnymi-katolikami</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 24 Aug 2026 07:42:00 +0200</pubDate>
+</item>
 <item>
 <title>Zmiany dla obywateli Ukrainy. ZUS przypomina o ważnym terminie do 31 sierpnia</title>
 <link>https://zero.pl/news/pesel-ukr-do-poprawki-brak-waznego-dokumentu-do-31-sierpnia-oznacza-utrate-800-plus</link>
@@ -1190,22 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Thu, 20 Aug 2026 13:32:00 +0200</pubDate>
-</item>
-<item>
-<title>Ukryte menu dostępne dla każdego. Nowe funkcje smartfonów Samsunga</title>
-<link>https://zero.pl/news/ukryte-menu-serwisowe-dostepne-dla-kazdego-nowe-funkcje-smartfonow-samsunga</link>
-<guid isPermaLink="true">https://zero.pl/news/ukryte-menu-serwisowe-dostepne-dla-kazdego-nowe-funkcje-smartfonow-samsunga</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Thu, 20 Aug 2026 13:21:00 +0200</pubDate>
-</item>
-<item>
-<title>Ustawa „lex szarlatan”. Jest decyzja prezydenta</title>
-<link>https://zero.pl/news/ustawa-lex-szarlatan-jest-decyzja-prezydenta</link>
-<guid isPermaLink="true">https://zero.pl/news/ustawa-lex-szarlatan-jest-decyzja-prezydenta</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 20 Aug 2026 12:50:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
