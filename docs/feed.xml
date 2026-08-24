@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 24 Aug 2026 10:06:00 +0200</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 11:00:02 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>MON pozyskuje kolejne Pioruny. To polska superbroń sprawdzona na Ukrainie</title>
+<link>https://zero.pl/news/polska-armia-pozyskuje-kolejne-pioruny-nowa-umowa-w-ramach-safe</link>
+<guid isPermaLink="true">https://zero.pl/news/polska-armia-pozyskuje-kolejne-pioruny-nowa-umowa-w-ramach-safe</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Mon, 24 Aug 2026 10:16:00 +0200</pubDate>
+</item>
+<item>
+<title>Wspólna lista prawicy do Sejmu? Możdżonek: To mrzonka</title>
+<link>https://zero.pl/news/mozdzonek-wspolna-lista-prawicy-do-sejmu-to-mrzonka-ale-pakt-do-senatu-ma-sens</link>
+<guid isPermaLink="true">https://zero.pl/news/mozdzonek-wspolna-lista-prawicy-do-sejmu-to-mrzonka-ale-pakt-do-senatu-ma-sens</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 24 Aug 2026 10:08:00 +0200</pubDate>
+</item>
 <item>
 <title>Polska marka? Nie rozśmieszajcie świata</title>
 <link>https://zero.pl/news/polska-marka-za-promocje-odpowiada-kilka-instytucji-ktore-sobie-przeszkadzaja</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura,Agnieszka Waś-Turecka</description>
 <pubDate>Thu, 20 Aug 2026 15:47:00 +0200</pubDate>
-</item>
-<item>
-<title>Państwo NATO zestrzeliło ukraiński dron. Wleciał z Białorusi</title>
-<link>https://zero.pl/news/lotwa-zestrzelila-ukrainski-dron-wlecial-z-bialorusi</link>
-<guid isPermaLink="true">https://zero.pl/news/lotwa-zestrzelila-ukrainski-dron-wlecial-z-bialorusi</guid>
-<category>Wojsko</category>
-<description>Wojsko — Filip Baczkura</description>
-<pubDate>Thu, 20 Aug 2026 15:17:00 +0200</pubDate>
-</item>
-<item>
-<title>Koniec sporu w rodzinie królewskiej? Harry i Meghan wracają do Wielkiej Brytanii</title>
-<link>https://zero.pl/news/harry-i-meghan-wracaja-do-wielkiej-brytanii-dzieci-pojda-do-szkoly</link>
-<guid isPermaLink="true">https://zero.pl/news/harry-i-meghan-wracaja-do-wielkiej-brytanii-dzieci-pojda-do-szkoly</guid>
-<category>Świat</category>
-<description>Świat — Filip Baczkura</description>
-<pubDate>Thu, 20 Aug 2026 14:57:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
