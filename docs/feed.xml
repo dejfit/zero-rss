@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 24 Aug 2026 06:09:40 +0200</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 06:58:40 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>„Potrzebuję kilku dni odpoczynku”. Iga Świątek ogłosiła ważną decyzję</title>
+<link>https://zero.pl/news/us-open-2026-iga-swiatek-zrezygnowala-z-udzialu-w-rywalizacji-mikstow</link>
+<guid isPermaLink="true">https://zero.pl/news/us-open-2026-iga-swiatek-zrezygnowala-z-udzialu-w-rywalizacji-mikstow</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 24 Aug 2026 06:46:00 +0200</pubDate>
+</item>
+<item>
+<title>Dlaczego Maroko zezwoliło na szturm na Ceutę? Minister mówi o „patriotyzmie”</title>
+<link>https://zero.pl/news/kryzys-w-ceucie-maroko-tlumaczy-wpuszczenie-80-tys-migrantow-i-zglasza-roszczenia</link>
+<guid isPermaLink="true">https://zero.pl/news/kryzys-w-ceucie-maroko-tlumaczy-wpuszczenie-80-tys-migrantow-i-zglasza-roszczenia</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 24 Aug 2026 06:28:00 +0200</pubDate>
+</item>
 <item>
 <title>Bój o zbiorniki. Stracą domy, by chronić innych przed powodzią. „To szantaż emocjonalny”</title>
 <link>https://zero.pl/news/boj-o-nowe-zbiorniki-w-kotlinie-klodzkiej-mieszkancy-protestuja-to-szantaz-emocjonalny</link>
@@ -1190,22 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Thu, 20 Aug 2026 12:44:00 +0200</pubDate>
-</item>
-<item>
-<title>Ponad 17 tys. ofert pracy w szkołach. MEN podał nowe dane</title>
-<link>https://zero.pl/news/men-17-tys-ofert-pracy-w-szkolach-brak-wakatow-dla-edukacji-zdrowotnej</link>
-<guid isPermaLink="true">https://zero.pl/news/men-17-tys-ofert-pracy-w-szkolach-brak-wakatow-dla-edukacji-zdrowotnej</guid>
-<category>Kraj</category>
-<description>Kraj — Tymon Zalewski</description>
-<pubDate>Thu, 20 Aug 2026 12:36:00 +0200</pubDate>
-</item>
-<item>
-<title>USA zbroją chińskie AI. Układy Nvidia trafiają do kolejnych firm</title>
-<link>https://zero.pl/news/usa-zbroja-chinskie-ai-uklady-nvidia-trafiaja-do-kolejnych-firm</link>
-<guid isPermaLink="true">https://zero.pl/news/usa-zbroja-chinskie-ai-uklady-nvidia-trafiaja-do-kolejnych-firm</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Thu, 20 Aug 2026 12:25:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
