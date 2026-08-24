@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 24 Aug 2026 20:02:38 +0200</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 20:54:17 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Znalezisko na Polach Grunwaldu. Archeolodzy odkryli średniowieczne monety</title>
+<link>https://zero.pl/news/znalezisko-na-polach-grunwaldu-archeolodzy-odkryli-sredniowieczne-monety</link>
+<guid isPermaLink="true">https://zero.pl/news/znalezisko-na-polach-grunwaldu-archeolodzy-odkryli-sredniowieczne-monety</guid>
+<category>Nauka</category>
+<description>Nauka — Tomasz Pałasz</description>
+<pubDate>Mon, 24 Aug 2026 20:48:00 +0200</pubDate>
+</item>
+<item>
+<title>Upalne lato w Europie. NASA pokazała animację</title>
+<link>https://zero.pl/news/upalne-lato-w-europie-nasa-pokazala-animacje</link>
+<guid isPermaLink="true">https://zero.pl/news/upalne-lato-w-europie-nasa-pokazala-animacje</guid>
+<category>Nauka</category>
+<description>Nauka — Tomasz Pałasz</description>
+<pubDate>Mon, 24 Aug 2026 20:21:00 +0200</pubDate>
+</item>
+<item>
+<title>Wielki transfer Polaka. Grabara zagra w legendzie Serie A</title>
+<link>https://zero.pl/news/kamil-grabara-transfer-do-juventusu-polak-przechodzi-z-wolfsburga-do-serie-a</link>
+<guid isPermaLink="true">https://zero.pl/news/kamil-grabara-transfer-do-juventusu-polak-przechodzi-z-wolfsburga-do-serie-a</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Mon, 24 Aug 2026 20:09:00 +0200</pubDate>
+</item>
 <item>
 <title>Pogrzeb Jana Frycza będzie państwowy. Ujawniono datę</title>
 <link>https://zero.pl/news/znamy-date-pogrzebu-jana-frycza-uroczystosci-beda-mialy-charakter-panstwowy</link>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Agnieszka Waś-Turecka</description>
 <pubDate>Fri, 21 Aug 2026 07:42:00 +0200</pubDate>
-</item>
-<item>
-<title>Wtedy może zostać wybrany nowy sędzia Trybunału. Czarzasty przedstawił rekomendację</title>
-<link>https://zero.pl/news/trybunal-konstytucyjny-uzupelniony-juz-po-wakacjach-rekomendacja-czarzastego</link>
-<guid isPermaLink="true">https://zero.pl/news/trybunal-konstytucyjny-uzupelniony-juz-po-wakacjach-rekomendacja-czarzastego</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Fri, 21 Aug 2026 06:55:00 +0200</pubDate>
-</item>
-<item>
-<title>Robert Lewandowski kończy 38 lat. Oto jego największe piłkarskie sukcesy</title>
-<link>https://zero.pl/news/robert-lewandowski-ma-38-urodziny-trofea-rekordy-i-kariera-legendy-polskiej-pilki</link>
-<guid isPermaLink="true">https://zero.pl/news/robert-lewandowski-ma-38-urodziny-trofea-rekordy-i-kariera-legendy-polskiej-pilki</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Fri, 21 Aug 2026 05:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Cieszyńskie ciasteczka, hoczki i kofola. Tak dorastało się na pograniczu</title>
-<link>https://zero.pl/news/polska-od-srodka-slask-cieszynski-tradycje-gwara-i-zaolzie</link>
-<guid isPermaLink="true">https://zero.pl/news/polska-od-srodka-slask-cieszynski-tradycje-gwara-i-zaolzie</guid>
-<category>Kraj</category>
-<description>Kraj — Aleksandra Cieślik</description>
-<pubDate>Fri, 21 Aug 2026 05:55:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
