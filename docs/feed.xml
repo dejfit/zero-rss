@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 24 Aug 2026 12:29:18 +0200</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 13:02:58 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Kierowców czeka kolejna podwyżka. Od wtorku drożej na stacjach</title>
+<link>https://zero.pl/news/ceny-paliw-od-wtorku-25-sierpnia-ile-kosztuje-benzyna-95-98-i-diesel</link>
+<guid isPermaLink="true">https://zero.pl/news/ceny-paliw-od-wtorku-25-sierpnia-ile-kosztuje-benzyna-95-98-i-diesel</guid>
+<category>Biznes</category>
+<description>Biznes — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 24 Aug 2026 12:37:00 +0200</pubDate>
+</item>
 <item>
 <title>Rekordowa dotacja dla NFZ. Rząd planuje 41 mld zł w 2027 r.</title>
 <link>https://zero.pl/news/rekordowa-dotacja-dla-nfz-rzad-planuje-41-mld-zl-w-2027-r</link>
@@ -1198,14 +1206,6 @@
 <category>Program TV</category>
 <description>Program TV — Redakcja Zero.pl</description>
 <pubDate>Thu, 20 Aug 2026 17:18:00 +0200</pubDate>
-</item>
-<item>
-<title>Paliwa drożeją od piątku. Nawet z niższym VAT ceny maksymalne w górę</title>
-<link>https://zero.pl/news/ceny-paliw-od-piatku-benzyna-95-98-i-diesel-w-gore</link>
-<guid isPermaLink="true">https://zero.pl/news/ceny-paliw-od-piatku-benzyna-95-98-i-diesel-w-gore</guid>
-<category>Biznes</category>
-<description>Biznes — Tomasz Pałasz</description>
-<pubDate>Thu, 20 Aug 2026 16:59:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
