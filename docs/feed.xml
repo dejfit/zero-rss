@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 24 Aug 2026 18:25:16 +0200</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 19:03:16 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Episkopat apeluje o religię w szkole. „Młody człowiek zasługuje na więcej”</title>
+<link>https://zero.pl/news/biskupi-apeluja-o-religie-w-szkole-kep-krytykuje-obowiazkowa-edukacje</link>
+<guid isPermaLink="true">https://zero.pl/news/biskupi-apeluja-o-religie-w-szkole-kep-krytykuje-obowiazkowa-edukacje</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Mon, 24 Aug 2026 18:51:00 +0200</pubDate>
+</item>
+<item>
+<title>W obronie wieku średniego. Ktoś musi to wreszcie powiedzieć</title>
+<link>https://zero.pl/news/w-obronie-wieku-sredniego-dlaczego-za-wszelka-cene-uciekamy-przed-dojrzaloscia</link>
+<guid isPermaLink="true">https://zero.pl/news/w-obronie-wieku-sredniego-dlaczego-za-wszelka-cene-uciekamy-przed-dojrzaloscia</guid>
+<category>Kraj</category>
+<description>Kraj — Igor Zalewski</description>
+<pubDate>Mon, 24 Aug 2026 18:29:00 +0200</pubDate>
+</item>
 <item>
 <title>iPhone 18 Pro może uniknąć dużej podwyżki. Za to w Xiaomi jest drożej</title>
 <link>https://zero.pl/news/xiaomi-podnosi-ceny-smartfonow-iphone-18-pro-moze-uniknac-duzej-podwyzki</link>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Paweł Żurek</description>
 <pubDate>Fri, 21 Aug 2026 05:00:00 +0200</pubDate>
-</item>
-<item>
-<title>Rosja fałszuje zdobycze wideo z AI. Ukraińcy zdemaskowali oszustwo</title>
-<link>https://zero.pl/news/wojna-w-ukrainie-rosja-i-ai-falszywe-wideo-z-oskola-deepstate-demaskuje-propagande</link>
-<guid isPermaLink="true">https://zero.pl/news/wojna-w-ukrainie-rosja-i-ai-falszywe-wideo-z-oskola-deepstate-demaskuje-propagande</guid>
-<category>Wojsko</category>
-<description>Wojsko — Tomasz Pałasz</description>
-<pubDate>Thu, 20 Aug 2026 21:50:00 +0200</pubDate>
-</item>
-<item>
-<title>Miała być puma, jest wielkie sprostowanie. Zdjęcie okazało się fałszywe</title>
-<link>https://zero.pl/news/poszukiwania-pumy-pod-walbrzychem-sluzby-ujawnily-prawde-o-glosnym-zdjeciu</link>
-<guid isPermaLink="true">https://zero.pl/news/poszukiwania-pumy-pod-walbrzychem-sluzby-ujawnily-prawde-o-glosnym-zdjeciu</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Thu, 20 Aug 2026 21:31:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
