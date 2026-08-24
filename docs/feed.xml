@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 24 Aug 2026 05:18:02 +0200</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 06:09:40 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Bój o zbiorniki. Stracą domy, by chronić innych przed powodzią. „To szantaż emocjonalny”</title>
+<link>https://zero.pl/news/boj-o-nowe-zbiorniki-w-kotlinie-klodzkiej-mieszkancy-protestuja-to-szantaz-emocjonalny</link>
+<guid isPermaLink="true">https://zero.pl/news/boj-o-nowe-zbiorniki-w-kotlinie-klodzkiej-mieszkancy-protestuja-to-szantaz-emocjonalny</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Barejka</description>
+<pubDate>Mon, 24 Aug 2026 06:02:00 +0200</pubDate>
+</item>
 <item>
 <title>AfD chce zamknąć granice Niemiec. Weidel zapowiada wyjście z Schengen i euro</title>
 <link>https://zero.pl/news/alice-weidel-afd-chce-wyjscia-z-schengen-i-euro-mocne-zapowiedzi</link>
@@ -1198,14 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Thu, 20 Aug 2026 12:25:00 +0200</pubDate>
-</item>
-<item>
-<title>Kiedy matury i egzamin ósmoklasisty w 2027 r.? CKE opublikowała oficjalny kalendarz</title>
-<link>https://zero.pl/news/harmonogram-cke-na-rok-szkolny-2026-2027-znamy-daty-matur-i-egzaminu-osmoklasisty</link>
-<guid isPermaLink="true">https://zero.pl/news/harmonogram-cke-na-rok-szkolny-2026-2027-znamy-daty-matur-i-egzaminu-osmoklasisty</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Thu, 20 Aug 2026 11:42:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
