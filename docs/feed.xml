@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 25 Aug 2026 06:50:33 +0200</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 07:19:46 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Najpierw chłód, potem kopuła ciepła. Termometry pokażą 33 stopnie</title>
+<link>https://zero.pl/news/kopula-ciepla-nad-polska-pogoda-25-29-sierpnia-2026</link>
+<guid isPermaLink="true">https://zero.pl/news/kopula-ciepla-nad-polska-pogoda-25-29-sierpnia-2026</guid>
+<category>Kraj</category>
+<description>Kraj — Filip Baczkura</description>
+<pubDate>Tue, 25 Aug 2026 07:00:00 +0200</pubDate>
+</item>
 <item>
 <title>Ceny paliw znów w górę. Tyle maksymalnie zapłacimy dziś za benzynę i diesla</title>
 <link>https://zero.pl/news/ceny-paliw-25-sierpnia-2026-benzyna-pb95-i-diesel-drozej</link>
@@ -1198,14 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Agnieszka Waś-Turecka</description>
 <pubDate>Fri, 21 Aug 2026 11:18:00 +0200</pubDate>
-</item>
-<item>
-<title>Rekordowe temperatury w europejskich morzach. Badacze alarmują</title>
-<link>https://zero.pl/news/woda-w-morzu-srodziemnym-miala-33-stopnie-naukowcy-ujawniaja-nowy-raport</link>
-<guid isPermaLink="true">https://zero.pl/news/woda-w-morzu-srodziemnym-miala-33-stopnie-naukowcy-ujawniaja-nowy-raport</guid>
-<category>Nauka</category>
-<description>Nauka — Agnieszka Waś-Turecka</description>
-<pubDate>Fri, 21 Aug 2026 11:08:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
