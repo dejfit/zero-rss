@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 25 Aug 2026 15:37:50 +0200</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 16:25:14 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Demograficzny przełom? „Słabnie odraczanie decyzji”</title>
+<link>https://zero.pl/news/liczba-urodzen-w-polsce-2026-demograf-wyjasnia-dlaczego-spadek-wyhamowal</link>
+<guid isPermaLink="true">https://zero.pl/news/liczba-urodzen-w-polsce-2026-demograf-wyjasnia-dlaczego-spadek-wyhamowal</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Tue, 25 Aug 2026 16:22:00 +0200</pubDate>
+</item>
+<item>
+<title>Tragedia nad Jeziorkiem Czerniakowskim. Nurkowie wydobyli z wody ciało mężczyzny</title>
+<link>https://zero.pl/news/tragedia-nad-jeziorkiem-czerniakowskim-nurkowie-wydobyli-z-wody-cialo-mezczyzny</link>
+<guid isPermaLink="true">https://zero.pl/news/tragedia-nad-jeziorkiem-czerniakowskim-nurkowie-wydobyli-z-wody-cialo-mezczyzny</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Tue, 25 Aug 2026 16:00:00 +0200</pubDate>
+</item>
+<item>
+<title>GPS w Trójmieście szwankuje. Wiadomo, kto zakłóca sygnał</title>
+<link>https://zero.pl/news/gps-w-trojmiescie-dziala-coraz-gorzej-rosja-zakloca-sygnal</link>
+<guid isPermaLink="true">https://zero.pl/news/gps-w-trojmiescie-dziala-coraz-gorzej-rosja-zakloca-sygnal</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Tue, 25 Aug 2026 15:45:00 +0200</pubDate>
+</item>
 <item>
 <title>Od ponad 80 lat mieszka w tej samej chacie. Nie ma tam prądu ani bieżącej wody</title>
 <link>https://zero.pl/news/od-ponad-80-lat-mieszka-w-tej-samej-chacie-nie-ma-tam-pradu-ani-biezacej-wody</link>
@@ -1182,30 +1206,6 @@
 <category>Zdrowie</category>
 <description>Zdrowie — Krzysztof Jabłonowski</description>
 <pubDate>Fri, 21 Aug 2026 18:24:00 +0200</pubDate>
-</item>
-<item>
-<title>Ukraina przeprowadzi wybory w czasie wojny? „Podskórna rywalizacja trwa”</title>
-<link>https://zero.pl/news/wybory-w-ukrainie-w-czasie-wojny-eksperci-osw-i-pism-brak-woli-i-realnych-szans</link>
-<guid isPermaLink="true">https://zero.pl/news/wybory-w-ukrainie-w-czasie-wojny-eksperci-osw-i-pism-brak-woli-i-realnych-szans</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Fri, 21 Aug 2026 18:02:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na poniedziałek 24 sierpnia. Ground Zero o 20</title>
-<link>https://zero.pl/news/ramowka-zero-tv-na-poniedzialek-24-sierpnia-ground-zero-o-20</link>
-<guid isPermaLink="true">https://zero.pl/news/ramowka-zero-tv-na-poniedzialek-24-sierpnia-ground-zero-o-20</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Fri, 21 Aug 2026 17:27:00 +0200</pubDate>
-</item>
-<item>
-<title>Lewandowski kończy 38 lat. Oburzenie po życzeniach od Złotej Piłki</title>
-<link>https://zero.pl/news/lewandowski-konczy-38-lat-oburzenie-po-zyczeniach-od-zlotej-pilki</link>
-<guid isPermaLink="true">https://zero.pl/news/lewandowski-konczy-38-lat-oburzenie-po-zyczeniach-od-zlotej-pilki</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Fri, 21 Aug 2026 17:23:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
