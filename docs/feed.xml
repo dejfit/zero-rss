@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 25 Aug 2026 14:50:06 +0200</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 15:37:50 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Od ponad 80 lat mieszka w tej samej chacie. Nie ma tam prądu ani bieżącej wody</title>
+<link>https://zero.pl/news/od-ponad-80-lat-mieszka-w-tej-samej-chacie-nie-ma-tam-pradu-ani-biezacej-wody</link>
+<guid isPermaLink="true">https://zero.pl/news/od-ponad-80-lat-mieszka-w-tej-samej-chacie-nie-ma-tam-pradu-ani-biezacej-wody</guid>
+<category>Świat</category>
+<description>Świat — Bartosz Michalski</description>
+<pubDate>Tue, 25 Aug 2026 15:23:00 +0200</pubDate>
+</item>
+<item>
+<title>Przełom w śledztwie ws. Zondacrypto. Żurek: są nowi podejrzani</title>
+<link>https://zero.pl/news/zondacrypto-nowe-watki-w-sledztwie-prokuratury-fundacja-ziobry-i-fundacja-wiplera</link>
+<guid isPermaLink="true">https://zero.pl/news/zondacrypto-nowe-watki-w-sledztwie-prokuratury-fundacja-ziobry-i-fundacja-wiplera</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Tue, 25 Aug 2026 15:17:00 +0200</pubDate>
+</item>
+<item>
+<title>Sony Xperia 10 VIII, czyli jak sprzedać ten sam smartfon, ale drożej?</title>
+<link>https://zero.pl/news/sony-xperia-10-viii-rozumiem-wyzsza-cene-ale-czym-to-sie-rozni-od-poprzednika</link>
+<guid isPermaLink="true">https://zero.pl/news/sony-xperia-10-viii-rozumiem-wyzsza-cene-ale-czym-to-sie-rozni-od-poprzednika</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Tue, 25 Aug 2026 15:07:00 +0200</pubDate>
+</item>
 <item>
 <title>Podejrzenie sabotażu pod Stuttgartem. Przecięto kable przy torach</title>
 <link>https://zero.pl/news/podejrzenie-sabotazu-w-niemczech-przecieto-kable-przy-linii-kolejowej</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Tomasz Pałasz</description>
 <pubDate>Fri, 21 Aug 2026 17:23:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na niedzielę 23 sierpnia. Mecz KTS Weszło</title>
-<link>https://zero.pl/news/program-tv-zero-23-08-co-dzis-mozna-obejrzec-mecz-kts-weszlo</link>
-<guid isPermaLink="true">https://zero.pl/news/program-tv-zero-23-08-co-dzis-mozna-obejrzec-mecz-kts-weszlo</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Fri, 21 Aug 2026 17:01:00 +0200</pubDate>
-</item>
-<item>
-<title>Piddington kontra Londyn. Mała wieś stała się symbolem brytyjskiego sporu o migrację</title>
-<link>https://zero.pl/news/piddington-i-migranci-referendum-obawy-mieszkancow-i-nowa-debata-migracyjna-w-wielkiej-brytanii</link>
-<guid isPermaLink="true">https://zero.pl/news/piddington-i-migranci-referendum-obawy-mieszkancow-i-nowa-debata-migracyjna-w-wielkiej-brytanii</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Fri, 21 Aug 2026 16:44:00 +0200</pubDate>
-</item>
-<item>
-<title>Stanowcze oświadczenie Cienkowskiej. Ministra reaguje na kontrowersje</title>
-<link>https://zero.pl/news/ministra-kultury-marta-cienkowska-po-kontrowersjach-wokol-obchodow-powstania-warszawskiego</link>
-<guid isPermaLink="true">https://zero.pl/news/ministra-kultury-marta-cienkowska-po-kontrowersjach-wokol-obchodow-powstania-warszawskiego</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Fri, 21 Aug 2026 16:22:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
