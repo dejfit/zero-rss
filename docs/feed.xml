@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 25 Aug 2026 19:18:57 +0200</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 19:49:11 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Tragiczna cena futbolu. Wyniki badań o uszkodzeniach mózgu u graczy NFL</title>
+<link>https://zero.pl/news/przewlekla-encefalopatia-pourazowa-cte-u-graczy-nfl-wyniki-badan-mozgu</link>
+<guid isPermaLink="true">https://zero.pl/news/przewlekla-encefalopatia-pourazowa-cte-u-graczy-nfl-wyniki-badan-mozgu</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Tomasz Pałasz</description>
+<pubDate>Tue, 25 Aug 2026 19:42:00 +0200</pubDate>
+</item>
+<item>
+<title>Atak żubra w Puszczy Boreckiej. Ciężarna turystka przetransportowana do szpitala</title>
+<link>https://zero.pl/news/atak-zubra-w-puszczy-boreckiej-ranna-ciezarna-turystka-z-francji</link>
+<guid isPermaLink="true">https://zero.pl/news/atak-zubra-w-puszczy-boreckiej-ranna-ciezarna-turystka-z-francji</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Tue, 25 Aug 2026 19:40:00 +0200</pubDate>
+</item>
+<item>
+<title>Będzie przewrót w Polsce 2050? Hołownia gotowy do działania</title>
+<link>https://zero.pl/news/bedzie-przewrot-w-polsce-2050-holownia-gotowy-do-dzialania</link>
+<guid isPermaLink="true">https://zero.pl/news/bedzie-przewrot-w-polsce-2050-holownia-gotowy-do-dzialania</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Tue, 25 Aug 2026 19:23:00 +0200</pubDate>
+</item>
 <item>
 <title>Pijany kierowca potrącił 12 osób w Portugalii. Wśród rannych Polak</title>
 <link>https://zero.pl/news/pijany-kierowca-potracil-12-osob-w-portugalii-wsrod-rannych-polak</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Agnieszka Waś-Turecka</description>
 <pubDate>Sat, 22 Aug 2026 06:27:00 +0200</pubDate>
-</item>
-<item>
-<title>Turcja ściga Binjamina Netanjahu. Wystawiono wniosek o aresztowanie</title>
-<link>https://zero.pl/news/turcja-chce-aresztowania-netanjahu-wnioskuje-o-noty-interpolu</link>
-<guid isPermaLink="true">https://zero.pl/news/turcja-chce-aresztowania-netanjahu-wnioskuje-o-noty-interpolu</guid>
-<category>Świat</category>
-<description>Świat — Krzysztof Jabłonowski</description>
-<pubDate>Fri, 21 Aug 2026 21:54:00 +0200</pubDate>
-</item>
-<item>
-<title>Trudna historia relacji. Szef ukraińskiego IPN apeluje o wyłączenie polityki z rozmów</title>
-<link>https://zero.pl/news/relacje-polsko-ukrainskie-oleksandr-alfiorow-niech-historycy-debatuja-o-wspolnej-pamieci</link>
-<guid isPermaLink="true">https://zero.pl/news/relacje-polsko-ukrainskie-oleksandr-alfiorow-niech-historycy-debatuja-o-wspolnej-pamieci</guid>
-<category>Nauka</category>
-<description>Nauka — Krzysztof Jabłonowski</description>
-<pubDate>Fri, 21 Aug 2026 21:37:00 +0200</pubDate>
-</item>
-<item>
-<title>Policja uderzyła w przemytników ludzi z Ceuty. Zatrzymania w Hiszpanii</title>
-<link>https://zero.pl/news/ceuta-hiszpanska-policja-rozbila-dwie-grupy-przestepcze-przemycajace-ludzi</link>
-<guid isPermaLink="true">https://zero.pl/news/ceuta-hiszpanska-policja-rozbila-dwie-grupy-przestepcze-przemycajace-ludzi</guid>
-<category>Świat</category>
-<description>Świat — Krzysztof Jabłonowski</description>
-<pubDate>Fri, 21 Aug 2026 21:15:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
