@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 25 Aug 2026 21:33:57 +0200</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 21:59:30 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Seniorzy mogą odstawić statyny? Przełomowe wyniki badań</title>
+<link>https://zero.pl/news/seniorzy-moga-odstawic-statyny-przelomowe-wyniki-badan</link>
+<guid isPermaLink="true">https://zero.pl/news/seniorzy-moga-odstawic-statyny-przelomowe-wyniki-badan</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Tomasz Pałasz</description>
+<pubDate>Tue, 25 Aug 2026 21:54:00 +0200</pubDate>
+</item>
+<item>
+<title>Chiny prezentują koncepcję samolotu na 800 osób. Ma zdeklasować Airbusa A380</title>
+<link>https://zero.pl/news/chiny-prezentuja-koncepcje-samolotu-na-800-osob-ma-zdeklasowac-airbusa-a380</link>
+<guid isPermaLink="true">https://zero.pl/news/chiny-prezentuja-koncepcje-samolotu-na-800-osob-ma-zdeklasowac-airbusa-a380</guid>
+<category>Technologia</category>
+<description>Technologia — Tomasz Pałasz</description>
+<pubDate>Tue, 25 Aug 2026 21:40:00 +0200</pubDate>
+</item>
 <item>
 <title>Skolim u prezydenta. Znamy szczegóły imprezy w Juracie</title>
 <link>https://zero.pl/news/skolim-u-prezydenta-sa-szczegoly-imprezy-w-juracie</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
 <pubDate>Sat, 22 Aug 2026 10:04:00 +0200</pubDate>
-</item>
-<item>
-<title>Jak dobrze, że już się kończą! Dlaczego wakacje w Polsce są za długie?</title>
-<link>https://zero.pl/news/dwa-miesiace-wakacji-to-za-duzo-ile-wolnego-powinni-miec-uczniowie-w-polsce</link>
-<guid isPermaLink="true">https://zero.pl/news/dwa-miesiace-wakacji-to-za-duzo-ile-wolnego-powinni-miec-uczniowie-w-polsce</guid>
-<category>Kraj</category>
-<description>Kraj — Jan Wróbel</description>
-<pubDate>Sat, 22 Aug 2026 09:44:00 +0200</pubDate>
-</item>
-<item>
-<title>Nalot policji na domy, mieszkania i hostele. Zatrzymano 78 poszukiwanych</title>
-<link>https://zero.pl/news/nalot-policji-na-domy-mieszkania-i-hostele-zatrzymano-78-poszukiwanych</link>
-<guid isPermaLink="true">https://zero.pl/news/nalot-policji-na-domy-mieszkania-i-hostele-zatrzymano-78-poszukiwanych</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Sat, 22 Aug 2026 09:41:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
