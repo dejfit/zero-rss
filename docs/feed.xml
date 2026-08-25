@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 25 Aug 2026 11:26:00 +0200</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 11:59:28 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Polska się zbroi. Kolejne K2 „dopłynęły” z Korei</title>
+<link>https://zero.pl/news/k2-doplynely-koreanska-pancerna-piesc-dla-polski</link>
+<guid isPermaLink="true">https://zero.pl/news/k2-doplynely-koreanska-pancerna-piesc-dla-polski</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Tue, 25 Aug 2026 11:45:00 +0200</pubDate>
+</item>
+<item>
+<title>Wyciek danych milionów Polaków. Szef MyDr „przeprasza każdego pacjenta”</title>
+<link>https://zero.pl/news/cyberatak-na-mydr-wyciek-danych-19-mln-polakow-szef-firmy-przeprasza</link>
+<guid isPermaLink="true">https://zero.pl/news/cyberatak-na-mydr-wyciek-danych-19-mln-polakow-szef-firmy-przeprasza</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Filip Baczkura</description>
+<pubDate>Tue, 25 Aug 2026 11:24:00 +0200</pubDate>
+</item>
 <item>
 <title>Motorola bez usług Google? Flagowe modele z nowym systemem</title>
 <link>https://zero.pl/news/motorola-bez-uslug-google-flagowe-modele-z-systemem-graphenos</link>
@@ -1190,22 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Fri, 21 Aug 2026 14:34:00 +0200</pubDate>
-</item>
-<item>
-<title>Mniej spalin, zdrowsze dzieci. Angielscy naukowcy podali wyniki badań</title>
-<link>https://zero.pl/news/strefa-czystego-transportu-pomogla-dzieciom-naukowcy-podali-jak-wplynela-na-zdrowie</link>
-<guid isPermaLink="true">https://zero.pl/news/strefa-czystego-transportu-pomogla-dzieciom-naukowcy-podali-jak-wplynela-na-zdrowie</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Fri, 21 Aug 2026 14:28:00 +0200</pubDate>
-</item>
-<item>
-<title>Izrael rozmywa sprawę śmierci Damiana Sobóla. Zychowicz: Polski MSZ jest za miękki</title>
-<link>https://zero.pl/news/zychowicz-polski-msz-jest-za-miekki-a-izraelska-armia-zdemoralizowana-sprawa-smierci-damiana-sobola</link>
-<guid isPermaLink="true">https://zero.pl/news/zychowicz-polski-msz-jest-za-miekki-a-izraelska-armia-zdemoralizowana-sprawa-smierci-damiana-sobola</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Fri, 21 Aug 2026 13:33:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
