@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 25 Aug 2026 12:33:29 +0200</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 13:02:39 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>YouTube blokuje „Maszę i Niedźwiedzia” na Ukrainie. Władze mówią o rosyjskiej propagandzie</title>
+<link>https://zero.pl/news/youtube-blokuje-masze-i-niedzwiedzia-na-ukrainie-wladze-mowia-o-rosyjskiej-propagandzie</link>
+<guid isPermaLink="true">https://zero.pl/news/youtube-blokuje-masze-i-niedzwiedzia-na-ukrainie-wladze-mowia-o-rosyjskiej-propagandzie</guid>
+<category>Kultura</category>
+<description>Kultura — Bartosz Michalski</description>
+<pubDate>Tue, 25 Aug 2026 12:47:00 +0200</pubDate>
+</item>
+<item>
+<title>The Blood of Dawnwalker na konsolach jednak z trybem wydajności. O co ta afera?</title>
+<link>https://zero.pl/news/the-blood-of-dawnwalker-na-konsolach-jednak-z-trybem-wydajnosci-o-co-ta-afera</link>
+<guid isPermaLink="true">https://zero.pl/news/the-blood-of-dawnwalker-na-konsolach-jednak-z-trybem-wydajnosci-o-co-ta-afera</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Tue, 25 Aug 2026 12:34:00 +0200</pubDate>
+</item>
 <item>
 <title>Ceny paliw w środę. Diesel wyraźnie tańszy, benzyna lekko droższa</title>
 <link>https://zero.pl/news/nowe-ceny-paliw-juz-od-srody-diesel-wyraznie-tanszy-benzyna-lekko-drozsza</link>
@@ -1190,22 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Fri, 21 Aug 2026 15:16:00 +0200</pubDate>
-</item>
-<item>
-<title>Koalicja Obywatelska nie radzi sobie z kolejną aferą? „To nie strategia, to czysty chaos”</title>
-<link>https://zero.pl/news/afera-wokol-raportu-marka-polska-ekspert-ocenia-dzialania-rzadu</link>
-<guid isPermaLink="true">https://zero.pl/news/afera-wokol-raportu-marka-polska-ekspert-ocenia-dzialania-rzadu</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Fri, 21 Aug 2026 15:05:00 +0200</pubDate>
-</item>
-<item>
-<title>Prokuratura chce kopii raportu „Polaków portret własny”. Śledczy wydali komunikat</title>
-<link>https://zero.pl/news/polakow-portret-wlasny-prokuratura-chce-kopii-raportu-jest-komunikat</link>
-<guid isPermaLink="true">https://zero.pl/news/polakow-portret-wlasny-prokuratura-chce-kopii-raportu-jest-komunikat</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Fri, 21 Aug 2026 14:45:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
