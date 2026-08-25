@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 25 Aug 2026 13:02:39 +0200</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 13:37:29 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Karol Madaj nowym dyrektorem Instytutu Pileckiego</title>
+<link>https://zero.pl/news/karol-madaj-dyrektorem-instytutu-pileckiego-marta-cienkowska-zdecydowala</link>
+<guid isPermaLink="true">https://zero.pl/news/karol-madaj-dyrektorem-instytutu-pileckiego-marta-cienkowska-zdecydowala</guid>
+<category>Kraj</category>
+<description>Kraj — Filip Baczkura</description>
+<pubDate>Tue, 25 Aug 2026 13:31:00 +0200</pubDate>
+</item>
+<item>
+<title>Robert Lewandowski legendą Barcelony? Polscy kibice wydali werdykt</title>
+<link>https://zero.pl/news/robert-lewandowski-legenda-barcelony-polscy-kibice-wypowiedzieli-sie-w-sondazu</link>
+<guid isPermaLink="true">https://zero.pl/news/robert-lewandowski-legenda-barcelony-polscy-kibice-wypowiedzieli-sie-w-sondazu</guid>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
+<pubDate>Tue, 25 Aug 2026 13:07:00 +0200</pubDate>
+</item>
 <item>
 <title>YouTube blokuje „Maszę i Niedźwiedzia” na Ukrainie. Władze mówią o rosyjskiej propagandzie</title>
 <link>https://zero.pl/news/youtube-blokuje-masze-i-niedzwiedzia-na-ukrainie-wladze-mowia-o-rosyjskiej-propagandzie</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Tomasz Pałasz</description>
 <pubDate>Fri, 21 Aug 2026 15:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Zarzuty w „ilościach hurtowych”. Żurek komentuje decyzje prokuratury w sprawie Brauna</title>
-<link>https://zero.pl/news/zarzuty-dla-grzegorza-brauna-europosel-jest-podejrzany-o-popelnienie-czterech-przestepstw</link>
-<guid isPermaLink="true">https://zero.pl/news/zarzuty-dla-grzegorza-brauna-europosel-jest-podejrzany-o-popelnienie-czterech-przestepstw</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Fri, 21 Aug 2026 15:29:00 +0200</pubDate>
-</item>
-<item>
-<title>Numer PESEL można zastrzec w telefonie. Co nam daje taka możliwość?</title>
-<link>https://zero.pl/news/numer-pesel-mozna-zastrzec-w-telefonie-co-nam-daje-taka-mozliwosc</link>
-<guid isPermaLink="true">https://zero.pl/news/numer-pesel-mozna-zastrzec-w-telefonie-co-nam-daje-taka-mozliwosc</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Fri, 21 Aug 2026 15:16:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
