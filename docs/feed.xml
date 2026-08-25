@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 25 Aug 2026 11:59:28 +0200</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 12:33:29 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Ceny paliw w środę. Diesel wyraźnie tańszy, benzyna lekko droższa</title>
+<link>https://zero.pl/news/nowe-ceny-paliw-juz-od-srody-diesel-wyraznie-tanszy-benzyna-lekko-drozsza</link>
+<guid isPermaLink="true">https://zero.pl/news/nowe-ceny-paliw-juz-od-srody-diesel-wyraznie-tanszy-benzyna-lekko-drozsza</guid>
+<category>Biznes</category>
+<description>Biznes — Filip Baczkura</description>
+<pubDate>Tue, 25 Aug 2026 12:16:00 +0200</pubDate>
+</item>
+<item>
+<title>Hołownia i Kobosko mogą stracić immunitety. Śledczy przygotowali wnioski</title>
+<link>https://zero.pl/news/szymon-holownia-i-michal-kobosko-wnioski-o-uchylenie-immunitetow-w-sprawie-collegium-humanum</link>
+<guid isPermaLink="true">https://zero.pl/news/szymon-holownia-i-michal-kobosko-wnioski-o-uchylenie-immunitetow-w-sprawie-collegium-humanum</guid>
+<category>Kraj</category>
+<description>Kraj — Bartosz Michalski</description>
+<pubDate>Tue, 25 Aug 2026 12:04:00 +0200</pubDate>
+</item>
 <item>
 <title>Polska się zbroi. Kolejne K2 „dopłynęły” z Korei</title>
 <link>https://zero.pl/news/k2-doplynely-koreanska-pancerna-piesc-dla-polski</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
 <pubDate>Fri, 21 Aug 2026 14:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Ceny paliw w górę. Od soboty nowe stawki maksymalne na stacjach</title>
-<link>https://zero.pl/news/ceny-paliw-w-gore-od-soboty-nowe-stawki-maksymalne-na-stacjach</link>
-<guid isPermaLink="true">https://zero.pl/news/ceny-paliw-w-gore-od-soboty-nowe-stawki-maksymalne-na-stacjach</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Fri, 21 Aug 2026 14:40:00 +0200</pubDate>
-</item>
-<item>
-<title>Nowy element aparatu może znacznie poprawić zdjęcia w iPhone'ach. Konkurencja ma to od lat</title>
-<link>https://zero.pl/news/ten-element-wyposazenia-moze-w-koncu-poprawic-najwieksza-wade-aparatow-iphonea</link>
-<guid isPermaLink="true">https://zero.pl/news/ten-element-wyposazenia-moze-w-koncu-poprawic-najwieksza-wade-aparatow-iphonea</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Fri, 21 Aug 2026 14:34:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
