@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 25 Aug 2026 18:50:20 +0200</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 19:18:57 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Pijany kierowca potrącił 12 osób w Portugalii. Wśród rannych Polak</title>
+<link>https://zero.pl/news/pijany-kierowca-potracil-12-osob-w-portugalii-wsrod-rannych-polak</link>
+<guid isPermaLink="true">https://zero.pl/news/pijany-kierowca-potracil-12-osob-w-portugalii-wsrod-rannych-polak</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Tue, 25 Aug 2026 19:05:00 +0200</pubDate>
+</item>
 <item>
 <title>MacBooki po aktualizacji systemu zwolniły. To nie błąd, dopiero teraz działają prawidłowo</title>
 <link>https://zero.pl/news/macbooki-po-aktualizacji-systemu-zwolnily-to-nie-blad-dopiero-teraz-dzialaja-prawidlowo</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Krzysztof Jabłonowski</description>
 <pubDate>Fri, 21 Aug 2026 21:15:00 +0200</pubDate>
-</item>
-<item>
-<title>Stachu Jones, Tumu(L)ec i spółka. Jak internet uczynił z nas gwiazdy</title>
-<link>https://zero.pl/news/stachu-jones-tumulec-lech-roch-pawlak-avengersi-polskiego-internetu</link>
-<guid isPermaLink="true">https://zero.pl/news/stachu-jones-tumulec-lech-roch-pawlak-avengersi-polskiego-internetu</guid>
-<category>Kultura</category>
-<description>Kultura — Michał Walkiewicz</description>
-<pubDate>Fri, 21 Aug 2026 20:59:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
