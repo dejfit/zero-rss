@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 25 Aug 2026 09:26:15 +0200</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 10:06:21 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>KO wygrywa wybory, ale Tusk nie ma powodów do radości. Braun może zdecydować o władzy</title>
+<link>https://zero.pl/news/sondaz-wyborczy-sierpien-2026-ko-273-proc-pis-206-proc-konfederacja-141-proc</link>
+<guid isPermaLink="true">https://zero.pl/news/sondaz-wyborczy-sierpien-2026-ko-273-proc-pis-206-proc-konfederacja-141-proc</guid>
+<category>Kraj</category>
+<description>Kraj — Filip Baczkura</description>
+<pubDate>Tue, 25 Aug 2026 09:34:00 +0200</pubDate>
+</item>
+<item>
+<title>Fikcyjne nagrody i pozorna rekrutacja do urzędów. Tak działa administracja publiczna</title>
+<link>https://zero.pl/news/fikcyjne-nagrody-i-brak-rekrutacji-na-podstawie-kompetencji-co-paralizuje-polska-administracje</link>
+<guid isPermaLink="true">https://zero.pl/news/fikcyjne-nagrody-i-brak-rekrutacji-na-podstawie-kompetencji-co-paralizuje-polska-administracje</guid>
+<category>Kraj</category>
+<description>Kraj — Małgorzata Ziółkowska</description>
+<pubDate>Tue, 25 Aug 2026 09:19:00 +0200</pubDate>
+</item>
 <item>
 <title>Szymon G. z zarzutami. „To człowiek Kropiwnickiego”</title>
 <link>https://zero.pl/news/szymon-g-uslyszal-zarzuty-byly-wiceprezes-totalizatora-sportowego-z-zarzutem</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
 <pubDate>Fri, 21 Aug 2026 12:18:00 +0200</pubDate>
-</item>
-<item>
-<title>Samsung ponosi ceny chipów, rynek smartfonów w kryzysie. Gdzie jest sufit?</title>
-<link>https://zero.pl/news/samsung-ponosi-ceny-chipow-rynek-smartfonow-w-kryzysie-gdzie-jest-sufit</link>
-<guid isPermaLink="true">https://zero.pl/news/samsung-ponosi-ceny-chipow-rynek-smartfonow-w-kryzysie-gdzie-jest-sufit</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Fri, 21 Aug 2026 11:49:00 +0200</pubDate>
-</item>
-<item>
-<title>Polscy marynarze na szwedzkim okręcie podwodnym. Szykują się na przyszłość</title>
-<link>https://zero.pl/news/polscy-marynarze-na-szwedzkim-okrecie-podwodnym-typu-a17-szkola-sie-na-przyszlosc</link>
-<guid isPermaLink="true">https://zero.pl/news/polscy-marynarze-na-szwedzkim-okrecie-podwodnym-typu-a17-szkola-sie-na-przyszlosc</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Fri, 21 Aug 2026 11:38:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
