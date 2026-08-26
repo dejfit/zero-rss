@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 26 Aug 2026 11:35:30 +0200</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 12:09:50 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Chlebowość, schabowość i inne dobra narodowe. Raport, który napisał się sam</title>
+<link>https://zero.pl/news/od-olgi-tokarczuk-do-chlebowosci-czym-konczy-sie-bezmyslne-uzywanie-ai</link>
+<guid isPermaLink="true">https://zero.pl/news/od-olgi-tokarczuk-do-chlebowosci-czym-konczy-sie-bezmyslne-uzywanie-ai</guid>
+<category>Nauka</category>
+<description>Nauka — Jan Wróbel</description>
+<pubDate>Wed, 26 Aug 2026 12:03:00 +0200</pubDate>
+</item>
+<item>
+<title>Wielkie przejęcie Żabki na ostatniej prostej. Kanadyjczycy wyłożyli karty na stół</title>
+<link>https://zero.pl/news/przejecie-zabki-zbliza-sie-wielkimi-krokami-wazny-ruch-kanadyjczykow</link>
+<guid isPermaLink="true">https://zero.pl/news/przejecie-zabki-zbliza-sie-wielkimi-krokami-wazny-ruch-kanadyjczykow</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Wed, 26 Aug 2026 11:54:00 +0200</pubDate>
+</item>
+<item>
+<title>Olbrzymi tuńczyk znów pojawił się u wybrzeży Anglii. Ważył 338 kg</title>
+<link>https://zero.pl/news/tunczyk-blekitnopletwy-wrocil-do-morza-polnocnego-rybacy-zlowili-338-kg</link>
+<guid isPermaLink="true">https://zero.pl/news/tunczyk-blekitnopletwy-wrocil-do-morza-polnocnego-rybacy-zlowili-338-kg</guid>
+<category>Świat</category>
+<description>Świat — Bartosz Michalski</description>
+<pubDate>Wed, 26 Aug 2026 11:40:00 +0200</pubDate>
+</item>
 <item>
 <title>Osiedle pod Warszawą odcięte od świata. Koparka zablokowała jedyny wyjazd</title>
 <link>https://zero.pl/news/katy-mieszkancy-odcieci-od-swiata-przez-remont-drogi-nie-dojedzie-karetka-ani-straz-pozarna</link>
@@ -1182,30 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Sat, 22 Aug 2026 19:47:00 +0200</pubDate>
-</item>
-<item>
-<title>Miał potężny połów karasia. Nagle pojawili się policjanci</title>
-<link>https://zero.pl/news/klusownik-zatrzymany-na-zbiorniku-krzczen-policjanci-zabezpieczyli-35-kg-ryb</link>
-<guid isPermaLink="true">https://zero.pl/news/klusownik-zatrzymany-na-zbiorniku-krzczen-policjanci-zabezpieczyli-35-kg-ryb</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Sat, 22 Aug 2026 19:34:00 +0200</pubDate>
-</item>
-<item>
-<title>Korea wysłała statek do Europy przez Arktykę. Po drodze Gdańsk</title>
-<link>https://zero.pl/news/korea-poludniowa-wyslala-kontenerowiec-przez-arktyke-statek-przyplynie-do-gdanska</link>
-<guid isPermaLink="true">https://zero.pl/news/korea-poludniowa-wyslala-kontenerowiec-przez-arktyke-statek-przyplynie-do-gdanska</guid>
-<category>Biznes</category>
-<description>Biznes — Filip Baczkura</description>
-<pubDate>Sat, 22 Aug 2026 19:05:00 +0200</pubDate>
-</item>
-<item>
-<title>Zostawił dziecko samo na Fudżi. Chłopiec czekał kilka godzin na szlaku</title>
-<link>https://zero.pl/news/ojciec-zostawil-7-letniego-syna-na-fudzi-dziecko-znaleziono-na-wysokosci-ponad-2-tys-m</link>
-<guid isPermaLink="true">https://zero.pl/news/ojciec-zostawil-7-letniego-syna-na-fudzi-dziecko-znaleziono-na-wysokosci-ponad-2-tys-m</guid>
-<category>Świat</category>
-<description>Świat — Filip Baczkura</description>
-<pubDate>Sat, 22 Aug 2026 18:30:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
