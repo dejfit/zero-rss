@@ -5,8 +5,48 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 26 Aug 2026 18:21:24 +0200</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 20:11:14 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Czołgi wycofane z pierwszej linii walk. Ekspert ds. dronów: Atakowany jest każdy pojazd</title>
+<link>https://zero.pl/news/czolgi-wycofane-z-pierwszej-linii-walk-ekspert-ds-dronow-kazdy-pojazd-atakowany</link>
+<guid isPermaLink="true">https://zero.pl/news/czolgi-wycofane-z-pierwszej-linii-walk-ekspert-ds-dronow-kazdy-pojazd-atakowany</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Wed, 26 Aug 2026 20:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Duże zmiany u księcia Harry'ego i Meghan. W tle spór o koszty ochrony i relacje z rodziną</title>
+<link>https://zero.pl/news/ksiaze-harry-i-meghan-markle-wrocili-do-wielkiej-brytanii-co-z-ochrona-i-relacjami-z-rodzina</link>
+<guid isPermaLink="true">https://zero.pl/news/ksiaze-harry-i-meghan-markle-wrocili-do-wielkiej-brytanii-co-z-ochrona-i-relacjami-z-rodzina</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Wed, 26 Aug 2026 19:59:00 +0200</pubDate>
+</item>
+<item>
+<title>Skolim na imprezie u prezydenta. Pałac ustalał repertuar</title>
+<link>https://zero.pl/news/dlaczego-akurat-skolim-zagra-w-juracie-u-prezydenta-rzecznik-karola-nawrockiego-wyjasnia</link>
+<guid isPermaLink="true">https://zero.pl/news/dlaczego-akurat-skolim-zagra-w-juracie-u-prezydenta-rzecznik-karola-nawrockiego-wyjasnia</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Wed, 26 Aug 2026 19:27:00 +0200</pubDate>
+</item>
+<item>
+<title>Koniec pewnej epoki w kredytach. Za kilka miesięcy duże zmiany</title>
+<link>https://zero.pl/news/koniec-zasad-ktore-znamy-nadchodzi-polstr-i-prawdziwa-rewolucja-w-kredytach</link>
+<guid isPermaLink="true">https://zero.pl/news/koniec-zasad-ktore-znamy-nadchodzi-polstr-i-prawdziwa-rewolucja-w-kredytach</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Wed, 26 Aug 2026 18:45:00 +0200</pubDate>
+</item>
+<item>
+<title>Trzaskowski w ogniu pytań na Campusie. „Codziennie ciężko pracuję”</title>
+<link>https://zero.pl/news/campus-trzaskowskiego-wystartowal-prezydent-warszawy-codziennie-ciezko-pracuje</link>
+<guid isPermaLink="true">https://zero.pl/news/campus-trzaskowskiego-wystartowal-prezydent-warszawy-codziennie-ciezko-pracuje</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Wed, 26 Aug 2026 18:23:00 +0200</pubDate>
+</item>
 <item>
 <title>Bill Gates ostrzega przed erą AI. Proponuje listę zawodów tylko dla ludzi</title>
 <link>https://zero.pl/news/bill-gates-apeluje-o-liste-zawodow-zarezerwowanych-wylacznie-dla-ludzi</link>
@@ -1166,46 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Przemysław Staciwa</description>
 <pubDate>Sun, 23 Aug 2026 13:20:00 +0200</pubDate>
-</item>
-<item>
-<title>Zełenski: Niemcy dostarczą Ukrainie 600 pocisków do Patriotów</title>
-<link>https://zero.pl/news/zelenski-niemcy-dostarcza-ukrainie-600-pociskow-do-patriotow</link>
-<guid isPermaLink="true">https://zero.pl/news/zelenski-niemcy-dostarcza-ukrainie-600-pociskow-do-patriotow</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Sun, 23 Aug 2026 12:34:00 +0200</pubDate>
-</item>
-<item>
-<title>Sondaż: Większość Polaków nie ufa, że wojsko jest gotowe na atak wroga</title>
-<link>https://zero.pl/news/sondaz-wiekszosc-polakow-nie-ufa-ze-wojsko-jest-gotowe-na-atak-wroga</link>
-<guid isPermaLink="true">https://zero.pl/news/sondaz-wiekszosc-polakow-nie-ufa-ze-wojsko-jest-gotowe-na-atak-wroga</guid>
-<category>Wojsko</category>
-<description>Wojsko — Przemysław Staciwa</description>
-<pubDate>Sun, 23 Aug 2026 12:04:00 +0200</pubDate>
-</item>
-<item>
-<title>Trzeci tydzień na Grenlandii. Można się poczuć jak na innej planecie</title>
-<link>https://zero.pl/news/dziennik-z-ekspedycji-na-grenlandie-badania-intruzji-skaergaard-i-walka-z-natura</link>
-<guid isPermaLink="true">https://zero.pl/news/dziennik-z-ekspedycji-na-grenlandie-badania-intruzji-skaergaard-i-walka-z-natura</guid>
-<category>Świat</category>
-<description>Świat — Piotr Kornacki</description>
-<pubDate>Sun, 23 Aug 2026 11:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Kraków: Nadmierna prędkość przyczyną tragedii. Zginęło małżeństwo</title>
-<link>https://zero.pl/news/krakow-nadmierna-predkosc-przyczyna-tragedii-na-chodniku-zginelo-malzenstwo</link>
-<guid isPermaLink="true">https://zero.pl/news/krakow-nadmierna-predkosc-przyczyna-tragedii-na-chodniku-zginelo-malzenstwo</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Sun, 23 Aug 2026 11:22:00 +0200</pubDate>
-</item>
-<item>
-<title>Monachium zamiast Sydney. Zaskakująca wpadka na medalach maratonu</title>
-<link>https://zero.pl/news/maraton-w-sydney-allianz-arena-z-monachium-na-medalach-zamiast-stadionu-w-sydney</link>
-<guid isPermaLink="true">https://zero.pl/news/maraton-w-sydney-allianz-arena-z-monachium-na-medalach-zamiast-stadionu-w-sydney</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Sun, 23 Aug 2026 11:02:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
