@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 26 Aug 2026 10:56:50 +0200</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 11:35:30 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Osiedle pod Warszawą odcięte od świata. Koparka zablokowała jedyny wyjazd</title>
+<link>https://zero.pl/news/katy-mieszkancy-odcieci-od-swiata-przez-remont-drogi-nie-dojedzie-karetka-ani-straz-pozarna</link>
+<guid isPermaLink="true">https://zero.pl/news/katy-mieszkancy-odcieci-od-swiata-przez-remont-drogi-nie-dojedzie-karetka-ani-straz-pozarna</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Wed, 26 Aug 2026 11:18:00 +0200</pubDate>
+</item>
+<item>
+<title>Wizyta szefa CIA w Moskwie. Putin odwoła plan mobilizacji czy będzie eskalował?</title>
+<link>https://zero.pl/news/john-ratcliffe-w-moskwie-putin-odwola-plan-mobilizacji-czy-bedzie-eskalowal-opinia</link>
+<guid isPermaLink="true">https://zero.pl/news/john-ratcliffe-w-moskwie-putin-odwola-plan-mobilizacji-czy-bedzie-eskalowal-opinia</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Wed, 26 Aug 2026 11:09:00 +0200</pubDate>
+</item>
 <item>
 <title>Mac mini i Mac Studio z nowymi procesorami. Najmocniejsza konfiguracja w cenie małego auta</title>
 <link>https://zero.pl/news/mac-mini-i-mac-studio-z-nowymi-procesorami-najmocniejsza-konfiguracja-za-ponad-90-tys-zl</link>
@@ -24,7 +40,7 @@
 <pubDate>Wed, 26 Aug 2026 10:34:00 +0200</pubDate>
 </item>
 <item>
-<title>Giertych obrońcą Krala. Europoseł PiS mówi o „dealu szytym grubymi nićmi”</title>
+<title>Giertych obrońcą Krala. Poseł PiS mówi o „dealu szytym grubymi nićmi”</title>
 <link>https://zero.pl/news/radoslaw-fogiel-o-romanie-giertychu-i-obronie-krala-deal-szyty-grubymi-nicmi</link>
 <guid isPermaLink="true">https://zero.pl/news/radoslaw-fogiel-o-romanie-giertychu-i-obronie-krala-deal-szyty-grubymi-nicmi</guid>
 <category>Kraj</category>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Filip Baczkura</description>
 <pubDate>Sat, 22 Aug 2026 18:30:00 +0200</pubDate>
-</item>
-<item>
-<title>Nie chcą już sprzedać ci produktu. Masz płacić bez końca</title>
-<link>https://zero.pl/news/wszystko-staje-sie-towarem-milanovic-ostrzega-przed-nowa-faza-kapitalizmu</link>
-<guid isPermaLink="true">https://zero.pl/news/wszystko-staje-sie-towarem-milanovic-ostrzega-przed-nowa-faza-kapitalizmu</guid>
-<category>Kultura</category>
-<description>Kultura — Wydawnictwo Port</description>
-<pubDate>Sat, 22 Aug 2026 18:02:00 +0200</pubDate>
-</item>
-<item>
-<title>„Koniec administracyjnej fikcji”. Nowe zasady dot. małżeństw jednopłciowych</title>
-<link>https://zero.pl/news/malzenstwa-jednoplciowe-od-niedzieli-transkrypcja-zagranicznych-aktow-w-kazdym-usc</link>
-<guid isPermaLink="true">https://zero.pl/news/malzenstwa-jednoplciowe-od-niedzieli-transkrypcja-zagranicznych-aktow-w-kazdym-usc</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Sat, 22 Aug 2026 17:30:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
