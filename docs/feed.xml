@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 26 Aug 2026 10:01:20 +0200</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 10:56:50 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Mac mini i Mac Studio z nowymi procesorami. Najmocniejsza konfiguracja w cenie małego auta</title>
+<link>https://zero.pl/news/mac-mini-i-mac-studio-z-nowymi-procesorami-najmocniejsza-konfiguracja-za-ponad-90-tys-zl</link>
+<guid isPermaLink="true">https://zero.pl/news/mac-mini-i-mac-studio-z-nowymi-procesorami-najmocniejsza-konfiguracja-za-ponad-90-tys-zl</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Wed, 26 Aug 2026 10:53:00 +0200</pubDate>
+</item>
+<item>
+<title>Taniej zeskrobać kogoś z torów niż odpowiednio zabezpieczyć warszawskie metro</title>
+<link>https://zero.pl/news/warszawskie-metro-41-wtargniec-na-tory-17-ofiar-drzwi-peronowe-nadal-tylko-w-planach-opinia</link>
+<guid isPermaLink="true">https://zero.pl/news/warszawskie-metro-41-wtargniec-na-tory-17-ofiar-drzwi-peronowe-nadal-tylko-w-planach-opinia</guid>
+<category>Kraj</category>
+<description>Kraj — Jakub Styczyński</description>
+<pubDate>Wed, 26 Aug 2026 10:34:00 +0200</pubDate>
+</item>
 <item>
 <title>Giertych obrońcą Krala. Europoseł PiS mówi o „dealu szytym grubymi nićmi”</title>
 <link>https://zero.pl/news/radoslaw-fogiel-o-romanie-giertychu-i-obronie-krala-deal-szyty-grubymi-nicmi</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura</description>
 <pubDate>Sat, 22 Aug 2026 17:30:00 +0200</pubDate>
-</item>
-<item>
-<title>Romanowski w Naddniestrzu. Zapytaliśmy Polaków o przymusowe sprowadzenie posła PiS</title>
-<link>https://zero.pl/news/sondaz-czy-sluzby-powinny-porwac-romanowskiego-polacy-odpowiedzieli</link>
-<guid isPermaLink="true">https://zero.pl/news/sondaz-czy-sluzby-powinny-porwac-romanowskiego-polacy-odpowiedzieli</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Sat, 22 Aug 2026 16:53:00 +0200</pubDate>
-</item>
-<item>
-<title>Janusz Kowalski zagłosował cudzą kartą. Prokuratura wszczęła śledztwo</title>
-<link>https://zero.pl/news/janusz-kowalski-zaglosowal-karta-innego-posla-jest-sledztwo-prokuratury</link>
-<guid isPermaLink="true">https://zero.pl/news/janusz-kowalski-zaglosowal-karta-innego-posla-jest-sledztwo-prokuratury</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Sat, 22 Aug 2026 16:36:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
