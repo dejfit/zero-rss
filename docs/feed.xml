@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 26 Aug 2026 13:46:51 +0200</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 14:17:55 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Echa wizyty szefa CIA w Moskwie. „Krok w stronę budowania kanałów negocjacji”</title>
+<link>https://zero.pl/news/john-ratcliffe-w-moskwie-echa-spotkania-szefa-cia-z-ludzmi-wladimira-putina</link>
+<guid isPermaLink="true">https://zero.pl/news/john-ratcliffe-w-moskwie-echa-spotkania-szefa-cia-z-ludzmi-wladimira-putina</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Wed, 26 Aug 2026 14:12:00 +0200</pubDate>
+</item>
 <item>
 <title>Słynny mistrz ucieczek z więzienia zatrzymany. Zbiegł zza krat już cztery razy</title>
 <link>https://zero.pl/news/mistrz-ucieczek-z-wiezienia-wreszcie-zatrzymany-zbiegl-zza-krat-juz-czterokrotnie</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Filip Baczkura</description>
 <pubDate>Sat, 22 Aug 2026 21:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Kraków: 36-latek zmarł po brutalnym pobiciu. Policja zatrzymała dziewięć osób</title>
-<link>https://zero.pl/news/nowa-huta-w-krakowie-smierc-36-latka-policja-szuka-swiadkow</link>
-<guid isPermaLink="true">https://zero.pl/news/nowa-huta-w-krakowie-smierc-36-latka-policja-szuka-swiadkow</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Sat, 22 Aug 2026 21:18:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
