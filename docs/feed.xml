@@ -5,10 +5,34 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 26 Aug 2026 16:09:58 +0200</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 17:00:33 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
-<title>Potężna powódź uderzyła w Nepal. Trwają poszukiwania turystów</title>
+<title>Gwiazda reklamowała żelki na tarczycę. Jest akt oskarżenia</title>
+<link>https://zero.pl/news/dorota-r-stanie-przed-sadem-chodzi-o-reklame-suplementow-diety</link>
+<guid isPermaLink="true">https://zero.pl/news/dorota-r-stanie-przed-sadem-chodzi-o-reklame-suplementow-diety</guid>
+<category>Kultura</category>
+<description>Kultura — Kasjan Owsianko</description>
+<pubDate>Wed, 26 Aug 2026 16:52:00 +0200</pubDate>
+</item>
+<item>
+<title>Wojna biskupów z Nowacką. Ekspert wskazuje, co razi Polaków</title>
+<link>https://zero.pl/news/spor-o-religie-i-edukacje-zdrowotna-w-szkolach-flisowski-polakow-odrzuca-brutalny-jezyk-duchownych</link>
+<guid isPermaLink="true">https://zero.pl/news/spor-o-religie-i-edukacje-zdrowotna-w-szkolach-flisowski-polakow-odrzuca-brutalny-jezyk-duchownych</guid>
+<category>Nauka</category>
+<description>Nauka — Agnieszka Waś-Turecka</description>
+<pubDate>Wed, 26 Aug 2026 16:44:00 +0200</pubDate>
+</item>
+<item>
+<title>„Przepraszamy i prosimy o cierpliwość”. Góra Kalwaria reaguje na tekst Zero.pl</title>
+<link>https://zero.pl/news/katy-mieszkancy-odcieci-od-swiata-wladze-gory-kalwarii-przepraszaja-mieszkancow</link>
+<guid isPermaLink="true">https://zero.pl/news/katy-mieszkancy-odcieci-od-swiata-wladze-gory-kalwarii-przepraszaja-mieszkancow</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Wed, 26 Aug 2026 16:34:00 +0200</pubDate>
+</item>
+<item>
+<title>Potężna powódź w Nepalu. Wśród poszukiwanych turyści z całego świata</title>
 <link>https://zero.pl/news/powodz-w-nepalu-trwaja-pilne-poszukiwania-turystow</link>
 <guid isPermaLink="true">https://zero.pl/news/powodz-w-nepalu-trwaja-pilne-poszukiwania-turystow</guid>
 <category>Świat</category>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Przemysław Staciwa</description>
 <pubDate>Sun, 23 Aug 2026 10:24:00 +0200</pubDate>
-</item>
-<item>
-<title>Na skraju przepaści. Świat na łasce i niełasce kupieckiej mentalności Trumpa</title>
-<link>https://zero.pl/news/wojna-w-iranie-przyjazn-trumpa-z-kim-dzong-unem-i-geopolityka-interes-usa-ponad-prawem</link>
-<guid isPermaLink="true">https://zero.pl/news/wojna-w-iranie-przyjazn-trumpa-z-kim-dzong-unem-i-geopolityka-interes-usa-ponad-prawem</guid>
-<category>Świat</category>
-<description>Świat — Piotr Ikonowicz</description>
-<pubDate>Sun, 23 Aug 2026 08:59:00 +0200</pubDate>
-</item>
-<item>
-<title>Od dziś USC mogą transkrybować zagraniczne małżeństwa jednopłciowe</title>
-<link>https://zero.pl/news/od-dzis-usc-moga-transkrybowac-zagraniczne-malzenstwa-jednoplciowe</link>
-<guid isPermaLink="true">https://zero.pl/news/od-dzis-usc-moga-transkrybowac-zagraniczne-malzenstwa-jednoplciowe</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Sun, 23 Aug 2026 07:13:00 +0200</pubDate>
-</item>
-<item>
-<title>Norwegia tworzy własne AI. Biblioteka Narodowa stawia na ochronę języka</title>
-<link>https://zero.pl/news/norwegia-tworzy-wlasne-ai-biblioteka-narodowa-stawia-na-ochrone-jezyka</link>
-<guid isPermaLink="true">https://zero.pl/news/norwegia-tworzy-wlasne-ai-biblioteka-narodowa-stawia-na-ochrone-jezyka</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Sun, 23 Aug 2026 06:40:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
