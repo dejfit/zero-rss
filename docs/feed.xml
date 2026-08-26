@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 26 Aug 2026 13:15:46 +0200</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 13:46:51 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Słynny mistrz ucieczek z więzienia zatrzymany. Zbiegł zza krat już cztery razy</title>
+<link>https://zero.pl/news/mistrz-ucieczek-z-wiezienia-wreszcie-zatrzymany-zbiegl-zza-krat-juz-czterokrotnie</link>
+<guid isPermaLink="true">https://zero.pl/news/mistrz-ucieczek-z-wiezienia-wreszcie-zatrzymany-zbiegl-zza-krat-juz-czterokrotnie</guid>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
+<pubDate>Wed, 26 Aug 2026 13:45:00 +0200</pubDate>
+</item>
+<item>
+<title>Wiedźmin 3 Remastered. Żadna inna gra tak bardzo nie zasługiwała na odświeżenie</title>
+<link>https://zero.pl/news/masz-wiedzmina-3-dostaniesz-remaster-i-dwa-dodatki-za-darmo</link>
+<guid isPermaLink="true">https://zero.pl/news/masz-wiedzmina-3-dostaniesz-remaster-i-dwa-dodatki-za-darmo</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Wed, 26 Aug 2026 13:22:00 +0200</pubDate>
+</item>
 <item>
 <title>Tylu pielgrzymów dotrze na Jasną Górę. Urząd podał dokładne dane</title>
 <link>https://zero.pl/news/czestochowa-ma-swoje-swieto-na-jasna-gore-dotra-dzis-tysiace-pielgrzymow</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Tomasz Pałasz</description>
 <pubDate>Sat, 22 Aug 2026 21:18:00 +0200</pubDate>
-</item>
-<item>
-<title>Auto wjechało w pieszych na krakowskim Podgórzu. Dwie osoby zmarły</title>
-<link>https://zero.pl/news/auto-wjechalo-w-pieszych-na-krakowskim-podgorzu-dwie-osoby-zmarly</link>
-<guid isPermaLink="true">https://zero.pl/news/auto-wjechalo-w-pieszych-na-krakowskim-podgorzu-dwie-osoby-zmarly</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Sat, 22 Aug 2026 20:39:00 +0200</pubDate>
-</item>
-<item>
-<title>Panoptikum w Lesznowoli. 21 tys. metrów kwadratowych dla polskich skarbów</title>
-<link>https://zero.pl/news/panoptikum-lesznowola-centrum-kompetencji-dla-muzeow-21-tys-m-kw-dla-polskich-skarbow</link>
-<guid isPermaLink="true">https://zero.pl/news/panoptikum-lesznowola-centrum-kompetencji-dla-muzeow-21-tys-m-kw-dla-polskich-skarbow</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Sat, 22 Aug 2026 20:32:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
