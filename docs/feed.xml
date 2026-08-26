@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 26 Aug 2026 06:31:30 +0200</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 07:08:27 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Nowe zasady dotyczące lekcji religii. Ministerstwo ogłosiło, episkopat protestuje</title>
+<link>https://zero.pl/news/nowe-zasady-dotyczace-lekcji-religii-ministerstwo-oglosilo-episkopat-protestuje</link>
+<guid isPermaLink="true">https://zero.pl/news/nowe-zasady-dotyczace-lekcji-religii-ministerstwo-oglosilo-episkopat-protestuje</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Wed, 26 Aug 2026 06:57:00 +0200</pubDate>
+</item>
+<item>
+<title>7,5 tys. godzin pracy i ogromne zarobki. Jeden lekarz pełnił w szpitalu aż pięć funkcji</title>
+<link>https://zero.pl/news/szpital-w-bielsku-podlaskim-7530-godzin-pracy-w-ciagu-roku-lekarz-zarobil-ponad-2-mln-zl-i-pelnil-piec-funkcji</link>
+<guid isPermaLink="true">https://zero.pl/news/szpital-w-bielsku-podlaskim-7530-godzin-pracy-w-ciagu-roku-lekarz-zarobil-ponad-2-mln-zl-i-pelnil-piec-funkcji</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Filip Baczkura</description>
+<pubDate>Wed, 26 Aug 2026 06:45:00 +0200</pubDate>
+</item>
 <item>
 <title>Media: rząd chce nowego podatku. Ma go nałożyć na tytoń i alkohol</title>
 <link>https://zero.pl/news/media-rzad-chce-nowego-podatku-ma-go-nalozyc-na-tyton-i-alkohol</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Filip Baczkura</description>
 <pubDate>Sat, 22 Aug 2026 14:26:00 +0200</pubDate>
-</item>
-<item>
-<title>Potężny sum złowiony podczas imprezy w Polsce. Do rekordu zabrakło kilku centymetrów</title>
-<link>https://zero.pl/news/potezny-sum-zlowiony-podczas-imprezy-w-polsce-do-rekordu-zabraklo-kilku-centymetrow</link>
-<guid isPermaLink="true">https://zero.pl/news/potezny-sum-zlowiony-podczas-imprezy-w-polsce-do-rekordu-zabraklo-kilku-centymetrow</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Sat, 22 Aug 2026 13:50:00 +0200</pubDate>
-</item>
-<item>
-<title>Zemsta Ukrainy za masakrę w galerii handlowej. Atak dronów na kilka regionów</title>
-<link>https://zero.pl/news/zemsta-ukrainy-za-masakre-w-galerii-handlowej-atak-dronow-na-kilka-regionow</link>
-<guid isPermaLink="true">https://zero.pl/news/zemsta-ukrainy-za-masakre-w-galerii-handlowej-atak-dronow-na-kilka-regionow</guid>
-<category>Świat</category>
-<description>Świat — Paweł Żurek</description>
-<pubDate>Sat, 22 Aug 2026 13:34:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
