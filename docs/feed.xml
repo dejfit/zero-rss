@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 30 Aug 2026 21:28:48 +0200</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 23:58:26 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Tragedia polskiej rodziny na Krecie. 11-latka utopiła się w hotelowym basenie</title>
+<link>https://zero.pl/news/tragedia-polskiej-rodziny-na-krecie-11-latka-utopila-sie-w-hotelowym-basenie</link>
+<guid isPermaLink="true">https://zero.pl/news/tragedia-polskiej-rodziny-na-krecie-11-latka-utopila-sie-w-hotelowym-basenie</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Sun, 30 Aug 2026 21:52:00 +0200</pubDate>
+</item>
 <item>
 <title>Amerykańscy dowódcy ostrzegają Pentagon. „Dalsze operacje przeciwko Iranowi nie do utrzymania”</title>
 <link>https://zero.pl/news/amerykanscy-dowodcy-ostrzegaja-pentagon-dalsze-operacje-przeciwko-iranowi-nie-do-utrzymania</link>
@@ -1197,14 +1205,6 @@
 <guid isPermaLink="true">https://zero.pl/news/jasna-gora-2026-70-lat-jasnogorskich-slubow-narodu-reportaz-z-czestochowy</guid>
 <category>Kraj</category>
 <description>Kraj — Marcin Darmas</description>
-<pubDate>Thu, 27 Aug 2026 05:54:00 +0200</pubDate>
-</item>
-<item>
-<title>Skandal w samorządzie lekarskim. Tytoniowy lobbysta powołany na prestiżowe stanowisko</title>
-<link>https://zero.pl/news/krzysztof-filipiak-wyrozniony-przez-nil-w-tle-zwiazki-z-branza-tytoniowa-i-politykami-ko</link>
-<guid isPermaLink="true">https://zero.pl/news/krzysztof-filipiak-wyrozniony-przez-nil-w-tle-zwiazki-z-branza-tytoniowa-i-politykami-ko</guid>
-<category>Zdrowie</category>
-<description>Zdrowie — Patryk Słowik,Jakub Styczyński</description>
 <pubDate>Thu, 27 Aug 2026 05:54:00 +0200</pubDate>
 </item>
 </channel>
