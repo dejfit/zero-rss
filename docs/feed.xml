@@ -5,8 +5,56 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 31 Aug 2026 02:12:36 +0200</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 07:39:22 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Seria nowości w szkołach. Nowe przedmioty, zmiany w pracach domowych i na maturze</title>
+<link>https://zero.pl/news/seria-nowosci-w-nowym-roku-szkolnym-2026-2027-nowe-przedmioty-zmiany-w-programie-pracach-domowych-i-na-maturze</link>
+<guid isPermaLink="true">https://zero.pl/news/seria-nowosci-w-nowym-roku-szkolnym-2026-2027-nowe-przedmioty-zmiany-w-programie-pracach-domowych-i-na-maturze</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 31 Aug 2026 07:31:00 +0200</pubDate>
+</item>
+<item>
+<title>Jest reakcja na kryzys w PKOl. Trzy możliwe scenariusze</title>
+<link>https://zero.pl/news/mkol-reaguje-na-zatrzymanie-prezesa-pkol-trzy-mozliwe-scenariusze</link>
+<guid isPermaLink="true">https://zero.pl/news/mkol-reaguje-na-zatrzymanie-prezesa-pkol-trzy-mozliwe-scenariusze</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 31 Aug 2026 07:04:00 +0200</pubDate>
+</item>
+<item>
+<title>Ostatni dzień tańszego paliwa. Kierowcy muszą szykować się na duże podwyżki</title>
+<link>https://zero.pl/news/koniec-ceny-paliw-nizej-od-wtorku-o-ile-podrozeja-benzyna-i-diesel-1-wrzesnia</link>
+<guid isPermaLink="true">https://zero.pl/news/koniec-ceny-paliw-nizej-od-wtorku-o-ile-podrozeja-benzyna-i-diesel-1-wrzesnia</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 31 Aug 2026 06:41:00 +0200</pubDate>
+</item>
+<item>
+<title>Koniec względnego spokoju w cieśninie Ormuz. Natychmiast wzrosły ceny ropy</title>
+<link>https://zero.pl/news/usa-atakuja-iran-w-ciesninie-ormuz-odwetowe-ataki-rakietowe-i-wzrost-cen-ropy</link>
+<guid isPermaLink="true">https://zero.pl/news/usa-atakuja-iran-w-ciesninie-ormuz-odwetowe-ataki-rakietowe-i-wzrost-cen-ropy</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 31 Aug 2026 06:19:00 +0200</pubDate>
+</item>
+<item>
+<title>Idzie szkoła, idzie bieda. Portfele rodziców cierpią przez korepetycje</title>
+<link>https://zero.pl/news/paragon-grozy-wita-wrzesien-portfele-rodzicow-cierpia-przez-korepetycje</link>
+<guid isPermaLink="true">https://zero.pl/news/paragon-grozy-wita-wrzesien-portfele-rodzicow-cierpia-przez-korepetycje</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Mon, 31 Aug 2026 05:58:00 +0200</pubDate>
+</item>
+<item>
+<title>Ryszard Terlecki o odejściu z PiS: Do końca sądziliśmy, że to się jakoś ułoży</title>
+<link>https://zero.pl/news/agenci-wariaci-czy-rozsadni-ryszard-terlecki-o-rzadzie-z-politykami-korony-brauna</link>
+<guid isPermaLink="true">https://zero.pl/news/agenci-wariaci-czy-rozsadni-ryszard-terlecki-o-rzadzie-z-politykami-korony-brauna</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Figurski</description>
+<pubDate>Mon, 31 Aug 2026 05:57:00 +0200</pubDate>
+</item>
 <item>
 <title>Tragedia polskiej rodziny na Krecie. 11-latka utopiła się w hotelowym basenie</title>
 <link>https://zero.pl/news/tragedia-polskiej-rodziny-na-krecie-11-latka-utopila-sie-w-hotelowym-basenie</link>
@@ -28,7 +76,7 @@
 <link>https://zero.pl/news/krzysztof-stanowski-stracil-prawo-jazdy-jechal-110-km-h-w-terenie-zabudowanym</link>
 <guid isPermaLink="true">https://zero.pl/news/krzysztof-stanowski-stracil-prawo-jazdy-jechal-110-km-h-w-terenie-zabudowanym</guid>
 <category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
+<description>Kraj — Tomasz Pałasz,Paweł Żurek</description>
 <pubDate>Sun, 30 Aug 2026 20:45:00 +0200</pubDate>
 </item>
 <item>
@@ -1158,54 +1206,6 @@
 <category>Program TV</category>
 <description>Program TV — Redakcja Zero.pl</description>
 <pubDate>Thu, 27 Aug 2026 13:11:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na niedzielę 30 sierpnia 2026 r.</title>
-<link>https://zero.pl/news/ramowka-zero-tv-na-niedziele-30-sierpnia-2026-r</link>
-<guid isPermaLink="true">https://zero.pl/news/ramowka-zero-tv-na-niedziele-30-sierpnia-2026-r</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Thu, 27 Aug 2026 13:11:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na sobotę 29 sierpnia 2026 r.</title>
-<link>https://zero.pl/news/ramowka-zero-tv-na-sobote-29-sierpnia-2026-r</link>
-<guid isPermaLink="true">https://zero.pl/news/ramowka-zero-tv-na-sobote-29-sierpnia-2026-r</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Thu, 27 Aug 2026 13:11:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na piątek 28 sierpnia 2026 r.</title>
-<link>https://zero.pl/news/ramowka-zero-tv-na-piatek-28-sierpnia-2026-r</link>
-<guid isPermaLink="true">https://zero.pl/news/ramowka-zero-tv-na-piatek-28-sierpnia-2026-r</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Thu, 27 Aug 2026 13:10:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na czwartek 27 sierpnia 2026 r.</title>
-<link>https://zero.pl/news/ramowka-zero-tv-na-czwartek-27-sierpnia-2026-r</link>
-<guid isPermaLink="true">https://zero.pl/news/ramowka-zero-tv-na-czwartek-27-sierpnia-2026-r</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Thu, 27 Aug 2026 13:10:00 +0200</pubDate>
-</item>
-<item>
-<title>Potężna lawina błotna w Tybecie. Setki osób zaginionych, wśród nich 260 obcokrajowców</title>
-<link>https://zero.pl/news/lawina-blotna-w-tybecie-558-osob-zaginionych-sa-ofiary-smiertelne</link>
-<guid isPermaLink="true">https://zero.pl/news/lawina-blotna-w-tybecie-558-osob-zaginionych-sa-ofiary-smiertelne</guid>
-<category>Świat</category>
-<description>Świat — Filip Baczkura</description>
-<pubDate>Thu, 27 Aug 2026 06:26:00 +0200</pubDate>
-</item>
-<item>
-<title>„To Ona wysłuchała moich modlitw”. Na Jasnej Górze zobaczyłem Polskę, która wciąż prosi</title>
-<link>https://zero.pl/news/jasna-gora-2026-70-lat-jasnogorskich-slubow-narodu-reportaz-z-czestochowy</link>
-<guid isPermaLink="true">https://zero.pl/news/jasna-gora-2026-70-lat-jasnogorskich-slubow-narodu-reportaz-z-czestochowy</guid>
-<category>Kraj</category>
-<description>Kraj — Marcin Darmas</description>
-<pubDate>Thu, 27 Aug 2026 05:54:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
