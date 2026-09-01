@@ -5,8 +5,64 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 01 Sep 2026 18:32:41 +0200</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 21:32:14 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Co z pomnikiem polskich ofiar w Berlinie? Burmistrz miasta zabrał głos</title>
+<link>https://zero.pl/news/co-ze-stalym-pomnikiem-polskich-ofiar-w-berlinie-burmistrz-miasta-zabral-glos</link>
+<guid isPermaLink="true">https://zero.pl/news/co-ze-stalym-pomnikiem-polskich-ofiar-w-berlinie-burmistrz-miasta-zabral-glos</guid>
+<category>Świat</category>
+<description>Świat — Kamil Szałecki</description>
+<pubDate>Tue, 01 Sep 2026 21:09:00 +0200</pubDate>
+</item>
+<item>
+<title>Nowy gigant zbrojeniowy w Ukrainie? Jest amerykański inwestor</title>
+<link>https://zero.pl/news/byly-minister-obrony-ukrainy-zalozy-firme-zbrojeniowa-jest-amerykanski-inwestor</link>
+<guid isPermaLink="true">https://zero.pl/news/byly-minister-obrony-ukrainy-zalozy-firme-zbrojeniowa-jest-amerykanski-inwestor</guid>
+<category>Wojsko</category>
+<description>Wojsko — Krzysztof Jabłonowski</description>
+<pubDate>Tue, 01 Sep 2026 20:55:00 +0200</pubDate>
+</item>
+<item>
+<title>USA atakują Iran. Eksplozje w regionie cieśniny Ormuz</title>
+<link>https://zero.pl/news/wojna-w-iranie-usa-atakuja-eksplozje-w-regionie-ciesniny-ormuz</link>
+<guid isPermaLink="true">https://zero.pl/news/wojna-w-iranie-usa-atakuja-eksplozje-w-regionie-ciesniny-ormuz</guid>
+<category>Wojsko</category>
+<description>Wojsko — Kamil Szałecki</description>
+<pubDate>Tue, 01 Sep 2026 20:36:00 +0200</pubDate>
+</item>
+<item>
+<title>„Po co mi Kłeczek, skoro mam AI”? Internetowa papka w Telewizji Republika</title>
+<link>https://zero.pl/news/ai-slop-wchodzi-do-reklamy-i-mediow-spot-telewizji-republika-budzi-kontrowersje</link>
+<guid isPermaLink="true">https://zero.pl/news/ai-slop-wchodzi-do-reklamy-i-mediow-spot-telewizji-republika-budzi-kontrowersje</guid>
+<category>Kultura</category>
+<description>Kultura — Krzysztof Jabłonowski</description>
+<pubDate>Tue, 01 Sep 2026 20:14:00 +0200</pubDate>
+</item>
+<item>
+<title>Nie reparacje, a inwestycja w bezpieczeństwo. Co naprawdę Nawrocki zaproponował na Westerplatte?</title>
+<link>https://zero.pl/news/reparacje-na-zbrojenia-nowa-propozycja-nawrockiego-wobec-niemiec</link>
+<guid isPermaLink="true">https://zero.pl/news/reparacje-na-zbrojenia-nowa-propozycja-nawrockiego-wobec-niemiec</guid>
+<category>Kraj</category>
+<description>Kraj — Wojciech J. Kittel</description>
+<pubDate>Tue, 01 Sep 2026 19:32:00 +0200</pubDate>
+</item>
+<item>
+<title>Awantura po słowach Błaszczaka o NATO. Gen. Polko: Putin zaciera ręce</title>
+<link>https://zero.pl/news/gen-roman-polko-po-slowach-mariusza-blaszczaka-o-nato-putin-zaciera-rece</link>
+<guid isPermaLink="true">https://zero.pl/news/gen-roman-polko-po-slowach-mariusza-blaszczaka-o-nato-putin-zaciera-rece</guid>
+<category>Wojsko</category>
+<description>Wojsko — Filip Baczkura</description>
+<pubDate>Tue, 01 Sep 2026 19:21:00 +0200</pubDate>
+</item>
+<item>
+<title>Afera wokół PKOl. Media ujawniły treść kontrowersyjnej umowy</title>
+<link>https://zero.pl/news/pkol-sprzedawal-wizerunki-olimpijczykow-i-dane-kibicow-za-krypto-burza-w-sieci</link>
+<guid isPermaLink="true">https://zero.pl/news/pkol-sprzedawal-wizerunki-olimpijczykow-i-dane-kibicow-za-krypto-burza-w-sieci</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Tue, 01 Sep 2026 18:50:00 +0200</pubDate>
+</item>
 <item>
 <title>Jaka pogoda w środę i czwartek? Tam popada, zagrzmi i zawieje</title>
 <link>https://zero.pl/news/jaka-pogoda-w-srode-i-czwartek-prognoza-imgw</link>
@@ -1150,62 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Paweł Żurek</description>
 <pubDate>Sat, 29 Aug 2026 11:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Tragiczny bilans rosyjskich ataków. Wiele ofiar, dzieci wśród poszkodowanych</title>
-<link>https://zero.pl/news/tragiczny-bilans-rosyjskich-atakow-wiele-ofiar-dzieci-wsrod-poszkodowanych</link>
-<guid isPermaLink="true">https://zero.pl/news/tragiczny-bilans-rosyjskich-atakow-wiele-ofiar-dzieci-wsrod-poszkodowanych</guid>
-<category>Świat</category>
-<description>Świat — Paweł Żurek</description>
-<pubDate>Sat, 29 Aug 2026 11:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Stanowski odpowiedział na słowa Tuska. „Co zrobiliście przez pół roku?”</title>
-<link>https://zero.pl/news/krzysztof-stanowski-odpowiedzial-donaldowi-tuskowi-co-zrobiliscie-przez-pol-roku</link>
-<guid isPermaLink="true">https://zero.pl/news/krzysztof-stanowski-odpowiedzial-donaldowi-tuskowi-co-zrobiliscie-przez-pol-roku</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Sat, 29 Aug 2026 10:39:00 +0200</pubDate>
-</item>
-<item>
-<title>Weto w sprawie e-dziennika to zła decyzja</title>
-<link>https://zero.pl/news/prezydent-zawetowal-ustawe-w-sprawie-e-dziennika-wittenberg-to-zla-decyzja</link>
-<guid isPermaLink="true">https://zero.pl/news/prezydent-zawetowal-ustawe-w-sprawie-e-dziennika-wittenberg-to-zla-decyzja</guid>
-<category>Kraj</category>
-<description>Kraj — Anna Wittenberg</description>
-<pubDate>Sat, 29 Aug 2026 09:36:00 +0200</pubDate>
-</item>
-<item>
-<title>Polscy naukowcy odkryli nowy gatunek skorupiaka. Występuje tylko w jednym miejscu</title>
-<link>https://zero.pl/news/polscy-naukowcy-odkryli-nowy-gatunek-skorupiaka-wystepuje-tylko-w-jednym-miejscu</link>
-<guid isPermaLink="true">https://zero.pl/news/polscy-naukowcy-odkryli-nowy-gatunek-skorupiaka-wystepuje-tylko-w-jednym-miejscu</guid>
-<category>Nauka</category>
-<description>Nauka — Paweł Żurek</description>
-<pubDate>Sat, 29 Aug 2026 09:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Rządowa strona już działa. Można sprawdzić, czy z MyDr wyciekły nasze dane</title>
-<link>https://zero.pl/news/rzadowa-strona-juz-dziala-mozna-sprawdzic-czy-z-mydr-wyciekly-nasze-dane</link>
-<guid isPermaLink="true">https://zero.pl/news/rzadowa-strona-juz-dziala-mozna-sprawdzic-czy-z-mydr-wyciekly-nasze-dane</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Sat, 29 Aug 2026 09:12:00 +0200</pubDate>
-</item>
-<item>
-<title>Niespokojna pogoda w weekend. Burze oraz silny wiatr, IMGW wydał ostrzeżenia</title>
-<link>https://zero.pl/news/niespokojna-pogoda-w-weekend-burze-oraz-silny-wiatr-imgw-wydal-ostrzezenia</link>
-<guid isPermaLink="true">https://zero.pl/news/niespokojna-pogoda-w-weekend-burze-oraz-silny-wiatr-imgw-wydal-ostrzezenia</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Sat, 29 Aug 2026 08:29:00 +0200</pubDate>
-</item>
-<item>
-<title>Stany Zjednoczone kładą rękę na wenezuelskiej ropie. „Największa transakcja naftowa w historii”</title>
-<link>https://zero.pl/news/usa-kladzie-reke-na-wenezuelskiej-ropie-najwieksza-transakcja-naftowa-w-historii</link>
-<guid isPermaLink="true">https://zero.pl/news/usa-kladzie-reke-na-wenezuelskiej-ropie-najwieksza-transakcja-naftowa-w-historii</guid>
-<category>Świat</category>
-<description>Świat — Paweł Żurek</description>
-<pubDate>Sat, 29 Aug 2026 07:53:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
