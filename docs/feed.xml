@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 02 Sep 2026 20:39:22 +0200</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 23:16:34 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Trump chce spotkać się z Putinem. Postawił jeden warunek</title>
+<link>https://zero.pl/news/spotkanie-trump-putin-jest-jeden-warunek</link>
+<guid isPermaLink="true">https://zero.pl/news/spotkanie-trump-putin-jest-jeden-warunek</guid>
+<category>Świat</category>
+<description>Świat — Kamil Szałecki</description>
+<pubDate>Wed, 02 Sep 2026 21:52:00 +0200</pubDate>
+</item>
+<item>
+<title>Ramówka Zero TV na wtorek 8 września 2026 r.</title>
+<link>https://zero.pl/news/ramowka-zero-tv-na-wtorek-8-wrzesnia-2026-r</link>
+<guid isPermaLink="true">https://zero.pl/news/ramowka-zero-tv-na-wtorek-8-wrzesnia-2026-r</guid>
+<category>Program TV</category>
+<description>Program TV — Redakcja Zero.pl</description>
+<pubDate>Wed, 02 Sep 2026 21:33:00 +0200</pubDate>
+</item>
+<item>
+<title>Orban rozdał 500 mld forintów tuż przed wyborami. Ujawniono tajne decyzje rządu</title>
+<link>https://zero.pl/news/orban-rozdal-500-mld-forintow-tuz-przed-wyborami-ujawniono-tajne-decyzje-rzadu</link>
+<guid isPermaLink="true">https://zero.pl/news/orban-rozdal-500-mld-forintow-tuz-przed-wyborami-ujawniono-tajne-decyzje-rzadu</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Wed, 02 Sep 2026 21:09:00 +0200</pubDate>
+</item>
+<item>
+<title>Skazany za wyłudzenia w SKOK Wołomin. Władysław Serafin tłumaczy się u Stanowskiego</title>
+<link>https://zero.pl/news/wladyslaw-serafin-o-wyroku-ws-skok-wolomin-ona-klamie-padly-mocne-zarzuty</link>
+<guid isPermaLink="true">https://zero.pl/news/wladyslaw-serafin-o-wyroku-ws-skok-wolomin-ona-klamie-padly-mocne-zarzuty</guid>
+<category>Kraj</category>
+<description>Kraj — Filip Baczkura</description>
+<pubDate>Wed, 02 Sep 2026 20:49:00 +0200</pubDate>
+</item>
 <item>
 <title>Państwo przejmuje grunty pod CPK. 40 proc. terenów przekazanych dobrowolnie</title>
 <link>https://zero.pl/news/panstwo-przejmuje-grunty-pod-cpk-40-proc-za-nami</link>
@@ -1174,38 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Przemysław Staciwa</description>
 <pubDate>Sun, 30 Aug 2026 16:01:00 +0200</pubDate>
-</item>
-<item>
-<title>Widowisko w Kapsztadzie. Dwa samoloty przeleciały kilkanaście metrów nad dachem stadionu</title>
-<link>https://zero.pl/news/widowisko-w-kapsztadzie-dwa-samoloty-przelecialy-kilkanascie-metrow-nad-dachem-stadionu</link>
-<guid isPermaLink="true">https://zero.pl/news/widowisko-w-kapsztadzie-dwa-samoloty-przelecialy-kilkanascie-metrow-nad-dachem-stadionu</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Sun, 30 Aug 2026 15:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Szef dyplomacji Watykanu po wizycie w Rosji: izolowanie państw nie pomaga zakończyć wojny</title>
-<link>https://zero.pl/news/watykan-po-wizycie-w-rosji-abp-gallagher-zakonczenie-wojny-wymaga-dialogu-ze-wszystkimi</link>
-<guid isPermaLink="true">https://zero.pl/news/watykan-po-wizycie-w-rosji-abp-gallagher-zakonczenie-wojny-wymaga-dialogu-ze-wszystkimi</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Sun, 30 Aug 2026 15:10:00 +0200</pubDate>
-</item>
-<item>
-<title>Teleskop Nancy Grace Roman poleciał w kosmos. To nowa era badań nad wszechświatem</title>
-<link>https://zero.pl/news/teleskop-nancy-grace-roman-polecial-w-kosmos-to-nowa-era-badan-nad-wszechswiatem</link>
-<guid isPermaLink="true">https://zero.pl/news/teleskop-nancy-grace-roman-polecial-w-kosmos-to-nowa-era-badan-nad-wszechswiatem</guid>
-<category>Nauka</category>
-<description>Nauka — Tomasz Pałasz</description>
-<pubDate>Sun, 30 Aug 2026 15:10:00 +0200</pubDate>
-</item>
-<item>
-<title>Wybuchy, mgła i uparta skała. Kolejny etap poszukiwań na Grenlandii</title>
-<link>https://zero.pl/news/marsz-przez-lodowiec-mgla-i-wybuchy-piotr-kornacki-relacjonuje-wyprawe-na-grenlandie</link>
-<guid isPermaLink="true">https://zero.pl/news/marsz-przez-lodowiec-mgla-i-wybuchy-piotr-kornacki-relacjonuje-wyprawe-na-grenlandie</guid>
-<category>Nauka</category>
-<description>Nauka — Piotr Kornacki</description>
-<pubDate>Sun, 30 Aug 2026 14:54:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
