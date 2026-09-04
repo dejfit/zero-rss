@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 04 Sep 2026 21:29:42 +0200</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 23:41:26 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Trump podjął decyzję. Witkoff i Kushner jadą z propozycją zakończenia wojny</title>
+<link>https://zero.pl/news/trump-wysyla-witkoffa-i-kushnera-do-ukrainy-i-rosji-maja-propozycje-pokoju</link>
+<guid isPermaLink="true">https://zero.pl/news/trump-wysyla-witkoffa-i-kushnera-do-ukrainy-i-rosji-maja-propozycje-pokoju</guid>
+<category>Świat</category>
+<description>Świat — Filip Baczkura</description>
+<pubDate>Fri, 04 Sep 2026 21:43:00 +0200</pubDate>
+</item>
+<item>
+<title>Zabójstwo w Kędzierzynie-Koźlu. Miał być policyjny sukces, pojawiły się pytania</title>
+<link>https://zero.pl/news/zabojstwo-w-kedzierzynie-kozlu-policja-miala-jego-twarz-i-nie-zdolala-go-zatrzymac</link>
+<guid isPermaLink="true">https://zero.pl/news/zabojstwo-w-kedzierzynie-kozlu-policja-miala-jego-twarz-i-nie-zdolala-go-zatrzymac</guid>
+<category>Kraj</category>
+<description>Kraj — Filip Baczkura</description>
+<pubDate>Fri, 04 Sep 2026 21:38:00 +0200</pubDate>
+</item>
+<item>
+<title>Sam Ziobro poprosił Krala o pieniądze. Nowe ustalenia dziennikarzy</title>
+<link>https://zero.pl/news/afera-zondacrypto-darowizna-dla-fundacji-zbigniewa-ziobry-i-rola-artura-chodzinskiego</link>
+<guid isPermaLink="true">https://zero.pl/news/afera-zondacrypto-darowizna-dla-fundacji-zbigniewa-ziobry-i-rola-artura-chodzinskiego</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 04 Sep 2026 21:29:00 +0200</pubDate>
+</item>
 <item>
 <title>Załamanie pogody. IMGW podnosi alerty</title>
 <link>https://zero.pl/news/pogoda-na-weekend-5-6-wrzesnia-imgw-ostrzega-przed-wiatrem-deszczem-i-burzami</link>
@@ -1182,30 +1206,6 @@
 <category>Nauka</category>
 <description>Nauka — Łukasz Wolański</description>
 <pubDate>Tue, 01 Sep 2026 11:21:00 +0200</pubDate>
-</item>
-<item>
-<title>Tragedia na A1. Są ofiary, wielu poszkodowanych</title>
-<link>https://zero.pl/news/tragedia-na-a1-sa-ofiary-na-miejscu-trwa-akcja-ratunkowa</link>
-<guid isPermaLink="true">https://zero.pl/news/tragedia-na-a1-sa-ofiary-na-miejscu-trwa-akcja-ratunkowa</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Tue, 01 Sep 2026 11:04:00 +0200</pubDate>
-</item>
-<item>
-<title>Bosak w sprawie reparacji. „W Niemczech nikt nie chce o nich słyszeć”</title>
-<link>https://zero.pl/news/bosak-nie-ma-watpliwosci-w-sprawie-reparacji-w-niemczech-nikt-nie-chce-o-nich-slyszec</link>
-<guid isPermaLink="true">https://zero.pl/news/bosak-nie-ma-watpliwosci-w-sprawie-reparacji-w-niemczech-nikt-nie-chce-o-nich-slyszec</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Tue, 01 Sep 2026 10:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Zabójstwo Tupaca Shakura. Ława przysięgłych zadecydowała po 30 latach</title>
-<link>https://zero.pl/news/byly-szef-gangu-winny-zabojstwa-tupaca-shakura-sad-wydal-wyrok</link>
-<guid isPermaLink="true">https://zero.pl/news/byly-szef-gangu-winny-zabojstwa-tupaca-shakura-sad-wydal-wyrok</guid>
-<category>Świat</category>
-<description>Świat — Tomasz Pałasz</description>
-<pubDate>Tue, 01 Sep 2026 10:30:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
