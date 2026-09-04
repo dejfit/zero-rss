@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 04 Sep 2026 02:33:03 +0200</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 07:02:05 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Brazylia grozi UE „środkami wzajemnymi” w sporze o mięso</title>
+<link>https://zero.pl/news/brazylia-grozi-ue-srodkami-wzajemnymi-w-sporze-o-mieso</link>
+<guid isPermaLink="true">https://zero.pl/news/brazylia-grozi-ue-srodkami-wzajemnymi-w-sporze-o-mieso</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Fri, 04 Sep 2026 06:28:00 +0200</pubDate>
+</item>
+<item>
+<title>Polacy to cyfrowi entuzjaści. Ale chyba zwyczajnie lubimy stać w kolejkach</title>
+<link>https://zero.pl/news/mamy-w-smartfonach-dziesiatki-aplikacji-ale-biletu-przez-internet-nie-kupimy</link>
+<guid isPermaLink="true">https://zero.pl/news/mamy-w-smartfonach-dziesiatki-aplikacji-ale-biletu-przez-internet-nie-kupimy</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Fri, 04 Sep 2026 05:50:00 +0200</pubDate>
+</item>
+<item>
+<title>Unijny skok na oszczędności Polaków? Słowa Ursuli von der Leyen wywołały burzę</title>
+<link>https://zero.pl/news/zamach-na-bankowe-konta-wystapienie-szefowej-ke-wywolalo-fale-komentarzy-w-polsce</link>
+<guid isPermaLink="true">https://zero.pl/news/zamach-na-bankowe-konta-wystapienie-szefowej-ke-wywolalo-fale-komentarzy-w-polsce</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Fri, 04 Sep 2026 05:50:00 +0200</pubDate>
+</item>
+<item>
+<title>Opieka wytchnieniowa potrzebna, ale niedofinansowana. Przyznaje to nawet ministerstwo</title>
+<link>https://zero.pl/news/czym-jest-opieka-wytchnieniowa-panstwo-przyznaje-ze-pieniedzy-nie-wystarcza</link>
+<guid isPermaLink="true">https://zero.pl/news/czym-jest-opieka-wytchnieniowa-panstwo-przyznaje-ze-pieniedzy-nie-wystarcza</guid>
+<category>Kraj</category>
+<description>Kraj — Aleksandra Cieślik</description>
+<pubDate>Fri, 04 Sep 2026 05:50:00 +0200</pubDate>
+</item>
 <item>
 <title>Weto prezydenta ws. kryptowalut. Jak zagłosują kluby?</title>
 <link>https://zero.pl/news/weto-prezydenta-ws-kryptowalut-w-piatek-glosowanie-jak-zaglosuja-kluby</link>
@@ -1174,38 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Paweł Żurek</description>
 <pubDate>Mon, 31 Aug 2026 17:52:00 +0200</pubDate>
-</item>
-<item>
-<title>„O charakterze terrorystycznym”. Śledztwo ws. pożaru w Skarżysku-Kamiennej</title>
-<link>https://zero.pl/news/pozar-w-wb-electronics-prokuratura-wszczela-sledztwo-w-sprawie-dywersji</link>
-<guid isPermaLink="true">https://zero.pl/news/pozar-w-wb-electronics-prokuratura-wszczela-sledztwo-w-sprawie-dywersji</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Mon, 31 Aug 2026 17:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Ten błąd podczas grzybobrania może słono kosztować. Sanepid ostrzega</title>
-<link>https://zero.pl/news/ten-blad-podczas-grzybobrania-moze-slono-kosztowac-sanepid-ostrzega</link>
-<guid isPermaLink="true">https://zero.pl/news/ten-blad-podczas-grzybobrania-moze-slono-kosztowac-sanepid-ostrzega</guid>
-<category>Kraj</category>
-<description>Kraj — Bartosz Michalski</description>
-<pubDate>Mon, 31 Aug 2026 17:41:00 +0200</pubDate>
-</item>
-<item>
-<title>W kolejnych krajach Europy płoną fabryki dronów i uzbrojenia</title>
-<link>https://zero.pl/news/w-kolejnych-krajach-europy-plona-fabryki-dronow-i-uzbrojenia</link>
-<guid isPermaLink="true">https://zero.pl/news/w-kolejnych-krajach-europy-plona-fabryki-dronow-i-uzbrojenia</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Mon, 31 Aug 2026 17:07:00 +0200</pubDate>
-</item>
-<item>
-<title>Polacy znowu podbiją świat gier? Recenzja The Blood of Dawnwalker. Wciągająca, ale nie bez wad</title>
-<link>https://zero.pl/news/recenzja-the-blood-of-dawnwalker-czas-jest-tu-na-wage-srebra</link>
-<guid isPermaLink="true">https://zero.pl/news/recenzja-the-blood-of-dawnwalker-czas-jest-tu-na-wage-srebra</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Mon, 31 Aug 2026 17:04:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
