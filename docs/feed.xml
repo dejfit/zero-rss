@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 05 Sep 2026 19:41:47 +0200</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 21:33:22 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Włoszki za mocne. Polskie siatkarki zagrają o brąz ME</title>
+<link>https://zero.pl/news/mistrzostwa-europy-w-siatkowce-kobiet-wloszki-za-mocne-polki-zagraja-o-braz</link>
+<guid isPermaLink="true">https://zero.pl/news/mistrzostwa-europy-w-siatkowce-kobiet-wloszki-za-mocne-polki-zagraja-o-braz</guid>
+<category>Świat</category>
+<description>Świat — Piotr Białczyk</description>
+<pubDate>Sat, 05 Sep 2026 21:22:00 +0200</pubDate>
+</item>
+<item>
+<title>Śledztwo Zondacrypto. Kolejna osoba zatrzymana</title>
+<link>https://zero.pl/news/sledztwo-zondacrypto-policja-zatrzymala-romana-z</link>
+<guid isPermaLink="true">https://zero.pl/news/sledztwo-zondacrypto-policja-zatrzymala-romana-z</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Białczyk</description>
+<pubDate>Sat, 05 Sep 2026 20:42:00 +0200</pubDate>
+</item>
+<item>
+<title>Wojna puka do bram. Czy Polska jest gotowa na rosyjski atak?</title>
+<link>https://zero.pl/news/czy-polska-jest-gotowa-na-wojne-z-rosja-analiza-zagrozenia-i-przygotowan</link>
+<guid isPermaLink="true">https://zero.pl/news/czy-polska-jest-gotowa-na-wojne-z-rosja-analiza-zagrozenia-i-przygotowan</guid>
+<category>Świat</category>
+<description>Świat — Wojciech J. Kittel</description>
+<pubDate>Sat, 05 Sep 2026 20:13:00 +0200</pubDate>
+</item>
+<item>
+<title>Ziobro odpowiada na słowa Tuska. „Przekroczył nieprzekraczalną granicę”</title>
+<link>https://zero.pl/news/afera-zondacrypto-zbigniew-ziobro-chce-ujawnienia-akt-odpowiada-tuskowi</link>
+<guid isPermaLink="true">https://zero.pl/news/afera-zondacrypto-zbigniew-ziobro-chce-ujawnienia-akt-odpowiada-tuskowi</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Białczyk</description>
+<pubDate>Sat, 05 Sep 2026 19:40:00 +0200</pubDate>
+</item>
 <item>
 <title>Amerykanie zniszczyli trzy irańskie tankowce. „Poniesiecie większe koszty”</title>
 <link>https://zero.pl/news/usa-zniszczyly-trzy-iranskie-tankowce-jest-komunikat-centcom</link>
@@ -1174,38 +1206,6 @@
 <category>Nauka</category>
 <description>Nauka — Igor Zalewski</description>
 <pubDate>Wed, 02 Sep 2026 08:16:00 +0200</pubDate>
-</item>
-<item>
-<title>Amerykańskie wojska zbombardowały dom weselny w Iranie. Są ofiary i wielu rannych</title>
-<link>https://zero.pl/news/amerykanskie-wojska-zbombardowaly-dom-weselny-w-iranie-sa-ofiary-i-wielu-rannych</link>
-<guid isPermaLink="true">https://zero.pl/news/amerykanskie-wojska-zbombardowaly-dom-weselny-w-iranie-sa-ofiary-i-wielu-rannych</guid>
-<category>Świat</category>
-<description>Świat — Paweł Żurek</description>
-<pubDate>Wed, 02 Sep 2026 07:07:00 +0200</pubDate>
-</item>
-<item>
-<title>Stan portfeli młodych Polaków. Tylu jest zadowolonych ze swojej sytuacji finansowej</title>
-<link>https://zero.pl/news/stan-portfeli-mlodych-polakow-tylu-jest-zadowolonych-ze-swojej-sytuacji-finansowej</link>
-<guid isPermaLink="true">https://zero.pl/news/stan-portfeli-mlodych-polakow-tylu-jest-zadowolonych-ze-swojej-sytuacji-finansowej</guid>
-<category>Biznes</category>
-<description>Biznes — Paweł Żurek</description>
-<pubDate>Wed, 02 Sep 2026 06:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Fiasko na szczycie G20. Przesądził sprzeciw Chin</title>
-<link>https://zero.pl/news/szczyt-g20-w-asheville-bez-wspolnego-oswiadczenia-sprzeciw-chin-i-debiut-polski</link>
-<guid isPermaLink="true">https://zero.pl/news/szczyt-g20-w-asheville-bez-wspolnego-oswiadczenia-sprzeciw-chin-i-debiut-polski</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Wed, 02 Sep 2026 06:39:00 +0200</pubDate>
-</item>
-<item>
-<title>Najem krótkoterminowy popularniejszy niż hotele. Rewolucja, na którą państwo przymyka oko</title>
-<link>https://zero.pl/news/najem-krotkoterminowy-juz-popularniejszy-niz-hotele-polska-bez-regulacji</link>
-<guid isPermaLink="true">https://zero.pl/news/najem-krotkoterminowy-juz-popularniejszy-niz-hotele-polska-bez-regulacji</guid>
-<category>Biznes</category>
-<description>Biznes — Karol Wałachowski</description>
-<pubDate>Wed, 02 Sep 2026 06:07:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
