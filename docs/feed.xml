@@ -5,8 +5,48 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 05 Sep 2026 03:10:24 +0200</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 07:43:12 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>MKiŚ z nowym projektem. Badania genetyczne niedźwiedzi, wilków i rysi</title>
+<link>https://zero.pl/news/mkis-z-nowym-projektem-badania-genetyczne-niedzwiedzi-wilkow-i-rysi</link>
+<guid isPermaLink="true">https://zero.pl/news/mkis-z-nowym-projektem-badania-genetyczne-niedzwiedzi-wilkow-i-rysi</guid>
+<category>Nauka</category>
+<description>Nauka — Tomasz Pałasz</description>
+<pubDate>Sat, 05 Sep 2026 07:26:00 +0200</pubDate>
+</item>
+<item>
+<title>Siatkarki o krok od historii. W półfinale ME zmierzą się z Włochami</title>
+<link>https://zero.pl/news/siatkarki-o-krok-od-historii-w-polfinale-me-zmierza-sie-z-wlochami</link>
+<guid isPermaLink="true">https://zero.pl/news/siatkarki-o-krok-od-historii-w-polfinale-me-zmierza-sie-z-wlochami</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Sat, 05 Sep 2026 06:54:00 +0200</pubDate>
+</item>
+<item>
+<title>Burze, ulewy i wiatr do 90 km/h. IMGW ostrzega przed weekendem</title>
+<link>https://zero.pl/news/burze-ulewy-i-wiatr-do-90-km-h-imgw-ostrzega-przed-weekendem</link>
+<guid isPermaLink="true">https://zero.pl/news/burze-ulewy-i-wiatr-do-90-km-h-imgw-ostrzega-przed-weekendem</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Sat, 05 Sep 2026 06:37:00 +0200</pubDate>
+</item>
+<item>
+<title>20-letnia Julia zmarła po planowym zabiegu. Zespół biegłych zbada okoliczności jej śmierci</title>
+<link>https://zero.pl/news/smierc-julii-liegmann-po-planowym-zabiegu-zespol-bieglych-zbada-sprawe</link>
+<guid isPermaLink="true">https://zero.pl/news/smierc-julii-liegmann-po-planowym-zabiegu-zespol-bieglych-zbada-sprawe</guid>
+<category>Kraj</category>
+<description>Kraj — Aleksandra Cieślik</description>
+<pubDate>Sat, 05 Sep 2026 05:56:00 +0200</pubDate>
+</item>
+<item>
+<title>Czas przeszły niedokonany. Od „Amadeusza” po „Amelię”,  klasyka znów rządzi w kinach</title>
+<link>https://zero.pl/news/matrix-terminator-2-asterix-i-obelix-misja-kleopatra-dlaczego-wracamy-do-kin-na-klasyke</link>
+<guid isPermaLink="true">https://zero.pl/news/matrix-terminator-2-asterix-i-obelix-misja-kleopatra-dlaczego-wracamy-do-kin-na-klasyke</guid>
+<category>Kultura</category>
+<description>Kultura — Michał Walkiewicz</description>
+<pubDate>Sat, 05 Sep 2026 05:56:00 +0200</pubDate>
+</item>
 <item>
 <title>Trump podjął decyzję. Witkoff i Kushner jadą z propozycją zakończenia wojny</title>
 <link>https://zero.pl/news/trump-wysyla-witkoffa-i-kushnera-do-ukrainy-i-rosji-maja-propozycje-pokoju</link>
@@ -1166,46 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Bartosz Michalski</description>
 <pubDate>Tue, 01 Sep 2026 13:43:00 +0200</pubDate>
-</item>
-<item>
-<title>Nie tylko liczba dronów. W debacie „osierocono” BWP Borsuk i Baobaba-K</title>
-<link>https://zero.pl/news/w-debacie-osierocono-bwp-borsuk-i-baobaba-k</link>
-<guid isPermaLink="true">https://zero.pl/news/w-debacie-osierocono-bwp-borsuk-i-baobaba-k</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Tue, 01 Sep 2026 13:32:00 +0200</pubDate>
-</item>
-<item>
-<title>Rosyjski minister finansów na G20. Europejczycy grozili bojkotem wspólnego zdjęcia</title>
-<link>https://zero.pl/news/rosja-na-g20-europa-protestuje-przeciwko-obecnosci-antona-siluanowa</link>
-<guid isPermaLink="true">https://zero.pl/news/rosja-na-g20-europa-protestuje-przeciwko-obecnosci-antona-siluanowa</guid>
-<category>Świat</category>
-<description>Świat — Paweł Żurek</description>
-<pubDate>Tue, 01 Sep 2026 13:27:00 +0200</pubDate>
-</item>
-<item>
-<title>Nawrocki grzmiał w sprawie reparacji. „Zaćmiona wizja”</title>
-<link>https://zero.pl/news/nawrocki-grzmial-w-sprawie-reparacji-wystapienie-dla-publicznosci-krajowej</link>
-<guid isPermaLink="true">https://zero.pl/news/nawrocki-grzmial-w-sprawie-reparacji-wystapienie-dla-publicznosci-krajowej</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Tue, 01 Sep 2026 13:17:00 +0200</pubDate>
-</item>
-<item>
-<title>Cel: fabryki dronów w Europie. „Polska na celowniku Rosji”</title>
-<link>https://zero.pl/news/podpalenia-i-wience-pod-fabrykami-dronow-ekspert-polska-na-celowniku-rosji</link>
-<guid isPermaLink="true">https://zero.pl/news/podpalenia-i-wience-pod-fabrykami-dronow-ekspert-polska-na-celowniku-rosji</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Tue, 01 Sep 2026 12:41:00 +0200</pubDate>
-</item>
-<item>
-<title>113 dni bez tygodnia przerwy. Tak polska szkoła męczy uczniów</title>
-<link>https://zero.pl/news/kalendarz-roku-szkolnego-2026-2027-113-dni-nauki-bez-tygodnia-przerwy</link>
-<guid isPermaLink="true">https://zero.pl/news/kalendarz-roku-szkolnego-2026-2027-113-dni-nauki-bez-tygodnia-przerwy</guid>
-<category>Nauka</category>
-<description>Nauka — Łukasz Wolański</description>
-<pubDate>Tue, 01 Sep 2026 11:21:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
