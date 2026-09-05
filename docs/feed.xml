@@ -5,8 +5,48 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 05 Sep 2026 14:53:07 +0200</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 17:42:59 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Sensacja na Monzy. Gasly zrobił to po raz pierwszy w karierze</title>
+<link>https://zero.pl/news/f1-sensacja-na-monzy-pierre-gasly-z-pole-position-przed-gp-wloch</link>
+<guid isPermaLink="true">https://zero.pl/news/f1-sensacja-na-monzy-pierre-gasly-z-pole-position-przed-gp-wloch</guid>
+<category>Świat</category>
+<description>Świat — Piotr Białczyk</description>
+<pubDate>Sat, 05 Sep 2026 17:05:00 +0200</pubDate>
+</item>
+<item>
+<title>Nawrocki o sile literatury. „Przenosi polskość przez pokolenia”</title>
+<link>https://zero.pl/news/prezydent-karol-nawrocki-o-dziadach-literatura-ma-moc-przenoszenia-polskosci</link>
+<guid isPermaLink="true">https://zero.pl/news/prezydent-karol-nawrocki-o-dziadach-literatura-ma-moc-przenoszenia-polskosci</guid>
+<category>Kultura</category>
+<description>Kultura — Piotr Białczyk</description>
+<pubDate>Sat, 05 Sep 2026 16:55:00 +0200</pubDate>
+</item>
+<item>
+<title>Parada szalonych dyktatorów. Tyrani, którzy zamienili swoje kraje w piekło</title>
+<link>https://zero.pl/news/zapomniani-tyranie-historii-trzej-szalency-ktorzy-zamienili-swoje-kraje-w-pieklo</link>
+<guid isPermaLink="true">https://zero.pl/news/zapomniani-tyranie-historii-trzej-szalency-ktorzy-zamienili-swoje-kraje-w-pieklo</guid>
+<category>Świat</category>
+<description>Świat — Szymon Janczyk</description>
+<pubDate>Sat, 05 Sep 2026 16:15:00 +0200</pubDate>
+</item>
+<item>
+<title>Rządowe Centrum Bezpieczeństwa wysyła alert. Dotyczy wschodniej granicy</title>
+<link>https://zero.pl/news/rzadowe-centrum-bezpieczenstwa-wysyla-alert-dotyczy-wschodniej-granicy</link>
+<guid isPermaLink="true">https://zero.pl/news/rzadowe-centrum-bezpieczenstwa-wysyla-alert-dotyczy-wschodniej-granicy</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Białczyk</description>
+<pubDate>Sat, 05 Sep 2026 15:20:00 +0200</pubDate>
+</item>
+<item>
+<title>Przełom w wojnie? Putin polecił nie atakować Kijowa przez trzy dni</title>
+<link>https://zero.pl/news/przelom-w-wojnie-putin-polecil-nie-atakowac-kijowa-przez-trzy-dni</link>
+<guid isPermaLink="true">https://zero.pl/news/przelom-w-wojnie-putin-polecil-nie-atakowac-kijowa-przez-trzy-dni</guid>
+<category>Świat</category>
+<description>Świat — Piotr Białczyk</description>
+<pubDate>Sat, 05 Sep 2026 15:00:00 +0200</pubDate>
+</item>
 <item>
 <title>Rusza sojusz dronowy UE-Ukraina. Wśród uczestników polska firma</title>
 <link>https://zero.pl/news/sojusz-dronowy-ue-ukraina-pierwsze-spotkanie-11-wrzesnia-w-brukseli</link>
@@ -1166,46 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Kamil Szałecki</description>
 <pubDate>Tue, 01 Sep 2026 21:33:00 +0200</pubDate>
-</item>
-<item>
-<title>Co z pomnikiem polskich ofiar w Berlinie? Burmistrz miasta zabrał głos</title>
-<link>https://zero.pl/news/co-ze-stalym-pomnikiem-polskich-ofiar-w-berlinie-burmistrz-miasta-zabral-glos</link>
-<guid isPermaLink="true">https://zero.pl/news/co-ze-stalym-pomnikiem-polskich-ofiar-w-berlinie-burmistrz-miasta-zabral-glos</guid>
-<category>Świat</category>
-<description>Świat — Kamil Szałecki</description>
-<pubDate>Tue, 01 Sep 2026 21:09:00 +0200</pubDate>
-</item>
-<item>
-<title>Zełenski go zwolnił. Teraz zakłada firmę i dogaduje się z Palantirem</title>
-<link>https://zero.pl/news/byly-minister-obrony-ukrainy-zalozy-firme-zbrojeniowa-jest-amerykanski-inwestor</link>
-<guid isPermaLink="true">https://zero.pl/news/byly-minister-obrony-ukrainy-zalozy-firme-zbrojeniowa-jest-amerykanski-inwestor</guid>
-<category>Wojsko</category>
-<description>Wojsko — Krzysztof Jabłonowski</description>
-<pubDate>Tue, 01 Sep 2026 20:55:00 +0200</pubDate>
-</item>
-<item>
-<title>USA atakują Iran. Eksplozje w regionie cieśniny Ormuz</title>
-<link>https://zero.pl/news/wojna-w-iranie-usa-atakuja-eksplozje-w-regionie-ciesniny-ormuz</link>
-<guid isPermaLink="true">https://zero.pl/news/wojna-w-iranie-usa-atakuja-eksplozje-w-regionie-ciesniny-ormuz</guid>
-<category>Wojsko</category>
-<description>Wojsko — Kamil Szałecki</description>
-<pubDate>Tue, 01 Sep 2026 20:36:00 +0200</pubDate>
-</item>
-<item>
-<title>„Po co mi Kłeczek, skoro mam AI”? Internetowa papka w Telewizji Republika</title>
-<link>https://zero.pl/news/ai-slop-wchodzi-do-reklamy-i-mediow-spot-telewizji-republika-budzi-kontrowersje</link>
-<guid isPermaLink="true">https://zero.pl/news/ai-slop-wchodzi-do-reklamy-i-mediow-spot-telewizji-republika-budzi-kontrowersje</guid>
-<category>Kultura</category>
-<description>Kultura — Krzysztof Jabłonowski</description>
-<pubDate>Tue, 01 Sep 2026 20:14:00 +0200</pubDate>
-</item>
-<item>
-<title>Nie reparacje, a inwestycja w bezpieczeństwo. Co naprawdę Nawrocki zaproponował na Westerplatte?</title>
-<link>https://zero.pl/news/reparacje-na-zbrojenia-nowa-propozycja-nawrockiego-wobec-niemiec</link>
-<guid isPermaLink="true">https://zero.pl/news/reparacje-na-zbrojenia-nowa-propozycja-nawrockiego-wobec-niemiec</guid>
-<category>Kraj</category>
-<description>Kraj — Wojciech J. Kittel</description>
-<pubDate>Tue, 01 Sep 2026 19:32:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
