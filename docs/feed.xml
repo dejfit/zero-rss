@@ -5,8 +5,72 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 06 Sep 2026 07:50:07 +0200</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 11:42:08 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Anatomia szkolnego piekła. Dlaczego niektórzy uczniowie nie chcą wracać do szkoły?</title>
+<link>https://zero.pl/news/87-proc-uczniow-doswiadcza-przemocy-rowiesniczej-jak-rozpoznac-bullying</link>
+<guid isPermaLink="true">https://zero.pl/news/87-proc-uczniow-doswiadcza-przemocy-rowiesniczej-jak-rozpoznac-bullying</guid>
+<category>Nauka</category>
+<description>Nauka — Marta Wojtas</description>
+<pubDate>Sun, 06 Sep 2026 11:21:00 +0200</pubDate>
+</item>
+<item>
+<title>Tragedia nad włoskim jeziorem Garda. Nie żyje 38-letni turysta z Polski</title>
+<link>https://zero.pl/news/tragedia-nad-wloskim-jeziorem-garda-nie-zyje-38-letni-turysta-z-polski</link>
+<guid isPermaLink="true">https://zero.pl/news/tragedia-nad-wloskim-jeziorem-garda-nie-zyje-38-letni-turysta-z-polski</guid>
+<category>Świat</category>
+<description>Świat — Krzysztof Jabłonowski</description>
+<pubDate>Sun, 06 Sep 2026 11:13:00 +0200</pubDate>
+</item>
+<item>
+<title>Afera Zondacrypto. Marszałek woj. lubelskiego został przesłuchany jako świadek</title>
+<link>https://zero.pl/news/afera-zondacrypto-marszalek-woj-lubelskiego-zostal-przesluchany-jako-swiadek</link>
+<guid isPermaLink="true">https://zero.pl/news/afera-zondacrypto-marszalek-woj-lubelskiego-zostal-przesluchany-jako-swiadek</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Sun, 06 Sep 2026 10:25:00 +0200</pubDate>
+</item>
+<item>
+<title>„Kuriozum, a może już potężny skandal”. Prusinowski o nowym szefie komisji ds. służb</title>
+<link>https://zero.pl/news/kuriozum-a-moze-juz-potezny-skandal-prusinowski-o-nowym-szefie-komisji-ds-sluzb</link>
+<guid isPermaLink="true">https://zero.pl/news/kuriozum-a-moze-juz-potezny-skandal-prusinowski-o-nowym-szefie-komisji-ds-sluzb</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Sun, 06 Sep 2026 09:57:00 +0200</pubDate>
+</item>
+<item>
+<title>Berek do Trybunału, Gibała do wyborów, a imprezowicze do hotelu. Podsumowanie tygodnia</title>
+<link>https://zero.pl/news/moglo-byc-gorzej-berek-do-trybunalu-imprezowicze-do-hotelu-podsumowanie-tygodnia</link>
+<guid isPermaLink="true">https://zero.pl/news/moglo-byc-gorzej-berek-do-trybunalu-imprezowicze-do-hotelu-podsumowanie-tygodnia</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sun, 06 Sep 2026 09:26:00 +0200</pubDate>
+</item>
+<item>
+<title>Trump podpisał dekret o zniesieniu ochrony wilków. Obrońcy środowiska krytykują</title>
+<link>https://zero.pl/news/trump-podpisal-dekret-o-zniesieniu-ochrony-wilkow-obroncy-srodowiska-krytykuja</link>
+<guid isPermaLink="true">https://zero.pl/news/trump-podpisal-dekret-o-zniesieniu-ochrony-wilkow-obroncy-srodowiska-krytykuja</guid>
+<category>Świat</category>
+<description>Świat — Krzysztof Jabłonowski</description>
+<pubDate>Sun, 06 Sep 2026 09:04:00 +0200</pubDate>
+</item>
+<item>
+<title>„Woleli bić polityczną pianę”. Bogucki atakuje Żurka ws. Zondacrypto</title>
+<link>https://zero.pl/news/woleli-bic-polityczna-piane-bogucki-atakuje-zurka-ws-zondacrypto</link>
+<guid isPermaLink="true">https://zero.pl/news/woleli-bic-polityczna-piane-bogucki-atakuje-zurka-ws-zondacrypto</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Sun, 06 Sep 2026 08:46:00 +0200</pubDate>
+</item>
+<item>
+<title>Co z wysokimi cenami pelletu? Ministerstwo Energii zabrało głos</title>
+<link>https://zero.pl/news/co-z-wysokimi-cenami-pelletu-ministerstwo-energii-zabralo-glos</link>
+<guid isPermaLink="true">https://zero.pl/news/co-z-wysokimi-cenami-pelletu-ministerstwo-energii-zabralo-glos</guid>
+<category>Biznes</category>
+<description>Biznes — Krzysztof Jabłonowski</description>
+<pubDate>Sun, 06 Sep 2026 08:18:00 +0200</pubDate>
+</item>
 <item>
 <title>Jaka pogoda w niedzielę i poniedziałek? Prognoza IMGW</title>
 <link>https://zero.pl/news/jaka-pogoda-w-niedziele-i-poniedzialek-prognoza-imgw</link>
@@ -1142,70 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
 <pubDate>Wed, 02 Sep 2026 15:03:00 +0200</pubDate>
-</item>
-<item>
-<title>Prawie 40 tys. zł na wynajem auta. Kancelaria Sejmu skontrolowała biuro Adama Gomoły</title>
-<link>https://zero.pl/news/prawie-40-tys-zl-na-wynajem-auta-kancelaria-sejmu-skontrolowala-biuro-adama-gomoly</link>
-<guid isPermaLink="true">https://zero.pl/news/prawie-40-tys-zl-na-wynajem-auta-kancelaria-sejmu-skontrolowala-biuro-adama-gomoly</guid>
-<category>Kraj</category>
-<description>Kraj — Bartosz Michalski</description>
-<pubDate>Wed, 02 Sep 2026 14:41:00 +0200</pubDate>
-</item>
-<item>
-<title>Jak naprawdę pływają ryby w ławicy? Nowe odkrycie zaprzecza wcześniejszym teoriom</title>
-<link>https://zero.pl/news/nowe-wyniki-badan-ryby-w-lawicy-kopiuja-ruch-tylko-jednego-sasiada-a-nie-calej-grupy</link>
-<guid isPermaLink="true">https://zero.pl/news/nowe-wyniki-badan-ryby-w-lawicy-kopiuja-ruch-tylko-jednego-sasiada-a-nie-calej-grupy</guid>
-<category>Nauka</category>
-<description>Nauka — Agnieszka Waś-Turecka</description>
-<pubDate>Wed, 02 Sep 2026 14:23:00 +0200</pubDate>
-</item>
-<item>
-<title>Nowy trop w aferze Zondacrypto. Trwa przeszukanie w PKOl i UOKIK, 3 osoby zatrzymane</title>
-<link>https://zero.pl/news/nowy-trop-w-aferze-zondacrypto-trwa-przeszukanie-w-pkol-i-uokik-3-osoby-zatrzymane</link>
-<guid isPermaLink="true">https://zero.pl/news/nowy-trop-w-aferze-zondacrypto-trwa-przeszukanie-w-pkol-i-uokik-3-osoby-zatrzymane</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Białczyk,Kamil Szałecki</description>
-<pubDate>Wed, 02 Sep 2026 13:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Kościół sprzedał działkę z mieszkańcami. Dramatyczna eksmisja w Poznaniu</title>
-<link>https://zero.pl/news/poznan-eksmisja-na-malcie-kosciol-sprzedal-dzialke-z-mieszkancami</link>
-<guid isPermaLink="true">https://zero.pl/news/poznan-eksmisja-na-malcie-kosciol-sprzedal-dzialke-z-mieszkancami</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Wed, 02 Sep 2026 13:37:00 +0200</pubDate>
-</item>
-<item>
-<title>Rozpędzonym BMW, bez prawa jazdy, rozbił nowy przystanek. „Mogło dojść do wielkiej tragedii”</title>
-<link>https://zero.pl/news/wypadek-w-warszawie-mlody-kierowca-rozbil-nowy-przystanek-moglo-dojsc-do-tragedii</link>
-<guid isPermaLink="true">https://zero.pl/news/wypadek-w-warszawie-mlody-kierowca-rozbil-nowy-przystanek-moglo-dojsc-do-tragedii</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Wed, 02 Sep 2026 13:06:00 +0200</pubDate>
-</item>
-<item>
-<title>Super El Niño idzie na rekord. Kluczowe odkrycie w pobliżu Wysp Galapagos</title>
-<link>https://zero.pl/news/el-nino-jest-o-36-proc-silniejsze-niz-dawniej-przelomowe-badania-koralowcow</link>
-<guid isPermaLink="true">https://zero.pl/news/el-nino-jest-o-36-proc-silniejsze-niz-dawniej-przelomowe-badania-koralowcow</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Wed, 02 Sep 2026 12:58:00 +0200</pubDate>
-</item>
-<item>
-<title>USA i Rosja znowu rozmawiają za kulisami. „Polska musi być gotowa na taki scenariusz”</title>
-<link>https://zero.pl/news/rozmowy-usa-rosja-na-szczycie-g20-ekspert-ostrzega-przed-losem-ukrainy-i-konsekwencjami-dla-polski</link>
-<guid isPermaLink="true">https://zero.pl/news/rozmowy-usa-rosja-na-szczycie-g20-ekspert-ostrzega-przed-losem-ukrainy-i-konsekwencjami-dla-polski</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Wed, 02 Sep 2026 12:32:00 +0200</pubDate>
-</item>
-<item>
-<title>Dziecko nie jest reklamą. Czy szkoła może publikować zdjęcia uczniów w internecie?</title>
-<link>https://zero.pl/news/zdjecia-dzieci-w-szkolnym-internecie-czy-to-legalne-i-bezpieczne</link>
-<guid isPermaLink="true">https://zero.pl/news/zdjecia-dzieci-w-szkolnym-internecie-czy-to-legalne-i-bezpieczne</guid>
-<category>Nauka</category>
-<description>Nauka — Łukasz Wolański</description>
-<pubDate>Wed, 02 Sep 2026 11:59:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
