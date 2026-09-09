@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 09 Sep 2026 20:39:52 +0200</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 23:10:16 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Apple pokazał nowe słuchawki i zegarki. Zmian jest mało, jak u konkurencji</title>
+<link>https://zero.pl/news/apple-pokazal-nowe-sluchawki-i-zegarki-zmian-jest-malo-jak-u-konkurencji</link>
+<guid isPermaLink="true">https://zero.pl/news/apple-pokazal-nowe-sluchawki-i-zegarki-zmian-jest-malo-jak-u-konkurencji</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Wed, 09 Sep 2026 22:35:00 +0200</pubDate>
+</item>
+<item>
+<title>AfD miażdży konkurencję na wschodzie. Pierwszy taki sondaż po wygranej</title>
+<link>https://zero.pl/news/afd-prowadzi-na-wschodzie-niemiec-45-proc-poparcia-w-nowym-sondazu</link>
+<guid isPermaLink="true">https://zero.pl/news/afd-prowadzi-na-wschodzie-niemiec-45-proc-poparcia-w-nowym-sondazu</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Wed, 09 Sep 2026 21:52:00 +0200</pubDate>
+</item>
+<item>
+<title>Nie iPhone Ultra a Duo. Apple ma swój pierwszy składany smartfon</title>
+<link>https://zero.pl/news/nie-iphone-ultra-a-iphone-duo-apple-ma-swoj-pierwszy-skladany-smartfon</link>
+<guid isPermaLink="true">https://zero.pl/news/nie-iphone-ultra-a-iphone-duo-apple-ma-swoj-pierwszy-skladany-smartfon</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Wed, 09 Sep 2026 21:26:00 +0200</pubDate>
+</item>
+<item>
+<title>Mróz-Gorgoń bez zajęć na uczelni. „Do czasu wyjaśnienia sprawy”</title>
+<link>https://zero.pl/news/barbara-mroz-gorgon-bez-zajec-na-ue-we-wroclawiu-rektor-wyjasnia-decyzje</link>
+<guid isPermaLink="true">https://zero.pl/news/barbara-mroz-gorgon-bez-zajec-na-ue-we-wroclawiu-rektor-wyjasnia-decyzje</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Wed, 09 Sep 2026 21:02:00 +0200</pubDate>
+</item>
 <item>
 <title>Słowik zadał pytanie i się zaczęło. „Patologia dzisiaj ma konkretną twarz”</title>
 <link>https://zero.pl/news/liga-debat-powrocila-slowik-zadal-pytanie-i-sie-zaczelo-patologia-dzisiaj-ma-konkretna-twarz</link>
@@ -1174,38 +1206,6 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Sun, 06 Sep 2026 19:55:00 +0200</pubDate>
-</item>
-<item>
-<title>Infantino nie odpuszcza. Prezydent FIFA powalczy o czwartą kadencję</title>
-<link>https://zero.pl/news/gianni-infantino-bedzie-ubiegal-sie-o-reelekcje-na-prezydenta-fifa</link>
-<guid isPermaLink="true">https://zero.pl/news/gianni-infantino-bedzie-ubiegal-sie-o-reelekcje-na-prezydenta-fifa</guid>
-<category>Świat</category>
-<description>Świat — Piotr Białczyk</description>
-<pubDate>Sun, 06 Sep 2026 19:29:00 +0200</pubDate>
-</item>
-<item>
-<title>Lekarze znów wygrali z rządem. Pacjent jak zwykle może poczekać</title>
-<link>https://zero.pl/news/limity-zarobkow-lekarzy-pozniej-rzad-odracza-reforme-ochrony-zdrowia</link>
-<guid isPermaLink="true">https://zero.pl/news/limity-zarobkow-lekarzy-pozniej-rzad-odracza-reforme-ochrony-zdrowia</guid>
-<category>Zdrowie</category>
-<description>Zdrowie — Patryk Słowik</description>
-<pubDate>Sun, 06 Sep 2026 18:54:00 +0200</pubDate>
-</item>
-<item>
-<title>AfD wygrywa wybory w Saksonii-Anhalt. Są wyniki exit poll</title>
-<link>https://zero.pl/news/afd-wygrywa-wybory-w-saksonii-anhalt-sa-wyniki-exit-poll</link>
-<guid isPermaLink="true">https://zero.pl/news/afd-wygrywa-wybory-w-saksonii-anhalt-sa-wyniki-exit-poll</guid>
-<category>Świat</category>
-<description>Świat — Piotr Białczyk</description>
-<pubDate>Sun, 06 Sep 2026 18:16:00 +0200</pubDate>
-</item>
-<item>
-<title>Nadchodzi wyraźne ocieplenie. Na południu Polski będzie nawet 30 stopni</title>
-<link>https://zero.pl/news/pogoda-na-wtorek-i-srode-temperatura-siegnie-30-stopni-potem-ochlodzenie</link>
-<guid isPermaLink="true">https://zero.pl/news/pogoda-na-wtorek-i-srode-temperatura-siegnie-30-stopni-potem-ochlodzenie</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Białczyk</description>
-<pubDate>Sun, 06 Sep 2026 18:02:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
