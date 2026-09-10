@@ -5,8 +5,72 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 10 Sep 2026 12:16:51 +0200</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 16:29:26 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Zarabiał na fotowoltaice, trafił do ministerstwa klimatu. Ćwik tłumaczy się Słowikowi</title>
+<link>https://zero.pl/news/konflikt-interesow-w-ministerstwie-klimatu-wiceminister-tlumaczy-sie-slowikowi</link>
+<guid isPermaLink="true">https://zero.pl/news/konflikt-interesow-w-ministerstwie-klimatu-wiceminister-tlumaczy-sie-slowikowi</guid>
+<category>Kraj</category>
+<description>Kraj — Kamil Szałecki</description>
+<pubDate>Thu, 10 Sep 2026 16:25:00 +0200</pubDate>
+</item>
+<item>
+<title>„Nie wiemy, co się stanie”. Ojciec chrzestny AI mówi o zagrożeniu dla ludzkości</title>
+<link>https://zero.pl/news/geoffrey-hinton-o-ai-10-procent-ryzyka-wyginiecia-ludzkosci</link>
+<guid isPermaLink="true">https://zero.pl/news/geoffrey-hinton-o-ai-10-procent-ryzyka-wyginiecia-ludzkosci</guid>
+<category>Świat</category>
+<description>Świat — Bartosz Michalski</description>
+<pubDate>Thu, 10 Sep 2026 15:33:00 +0200</pubDate>
+</item>
+<item>
+<title>Rakieta spadła na dom w Wyrykach. Po roku jest decyzja prokuratury</title>
+<link>https://zero.pl/news/wyryki-wola-koniec-sledztwa-w-sprawie-uderzenia-rakiety-w-dom</link>
+<guid isPermaLink="true">https://zero.pl/news/wyryki-wola-koniec-sledztwa-w-sprawie-uderzenia-rakiety-w-dom</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Thu, 10 Sep 2026 15:19:00 +0200</pubDate>
+</item>
+<item>
+<title>Nowe przepisy w szkołach budzą skrajne emocje. „Rodzice chcą mieć nieustający kontakt”</title>
+<link>https://zero.pl/news/zakaz-uzywania-telefonow-w-szkolach-przepis-budzi-kontrowersje-rodzice-i-nauczyciele-reaguja</link>
+<guid isPermaLink="true">https://zero.pl/news/zakaz-uzywania-telefonow-w-szkolach-przepis-budzi-kontrowersje-rodzice-i-nauczyciele-reaguja</guid>
+<category>Kraj</category>
+<description>Kraj — Maria Badzio</description>
+<pubDate>Thu, 10 Sep 2026 15:16:00 +0200</pubDate>
+</item>
+<item>
+<title>Apple rozpoczyna nowy rozdział. iPhone Duo pomógł ludziom odkryć składane smartfony</title>
+<link>https://zero.pl/news/apple-rozpoczyna-nowy-rozdzial-iphone-duo-pomogl-ludziom-odkryc-skladane-smartfony</link>
+<guid isPermaLink="true">https://zero.pl/news/apple-rozpoczyna-nowy-rozdzial-iphone-duo-pomogl-ludziom-odkryc-skladane-smartfony</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Thu, 10 Sep 2026 14:45:00 +0200</pubDate>
+</item>
+<item>
+<title>Wielki Brat przy bankomatach. Nowy postulat budzi emocje, MF uspokaja</title>
+<link>https://zero.pl/news/bankomaty-maja-rejestrowac-wizerunek-klientow-postulat-ms-budzi-emocje</link>
+<guid isPermaLink="true">https://zero.pl/news/bankomaty-maja-rejestrowac-wizerunek-klientow-postulat-ms-budzi-emocje</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Thu, 10 Sep 2026 13:43:00 +0200</pubDate>
+</item>
+<item>
+<title>Brytyjska prasa ostrzega. Ukrainie kończą się zapasy kluczowych rakiet</title>
+<link>https://zero.pl/news/wojna-w-ukrainie-media-ukrainie-koncza-sie-zapasy-rakiet-rosja-zwieksza-produkcje-dronow</link>
+<guid isPermaLink="true">https://zero.pl/news/wojna-w-ukrainie-media-ukrainie-koncza-sie-zapasy-rakiet-rosja-zwieksza-produkcje-dronow</guid>
+<category>Wojsko</category>
+<description>Wojsko — Krzysztof Jabłonowski</description>
+<pubDate>Thu, 10 Sep 2026 12:50:00 +0200</pubDate>
+</item>
+<item>
+<title>Echa skandalu w OpenAI. „Tajemnice handlowe modeli AI powinny zostać upublicznione”</title>
+<link>https://zero.pl/news/kto-rozwiazal-matematyczne-rownanie-spor-naukowcow-z-firma-open-ai</link>
+<guid isPermaLink="true">https://zero.pl/news/kto-rozwiazal-matematyczne-rownanie-spor-naukowcow-z-firma-open-ai</guid>
+<category>Nauka</category>
+<description>Nauka — Krzysztof Jabłonowski</description>
+<pubDate>Thu, 10 Sep 2026 12:17:00 +0200</pubDate>
+</item>
 <item>
 <title>Masz magnesy na lodówce? Ich rozmieszczenie może sporo zdradzać</title>
 <link>https://zero.pl/news/magnesy-na-lodowce-a-osobowosc-co-moga-oznaczac</link>
@@ -1142,70 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Kamil Szałecki</description>
 <pubDate>Mon, 07 Sep 2026 15:13:00 +0200</pubDate>
-</item>
-<item>
-<title>AfD wygrywa w Saksonii-Anhalt. Ekspert: Zamyka się pewien okres w historii Niemiec</title>
-<link>https://zero.pl/news/afd-wygrywa-w-saksonii-anhalt-co-to-oznacza-dla-polski-i-niemiec</link>
-<guid isPermaLink="true">https://zero.pl/news/afd-wygrywa-w-saksonii-anhalt-co-to-oznacza-dla-polski-i-niemiec</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Mon, 07 Sep 2026 14:29:00 +0200</pubDate>
-</item>
-<item>
-<title>Jak Ukraińska klinika promuje surogację w Warszawie</title>
-<link>https://zero.pl/news/kanal-zero-ujawnia-kulisy-biznesu-surogacyjnego-pakiety-vip-promocje-i-spotkania-w-warszawie</link>
-<guid isPermaLink="true">https://zero.pl/news/kanal-zero-ujawnia-kulisy-biznesu-surogacyjnego-pakiety-vip-promocje-i-spotkania-w-warszawie</guid>
-<category>Zdrowie</category>
-<description>Zdrowie — Jakub Szymczuk</description>
-<pubDate>Mon, 07 Sep 2026 14:27:00 +0200</pubDate>
-</item>
-<item>
-<title>Pogrzeb Jana Frycza. Na Powązkach Wojskowych pożegnano wybitnego aktora</title>
-<link>https://zero.pl/news/pogrzeb-jana-frycza-aktor-spoczal-na-powazkach-wojskowych-w-warszawie</link>
-<guid isPermaLink="true">https://zero.pl/news/pogrzeb-jana-frycza-aktor-spoczal-na-powazkach-wojskowych-w-warszawie</guid>
-<category>Kultura</category>
-<description>Kultura — Filip Baczkura</description>
-<pubDate>Mon, 07 Sep 2026 14:22:00 +0200</pubDate>
-</item>
-<item>
-<title>A więc wojna. Wysłannicy Trumpa wracają na tarczy</title>
-<link>https://zero.pl/news/wyslannicy-trumpa-wracaja-z-rosji-i-ukrainy-bez-przelomu-w-sprawie-pokoju</link>
-<guid isPermaLink="true">https://zero.pl/news/wyslannicy-trumpa-wracaja-z-rosji-i-ukrainy-bez-przelomu-w-sprawie-pokoju</guid>
-<category>Świat</category>
-<description>Świat — Maria Stepan</description>
-<pubDate>Mon, 07 Sep 2026 13:38:00 +0200</pubDate>
-</item>
-<item>
-<title>Polskie firmy na IFA 2026. Oryginalne rozwiązania czy chińszczyzna z nowym logo?</title>
-<link>https://zero.pl/news/polskie-firmy-na-ifa-2026-oryginalne-rozwiazania-czy-chinszczyzna-z-nowym-logo</link>
-<guid isPermaLink="true">https://zero.pl/news/polskie-firmy-na-ifa-2026-oryginalne-rozwiazania-czy-chinszczyzna-z-nowym-logo</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Mon, 07 Sep 2026 13:34:00 +0200</pubDate>
-</item>
-<item>
-<title>Nowy wiceminister klimatu. Obejmie stanowisko po Mikołaju Dorożale</title>
-<link>https://zero.pl/news/slawomir-cwik-wiceministrem-klimatu-i-srodowiska-jest-decyzja-ministerstwa</link>
-<guid isPermaLink="true">https://zero.pl/news/slawomir-cwik-wiceministrem-klimatu-i-srodowiska-jest-decyzja-ministerstwa</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Mon, 07 Sep 2026 13:11:00 +0200</pubDate>
-</item>
-<item>
-<title>Złoty coraz mocniejszy. Aktualne kursy walut na poniedziałek 7 września</title>
-<link>https://zero.pl/news/kursy-walut-nbp-7-wrzesnia-ile-kosztuje-euro-dolar-frank-i-funt</link>
-<guid isPermaLink="true">https://zero.pl/news/kursy-walut-nbp-7-wrzesnia-ile-kosztuje-euro-dolar-frank-i-funt</guid>
-<category>Biznes</category>
-<description>Biznes — Agnieszka Waś-Turecka</description>
-<pubDate>Mon, 07 Sep 2026 13:02:00 +0200</pubDate>
-</item>
-<item>
-<title>Roman Ż. z zarzutami w sprawie Zondacrypto. Nie przyznał się do winy</title>
-<link>https://zero.pl/news/roman-z-uslyszal-zarzuty-w-sprawie-zondacrypto-jest-wniosek-o-areszt</link>
-<guid isPermaLink="true">https://zero.pl/news/roman-z-uslyszal-zarzuty-w-sprawie-zondacrypto-jest-wniosek-o-areszt</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Mon, 07 Sep 2026 12:35:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
