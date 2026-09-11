@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 11 Sep 2026 21:44:41 +0200</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 23:59:06 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>„Nie ma odpowiedzi, kiedy to się skończy”. Ekspert o wojnie Trumpa z Iranem</title>
+<link>https://zero.pl/news/prof-andrzej-kohut-o-wojnie-usa-z-iranem-trump-zlamal-obietnice-konca-glupich-wojen</link>
+<guid isPermaLink="true">https://zero.pl/news/prof-andrzej-kohut-o-wojnie-usa-z-iranem-trump-zlamal-obietnice-konca-glupich-wojen</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Fri, 11 Sep 2026 22:04:00 +0200</pubDate>
+</item>
 <item>
 <title>Przełom w Akademii Wymiaru Sprawiedliwości. Nowy rektor-komendant podjął pierwsze decyzje</title>
 <link>https://zero.pl/news/akademia-wymiaru-sprawiedliwosci-ma-nowego-p-o-rektora-slawomir-cudak-podjal-decyzje</link>
@@ -1198,14 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Filip Baczkura</description>
 <pubDate>Tue, 08 Sep 2026 21:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Piotr Niemczyk trafił do aresztu. Chodzi o protest Ostatniego Pokolenia</title>
-<link>https://zero.pl/news/piotr-niemczyk-trafil-do-aresztu-chodzi-o-protest-ostatniego-pokolenia</link>
-<guid isPermaLink="true">https://zero.pl/news/piotr-niemczyk-trafil-do-aresztu-chodzi-o-protest-ostatniego-pokolenia</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Tue, 08 Sep 2026 21:21:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
