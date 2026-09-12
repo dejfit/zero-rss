@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 12 Sep 2026 19:19:05 +0200</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 21:26:30 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Kazimierska znów najlepsza! Polka triumfuje w Ultimate Championship</title>
+<link>https://zero.pl/news/kazimierska-znow-najlepsza-polka-triumfuje-w-ultimate-championship</link>
+<guid isPermaLink="true">https://zero.pl/news/kazimierska-znow-najlepsza-polka-triumfuje-w-ultimate-championship</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Sat, 12 Sep 2026 21:24:00 +0200</pubDate>
+</item>
+<item>
+<title>Adam Bielan nowym szefem europejskich konserwatystów</title>
+<link>https://zero.pl/news/adam-bielan-przewodniczacym-ecr-party-europosel-pis-wskazal-najwazniejszy-cel</link>
+<guid isPermaLink="true">https://zero.pl/news/adam-bielan-przewodniczacym-ecr-party-europosel-pis-wskazal-najwazniejszy-cel</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Sat, 12 Sep 2026 20:46:00 +0200</pubDate>
+</item>
+<item>
+<title>Jonathan Haidt bije na alarm. Tak smartfony zmieniły dzieciństwo</title>
+<link>https://zero.pl/news/jonathan-haidt-zmienia-spojrzenie-na-swiat-jak-amerykanski-psycholog-wyjasnia-wspolczesnosc</link>
+<guid isPermaLink="true">https://zero.pl/news/jonathan-haidt-zmienia-spojrzenie-na-swiat-jak-amerykanski-psycholog-wyjasnia-wspolczesnosc</guid>
+<category>Nauka</category>
+<description>Nauka — Igor Zalewski</description>
+<pubDate>Sat, 12 Sep 2026 20:04:00 +0200</pubDate>
+</item>
+<item>
+<title>Powrót Monty Pythona? Cleese ujawnia kulisy konfliktu</title>
+<link>https://zero.pl/news/monty-python-wroci-john-cleese-ujawnia-ze-eric-idle-chcial-spotkania</link>
+<guid isPermaLink="true">https://zero.pl/news/monty-python-wroci-john-cleese-ujawnia-ze-eric-idle-chcial-spotkania</guid>
+<category>Kultura</category>
+<description>Kultura — Przemysław Staciwa</description>
+<pubDate>Sat, 12 Sep 2026 19:48:00 +0200</pubDate>
+</item>
 <item>
 <title>Siatkówka. Popiwczak po zwycięstwie z Izraelem: „Prawdziwy sprawdzian dopiero przed nami”</title>
 <link>https://zero.pl/news/siatkowka-popiwczak-po-zwyciestwie-z-izraelem-prawdziwy-sprawdzian-dopiero-przed-nami</link>
@@ -1174,38 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Redakcja Zero.pl</description>
 <pubDate>Wed, 09 Sep 2026 15:07:00 +0200</pubDate>
-</item>
-<item>
-<title>Kontrowersje wokół przetargu na kamery dla przejścia w Medyce. Polska kupi chiński monitoring?</title>
-<link>https://zero.pl/news/chinskie-kamery-na-przejsciu-granicznym-w-medyce-inne-nie-spelnia-wymagan</link>
-<guid isPermaLink="true">https://zero.pl/news/chinskie-kamery-na-przejsciu-granicznym-w-medyce-inne-nie-spelnia-wymagan</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Wed, 09 Sep 2026 14:55:00 +0200</pubDate>
-</item>
-<item>
-<title>Ukrainiec zatrzymany na targach zbrojeniowych w Kielcach. Miał przy sobie ostrą amunicję</title>
-<link>https://zero.pl/news/kielce-ukrainiec-zatrzymany-podczas-targow-mspo-policja-znalazla-przy-nim-ostra-amunicje</link>
-<guid isPermaLink="true">https://zero.pl/news/kielce-ukrainiec-zatrzymany-podczas-targow-mspo-policja-znalazla-przy-nim-ostra-amunicje</guid>
-<category>Wojsko</category>
-<description>Wojsko — Filip Baczkura</description>
-<pubDate>Wed, 09 Sep 2026 14:50:00 +0200</pubDate>
-</item>
-<item>
-<title>Najpierw upały, potem nagłe ochłodzenie. IMGW wydał ostrzeżenia</title>
-<link>https://zero.pl/news/najpierw-upaly-potem-ochlodzenie-prognoza-pogody-do-weekendu</link>
-<guid isPermaLink="true">https://zero.pl/news/najpierw-upaly-potem-ochlodzenie-prognoza-pogody-do-weekendu</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Wed, 09 Sep 2026 14:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Były agent CBA i Zondacrypto. „Z tego odcinka dowiadujemy się najwięcej"</title>
-<link>https://zero.pl/news/byly-agent-cba-i-zondacrypto-kim-jest-artur-chodzinski</link>
-<guid isPermaLink="true">https://zero.pl/news/byly-agent-cba-i-zondacrypto-kim-jest-artur-chodzinski</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Wed, 09 Sep 2026 14:38:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
