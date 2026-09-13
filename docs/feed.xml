@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 13 Sep 2026 19:54:28 +0200</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 22:01:28 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Łoś na torach w centrum Warszawy. Duże opóźnienia pociągów SKM i KM</title>
+<link>https://zero.pl/news/los-na-torach-w-centrum-warszawy-duze-opoznienia-pociagow-skm-i-km</link>
+<guid isPermaLink="true">https://zero.pl/news/los-na-torach-w-centrum-warszawy-duze-opoznienia-pociagow-skm-i-km</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Sun, 13 Sep 2026 21:31:00 +0200</pubDate>
+</item>
+<item>
+<title>Szwecja skręca w lewo. Socjaldemokraci wygrywają wybory parlamentarne</title>
+<link>https://zero.pl/news/szwecja-skreca-w-lewo-socjaldemokraci-wygrywaja-wybory-parlamentarne</link>
+<guid isPermaLink="true">https://zero.pl/news/szwecja-skreca-w-lewo-socjaldemokraci-wygrywaja-wybory-parlamentarne</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Sun, 13 Sep 2026 21:11:00 +0200</pubDate>
+</item>
+<item>
+<title>Nowa polityka przyjaźni. Francuska lewica chce umowy cywilnej dla przyjaciół</title>
+<link>https://zero.pl/news/nowa-polityka-przyjazni-francuska-lewica-chce-umowy-cywilnej-dla-przyjaciol</link>
+<guid isPermaLink="true">https://zero.pl/news/nowa-polityka-przyjazni-francuska-lewica-chce-umowy-cywilnej-dla-przyjaciol</guid>
+<category>Świat</category>
+<description>Świat — Marcin Darmas</description>
+<pubDate>Sun, 13 Sep 2026 21:01:00 +0200</pubDate>
+</item>
+<item>
+<title>Rosja o niedzielnych atakach. „Cele o charakterze militarnym”</title>
+<link>https://zero.pl/news/rosja-o-niedzielnych-atakach-cele-o-charakterze-militarnym</link>
+<guid isPermaLink="true">https://zero.pl/news/rosja-o-niedzielnych-atakach-cele-o-charakterze-militarnym</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Sun, 13 Sep 2026 20:25:00 +0200</pubDate>
+</item>
 <item>
 <title>Rubryka, która zmieniła dziennikarstwo. Historia kultowych felietonów Mazurka i Zalewskiego</title>
 <link>https://zero.pl/news/mazurek-i-zalewski-jako-pierwsi-opisali-afere-rywina-fragment-ksiazki-prawie-zachod</link>
@@ -1174,38 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Krzysztof Jabłonowski</description>
 <pubDate>Thu, 10 Sep 2026 09:28:00 +0200</pubDate>
-</item>
-<item>
-<title>Duda odpowiada Stanowskiemu. „Przyznałem order Zełenskiemu z premedytacją”</title>
-<link>https://zero.pl/news/andrzej-duda-i-krzysztof-stanowski-byly-prezydent-ujawnia-kulisy-orderu-orla-bialego-dla-zelenskiego</link>
-<guid isPermaLink="true">https://zero.pl/news/andrzej-duda-i-krzysztof-stanowski-byly-prezydent-ujawnia-kulisy-orderu-orla-bialego-dla-zelenskiego</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Thu, 10 Sep 2026 08:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Drożyzna na stacjach paliw. Diesel bije rekordy, benzyna i LPG z mocnymi podwyżkami</title>
-<link>https://zero.pl/news/ceny-paliw-10-wrzesnia-2026-ile-kosztuje-benzyna-diesel-i-lpg</link>
-<guid isPermaLink="true">https://zero.pl/news/ceny-paliw-10-wrzesnia-2026-ile-kosztuje-benzyna-diesel-i-lpg</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 10 Sep 2026 08:24:00 +0200</pubDate>
-</item>
-<item>
-<title>Niewidzialny Gladius i Moskwa w zasięgu Strikera. Polskie drony hitem MSPO</title>
-<link>https://zero.pl/news/kielce-niewidzialny-gladius-i-moskwa-w-zasiegu-strikera-polskie-drony-hitem-mspo</link>
-<guid isPermaLink="true">https://zero.pl/news/kielce-niewidzialny-gladius-i-moskwa-w-zasiegu-strikera-polskie-drony-hitem-mspo</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Thu, 10 Sep 2026 08:20:00 +0200</pubDate>
-</item>
-<item>
-<title>Idą duże zmiany w pogodzie. Za kilka dni termometry mocno zaskoczą</title>
-<link>https://zero.pl/news/prognoza-pogody-na-dzis-i-kolejne-dni-nadchodzi-fala-ocieplenia-i-zalamanie-pogody</link>
-<guid isPermaLink="true">https://zero.pl/news/prognoza-pogody-na-dzis-i-kolejne-dni-nadchodzi-fala-ocieplenia-i-zalamanie-pogody</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 10 Sep 2026 07:54:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
