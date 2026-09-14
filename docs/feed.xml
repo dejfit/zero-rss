@@ -5,8 +5,96 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 14 Sep 2026 07:04:51 +0200</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 12:32:37 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Zmiany tuż przed pierwszym dzwonkiem? Tak nie da się zarządzać szkołą</title>
+<link>https://zero.pl/news/men-zmienia-klasyfikacje-zawodow-tydzien-przed-pierwszym-dzwonkiem-szkoly-nie-nadazaja</link>
+<guid isPermaLink="true">https://zero.pl/news/men-zmienia-klasyfikacje-zawodow-tydzien-przed-pierwszym-dzwonkiem-szkoly-nie-nadazaja</guid>
+<category>Kraj</category>
+<description>Kraj — Marcin Józefaciuk</description>
+<pubDate>Mon, 14 Sep 2026 12:09:00 +0200</pubDate>
+</item>
+<item>
+<title>Rosja uderzyła tuż przy polskiej granicy. Kallas: Nie możemy dać się zastraszyć</title>
+<link>https://zero.pl/news/kaja-kallas-o-rosyjskim-ataku-przy-granicy-z-polska-celem-jest-zastraszenie-zachodu</link>
+<guid isPermaLink="true">https://zero.pl/news/kaja-kallas-o-rosyjskim-ataku-przy-granicy-z-polska-celem-jest-zastraszenie-zachodu</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Mon, 14 Sep 2026 11:53:00 +0200</pubDate>
+</item>
+<item>
+<title>Przyczyniła się do pożaru, w którym zginęły 72 osoby. Dostała nową posadę</title>
+<link>https://zero.pl/news/szukala-oszczednosci-przed-pozarem-grenfell-tower-teraz-dostala-nowa-posade</link>
+<guid isPermaLink="true">https://zero.pl/news/szukala-oszczednosci-przed-pozarem-grenfell-tower-teraz-dostala-nowa-posade</guid>
+<category>Świat</category>
+<description>Świat — Bartosz Michalski</description>
+<pubDate>Mon, 14 Sep 2026 11:17:00 +0200</pubDate>
+</item>
+<item>
+<title>Apple chce robić kontrolery do gier. Nie zgadniesz jakiej marki</title>
+<link>https://zero.pl/news/apple-chce-robic-kontrolery-do-gier-nie-zgadniesz-jakiej-marki</link>
+<guid isPermaLink="true">https://zero.pl/news/apple-chce-robic-kontrolery-do-gier-nie-zgadniesz-jakiej-marki</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Mon, 14 Sep 2026 10:57:00 +0200</pubDate>
+</item>
+<item>
+<title>Rozliczenia za korupcję. Zełenski żąda dymisji</title>
+<link>https://zero.pl/news/ukraina-szef-nabu-podejrzany-o-korupcje-prokurator-generalny-zrezygnowal-po-aferze</link>
+<guid isPermaLink="true">https://zero.pl/news/ukraina-szef-nabu-podejrzany-o-korupcje-prokurator-generalny-zrezygnowal-po-aferze</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Mon, 14 Sep 2026 10:39:00 +0200</pubDate>
+</item>
+<item>
+<title>Dawid Kacprzyk wpisany jako lekarz szpitala. Placówka: „Absolutnie to dementuję”</title>
+<link>https://zero.pl/news/dawid-kacprzyk-wpisany-jako-lekarz-szpitala-placowka-absolutnie-to-dementuje</link>
+<guid isPermaLink="true">https://zero.pl/news/dawid-kacprzyk-wpisany-jako-lekarz-szpitala-placowka-absolutnie-to-dementuje</guid>
+<category>Kraj</category>
+<description>Kraj — Bartosz Michalski</description>
+<pubDate>Mon, 14 Sep 2026 10:08:00 +0200</pubDate>
+</item>
+<item>
+<title>Nie dać się zastraszyć. Polska wobec rosyjskiej strategii salami</title>
+<link>https://zero.pl/news/dron-pocisk-sabotaz-rosyjska-presja-na-polske-ma-jeden-wspolny-cel</link>
+<guid isPermaLink="true">https://zero.pl/news/dron-pocisk-sabotaz-rosyjska-presja-na-polske-ma-jeden-wspolny-cel</guid>
+<category>Świat</category>
+<description>Świat — Sławomir Dębski</description>
+<pubDate>Mon, 14 Sep 2026 10:07:00 +0200</pubDate>
+</item>
+<item>
+<title>Polityk KO zapytany o Kacprzyka. „Wolałbym zapomnieć o jego osobie”</title>
+<link>https://zero.pl/news/polska-jest-bezpieczna-posel-mariusz-witczak-w-porannych-rozmowach-zero</link>
+<guid isPermaLink="true">https://zero.pl/news/polska-jest-bezpieczna-posel-mariusz-witczak-w-porannych-rozmowach-zero</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Mon, 14 Sep 2026 09:22:00 +0200</pubDate>
+</item>
+<item>
+<title>Zero.pl poznało plan Rozwoju Plus na tańsze paliwo. Waldemar Buda tłumaczy szczegóły</title>
+<link>https://zero.pl/news/jak-obnizyc-ceny-paliw-rozwoj-plus-zacznie-zbiorke-podpisow-pod-projektem-ustawy</link>
+<guid isPermaLink="true">https://zero.pl/news/jak-obnizyc-ceny-paliw-rozwoj-plus-zacznie-zbiorke-podpisow-pod-projektem-ustawy</guid>
+<category>Kraj</category>
+<description>Kraj — Bartosz Michalski</description>
+<pubDate>Mon, 14 Sep 2026 08:33:00 +0200</pubDate>
+</item>
+<item>
+<title>Afera w Szpitalu Południowym uderza w rząd. Polacy zabrali głos</title>
+<link>https://zero.pl/news/afera-w-szpitalu-poludniowym-uderza-rzad-tylko-18-proc-badanych-zadowolonych-z-reakcji</link>
+<guid isPermaLink="true">https://zero.pl/news/afera-w-szpitalu-poludniowym-uderza-rzad-tylko-18-proc-badanych-zadowolonych-z-reakcji</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Mon, 14 Sep 2026 07:56:00 +0200</pubDate>
+</item>
+<item>
+<title>Polska liderem przekazów pieniężnych do Ukrainy. Jej udział jednak wyraźnie spada</title>
+<link>https://zero.pl/news/polska-wciaz-liderem-przekazow-do-ukrainy-jej-udzial-jednak-wyraznie-spada</link>
+<guid isPermaLink="true">https://zero.pl/news/polska-wciaz-liderem-przekazow-do-ukrainy-jej-udzial-jednak-wyraznie-spada</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Mon, 14 Sep 2026 07:33:00 +0200</pubDate>
+</item>
 <item>
 <title>Urlop menstruacyjny w Polsce? Zdecydowana większość badanych kobiet „za”</title>
 <link>https://zero.pl/news/urlop-menstruacyjny-w-polsce-zdecydowana-wiekszosc-badanych-kobiet-za</link>
@@ -1118,94 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Bartosz Michalski</description>
 <pubDate>Thu, 10 Sep 2026 15:33:00 +0200</pubDate>
-</item>
-<item>
-<title>Rakieta spadła na dom w Wyrykach. Po roku jest decyzja prokuratury</title>
-<link>https://zero.pl/news/wyryki-wola-koniec-sledztwa-w-sprawie-uderzenia-rakiety-w-dom</link>
-<guid isPermaLink="true">https://zero.pl/news/wyryki-wola-koniec-sledztwa-w-sprawie-uderzenia-rakiety-w-dom</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Thu, 10 Sep 2026 15:19:00 +0200</pubDate>
-</item>
-<item>
-<title>Nowe przepisy w szkołach budzą skrajne emocje. „Rodzice chcą mieć nieustający kontakt”</title>
-<link>https://zero.pl/news/zakaz-uzywania-telefonow-w-szkolach-przepis-budzi-kontrowersje-rodzice-i-nauczyciele-reaguja</link>
-<guid isPermaLink="true">https://zero.pl/news/zakaz-uzywania-telefonow-w-szkolach-przepis-budzi-kontrowersje-rodzice-i-nauczyciele-reaguja</guid>
-<category>Kraj</category>
-<description>Kraj — Maria Badzio</description>
-<pubDate>Thu, 10 Sep 2026 15:16:00 +0200</pubDate>
-</item>
-<item>
-<title>Apple rozpoczyna nowy rozdział. iPhone Duo pomógł ludziom odkryć składane smartfony</title>
-<link>https://zero.pl/news/apple-rozpoczyna-nowy-rozdzial-iphone-duo-pomogl-ludziom-odkryc-skladane-smartfony</link>
-<guid isPermaLink="true">https://zero.pl/news/apple-rozpoczyna-nowy-rozdzial-iphone-duo-pomogl-ludziom-odkryc-skladane-smartfony</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Thu, 10 Sep 2026 14:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Wielki Brat przy bankomatach. Nowy postulat budzi emocje, MF uspokaja</title>
-<link>https://zero.pl/news/bankomaty-maja-rejestrowac-wizerunek-klientow-postulat-ms-budzi-emocje</link>
-<guid isPermaLink="true">https://zero.pl/news/bankomaty-maja-rejestrowac-wizerunek-klientow-postulat-ms-budzi-emocje</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Thu, 10 Sep 2026 13:43:00 +0200</pubDate>
-</item>
-<item>
-<title>Brytyjska prasa ostrzega. Ukrainie kończą się zapasy kluczowych rakiet</title>
-<link>https://zero.pl/news/wojna-w-ukrainie-media-ukrainie-koncza-sie-zapasy-rakiet-rosja-zwieksza-produkcje-dronow</link>
-<guid isPermaLink="true">https://zero.pl/news/wojna-w-ukrainie-media-ukrainie-koncza-sie-zapasy-rakiet-rosja-zwieksza-produkcje-dronow</guid>
-<category>Wojsko</category>
-<description>Wojsko — Krzysztof Jabłonowski</description>
-<pubDate>Thu, 10 Sep 2026 12:50:00 +0200</pubDate>
-</item>
-<item>
-<title>Echa skandalu w OpenAI. „Tajemnice handlowe modeli AI powinny zostać upublicznione”</title>
-<link>https://zero.pl/news/kto-rozwiazal-matematyczne-rownanie-spor-naukowcow-z-firma-open-ai</link>
-<guid isPermaLink="true">https://zero.pl/news/kto-rozwiazal-matematyczne-rownanie-spor-naukowcow-z-firma-open-ai</guid>
-<category>Nauka</category>
-<description>Nauka — Krzysztof Jabłonowski</description>
-<pubDate>Thu, 10 Sep 2026 12:17:00 +0200</pubDate>
-</item>
-<item>
-<title>Masz magnesy na lodówce? Ich rozmieszczenie może sporo zdradzać</title>
-<link>https://zero.pl/news/magnesy-na-lodowce-a-osobowosc-co-moga-oznaczac</link>
-<guid isPermaLink="true">https://zero.pl/news/magnesy-na-lodowce-a-osobowosc-co-moga-oznaczac</guid>
-<category>Nauka</category>
-<description>Nauka — Bartosz Michalski</description>
-<pubDate>Thu, 10 Sep 2026 11:58:00 +0200</pubDate>
-</item>
-<item>
-<title>iPhone Duo zaprezentowany. Internauci wydali wyrok</title>
-<link>https://zero.pl/news/internet-smieje-sie-z-iphonea-duo-siec-zalaly-memy-i-komentarze</link>
-<guid isPermaLink="true">https://zero.pl/news/internet-smieje-sie-z-iphonea-duo-siec-zalaly-memy-i-komentarze</guid>
-<category>Technologia</category>
-<description>Technologia — Redakcja Zero.pl</description>
-<pubDate>Thu, 10 Sep 2026 11:34:00 +0200</pubDate>
-</item>
-<item>
-<title>Afera Zondacrypto ciąży PiS. Są wyniki sondażu</title>
-<link>https://zero.pl/news/afera-zondacrypto-wyniki-sondazu-niekorzystne-dla-prawa-i-sprawiedliwosci</link>
-<guid isPermaLink="true">https://zero.pl/news/afera-zondacrypto-wyniki-sondazu-niekorzystne-dla-prawa-i-sprawiedliwosci</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Thu, 10 Sep 2026 11:18:00 +0200</pubDate>
-</item>
-<item>
-<title>Miliardy z budżetu na Fundusz Kościelny. Obietnica KO ponownie odłożona</title>
-<link>https://zero.pl/news/fundusz-koscielny-pochlonie-miliardy-rzad-mial-go-zlikwidowac-ale-raczej-nic-z-tego</link>
-<guid isPermaLink="true">https://zero.pl/news/fundusz-koscielny-pochlonie-miliardy-rzad-mial-go-zlikwidowac-ale-raczej-nic-z-tego</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Thu, 10 Sep 2026 10:54:00 +0200</pubDate>
-</item>
-<item>
-<title>Naukowcy zwracają uwagę na takie wyniki badań krwi. Ostrzegają przed ryzykiem</title>
-<link>https://zero.pl/news/wyniki-badan-krwi-w-normie-ale-blisko-granicy-naukowcy-ostrzegaja-przed-ryzykiem</link>
-<guid isPermaLink="true">https://zero.pl/news/wyniki-badan-krwi-w-normie-ale-blisko-granicy-naukowcy-ostrzegaja-przed-ryzykiem</guid>
-<category>Nauka</category>
-<description>Nauka — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 10 Sep 2026 10:42:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
