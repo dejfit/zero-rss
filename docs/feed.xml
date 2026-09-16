@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 16 Sep 2026 20:33:55 +0200</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 23:40:18 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Ostrzegał przed brakiem węgla na zimę. Teraz stracił stanowisko</title>
+<link>https://zero.pl/news/prezes-orlen-termiki-odwolany-wczesniej-andrzej-gajewski-ostrzegal-przed-brakiem-wegla-na-zime</link>
+<guid isPermaLink="true">https://zero.pl/news/prezes-orlen-termiki-odwolany-wczesniej-andrzej-gajewski-ostrzegal-przed-brakiem-wegla-na-zime</guid>
+<category>Biznes</category>
+<description>Biznes — Maria Badzio</description>
+<pubDate>Wed, 16 Sep 2026 21:52:00 +0200</pubDate>
+</item>
+<item>
+<title>Fed podniósł stopy procentowe w USA. Pierwsza taka decyzja od trzech lat</title>
+<link>https://zero.pl/news/usa-fed-podniosl-stopy-procentowe-pierwsza-taka-decyzja-od-trzech-lat</link>
+<guid isPermaLink="true">https://zero.pl/news/usa-fed-podniosl-stopy-procentowe-pierwsza-taka-decyzja-od-trzech-lat</guid>
+<category>Biznes</category>
+<description>Biznes — Maria Badzio</description>
+<pubDate>Wed, 16 Sep 2026 21:22:00 +0200</pubDate>
+</item>
+<item>
+<title>Kryzys humanitarny w Ukrainie. Mieszkańcy Oleszek odcięci od dostaw jedzenia</title>
+<link>https://zero.pl/news/kryzys-humanitarny-na-ukrainie-mieszkancy-oleszek-odcieci-od-dostaw-jedzenia</link>
+<guid isPermaLink="true">https://zero.pl/news/kryzys-humanitarny-na-ukrainie-mieszkancy-oleszek-odcieci-od-dostaw-jedzenia</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Wed, 16 Sep 2026 21:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Ukraina czeka na ruch Rosji. Chodzi o zawieszenie broni w sektorze energetycznym</title>
+<link>https://zero.pl/news/wojna-w-ukrainie-kijow-czeka-na-ruch-rosji-ws-energetycznego-zawieszenia-broni</link>
+<guid isPermaLink="true">https://zero.pl/news/wojna-w-ukrainie-kijow-czeka-na-ruch-rosji-ws-energetycznego-zawieszenia-broni</guid>
+<category>Świat</category>
+<description>Świat — Maria Badzio</description>
+<pubDate>Wed, 16 Sep 2026 20:35:00 +0200</pubDate>
+</item>
 <item>
 <title>Poczobut o pobycie w białoruskim łagrze. „Za całokształt”</title>
 <link>https://zero.pl/news/poczobut</link>
@@ -1174,38 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Sun, 13 Sep 2026 06:04:00 +0200</pubDate>
-</item>
-<item>
-<title>Klapa rządowego programu antydronowego? Widziałem z bliska „Potwora z Norwegii”</title>
-<link>https://zero.pl/news/klapa-rzadowego-programu-antydronowego-widzialem-z-bliska-potwora-z-norwegii</link>
-<guid isPermaLink="true">https://zero.pl/news/klapa-rzadowego-programu-antydronowego-widzialem-z-bliska-potwora-z-norwegii</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Sun, 13 Sep 2026 06:04:00 +0200</pubDate>
-</item>
-<item>
-<title>Miejsce, gdzie uliczne łobuzy wychodzą na ludzi</title>
-<link>https://zero.pl/news/miejsce-gdzie-uliczne-lobuzy-wychodza-na-ludzi</link>
-<guid isPermaLink="true">https://zero.pl/news/miejsce-gdzie-uliczne-lobuzy-wychodza-na-ludzi</guid>
-<category>Kraj</category>
-<description>Kraj — Marcin Darmas</description>
-<pubDate>Sun, 13 Sep 2026 06:03:00 +0200</pubDate>
-</item>
-<item>
-<title>Dowództwo Operacyjne poderwało samoloty wz. z atakami na Ukrainę</title>
-<link>https://zero.pl/news/dowodztwo-operacyjne-poderwalo-samoloty-wz-z-atakami-na-ukraine</link>
-<guid isPermaLink="true">https://zero.pl/news/dowodztwo-operacyjne-poderwalo-samoloty-wz-z-atakami-na-ukraine</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Sun, 13 Sep 2026 06:02:00 +0200</pubDate>
-</item>
-<item>
-<title>Kushner o rozmowach z Putinem: „Duży sukces”. Wskazał najtrudniejszą kwestię</title>
-<link>https://zero.pl/news/kushner-o-rozmowach-z-putinem-duzy-sukces-wskazal-najtrudniejsza-kwestie</link>
-<guid isPermaLink="true">https://zero.pl/news/kushner-o-rozmowach-z-putinem-duzy-sukces-wskazal-najtrudniejsza-kwestie</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Sat, 12 Sep 2026 21:44:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
