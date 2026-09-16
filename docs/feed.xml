@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 16 Sep 2026 02:45:21 +0200</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 07:19:44 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Raport: wzrost cen podstawowych produktów. Tyle zapłacimy za koszyk zakupów</title>
+<link>https://zero.pl/news/raport-wzrost-cen-podstawowych-produktow-tyle-zaplacimy-za-koszyk-zakupow</link>
+<guid isPermaLink="true">https://zero.pl/news/raport-wzrost-cen-podstawowych-produktow-tyle-zaplacimy-za-koszyk-zakupow</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Wed, 16 Sep 2026 07:02:00 +0200</pubDate>
+</item>
+<item>
+<title>Impeachment Trumpa. Kongres podjął decyzję w sprawie prezydenta USA</title>
+<link>https://zero.pl/news/impeachment-trumpa-kongres-podjal-decyzje-w-sprawie-prezydenta-usa</link>
+<guid isPermaLink="true">https://zero.pl/news/impeachment-trumpa-kongres-podjal-decyzje-w-sprawie-prezydenta-usa</guid>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
+<pubDate>Wed, 16 Sep 2026 06:42:00 +0200</pubDate>
+</item>
+<item>
+<title>Polska wydała miliardy na ochronę ludności. „Nadal nie jesteśmy gotowi na kryzys”</title>
+<link>https://zero.pl/news/ochrona-ludnosci-w-polsce-miliardy-wydane-system-wciaz-niegotowy</link>
+<guid isPermaLink="true">https://zero.pl/news/ochrona-ludnosci-w-polsce-miliardy-wydane-system-wciaz-niegotowy</guid>
+<category>Kraj</category>
+<description>Kraj — Dariusz P. Kała</description>
+<pubDate>Wed, 16 Sep 2026 05:57:00 +0200</pubDate>
+</item>
 <item>
 <title>Dzik staranował kobietę na Bielanach. 36-latka trafiła do szpitala</title>
 <link>https://zero.pl/news/dzik-zaatakowal-kobiete-na-bielanach-36-latka-ze-zlamaniem-biodra-trafila-do-szpitala</link>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Jabłonowski</description>
 <pubDate>Sat, 12 Sep 2026 07:38:00 +0200</pubDate>
-</item>
-<item>
-<title>Ukraina proponuje rozejm energetyczny. Zełenski mówi o warunku</title>
-<link>https://zero.pl/news/zelenski-proponuje-rozejm-energetyczny-z-rosja-prezydent-ukrainy-mowi-o-warunku</link>
-<guid isPermaLink="true">https://zero.pl/news/zelenski-proponuje-rozejm-energetyczny-z-rosja-prezydent-ukrainy-mowi-o-warunku</guid>
-<category>Świat</category>
-<description>Świat — Krzysztof Jabłonowski</description>
-<pubDate>Sat, 12 Sep 2026 07:10:00 +0200</pubDate>
-</item>
-<item>
-<title>Poważny wypadek kolejowy we Francji. Ponad 40 rannych</title>
-<link>https://zero.pl/news/powazny-wypadek-kolejowy-we-francji-ponad-40-rannych</link>
-<guid isPermaLink="true">https://zero.pl/news/powazny-wypadek-kolejowy-we-francji-ponad-40-rannych</guid>
-<category>Świat</category>
-<description>Świat — Krzysztof Jabłonowski</description>
-<pubDate>Sat, 12 Sep 2026 06:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Mało śniegu w grudniu, więcej w styczniu. Są pierwsze prognozy na zimę</title>
-<link>https://zero.pl/news/prognoza-pogody-na-zime-2026-2027-czy-w-polsce-bedzie-duzo-sniegu</link>
-<guid isPermaLink="true">https://zero.pl/news/prognoza-pogody-na-zime-2026-2027-czy-w-polsce-bedzie-duzo-sniegu</guid>
-<category>Kraj</category>
-<description>Kraj — Bartosz Michalski</description>
-<pubDate>Sat, 12 Sep 2026 06:04:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
