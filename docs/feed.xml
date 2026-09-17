@@ -5,8 +5,72 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 17 Sep 2026 18:55:26 +0200</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 21:56:34 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>81 proc. Kanadyjczyków chce zacieśnienia relacji z UE. „Europa bliższa niż USA”</title>
+<link>https://zero.pl/news/81-proc-kanadyjczykow-popiera-blizsze-relacje-z-unia-europejska-jest-nowy-sondaz</link>
+<guid isPermaLink="true">https://zero.pl/news/81-proc-kanadyjczykow-popiera-blizsze-relacje-z-unia-europejska-jest-nowy-sondaz</guid>
+<category>Świat</category>
+<description>Świat — Maria Badzio</description>
+<pubDate>Thu, 17 Sep 2026 21:49:00 +0200</pubDate>
+</item>
+<item>
+<title>Debata o Kacprzyku i ochronie zdrowia. „Wyścig dwóch ślimaków”</title>
+<link>https://zero.pl/news/szpital-poludniowy-slowik-na-debacie-w-kanale-zero-o-sledztwie-ws-kacprzyka</link>
+<guid isPermaLink="true">https://zero.pl/news/szpital-poludniowy-slowik-na-debacie-w-kanale-zero-o-sledztwie-ws-kacprzyka</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Tomasz Pałasz</description>
+<pubDate>Thu, 17 Sep 2026 21:30:00 +0200</pubDate>
+</item>
+<item>
+<title>Zmiana władzy w Szwecji. Zdecydował ostatni mandat</title>
+<link>https://zero.pl/news/szwecja-zmienia-wladze-lewicowe-ugrupowania-zastapia-prawicowa-koalicje</link>
+<guid isPermaLink="true">https://zero.pl/news/szwecja-zmienia-wladze-lewicowe-ugrupowania-zastapia-prawicowa-koalicje</guid>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
+<pubDate>Thu, 17 Sep 2026 21:16:00 +0200</pubDate>
+</item>
+<item>
+<title>Król zatrzymany przez CBA. „Na polecenie Prokuratury Europejskiej”</title>
+<link>https://zero.pl/news/wojciech-krol-zatrzymany-przez-cba-tomasz-siemoniak-o-szczegolach</link>
+<guid isPermaLink="true">https://zero.pl/news/wojciech-krol-zatrzymany-przez-cba-tomasz-siemoniak-o-szczegolach</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Thu, 17 Sep 2026 21:03:00 +0200</pubDate>
+</item>
+<item>
+<title>Ekspert o ewakuacji w szkołach po alertach RCB. „Nie bagatelizujmy tych sygnałów"</title>
+<link>https://zero.pl/news/alert-rcb-uczniow-ewakuowano-do-piwnic-andrzej-bartkowiak-o-zasadach-bezpieczenstwa</link>
+<guid isPermaLink="true">https://zero.pl/news/alert-rcb-uczniow-ewakuowano-do-piwnic-andrzej-bartkowiak-o-zasadach-bezpieczenstwa</guid>
+<category>Kraj</category>
+<description>Kraj — Maria Badzio</description>
+<pubDate>Thu, 17 Sep 2026 20:30:00 +0200</pubDate>
+</item>
+<item>
+<title>Trump pisze o amerykańskich bazach w Polsce. Wspomniał o Nawrockim</title>
+<link>https://zero.pl/news/donald-trump-pisze-o-amerykanskich-bazach-w-polsce-wspomnial-o-karolu-nawrockim</link>
+<guid isPermaLink="true">https://zero.pl/news/donald-trump-pisze-o-amerykanskich-bazach-w-polsce-wspomnial-o-karolu-nawrockim</guid>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
+<pubDate>Thu, 17 Sep 2026 19:47:00 +0200</pubDate>
+</item>
+<item>
+<title>Chirurg o tragedii w Szpitalu Południowym. „Wstrzymanie operacji było błędem”</title>
+<link>https://zero.pl/news/znany-lekarz-o-tragedii-w-szpitalu-poludniowym-wstrzymanie-operacji-bylo-bledem</link>
+<guid isPermaLink="true">https://zero.pl/news/znany-lekarz-o-tragedii-w-szpitalu-poludniowym-wstrzymanie-operacji-bylo-bledem</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Tomasz Pałasz</description>
+<pubDate>Thu, 17 Sep 2026 19:36:00 +0200</pubDate>
+</item>
+<item>
+<title>Czuć już zbliżającą się jesień. Prognoza pogody na weekend</title>
+<link>https://zero.pl/news/prognoza-pogody-na-weekend-jesien-zbliza-sie-wielkimi-krokami</link>
+<guid isPermaLink="true">https://zero.pl/news/prognoza-pogody-na-weekend-jesien-zbliza-sie-wielkimi-krokami</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Thu, 17 Sep 2026 19:07:00 +0200</pubDate>
+</item>
 <item>
 <title>Facebook zbojkotował sejmową komisję. Brzoska: Trudno o większy wyraz pogardy</title>
 <link>https://zero.pl/news/przedstawiciele-facebooka-nieobecni-na-posiedzeniu-sejmowej-komisji-cyfryzacji</link>
@@ -1142,70 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Bartosz Michalski</description>
 <pubDate>Mon, 14 Sep 2026 08:33:00 +0200</pubDate>
-</item>
-<item>
-<title>Afera w Szpitalu Południowym uderza w rząd. Polacy zabrali głos</title>
-<link>https://zero.pl/news/afera-w-szpitalu-poludniowym-uderza-rzad-tylko-18-proc-badanych-zadowolonych-z-reakcji</link>
-<guid isPermaLink="true">https://zero.pl/news/afera-w-szpitalu-poludniowym-uderza-rzad-tylko-18-proc-badanych-zadowolonych-z-reakcji</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Mon, 14 Sep 2026 07:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Polska liderem przekazów pieniężnych do Ukrainy. Jej udział jednak wyraźnie spada</title>
-<link>https://zero.pl/news/polska-wciaz-liderem-przekazow-do-ukrainy-jej-udzial-jednak-wyraznie-spada</link>
-<guid isPermaLink="true">https://zero.pl/news/polska-wciaz-liderem-przekazow-do-ukrainy-jej-udzial-jednak-wyraznie-spada</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Mon, 14 Sep 2026 07:33:00 +0200</pubDate>
-</item>
-<item>
-<title>Urlop menstruacyjny w Polsce? Zdecydowana większość badanych kobiet „za”</title>
-<link>https://zero.pl/news/urlop-menstruacyjny-w-polsce-zdecydowana-wiekszosc-badanych-kobiet-za</link>
-<guid isPermaLink="true">https://zero.pl/news/urlop-menstruacyjny-w-polsce-zdecydowana-wiekszosc-badanych-kobiet-za</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Mon, 14 Sep 2026 06:57:00 +0200</pubDate>
-</item>
-<item>
-<title>PKOl wybiera nowego szefa. Piesiewicza ma zastąpić jeden z wiceprezesów</title>
-<link>https://zero.pl/news/pkol-wybiera-nowego-szefa-piesiewicza-ma-zastapic-jeden-z-wiceprezesow</link>
-<guid isPermaLink="true">https://zero.pl/news/pkol-wybiera-nowego-szefa-piesiewicza-ma-zastapic-jeden-z-wiceprezesow</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Mon, 14 Sep 2026 06:28:00 +0200</pubDate>
-</item>
-<item>
-<title>Wokulski za krzakiem, Łęcka w redakcji. Recenzujemy netfliksową „Lalkę”</title>
-<link>https://zero.pl/news/oceniamy-serial-lalka-netflix-i-pawel-maslona-kos-czytaja-klasyke-boleslawa-prusa</link>
-<guid isPermaLink="true">https://zero.pl/news/oceniamy-serial-lalka-netflix-i-pawel-maslona-kos-czytaja-klasyke-boleslawa-prusa</guid>
-<category>Kultura</category>
-<description>Kultura — Michał Walkiewicz</description>
-<pubDate>Mon, 14 Sep 2026 05:55:00 +0200</pubDate>
-</item>
-<item>
-<title>Utrącił Miszalskiego, teraz chce jego stanowiska. „Widzę siebie jako prezydenta Krakowa”</title>
-<link>https://zero.pl/news/wybory-w-krakowie-jan-hoffman-o-referendum-i-glosowaniu-mielismy-wspolnote-celow-z-gibala</link>
-<guid isPermaLink="true">https://zero.pl/news/wybory-w-krakowie-jan-hoffman-o-referendum-i-glosowaniu-mielismy-wspolnote-celow-z-gibala</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Białczyk</description>
-<pubDate>Mon, 14 Sep 2026 05:54:00 +0200</pubDate>
-</item>
-<item>
-<title>KO obiecywała likwidację Polskiej Fundacji Narodowej. Ta wciąż działa i dostała 77,5 mln zł</title>
-<link>https://zero.pl/news/ko-obiecywala-likwidacje-polskiej-fundacji-narodowej-ta-wciaz-dziala-i-dostala-775-mln-zl</link>
-<guid isPermaLink="true">https://zero.pl/news/ko-obiecywala-likwidacje-polskiej-fundacji-narodowej-ta-wciaz-dziala-i-dostala-775-mln-zl</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Figurski,Patryk Słowik</description>
-<pubDate>Mon, 14 Sep 2026 05:53:00 +0200</pubDate>
-</item>
-<item>
-<title>Łoś na torach w centrum Warszawy. Duże opóźnienia pociągów SKM i KM</title>
-<link>https://zero.pl/news/los-na-torach-w-centrum-warszawy-duze-opoznienia-pociagow-skm-i-km</link>
-<guid isPermaLink="true">https://zero.pl/news/los-na-torach-w-centrum-warszawy-duze-opoznienia-pociagow-skm-i-km</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Sun, 13 Sep 2026 21:31:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
