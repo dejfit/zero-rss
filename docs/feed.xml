@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 18 Sep 2026 02:45:07 +0200</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 07:15:54 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Karol Nawrocki reaguje na słowa Donalda Trumpa. „Poważnie, odpowiedzialnie i zawsze razem”</title>
+<link>https://zero.pl/news/karol-nawrocki-reaguje-na-slowa-donalda-trumpa-powaznie-odpowiedzialnie-i-zawsze-razem</link>
+<guid isPermaLink="true">https://zero.pl/news/karol-nawrocki-reaguje-na-slowa-donalda-trumpa-powaznie-odpowiedzialnie-i-zawsze-razem</guid>
+<category>Wojsko</category>
+<description>Wojsko — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 18 Sep 2026 06:57:00 +0200</pubDate>
+</item>
+<item>
+<title>Nowy szef klubu Polska 2050. Wybór był jednogłośny</title>
+<link>https://zero.pl/news/klub-polska-2050-ma-nowego-przewodniczacego-jednoglosny-wybor</link>
+<guid isPermaLink="true">https://zero.pl/news/klub-polska-2050-ma-nowego-przewodniczacego-jednoglosny-wybor</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 18 Sep 2026 06:39:00 +0200</pubDate>
+</item>
+<item>
+<title>„Najpierw był szok”, a teraz msze po hiszpańsku. W tych gminach co trzeci jest imigrantem</title>
+<link>https://zero.pl/news/zaskakujace-dane-o-cudzoziemcach-w-polsce-pojechalismy-tam-gdzie-jest-ich-40-procent</link>
+<guid isPermaLink="true">https://zero.pl/news/zaskakujace-dane-o-cudzoziemcach-w-polsce-pojechalismy-tam-gdzie-jest-ich-40-procent</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Barejka</description>
+<pubDate>Fri, 18 Sep 2026 05:58:00 +0200</pubDate>
+</item>
+<item>
+<title>Minister aktywów państwowych dla Zero.pl: Nie ma dla Polski scenariusza bez węgla</title>
+<link>https://zero.pl/news/balczun-koniec-naiwnosci-minister-aktywow-o-roli-wegla-obronnosci-i-odbudowie-ukrainy</link>
+<guid isPermaLink="true">https://zero.pl/news/balczun-koniec-naiwnosci-minister-aktywow-o-roli-wegla-obronnosci-i-odbudowie-ukrainy</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Fri, 18 Sep 2026 05:58:00 +0200</pubDate>
+</item>
 <item>
 <title>81 proc. Kanadyjczyków chce zacieśnienia relacji z UE. „Europa bliższa niż USA”</title>
 <link>https://zero.pl/news/81-proc-kanadyjczykow-popiera-blizsze-relacje-z-unia-europejska-jest-nowy-sondaz</link>
@@ -1174,38 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Przemysław Staciwa</description>
 <pubDate>Mon, 14 Sep 2026 10:39:00 +0200</pubDate>
-</item>
-<item>
-<title>Dawid Kacprzyk wpisany jako lekarz szpitala. Placówka: „Absolutnie to dementuję”</title>
-<link>https://zero.pl/news/dawid-kacprzyk-wpisany-jako-lekarz-szpitala-placowka-absolutnie-to-dementuje</link>
-<guid isPermaLink="true">https://zero.pl/news/dawid-kacprzyk-wpisany-jako-lekarz-szpitala-placowka-absolutnie-to-dementuje</guid>
-<category>Kraj</category>
-<description>Kraj — Bartosz Michalski</description>
-<pubDate>Mon, 14 Sep 2026 10:08:00 +0200</pubDate>
-</item>
-<item>
-<title>Nie dać się zastraszyć. Polska wobec rosyjskiej strategii salami</title>
-<link>https://zero.pl/news/dron-pocisk-sabotaz-rosyjska-presja-na-polske-ma-jeden-wspolny-cel</link>
-<guid isPermaLink="true">https://zero.pl/news/dron-pocisk-sabotaz-rosyjska-presja-na-polske-ma-jeden-wspolny-cel</guid>
-<category>Świat</category>
-<description>Świat — Sławomir Dębski</description>
-<pubDate>Mon, 14 Sep 2026 10:07:00 +0200</pubDate>
-</item>
-<item>
-<title>Polityk KO zapytany o Kacprzyka. „Wolałbym zapomnieć o jego osobie”</title>
-<link>https://zero.pl/news/polska-jest-bezpieczna-posel-mariusz-witczak-w-porannych-rozmowach-zero</link>
-<guid isPermaLink="true">https://zero.pl/news/polska-jest-bezpieczna-posel-mariusz-witczak-w-porannych-rozmowach-zero</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Mon, 14 Sep 2026 09:22:00 +0200</pubDate>
-</item>
-<item>
-<title>Zero.pl poznało plan Rozwoju Plus na tańsze paliwo. Waldemar Buda tłumaczy szczegóły</title>
-<link>https://zero.pl/news/jak-obnizyc-ceny-paliw-rozwoj-plus-zacznie-zbiorke-podpisow-pod-projektem-ustawy</link>
-<guid isPermaLink="true">https://zero.pl/news/jak-obnizyc-ceny-paliw-rozwoj-plus-zacznie-zbiorke-podpisow-pod-projektem-ustawy</guid>
-<category>Kraj</category>
-<description>Kraj — Bartosz Michalski</description>
-<pubDate>Mon, 14 Sep 2026 08:33:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
