@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 18 Sep 2026 21:48:53 +0200</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 23:55:22 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Trump wyrzucił część mediów z Białego Domu. Pozostałym zagroził</title>
+<link>https://zero.pl/news/trump-wyrzucil-czesc-mediow-z-bialego-domu-pozostalym-zagrozil</link>
+<guid isPermaLink="true">https://zero.pl/news/trump-wyrzucil-czesc-mediow-z-bialego-domu-pozostalym-zagrozil</guid>
+<category>Świat</category>
+<description>Świat — Kamil Szałecki</description>
+<pubDate>Fri, 18 Sep 2026 21:54:00 +0200</pubDate>
+</item>
+<item>
+<title>„To nie nasza wojna” wraca po każdym incydencie. Eksperci o fali w sieci</title>
+<link>https://zero.pl/news/to-nie-jest-nasza-wojna-eksperci-o-narracjach-dotyczacych-ukrainy</link>
+<guid isPermaLink="true">https://zero.pl/news/to-nie-jest-nasza-wojna-eksperci-o-narracjach-dotyczacych-ukrainy</guid>
+<category>Kraj</category>
+<description>Kraj — Maria Badzio</description>
+<pubDate>Fri, 18 Sep 2026 21:42:00 +0200</pubDate>
+</item>
 <item>
 <title>„Transferowa bomba stała się faktem”. Na murawę wraca Emmanuel Olisadebe</title>
 <link>https://zero.pl/news/transferowa-bomba-stala-sie-faktem-na-murawe-wraca-emmanuel-olisadebe</link>
@@ -1190,22 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Filip Baczkura</description>
 <pubDate>Tue, 15 Sep 2026 06:23:00 +0200</pubDate>
-</item>
-<item>
-<title>Jednak druga Grecja? Arak: Nie byłem alarmistą, ale teraz idziemy na ścianę</title>
-<link>https://zero.pl/news/sytuacja-ekonomiczna-polski-czy-zbankrutuje-jak-grecja</link>
-<guid isPermaLink="true">https://zero.pl/news/sytuacja-ekonomiczna-polski-czy-zbankrutuje-jak-grecja</guid>
-<category>Kraj</category>
-<description>Kraj — Grzegorz Sroczyński</description>
-<pubDate>Tue, 15 Sep 2026 05:51:00 +0200</pubDate>
-</item>
-<item>
-<title>Przewrót polityczny w Gdyni. Prezydent miasta zrywa koalicję z KO</title>
-<link>https://zero.pl/news/rada-miasta-gdyni-ma-nowa-szefowa-koniec-koalicji-z-ko</link>
-<guid isPermaLink="true">https://zero.pl/news/rada-miasta-gdyni-ma-nowa-szefowa-koniec-koalicji-z-ko</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Mon, 14 Sep 2026 21:55:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
