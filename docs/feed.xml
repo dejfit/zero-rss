@@ -5,8 +5,72 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 18 Sep 2026 11:48:54 +0200</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 15:54:07 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Poseł Król usłyszał zarzuty. „Czuję się niewinny”</title>
+<link>https://zero.pl/news/posel-krol-uslyszal-zarzuty-chodzi-o-korupcje</link>
+<guid isPermaLink="true">https://zero.pl/news/posel-krol-uslyszal-zarzuty-chodzi-o-korupcje</guid>
+<category>Kraj</category>
+<description>Kraj — Kamil Szałecki</description>
+<pubDate>Fri, 18 Sep 2026 15:28:00 +0200</pubDate>
+</item>
+<item>
+<title>Koalicja antybalistyczna. Deklaracja Tuska w Kijowie</title>
+<link>https://zero.pl/news/tusk-w-kijowie-koalicja-antybalistyczna-deklaracja-premiera</link>
+<guid isPermaLink="true">https://zero.pl/news/tusk-w-kijowie-koalicja-antybalistyczna-deklaracja-premiera</guid>
+<category>Świat</category>
+<description>Świat — Kamil Szałecki</description>
+<pubDate>Fri, 18 Sep 2026 14:53:00 +0200</pubDate>
+</item>
+<item>
+<title>„Krakowski Pomocnik Wyborczy”. Wybierz swojego kandydata na prezydenta</title>
+<link>https://zero.pl/news/wybory-w-krakowie-wybierz-swojego-kandydata-z-pomoca-krakowskiego-pomocnika-wyborczego</link>
+<guid isPermaLink="true">https://zero.pl/news/wybory-w-krakowie-wybierz-swojego-kandydata-z-pomoca-krakowskiego-pomocnika-wyborczego</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Białczyk</description>
+<pubDate>Fri, 18 Sep 2026 14:47:00 +0200</pubDate>
+</item>
+<item>
+<title>Nowa komisja ds. AI ma szefową. Pracowała w Microsofcie</title>
+<link>https://zero.pl/news/sejm-powolal-przewodniczaca-komisji-rozwoju-i-bezpieczenstwa-sztucznej-inteligencji</link>
+<guid isPermaLink="true">https://zero.pl/news/sejm-powolal-przewodniczaca-komisji-rozwoju-i-bezpieczenstwa-sztucznej-inteligencji</guid>
+<category>Technologia</category>
+<description>Technologia — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 18 Sep 2026 13:56:00 +0200</pubDate>
+</item>
+<item>
+<title>Przeszedł do Morawieckiego, teraz wraca do PiS. Kaczyński: ten dzień będzie miał znaczenie</title>
+<link>https://zero.pl/news/slawomir-skwarek-wraca-do-pis-jaroslaw-kaczynski-ten-dzien-bedzie-mial-znaczenie</link>
+<guid isPermaLink="true">https://zero.pl/news/slawomir-skwarek-wraca-do-pis-jaroslaw-kaczynski-ten-dzien-bedzie-mial-znaczenie</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Fri, 18 Sep 2026 13:28:00 +0200</pubDate>
+</item>
+<item>
+<title>Test Google Pixel Watch 5. Świetny smartwatch, brzydki zegarek</title>
+<link>https://zero.pl/news/test-google-pixel-watch-5-poprosze-o-te-same-funkcje-w-bardziej-klasycznej-obudowie</link>
+<guid isPermaLink="true">https://zero.pl/news/test-google-pixel-watch-5-poprosze-o-te-same-funkcje-w-bardziej-klasycznej-obudowie</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Fri, 18 Sep 2026 13:10:00 +0200</pubDate>
+</item>
+<item>
+<title>Dyrektor PISM odwołany. Instytut podjął kolejny krok</title>
+<link>https://zero.pl/news/dyrektor-pism-odwolany-jacek-foks-przejmie-czasowo-obowiazki-cwiek-karpowicza</link>
+<guid isPermaLink="true">https://zero.pl/news/dyrektor-pism-odwolany-jacek-foks-przejmie-czasowo-obowiazki-cwiek-karpowicza</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Fri, 18 Sep 2026 12:32:00 +0200</pubDate>
+</item>
+<item>
+<title>Honor MagicOS 11 chce być jak Apple iOS. Nikt inny nie idzie tak daleko</title>
+<link>https://zero.pl/news/honor-magicos-11-za-mocno-chce-byc-jak-apple-czy-to-juz-przesada</link>
+<guid isPermaLink="true">https://zero.pl/news/honor-magicos-11-za-mocno-chce-byc-jak-apple-czy-to-juz-przesada</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Fri, 18 Sep 2026 12:12:00 +0200</pubDate>
+</item>
 <item>
 <title>Apple zaakceptował podwyżki cen pamięci. Czas na droższy sprzęt?</title>
 <link>https://zero.pl/news/apple-zaakceptowal-podwyzki-cen-pamieci-czas-na-drozszy-sprzet</link>
@@ -1142,70 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Stanowski</description>
 <pubDate>Mon, 14 Sep 2026 18:23:00 +0200</pubDate>
-</item>
-<item>
-<title>Trump: Rosja i Ukraina wstrzymają ataki na obiekty energetyczne</title>
-<link>https://zero.pl/news/donald-trump-rosja-i-ukraina-wstrzymaja-ataki-na-obiekty-energetyczne</link>
-<guid isPermaLink="true">https://zero.pl/news/donald-trump-rosja-i-ukraina-wstrzymaja-ataki-na-obiekty-energetyczne</guid>
-<category>Świat</category>
-<description>Świat — Krzysztof Jabłonowski</description>
-<pubDate>Mon, 14 Sep 2026 18:01:00 +0200</pubDate>
-</item>
-<item>
-<title>Dron „dopłynął” na polską plażę. Prowokacja i możliwy test obrony przeciwlotniczej NATO</title>
-<link>https://zero.pl/news/jak-dron-doplynal-do-polskiego-wybrzeza-prowokacja-i-test-obrony-przeciwlotniczej-nato</link>
-<guid isPermaLink="true">https://zero.pl/news/jak-dron-doplynal-do-polskiego-wybrzeza-prowokacja-i-test-obrony-przeciwlotniczej-nato</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Mon, 14 Sep 2026 17:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Takiego suma wyciągnęli z Wisły. Ryba miała aż 234 cm</title>
-<link>https://zero.pl/news/takiego-suma-wyciagneli-z-wisly-ryba-miala-az-234-cm</link>
-<guid isPermaLink="true">https://zero.pl/news/takiego-suma-wyciagneli-z-wisly-ryba-miala-az-234-cm</guid>
-<category>Kraj</category>
-<description>Kraj — Bartosz Michalski</description>
-<pubDate>Mon, 14 Sep 2026 16:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Sanepid sprawdził popularne lody. Alarm podniósł były franczyzobiorca</title>
-<link>https://zero.pl/news/sanepid-sprawdzil-lody-sprzedawane-pod-popularna-franczyza-nieprawidlowosci</link>
-<guid isPermaLink="true">https://zero.pl/news/sanepid-sprawdzil-lody-sprzedawane-pod-popularna-franczyza-nieprawidlowosci</guid>
-<category>Biznes</category>
-<description>Biznes — Krzysztof Jabłonowski</description>
-<pubDate>Mon, 14 Sep 2026 16:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Kierwiński chce postawić Macierewicza przed sądem. Jest stanowcza odpowiedź</title>
-<link>https://zero.pl/news/marcin-kiewinski-zawiadamia-prokurature-ws-antoniego-macierewicza-posel-pis-odpowiada</link>
-<guid isPermaLink="true">https://zero.pl/news/marcin-kiewinski-zawiadamia-prokurature-ws-antoniego-macierewicza-posel-pis-odpowiada</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Mon, 14 Sep 2026 16:43:00 +0200</pubDate>
-</item>
-<item>
-<title>Trzy miesiące afery Dawida Kacprzyka. Nadal pracuje i leczy ludzi</title>
-<link>https://zero.pl/news/co-sie-dzieje-z-dawidem-kacprzykiem-patryk-slowik-wyjasnia</link>
-<guid isPermaLink="true">https://zero.pl/news/co-sie-dzieje-z-dawidem-kacprzykiem-patryk-slowik-wyjasnia</guid>
-<category>Kraj</category>
-<description>Kraj — Patryk Słowik</description>
-<pubDate>Mon, 14 Sep 2026 15:54:00 +0200</pubDate>
-</item>
-<item>
-<title>Motorola Signature – aparat, bateria i AI za rozsądną cenę</title>
-<link>https://zero.pl/news/jak-ai-poprawia-zdjecia-w-motoroli-signature-aprat-to-mocny-punkt-tego-smartfonu</link>
-<guid isPermaLink="true">https://zero.pl/news/jak-ai-poprawia-zdjecia-w-motoroli-signature-aprat-to-mocny-punkt-tego-smartfonu</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Mon, 14 Sep 2026 15:50:00 +0200</pubDate>
-</item>
-<item>
-<title>Podpalenia, sabotaże, drony. Tak Rosja przygotowuje grunt pod większy kryzys w NATO</title>
-<link>https://zero.pl/news/rosja-testuje-nato-przed-wiekszym-kryzysem-analiza-serii-sabotazy</link>
-<guid isPermaLink="true">https://zero.pl/news/rosja-testuje-nato-przed-wiekszym-kryzysem-analiza-serii-sabotazy</guid>
-<category>Świat</category>
-<description>Świat — Grzegorz Matyasik</description>
-<pubDate>Mon, 14 Sep 2026 15:24:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
