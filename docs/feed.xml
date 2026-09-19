@@ -5,8 +5,56 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 19 Sep 2026 03:38:43 +0200</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 08:35:09 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Polska – Łotwa w 1/8 finału ME siatkarzy. Biało-czerwoni chcą zapomnieć o Bułgarii</title>
+<link>https://zero.pl/news/polska-lotwa-w-1-8-finalu-me-siatkarzy-bialo-czerwoni-chca-zapomniec-o-bulgarii</link>
+<guid isPermaLink="true">https://zero.pl/news/polska-lotwa-w-1-8-finalu-me-siatkarzy-bialo-czerwoni-chca-zapomniec-o-bulgarii</guid>
+<category>Świat</category>
+<description>Świat — Aleksandra Cieślik</description>
+<pubDate>Sat, 19 Sep 2026 08:22:00 +0200</pubDate>
+</item>
+<item>
+<title>Trump ogłasza umowę w sprawie Grenlandii. Dania: suwerenność zachowana</title>
+<link>https://zero.pl/news/trump-oglasza-umowe-w-sprawie-grenlandii-dania-suwerennosc-zachowana</link>
+<guid isPermaLink="true">https://zero.pl/news/trump-oglasza-umowe-w-sprawie-grenlandii-dania-suwerennosc-zachowana</guid>
+<category>Świat</category>
+<description>Świat — Aleksandra Cieślik</description>
+<pubDate>Sat, 19 Sep 2026 08:06:00 +0200</pubDate>
+</item>
+<item>
+<title>Trump podpisał ustawę o sankcjach na Rosję. Cła do 100 proc. dla importerów ropy</title>
+<link>https://zero.pl/news/trump-podpisal-ustawe-o-sankcjach-na-rosje-cla-do-100-proc-dla-importerow-ropy</link>
+<guid isPermaLink="true">https://zero.pl/news/trump-podpisal-ustawe-o-sankcjach-na-rosje-cla-do-100-proc-dla-importerow-ropy</guid>
+<category>Świat</category>
+<description>Świat — Aleksandra Cieślik</description>
+<pubDate>Sat, 19 Sep 2026 07:03:00 +0200</pubDate>
+</item>
+<item>
+<title>Poseł Król z kolejnymi zarzutami korupcyjnymi. Sąd podjął decyzję w sprawie aresztu</title>
+<link>https://zero.pl/news/posel-krol-z-kolejnymi-zarzutami-korupcyjnymi-sad-podjal-decyzje-w-sprawie-aresztu</link>
+<guid isPermaLink="true">https://zero.pl/news/posel-krol-z-kolejnymi-zarzutami-korupcyjnymi-sad-podjal-decyzje-w-sprawie-aresztu</guid>
+<category>Kraj</category>
+<description>Kraj — Aleksandra Cieślik</description>
+<pubDate>Sat, 19 Sep 2026 06:35:00 +0200</pubDate>
+</item>
+<item>
+<title>Dzieci bez mediów społecznościowych. Projekt EU Kids Act</title>
+<link>https://zero.pl/news/maloletni-bez-mediow-spolecznosciowych-lub-z-ograniczeniami-projekt-eu-kids-act</link>
+<guid isPermaLink="true">https://zero.pl/news/maloletni-bez-mediow-spolecznosciowych-lub-z-ograniczeniami-projekt-eu-kids-act</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Sat, 19 Sep 2026 06:04:00 +0200</pubDate>
+</item>
+<item>
+<title>Polskie służby jak CIA albo Mossad? Faliński: musi być zgoda polityków</title>
+<link>https://zero.pl/news/polskie-sluzby-jak-cia-albo-mossad-falinski-musi-byc-zgoda-politykow</link>
+<guid isPermaLink="true">https://zero.pl/news/polskie-sluzby-jak-cia-albo-mossad-falinski-musi-byc-zgoda-politykow</guid>
+<category>Wojsko</category>
+<description>Wojsko — Michał Bruszewski</description>
+<pubDate>Sat, 19 Sep 2026 06:04:00 +0200</pubDate>
+</item>
 <item>
 <title>Trump wyrzucił część mediów z Białego Domu. Pozostałym zagroził</title>
 <link>https://zero.pl/news/trump-wyrzucil-czesc-mediow-z-bialego-domu-pozostalym-zagrozil</link>
@@ -1158,54 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
 <pubDate>Tue, 15 Sep 2026 08:05:00 +0200</pubDate>
-</item>
-<item>
-<title>Alarmujące dane policji w sprawie hulajnóg elektrycznych. Coraz więcej wypadków</title>
-<link>https://zero.pl/news/policja-podala-dane-dotyczace-hulajnog-elektrycznych-coraz-wiecej-wypadkow</link>
-<guid isPermaLink="true">https://zero.pl/news/policja-podala-dane-dotyczace-hulajnog-elektrycznych-coraz-wiecej-wypadkow</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Tue, 15 Sep 2026 07:31:00 +0200</pubDate>
-</item>
-<item>
-<title>Kim jest „Pan X” z zeznań, które cytował Tusk? Ujawniono nazwisko</title>
-<link>https://zero.pl/news/zondacrypto-tomasz-sakiewicz-to-pan-x-z-zeznan-przemyslawa-krala-ustalenia-wp-i-tvn24</link>
-<guid isPermaLink="true">https://zero.pl/news/zondacrypto-tomasz-sakiewicz-to-pan-x-z-zeznan-przemyslawa-krala-ustalenia-wp-i-tvn24</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Tue, 15 Sep 2026 07:27:00 +0200</pubDate>
-</item>
-<item>
-<title>Wzrósł import węgla do Polski. „Więcej niż w pierwszych miesiącach poprzedniego roku”</title>
-<link>https://zero.pl/news/wzrosl-import-wegla-do-polski-wiecej-niz-w-pierwszych-miesiacach-poprzedniego-roku</link>
-<guid isPermaLink="true">https://zero.pl/news/wzrosl-import-wegla-do-polski-wiecej-niz-w-pierwszych-miesiacach-poprzedniego-roku</guid>
-<category>Biznes</category>
-<description>Biznes — Paweł Żurek</description>
-<pubDate>Tue, 15 Sep 2026 07:27:00 +0200</pubDate>
-</item>
-<item>
-<title>Dzień w dzień dostają alerty RCB. „Absolutnie nie wiemy co robić”</title>
-<link>https://zero.pl/news/dzien-w-dzien-dostaja-alerty-rcb-wypowiedzi-mieszkancow</link>
-<guid isPermaLink="true">https://zero.pl/news/dzien-w-dzien-dostaja-alerty-rcb-wypowiedzi-mieszkancow</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Tue, 15 Sep 2026 06:55:00 +0200</pubDate>
-</item>
-<item>
-<title>USA ma broń w kosmosie. Ważny urzędnik potwierdził</title>
-<link>https://zero.pl/news/usa-ma-bron-w-kosmosie-wazny-urzednik-potwierdzil</link>
-<guid isPermaLink="true">https://zero.pl/news/usa-ma-bron-w-kosmosie-wazny-urzednik-potwierdzil</guid>
-<category>Świat</category>
-<description>Świat — Paweł Żurek</description>
-<pubDate>Tue, 15 Sep 2026 06:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Samoloty operowały nad Polską. Wojsko wydało komunikat</title>
-<link>https://zero.pl/news/rosyjskie-drony-uderzyly-w-ukraine-polskie-lotnictwo-poderwane-w-nocy-jest-komunikat-wojska</link>
-<guid isPermaLink="true">https://zero.pl/news/rosyjskie-drony-uderzyly-w-ukraine-polskie-lotnictwo-poderwane-w-nocy-jest-komunikat-wojska</guid>
-<category>Wojsko</category>
-<description>Wojsko — Filip Baczkura</description>
-<pubDate>Tue, 15 Sep 2026 06:23:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
