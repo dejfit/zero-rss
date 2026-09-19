@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 19 Sep 2026 19:25:26 +0200</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 21:25:49 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Niemcy sensacyjnie pokonali Bułgarię w Sofii. Rywal Polaków w ćwierćfinale ME</title>
+<link>https://zero.pl/news/niemcy-sensacyjnie-pokonali-bulgarie-w-sofii-rywal-polakow-w-cwiercfinale-me</link>
+<guid isPermaLink="true">https://zero.pl/news/niemcy-sensacyjnie-pokonali-bulgarie-w-sofii-rywal-polakow-w-cwiercfinale-me</guid>
+<category>Świat</category>
+<description>Świat — Tomasz Pałasz</description>
+<pubDate>Sat, 19 Sep 2026 20:52:00 +0200</pubDate>
+</item>
+<item>
+<title>Ary głodzą najmłodsze pisklęta. Badaczka podrzuca je dzikim „przybranym rodzicom”</title>
+<link>https://zero.pl/news/ary-glodza-najmlodsze-piskleta-badaczka-podrzuca-je-dzikim-przybranym-rodzicom</link>
+<guid isPermaLink="true">https://zero.pl/news/ary-glodza-najmlodsze-piskleta-badaczka-podrzuca-je-dzikim-przybranym-rodzicom</guid>
+<category>Nauka</category>
+<description>Nauka — Tomasz Pałasz</description>
+<pubDate>Sat, 19 Sep 2026 20:20:00 +0200</pubDate>
+</item>
+<item>
+<title>„Nie znam ani jednego Ukraińca, który wierzy, że wojna się skończy”</title>
+<link>https://zero.pl/news/nie-znam-ukrainca-ktory-wierzy-w-koniec-wojny-historia-kateryny-w-polsce</link>
+<guid isPermaLink="true">https://zero.pl/news/nie-znam-ukrainca-ktory-wierzy-w-koniec-wojny-historia-kateryny-w-polsce</guid>
+<category>Świat</category>
+<description>Świat — Arleta Bojke</description>
+<pubDate>Sat, 19 Sep 2026 20:14:00 +0200</pubDate>
+</item>
 <item>
 <title>Brighton rozbił Arsenal 3:0. Pierwsza porażka mistrzów Anglii w tym sezonie</title>
 <link>https://zero.pl/news/brighton-rozbil-arsenal-30-pierwsza-porazka-mistrzow-anglii-w-tym-sezonie</link>
@@ -1182,30 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Przemysław Staciwa</description>
 <pubDate>Tue, 15 Sep 2026 19:29:00 +0200</pubDate>
-</item>
-<item>
-<title>„Ponownie na stałe w Polsce”. Legendarny poseł wrócił</title>
-<link>https://zero.pl/news/john-godson-wrocil-do-polski-byly-posel-psl-zdradzil-co-dalej</link>
-<guid isPermaLink="true">https://zero.pl/news/john-godson-wrocil-do-polski-byly-posel-psl-zdradzil-co-dalej</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Tue, 15 Sep 2026 19:09:00 +0200</pubDate>
-</item>
-<item>
-<title>Między Ewangelią a eksmisją. Historia, która stawia Kościół przed niewygodnymi pytaniami</title>
-<link>https://zero.pl/news/kosciol-sprzedal-grunty-za-421-mln-zl-matke-z-niepelnosprawnym-synem-eksmitowano</link>
-<guid isPermaLink="true">https://zero.pl/news/kosciol-sprzedal-grunty-za-421-mln-zl-matke-z-niepelnosprawnym-synem-eksmitowano</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Ikonowicz</description>
-<pubDate>Tue, 15 Sep 2026 18:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Kolejny taki przypadek. Holendrzy mówią o „prawdopodobnym sabotażu na kolei”</title>
-<link>https://zero.pl/news/holandia-i-prawdopodobny-sabotaz-na-kolei-europejski-kraj-czesciowo-sparalizowany</link>
-<guid isPermaLink="true">https://zero.pl/news/holandia-i-prawdopodobny-sabotaz-na-kolei-europejski-kraj-czesciowo-sparalizowany</guid>
-<category>Świat</category>
-<description>Świat — Michał Bruszewski</description>
-<pubDate>Tue, 15 Sep 2026 18:25:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
