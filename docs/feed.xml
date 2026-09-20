@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 20 Sep 2026 21:49:14 +0200</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 23:54:51 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Papież o „przerwaniu logiki kalkulacji”. Wspomniał też o jednym z polskich miast</title>
+<link>https://zero.pl/news/papiez-o-przerwaniu-logiki-kalkulacji-wspomnial-tez-o-jednym-z-polskich-miast</link>
+<guid isPermaLink="true">https://zero.pl/news/papiez-o-przerwaniu-logiki-kalkulacji-wspomnial-tez-o-jednym-z-polskich-miast</guid>
+<category>Świat</category>
+<description>Świat — Kamil Szałecki</description>
+<pubDate>Sun, 20 Sep 2026 21:55:00 +0200</pubDate>
+</item>
 <item>
 <title>Ból głowy Urbana. Przez kontuzję wypadł mu kolejny kadrowicz</title>
 <link>https://zero.pl/news/bol-glowy-urbana-przez-kontuzje-wypadl-mu-kolejny-kadrowicz</link>
@@ -1198,14 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Maria Badzio</description>
 <pubDate>Wed, 16 Sep 2026 19:20:00 +0200</pubDate>
-</item>
-<item>
-<title>Noblista został Polakiem. Zadzwonił do niego Tusk</title>
-<link>https://zero.pl/news/noblista-zostal-polakiem-premier-tusk-przekazal-mu-wiadomosc</link>
-<guid isPermaLink="true">https://zero.pl/news/noblista-zostal-polakiem-premier-tusk-przekazal-mu-wiadomosc</guid>
-<category>Nauka</category>
-<description>Nauka — Tomasz Pałasz</description>
-<pubDate>Wed, 16 Sep 2026 18:57:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
