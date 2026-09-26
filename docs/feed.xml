@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 26 Sep 2026 02:01:39 +0200</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 06:48:26 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Tam zawieje i może popadać. Prognoza pogody na sobotę i niedzielę</title>
+<link>https://zero.pl/news/jaka-pogoda-w-weekend-prognoza-imgw</link>
+<guid isPermaLink="true">https://zero.pl/news/jaka-pogoda-w-weekend-prognoza-imgw</guid>
+<category>Kraj</category>
+<description>Kraj — Kamil Szałecki</description>
+<pubDate>Sat, 26 Sep 2026 06:31:00 +0200</pubDate>
+</item>
+<item>
+<title>Za mało mówimy o rewolucji w bateriach smartfonów. Trzy dni pracy są już w pełni osiągalne</title>
+<link>https://zero.pl/news/smartfony-w-2026-r-maja-mocarne-baterie-za-malo-mowi-sie-o-trwajacej-rewolucji</link>
+<guid isPermaLink="true">https://zero.pl/news/smartfony-w-2026-r-maja-mocarne-baterie-za-malo-mowi-sie-o-trwajacej-rewolucji</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Sat, 26 Sep 2026 06:02:00 +0200</pubDate>
+</item>
+<item>
+<title>Wózek miał oznaczać koniec górskich wypraw. W Bieszczadach okazało się, że jest inaczej</title>
+<link>https://zero.pl/news/wozkiem-po-gorach-stacja-bieszczady-organizuje-wyprawy-dla-dzieci-z-niepelnosprawnoscia</link>
+<guid isPermaLink="true">https://zero.pl/news/wozkiem-po-gorach-stacja-bieszczady-organizuje-wyprawy-dla-dzieci-z-niepelnosprawnoscia</guid>
+<category>Kraj</category>
+<description>Kraj — Aleksandra Cieślik</description>
+<pubDate>Sat, 26 Sep 2026 06:02:00 +0200</pubDate>
+</item>
+<item>
+<title>Nie uścisnąłem dłoni papieża. Zobaczyłem za to Francję, której nie widać w telewizji</title>
+<link>https://zero.pl/news/leon-xiv-w-paryzu-reportaz-z-francji-ktora-czekala-na-papieza</link>
+<guid isPermaLink="true">https://zero.pl/news/leon-xiv-w-paryzu-reportaz-z-francji-ktora-czekala-na-papieza</guid>
+<category>Świat</category>
+<description>Świat — Marcin Darmas</description>
+<pubDate>Sat, 26 Sep 2026 06:01:00 +0200</pubDate>
+</item>
 <item>
 <title>Poczobut o Białorusi: Mińsk nie chce konfrontacji z Zachodem i Ukrainą</title>
 <link>https://zero.pl/news/poczobut-o-bialorusi-minsk-nie-jest-zainteresowany-konfrontacja-silowa</link>
@@ -1174,38 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
 <pubDate>Wed, 23 Sep 2026 11:06:00 +0200</pubDate>
-</item>
-<item>
-<title>Nadchodzi Super El Niño. Naukowcy: Zobaczymy pogodę, jaka czeka nas za 20 lat</title>
-<link>https://zero.pl/news/ekstremalne-el-nino-2026-ponad-450-tys-zgonow-z-powodu-upalow-nowy-raport</link>
-<guid isPermaLink="true">https://zero.pl/news/ekstremalne-el-nino-2026-ponad-450-tys-zgonow-z-powodu-upalow-nowy-raport</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Wed, 23 Sep 2026 10:53:00 +0200</pubDate>
-</item>
-<item>
-<title>Stanowski do Hornej-Cieślak: Jest pani do szpiku złym człowiekiem</title>
-<link>https://zero.pl/news/horna-cieslak-i-odebrane-dzieci-stanowski-do-rpd-jest-pani-do-szpiku-zlym-czlowiekiem</link>
-<guid isPermaLink="true">https://zero.pl/news/horna-cieslak-i-odebrane-dzieci-stanowski-do-rpd-jest-pani-do-szpiku-zlym-czlowiekiem</guid>
-<category>Kraj</category>
-<description>Kraj — Kasjan Owsianko</description>
-<pubDate>Wed, 23 Sep 2026 10:21:00 +0200</pubDate>
-</item>
-<item>
-<title>Zapowiedź Nawrockiego ws. bazy wojsk USA. Znamy możliwy termin ukończenia budowy</title>
-<link>https://zero.pl/news/prezydent-karol-nawrocki-o-bazie-wojsk-usa-w-polsce-podal-termin-ukonczenia-budowy</link>
-<guid isPermaLink="true">https://zero.pl/news/prezydent-karol-nawrocki-o-bazie-wojsk-usa-w-polsce-podal-termin-ukonczenia-budowy</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Wed, 23 Sep 2026 10:07:00 +0200</pubDate>
-</item>
-<item>
-<title>Europoseł KO komentuje sprawę rzeczniczki praw dziecka. Mówi o „kolejnych krokach” w Sejmie</title>
-<link>https://zero.pl/news/zarzuty-sa-bardzo-powazne-europosel-ko-komentuje-sprawe-rzeczniczki-praw-dziecka</link>
-<guid isPermaLink="true">https://zero.pl/news/zarzuty-sa-bardzo-powazne-europosel-ko-komentuje-sprawe-rzeczniczki-praw-dziecka</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Wed, 23 Sep 2026 09:49:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
