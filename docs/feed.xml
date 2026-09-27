@@ -5,31 +5,55 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 27 Sep 2026 21:44:00 +0200</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 00:35:13 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Pierwsza tura w Krakowie za nami. To piszą w sieci politycy</title>
+<link>https://zero.pl/news/pierwsza-tura-w-krakowie-za-nami-to-pisza-w-sieci-politycy</link>
+<guid isPermaLink="true">https://zero.pl/news/pierwsza-tura-w-krakowie-za-nami-to-pisza-w-sieci-politycy</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Mon, 28 Sep 2026 22:41:00 +0200</pubDate>
+</item>
+<item>
+<title>Kto faworytem decydującego starcia? Politycy mówią o drugiej turze</title>
+<link>https://zero.pl/news/wyniki-wyborow-w-krakowie-politycy-komentuja-dla-zero-pl</link>
+<guid isPermaLink="true">https://zero.pl/news/wyniki-wyborow-w-krakowie-politycy-komentuja-dla-zero-pl</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Mon, 28 Sep 2026 22:18:00 +0200</pubDate>
+</item>
+<item>
+<title>Gibała liderem I tury w Krakowie. „Piątkowska nie ma od kogo brać głosów”</title>
+<link>https://zero.pl/news/gibala-liderem-i-tury-w-krakowie-ekspert-piatkowska-nie-ma-od-kogo-brac-glosow</link>
+<guid isPermaLink="true">https://zero.pl/news/gibala-liderem-i-tury-w-krakowie-ekspert-piatkowska-nie-ma-od-kogo-brac-glosow</guid>
+<category>Kraj</category>
+<description>Kraj — Tomasz Pałasz</description>
+<pubDate>Mon, 28 Sep 2026 22:07:00 +0200</pubDate>
+</item>
 <item>
 <title>Ekspert: Kraków potrzebuje profesjonalisty, a nie partyjnego działacza</title>
 <link>https://zero.pl/news/gibala-i-piatkowska-oddaja-ducha-krakowa-jako-miasta-intelektualistow-i-kultury</link>
 <guid isPermaLink="true">https://zero.pl/news/gibala-i-piatkowska-oddaja-ducha-krakowa-jako-miasta-intelektualistow-i-kultury</guid>
 <category>Kraj</category>
 <description>Kraj — Tomasz Pałasz</description>
-<pubDate>Sun, 27 Sep 2026 21:24:00 +0200</pubDate>
+<pubDate>Mon, 28 Sep 2026 21:24:00 +0200</pubDate>
 </item>
 <item>
-<title>Wyniki wyborów w Krakowie. Gibała na podium, ale będzie druga tura</title>
+<title>Wyniki wyborów w Krakowie. Gibała z najlepszym wynikiem, będzie druga tura</title>
 <link>https://zero.pl/news/wyniki-wyborow-w-krakowie-gibala-na-podium-ale-bedzie-druga-tura</link>
 <guid isPermaLink="true">https://zero.pl/news/wyniki-wyborow-w-krakowie-gibala-na-podium-ale-bedzie-druga-tura</guid>
 <category>Kraj</category>
 <description>Kraj — Olga Karaban</description>
-<pubDate>Sun, 27 Sep 2026 21:03:00 +0200</pubDate>
+<pubDate>Mon, 28 Sep 2026 21:03:00 +0200</pubDate>
 </item>
 <item>
-<title>Wieczór wyborczy w Krakowie: wyniki, reakcje sztabów, najświeższe komentarze. Relacja NA ŻYWO</title>
+<title>Wieczór wyborczy w Krakowie: wyniki, reakcje sztabów, najświeższe komentarze. Zapis relacji NA ŻYWO</title>
 <link>https://zero.pl/news/wieczor-wyborczy-w-krakowie-wyniki-reakcje-sztabow-najswiezsze-komentarze-relacja-na-zywo</link>
 <guid isPermaLink="true">https://zero.pl/news/wieczor-wyborczy-w-krakowie-wyniki-reakcje-sztabow-najswiezsze-komentarze-relacja-na-zywo</guid>
 <category>Kraj</category>
 <description>Kraj — Redakcja Zero.pl</description>
-<pubDate>Sun, 27 Sep 2026 20:36:00 +0200</pubDate>
+<pubDate>Mon, 28 Sep 2026 20:36:00 +0200</pubDate>
 </item>
 <item>
 <title>Hulajnogą ponad 100 km/h. Pędził w kierunku S8 w Warszawie</title>
@@ -37,7 +61,7 @@
 <guid isPermaLink="true">https://zero.pl/news/pedzil-hulajnoga-ponad-100-km-h-wjechal-na-s8-w-warszawie</guid>
 <category>Kraj</category>
 <description>Kraj — Olga Karaban</description>
-<pubDate>Sun, 27 Sep 2026 20:24:00 +0200</pubDate>
+<pubDate>Mon, 28 Sep 2026 20:24:00 +0200</pubDate>
 </item>
 <item>
 <title>Podarł kartę do głosowania. Policja wkroczyła do akcji w Krakowie</title>
@@ -45,7 +69,7 @@
 <guid isPermaLink="true">https://zero.pl/news/podarl-karte-do-glosowania-policja-wkroczyla-do-akcji-w-krakowie</guid>
 <category>Kraj</category>
 <description>Kraj — Olga Karaban</description>
-<pubDate>Sun, 27 Sep 2026 18:56:00 +0200</pubDate>
+<pubDate>Mon, 28 Sep 2026 18:56:00 +0200</pubDate>
 </item>
 <item>
 <title>Incydent w bazie RAF na Wyspach. Trump zabrał głos</title>
@@ -53,7 +77,7 @@
 <guid isPermaLink="true">https://zero.pl/news/incydent-w-bazie-raf-na-wyspach-trump-zabral-glos</guid>
 <category>Świat</category>
 <description>Świat — Olga Karaban</description>
-<pubDate>Sun, 27 Sep 2026 18:41:00 +0200</pubDate>
+<pubDate>Mon, 28 Sep 2026 18:41:00 +0200</pubDate>
 </item>
 <item>
 <title>Trump zwrócił się do Polonii. Wychwalał Nawrockiego, jest nagranie</title>
@@ -61,7 +85,7 @@
 <guid isPermaLink="true">https://zero.pl/news/trump-zwrocil-sie-do-polonii-wychwalal-nawrockiego-jest-nagranie</guid>
 <category>Świat</category>
 <description>Świat — Olga Karaban</description>
-<pubDate>Sun, 27 Sep 2026 18:27:00 +0200</pubDate>
+<pubDate>Mon, 28 Sep 2026 18:27:00 +0200</pubDate>
 </item>
 <item>
 <title>Zielone grzejniki, słona cena. UE chce rewolucji w ciepłownictwie, jakie będą koszty?</title>
@@ -69,7 +93,7 @@
 <guid isPermaLink="true">https://zero.pl/news/rzad-bierze-sie-za-zmiany-w-cieplownictwie-dlaczego-transformacja-musi-bolec</guid>
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Sun, 27 Sep 2026 18:14:00 +0200</pubDate>
+<pubDate>Mon, 28 Sep 2026 18:14:00 +0200</pubDate>
 </item>
 <item>
 <title>Chiński przywódca u Trumpa. Ekspert: bez przełomu w relacjach</title>
@@ -77,7 +101,7 @@
 <guid isPermaLink="true">https://zero.pl/news/chinski-przywodca-u-trumpa-ekspert-bez-przelomu-w-relacjach</guid>
 <category>Świat</category>
 <description>Świat — Olga Karaban</description>
-<pubDate>Sun, 27 Sep 2026 17:11:00 +0200</pubDate>
+<pubDate>Mon, 28 Sep 2026 17:11:00 +0200</pubDate>
 </item>
 <item>
 <title>Niebezpieczny incydent na Wyspach. Policja mówi o zamachu terrorystycznym</title>
@@ -85,7 +109,7 @@
 <guid isPermaLink="true">https://zero.pl/news/niebezpieczny-incydent-na-wyspach-policja-mowi-o-zamachu-terrorystycznym</guid>
 <category>Świat</category>
 <description>Świat — Olga Karaban</description>
-<pubDate>Sun, 27 Sep 2026 16:42:00 +0200</pubDate>
+<pubDate>Mon, 28 Sep 2026 16:42:00 +0200</pubDate>
 </item>
 <item>
 <title>Kupili nowe samochody w salonie. Są nienaprawialne i nikt nie umie temu zaradzić</title>
@@ -93,7 +117,7 @@
 <guid isPermaLink="true">https://zero.pl/news/trzy-przypadki-wscieklych-klientow-kupili-nowe-samochody-nie-powtorza-tego-bledu</guid>
 <category>Moto</category>
 <description>Moto — Tymon Grabowski</description>
-<pubDate>Sun, 27 Sep 2026 16:07:00 +0200</pubDate>
+<pubDate>Mon, 28 Sep 2026 16:07:00 +0200</pubDate>
 </item>
 <item>
 <title>Cienkowska paradowała w pokazie mody. Stanowski: wszyscy zdrowi?</title>
@@ -101,7 +125,7 @@
 <guid isPermaLink="true">https://zero.pl/news/cienkowska-paradowala-w-pokazie-mody-stanowski-wszyscy-zdrowi</guid>
 <category>Kraj</category>
 <description>Kraj — Olga Karaban</description>
-<pubDate>Sun, 27 Sep 2026 15:36:00 +0200</pubDate>
+<pubDate>Mon, 28 Sep 2026 15:36:00 +0200</pubDate>
 </item>
 <item>
 <title>Wjechali w szynobus. „Słoneczna niedziela nagle zmienia się w koszmar”</title>
@@ -109,7 +133,7 @@
 <guid isPermaLink="true">https://zero.pl/news/wypadek-na-przejezdzie-kolejowym-dwie-osoby-w-szpitalu</guid>
 <category>Kraj</category>
 <description>Kraj — Kamil Szałecki</description>
-<pubDate>Sun, 27 Sep 2026 15:09:00 +0200</pubDate>
+<pubDate>Mon, 28 Sep 2026 15:09:00 +0200</pubDate>
 </item>
 <item>
 <title>Księżyc na tle Plejad. Będą widoczne gołym okiem</title>
@@ -117,7 +141,7 @@
 <guid isPermaLink="true">https://zero.pl/news/ksiezyc-na-tle-plejad-bedzie-widoczny-przez-lornetke</guid>
 <category>Nauka</category>
 <description>Nauka — Kamil Szałecki</description>
-<pubDate>Sun, 27 Sep 2026 14:28:00 +0200</pubDate>
+<pubDate>Mon, 28 Sep 2026 14:28:00 +0200</pubDate>
 </item>
 <item>
 <title>To będą ciepłe dni. Prognoza IMGW</title>
@@ -125,7 +149,7 @@
 <guid isPermaLink="true">https://zero.pl/news/jaka-pogoda-w-niedziele-i-poniedzialek-prognoza-pogody</guid>
 <category>Kraj</category>
 <description>Kraj — Kamil Szałecki</description>
-<pubDate>Sun, 27 Sep 2026 13:53:00 +0200</pubDate>
+<pubDate>Mon, 28 Sep 2026 13:53:00 +0200</pubDate>
 </item>
 <item>
 <title>Wybory w Krakowie. Policja odnotowała jeden incydent</title>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Jabłonowski</description>
 <pubDate>Thu, 24 Sep 2026 11:54:00 +0200</pubDate>
-</item>
-<item>
-<title>Powszechny pobór jest nieunikniony? Wojsko potrzebuje setek tysięcy ludzi</title>
-<link>https://zero.pl/news/powszechny-pobor-w-polsce-wojsko-potrzebuje-setek-tysiecy-rezerwistow</link>
-<guid isPermaLink="true">https://zero.pl/news/powszechny-pobor-w-polsce-wojsko-potrzebuje-setek-tysiecy-rezerwistow</guid>
-<category>Kraj</category>
-<description>Kraj — Ariel Drabiński</description>
-<pubDate>Thu, 24 Sep 2026 11:04:00 +0200</pubDate>
-</item>
-<item>
-<title>Bodnar o rzeczniczce praw dziecka i decyzji sądu. Pyta o „publicystykę” sędziego</title>
-<link>https://zero.pl/news/adam-bodnar-komentuje-interwencje-rzeczniczki-praw-dziecka-komentuje-co-powinien-zrobic-sad</link>
-<guid isPermaLink="true">https://zero.pl/news/adam-bodnar-komentuje-interwencje-rzeczniczki-praw-dziecka-komentuje-co-powinien-zrobic-sad</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Thu, 24 Sep 2026 10:57:00 +0200</pubDate>
-</item>
-<item>
-<title>Ceny paliw znowu w górę. W tych województwach tankowanie boli najbardziej</title>
-<link>https://zero.pl/news/ceny-paliw-24-wrzesnia-2026-ile-kosztuje-diesel-benzyna-i-lpg-nowe-dane</link>
-<guid isPermaLink="true">https://zero.pl/news/ceny-paliw-24-wrzesnia-2026-ile-kosztuje-diesel-benzyna-i-lpg-nowe-dane</guid>
-<category>Kraj</category>
-<description>Kraj — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 24 Sep 2026 10:10:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
