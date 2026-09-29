@@ -5,8 +5,48 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 29 Sep 2026 02:35:25 +0200</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 08:07:38 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Jan Urban szczerze po meczu ze Szwecją. Tak zareagował na pytanie o dymisję</title>
+<link>https://zero.pl/news/mecz-szwecja-polska-w-lidze-narodow-wynik-31-jan-urban-reaguje-na-porazke</link>
+<guid isPermaLink="true">https://zero.pl/news/mecz-szwecja-polska-w-lidze-narodow-wynik-31-jan-urban-reaguje-na-porazke</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Tue, 29 Sep 2026 07:45:00 +0200</pubDate>
+</item>
+<item>
+<title>Punkty schronienia będą oznakowane. MSWiA podaje termin</title>
+<link>https://zero.pl/news/punkty-schronienia-beda-oznakowane-mswia-podaje-termin</link>
+<guid isPermaLink="true">https://zero.pl/news/punkty-schronienia-beda-oznakowane-mswia-podaje-termin</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Tue, 29 Sep 2026 07:08:00 +0200</pubDate>
+</item>
+<item>
+<title>Sen może chronić przed chorobami. Kluczowe są faza REM i sen głęboki</title>
+<link>https://zero.pl/news/sen-rem-i-gleboki-a-choroby-naukowcy-przeanalizowali-dane-95-tys-osob</link>
+<guid isPermaLink="true">https://zero.pl/news/sen-rem-i-gleboki-a-choroby-naukowcy-przeanalizowali-dane-95-tys-osob</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Przemysław Staciwa</description>
+<pubDate>Tue, 29 Sep 2026 06:46:00 +0200</pubDate>
+</item>
+<item>
+<title>„Przebaczam, choć na to nie zasługuje”. Słowa rannego księdza poruszyły Polaków</title>
+<link>https://zero.pl/news/ks-adrian-po-ataku-w-jaroslawiu-przebaczam-filozof-komentuje-slowa-duchownego</link>
+<guid isPermaLink="true">https://zero.pl/news/ks-adrian-po-ataku-w-jaroslawiu-przebaczam-filozof-komentuje-slowa-duchownego</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Tue, 29 Sep 2026 06:26:00 +0200</pubDate>
+</item>
+<item>
+<title>Co się dzieje z polską szkołą? „Tyrają po 60 godzin, a my mówimy: płatki śniegu”</title>
+<link>https://zero.pl/news/dlaczego-dobre-wyniki-badan-pisa-to-zly-znak-dla-polskiej-szkoly-ekspert-wyjasnia</link>
+<guid isPermaLink="true">https://zero.pl/news/dlaczego-dobre-wyniki-badan-pisa-to-zly-znak-dla-polskiej-szkoly-ekspert-wyjasnia</guid>
+<category>Kraj</category>
+<description>Kraj — Grzegorz Sroczyński</description>
+<pubDate>Tue, 29 Sep 2026 05:59:00 +0200</pubDate>
+</item>
 <item>
 <title>Spór o „Ołowiane dzieci”. Rodzina lekarki pozywa Netflixa</title>
 <link>https://zero.pl/news/serial-olowiane-dzieci-rodzina-lekarki-pozywa-netflixa</link>
@@ -1166,46 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Michał Bruszewski</description>
 <pubDate>Fri, 25 Sep 2026 09:48:00 +0200</pubDate>
-</item>
-<item>
-<title>„Historyczny moment”. Trump i Xi „osiągnęli porozumienie”</title>
-<link>https://zero.pl/news/xi-i-trump-osiagneli-porozumienie-relacje-chin-i-stanow-zjednoczonych</link>
-<guid isPermaLink="true">https://zero.pl/news/xi-i-trump-osiagneli-porozumienie-relacje-chin-i-stanow-zjednoczonych</guid>
-<category>Świat</category>
-<description>Świat — Krzysztof Jabłonowski</description>
-<pubDate>Fri, 25 Sep 2026 09:36:00 +0200</pubDate>
-</item>
-<item>
-<title>Jarosław Kaczyński przesłuchany. Chodzi o śledztwo ws. PFN</title>
-<link>https://zero.pl/news/jaroslaw-kaczynski-przesluchany-w-sledztwie-dotyczacym-polskiej-fundacji-narodowej</link>
-<guid isPermaLink="true">https://zero.pl/news/jaroslaw-kaczynski-przesluchany-w-sledztwie-dotyczacym-polskiej-fundacji-narodowej</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Fri, 25 Sep 2026 08:43:00 +0200</pubDate>
-</item>
-<item>
-<title>Kolejny cyberatak na ochronę zdrowia. Mogły wyciec dane pacjentów</title>
-<link>https://zero.pl/news/sluzby-badaja-incydent-systemu-firmy-medyc-mogly-wyciec-dane-pacjentow</link>
-<guid isPermaLink="true">https://zero.pl/news/sluzby-badaja-incydent-systemu-firmy-medyc-mogly-wyciec-dane-pacjentow</guid>
-<category>Technologia</category>
-<description>Technologia — Krzysztof Jabłonowski</description>
-<pubDate>Fri, 25 Sep 2026 08:26:00 +0200</pubDate>
-</item>
-<item>
-<title>Zmiana trendu w Arktyce. W 2010 r. stało się coś nieoczekiwanego</title>
-<link>https://zero.pl/news/nasa-arktyczny-lod-morski-i-sezon-topnienia-badanie-wskazuje-nowy-trend</link>
-<guid isPermaLink="true">https://zero.pl/news/nasa-arktyczny-lod-morski-i-sezon-topnienia-badanie-wskazuje-nowy-trend</guid>
-<category>Nauka</category>
-<description>Nauka — Agnieszka Waś-Turecka</description>
-<pubDate>Fri, 25 Sep 2026 08:14:00 +0200</pubDate>
-</item>
-<item>
-<title>16 umów bez konkursu. Kulisy współpracy Moniki Hornej-Cieślak z IWS</title>
-<link>https://zero.pl/news/monika-horna-cieslak-i-praca-dla-instytutu-ziobry-ujawniono-dokumenty-sa-pytania-o-umowy</link>
-<guid isPermaLink="true">https://zero.pl/news/monika-horna-cieslak-i-praca-dla-instytutu-ziobry-ujawniono-dokumenty-sa-pytania-o-umowy</guid>
-<category>Kraj</category>
-<description>Kraj — Filip Baczkura</description>
-<pubDate>Fri, 25 Sep 2026 07:30:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
