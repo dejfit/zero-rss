@@ -5,15 +5,119 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 30 Sep 2026 20:28:51 +0200</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 00:28:59 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
-<title>Stanowski się buduje. Zdradził od kogo i za ile kupił działkę</title>
+<title>Incydent w Żandarmerii Wojskowej. Trzy osoby trafiły do szpitala</title>
+<link>https://zero.pl/news/niebezpieczna-przesylka-w-zandarmerii-wojskowej-trzy-osoby-w-szpitalu</link>
+<guid isPermaLink="true">https://zero.pl/news/niebezpieczna-przesylka-w-zandarmerii-wojskowej-trzy-osoby-w-szpitalu</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Thu, 01 Oct 2026 21:49:00 +0200</pubDate>
+</item>
+<item>
+<title>Tragedia u weterynarza. Amstaff zagryzł innego psa, właściciel się ulotnił</title>
+<link>https://zero.pl/news/poznan-amstaff-zagryzl-szpica-w-gabinecie-weterynaryjnym</link>
+<guid isPermaLink="true">https://zero.pl/news/poznan-amstaff-zagryzl-szpica-w-gabinecie-weterynaryjnym</guid>
+<category>Kraj</category>
+<description>Kraj — Maria Badzio</description>
+<pubDate>Thu, 01 Oct 2026 21:47:00 +0200</pubDate>
+</item>
+<item>
+<title>Rutte odpowiada Rosji na groźby nuklearne. „Nie mają szans nas pokonać”</title>
+<link>https://zero.pl/news/mark-rutte-odpowiada-rosji-na-grozby-nuklearne-nie-maja-szans-pokonac-nato</link>
+<guid isPermaLink="true">https://zero.pl/news/mark-rutte-odpowiada-rosji-na-grozby-nuklearne-nie-maja-szans-pokonac-nato</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Thu, 01 Oct 2026 21:39:00 +0200</pubDate>
+</item>
+<item>
+<title>Trump uderza w kartel Sinaloa. Na liście sankcji były mąż gubernatorki</title>
+<link>https://zero.pl/news/usa-sankcje-na-kartel-sinaloa-na-liscie-byly-maz-gubernatorki</link>
+<guid isPermaLink="true">https://zero.pl/news/usa-sankcje-na-kartel-sinaloa-na-liscie-byly-maz-gubernatorki</guid>
+<category>Świat</category>
+<description>Świat — Maria Badzio</description>
+<pubDate>Thu, 01 Oct 2026 21:35:00 +0200</pubDate>
+</item>
+<item>
+<title>Ukraina odzyskała 176 km kw. terytorium. Zełenski o operacji Vivaldi</title>
+<link>https://zero.pl/news/ukraina-odzyskala-176-km-kw-terytorium-zelenski-o-operacji-vivaldi</link>
+<guid isPermaLink="true">https://zero.pl/news/ukraina-odzyskala-176-km-kw-terytorium-zelenski-o-operacji-vivaldi</guid>
+<category>Wojsko</category>
+<description>Wojsko — Przemysław Staciwa</description>
+<pubDate>Thu, 01 Oct 2026 21:25:00 +0200</pubDate>
+</item>
+<item>
+<title>Tablety Samsung Galaxy Tab S12 kosztują tyle, co dobry laptop. SmartTag 3 wygląda ciekawie</title>
+<link>https://zero.pl/news/tablety-samsung-galaxy-tab-s12-kosztuja-tyle-co-dobry-laptop-smarttag-3-wyglada-ciekawie</link>
+<guid isPermaLink="true">https://zero.pl/news/tablety-samsung-galaxy-tab-s12-kosztuja-tyle-co-dobry-laptop-smarttag-3-wyglada-ciekawie</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Thu, 01 Oct 2026 21:22:00 +0200</pubDate>
+</item>
+<item>
+<title>Prezes Barcelony o Lewandowskim. „Nadal go kocham i piszę do niego”</title>
+<link>https://zero.pl/news/prezes-barcelony-o-lewandowskim-nadal-go-kocham-i-pisze-do-niego</link>
+<guid isPermaLink="true">https://zero.pl/news/prezes-barcelony-o-lewandowskim-nadal-go-kocham-i-pisze-do-niego</guid>
+<category>Świat</category>
+<description>Świat — Kamil Szałecki</description>
+<pubDate>Thu, 01 Oct 2026 21:09:00 +0200</pubDate>
+</item>
+<item>
+<title>Rosja grozi Polsce. Fabryki produkujące broń dla Ukrainy „potencjalnymi celami”</title>
+<link>https://zero.pl/news/rosja-grozi-polsce-fabryki-broni-dla-ukrainy-moga-byc-celami-moskwy</link>
+<guid isPermaLink="true">https://zero.pl/news/rosja-grozi-polsce-fabryki-broni-dla-ukrainy-moga-byc-celami-moskwy</guid>
+<category>Wojsko</category>
+<description>Wojsko — Przemysław Staciwa</description>
+<pubDate>Thu, 01 Oct 2026 20:58:00 +0200</pubDate>
+</item>
+<item>
+<title>Seria wypadków w Tatrach. Ewakuacja zagranicznych turystów</title>
+<link>https://zero.pl/news/tatry-grozne-wypadki-i-akcje-topr-ratownicy-ostrzegaja-turystow</link>
+<guid isPermaLink="true">https://zero.pl/news/tatry-grozne-wypadki-i-akcje-topr-ratownicy-ostrzegaja-turystow</guid>
+<category>Kraj</category>
+<description>Kraj — Maria Badzio</description>
+<pubDate>Thu, 01 Oct 2026 20:50:00 +0200</pubDate>
+</item>
+<item>
+<title>Inflacja w górę, stopy procentowe też? Kredytobiorcy drżą o swoje raty</title>
+<link>https://zero.pl/news/co-ze-stopami-procentowymi-sprawdzamy-jak-rpp-moze-zareagowac-na-wzrost-inflacji</link>
+<guid isPermaLink="true">https://zero.pl/news/co-ze-stopami-procentowymi-sprawdzamy-jak-rpp-moze-zareagowac-na-wzrost-inflacji</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Thu, 01 Oct 2026 20:46:00 +0200</pubDate>
+</item>
+<item>
+<title>Afera po wyroku ws. zabitego strusia. Prof. Matczak: to nie błahostka</title>
+<link>https://zero.pl/news/strus-zenek-wyrok-uchylony-prawnicy-komentuja-decyzje-sadu</link>
+<guid isPermaLink="true">https://zero.pl/news/strus-zenek-wyrok-uchylony-prawnicy-komentuja-decyzje-sadu</guid>
+<category>Kraj</category>
+<description>Kraj — Maria Badzio</description>
+<pubDate>Thu, 01 Oct 2026 20:43:00 +0200</pubDate>
+</item>
+<item>
+<title>Sondaż Zero.pl o Krakowie. Jeden wyraźny priorytet dla nowego prezydenta</title>
+<link>https://zero.pl/news/sondaz-zero-pl-o-krakowie-to-najwazniejsze-zadanie-dla-nowego-prezydenta</link>
+<guid isPermaLink="true">https://zero.pl/news/sondaz-zero-pl-o-krakowie-to-najwazniejsze-zadanie-dla-nowego-prezydenta</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Thu, 01 Oct 2026 20:40:00 +0200</pubDate>
+</item>
+<item>
+<title>Podejrzany pakunek na cysternie w Białymstoku. Służby zakończyły akcję</title>
+<link>https://zero.pl/news/podejrzany-pakunek-w-bialymstoku-ewakuacja-i-akcja-pirotechnikow</link>
+<guid isPermaLink="true">https://zero.pl/news/podejrzany-pakunek-w-bialymstoku-ewakuacja-i-akcja-pirotechnikow</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Thu, 01 Oct 2026 20:36:00 +0200</pubDate>
+</item>
+<item>
+<title>Stanowski się buduje. Zdradził, od kogo i za ile kupił działkę</title>
 <link>https://zero.pl/news/stanowski-z-nowym-programem-zdradzil-od-kogo-i-za-ile-kupil-dzialke-na-ktorej-zbuduje-dom</link>
 <guid isPermaLink="true">https://zero.pl/news/stanowski-z-nowym-programem-zdradzil-od-kogo-i-za-ile-kupil-dzialke-na-ktorej-zbuduje-dom</guid>
 <category>Kraj</category>
 <description>Kraj — Kamil Szałecki</description>
-<pubDate>Wed, 30 Sep 2026 20:12:00 +0200</pubDate>
+<pubDate>Thu, 01 Oct 2026 20:12:00 +0200</pubDate>
 </item>
 <item>
 <title>„706 minut czekania” na e-Doręczenia. System przeciążony w ostatnim dniu</title>
@@ -21,7 +125,7 @@
 <guid isPermaLink="true">https://zero.pl/news/e-doreczenia-nie-dzialaja-706-minut-czekania-w-ostatnim-dniu-na-zalozenie-skrzynki</guid>
 <category>Biznes</category>
 <description>Biznes — Przemysław Staciwa</description>
-<pubDate>Wed, 30 Sep 2026 20:02:00 +0200</pubDate>
+<pubDate>Thu, 01 Oct 2026 20:02:00 +0200</pubDate>
 </item>
 <item>
 <title>Rosja ostrzega NATO. Moskwa grozi użyciem broni jądrowej w sprawie Królewca</title>
@@ -29,7 +133,7 @@
 <guid isPermaLink="true">https://zero.pl/news/rosja-grozi-nato-bronia-jadrowa-moskwa-ostrzega-w-sprawie-krolewca</guid>
 <category>Wojsko</category>
 <description>Wojsko — Przemysław Staciwa</description>
-<pubDate>Wed, 30 Sep 2026 19:57:00 +0200</pubDate>
+<pubDate>Thu, 01 Oct 2026 19:57:00 +0200</pubDate>
 </item>
 <item>
 <title>Za kulisami rządowego Centrum Walki z Dezinformacją. „Do ośmiu rad dopiszą dziewiątą”</title>
@@ -37,7 +141,7 @@
 <guid isPermaLink="true">https://zero.pl/news/centrum-walki-z-dezinformacja-pawel-olszewski-stanie-na-czele-osrodka</guid>
 <category>Kraj</category>
 <description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Wed, 30 Sep 2026 19:11:00 +0200</pubDate>
+<pubDate>Thu, 01 Oct 2026 19:11:00 +0200</pubDate>
 </item>
 <item>
 <title>Szpital w Otwocku zawiesza programy lekowe. „Brak zapłaty przez NFZ”</title>
@@ -45,7 +149,7 @@
 <guid isPermaLink="true">https://zero.pl/news/europejskie-centrum-zdrowia-zawiesza-programy-lekowe-klopoty-z-wyplatami-z-nfz</guid>
 <category>Zdrowie</category>
 <description>Zdrowie — Krzysztof Jabłonowski</description>
-<pubDate>Wed, 30 Sep 2026 18:37:00 +0200</pubDate>
+<pubDate>Thu, 01 Oct 2026 18:37:00 +0200</pubDate>
 </item>
 <item>
 <title>5 mld zwróconych opakowań i fala dezinformacji? „Ma wzmacniać poczucie chaosu”</title>
@@ -1102,110 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Kamil Szałecki</description>
 <pubDate>Sun, 27 Sep 2026 15:09:00 +0200</pubDate>
-</item>
-<item>
-<title>Księżyc na tle Plejad. Będą widoczne gołym okiem</title>
-<link>https://zero.pl/news/ksiezyc-na-tle-plejad-bedzie-widoczny-przez-lornetke</link>
-<guid isPermaLink="true">https://zero.pl/news/ksiezyc-na-tle-plejad-bedzie-widoczny-przez-lornetke</guid>
-<category>Nauka</category>
-<description>Nauka — Kamil Szałecki</description>
-<pubDate>Sun, 27 Sep 2026 14:28:00 +0200</pubDate>
-</item>
-<item>
-<title>To będą ciepłe dni. Prognoza IMGW</title>
-<link>https://zero.pl/news/jaka-pogoda-w-niedziele-i-poniedzialek-prognoza-pogody</link>
-<guid isPermaLink="true">https://zero.pl/news/jaka-pogoda-w-niedziele-i-poniedzialek-prognoza-pogody</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Sun, 27 Sep 2026 13:53:00 +0200</pubDate>
-</item>
-<item>
-<title>Wybory w Krakowie. Policja odnotowała jeden incydent</title>
-<link>https://zero.pl/news/wybory-w-krakowie-policja-odnotowala-jeden-incydent</link>
-<guid isPermaLink="true">https://zero.pl/news/wybory-w-krakowie-policja-odnotowala-jeden-incydent</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Sun, 27 Sep 2026 13:16:00 +0200</pubDate>
-</item>
-<item>
-<title>Za ile można żyć na Filipinach? Tyle wydasz na jedzenie, nocleg i transport</title>
-<link>https://zero.pl/news/filipiny-ceny-jedzenia-hoteli-i-transportu-przeliczone-na-zlotowki</link>
-<guid isPermaLink="true">https://zero.pl/news/filipiny-ceny-jedzenia-hoteli-i-transportu-przeliczone-na-zlotowki</guid>
-<category>Świat</category>
-<description>Świat — Piotr Sarmini</description>
-<pubDate>Sun, 27 Sep 2026 13:02:00 +0200</pubDate>
-</item>
-<item>
-<title>„Poważny incydent” w pobliżu bazy RAF. Zatrzymania i ewakuacja mieszkańców</title>
-<link>https://zero.pl/news/powazny-incydent-w-poblizu-bazy-raf-policja-zatrzymala-kilku-mezczyzn</link>
-<guid isPermaLink="true">https://zero.pl/news/powazny-incydent-w-poblizu-bazy-raf-policja-zatrzymala-kilku-mezczyzn</guid>
-<category>Wojsko</category>
-<description>Wojsko — Kamil Szałecki</description>
-<pubDate>Sun, 27 Sep 2026 12:42:00 +0200</pubDate>
-</item>
-<item>
-<title>Wyciekł scenariusz drugiego sezonu „Lalki”. Wokulski tego nie przeżyje</title>
-<link>https://zero.pl/news/wokulski-drony-i-kosiniak-kamysz-tak-wyglada-drugi-sezon-lalki</link>
-<guid isPermaLink="true">https://zero.pl/news/wokulski-drony-i-kosiniak-kamysz-tak-wyglada-drugi-sezon-lalki</guid>
-<category>Kultura</category>
-<description>Kultura — Jan Wróbel</description>
-<pubDate>Sun, 27 Sep 2026 12:09:00 +0200</pubDate>
-</item>
-<item>
-<title>Stan klęski żywiołowej w Tajlandii. Ewakuowano tysiące osób</title>
-<link>https://zero.pl/news/tajlandia-stan-kleski-zywiolowej-ewakuowano-tysiace-osob</link>
-<guid isPermaLink="true">https://zero.pl/news/tajlandia-stan-kleski-zywiolowej-ewakuowano-tysiace-osob</guid>
-<category>Świat</category>
-<description>Świat — Kamil Szałecki</description>
-<pubDate>Sun, 27 Sep 2026 11:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Przetrwa w rekordowej temperaturze. „Przesuwa granice tego, co uważaliśmy za możliwe”</title>
-<link>https://zero.pl/news/przetrwa-w-rekordowej-temperaturze-odkrycie-przesuwa-granice-tego-co-uwazalismy-za-mozliwe</link>
-<guid isPermaLink="true">https://zero.pl/news/przetrwa-w-rekordowej-temperaturze-odkrycie-przesuwa-granice-tego-co-uwazalismy-za-mozliwe</guid>
-<category>Nauka</category>
-<description>Nauka — Kamil Szałecki</description>
-<pubDate>Sun, 27 Sep 2026 11:30:00 +0200</pubDate>
-</item>
-<item>
-<title>Polski pocisk balistyczny i rezerwy jak w Finlandii. Przeczytałem program obronny „Rozwoju Plus”</title>
-<link>https://zero.pl/news/polski-pocisk-balistyczny-i-rezerwy-jak-w-finlandii-przeczytalem-program-obronny-rozwoju-plus</link>
-<guid isPermaLink="true">https://zero.pl/news/polski-pocisk-balistyczny-i-rezerwy-jak-w-finlandii-przeczytalem-program-obronny-rozwoju-plus</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Sun, 27 Sep 2026 10:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Słowaccy ratownicy nocą szukali zaginionych Polek. Biwakowały w lesie</title>
-<link>https://zero.pl/news/tatry-slowaccy-ratownicy-noca-szukali-zaginionych-polek-biwakowaly-w-lesie</link>
-<guid isPermaLink="true">https://zero.pl/news/tatry-slowaccy-ratownicy-noca-szukali-zaginionych-polek-biwakowaly-w-lesie</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Sun, 27 Sep 2026 10:43:00 +0200</pubDate>
-</item>
-<item>
-<title>700 tysięcy osób na mszy z papieżem w Paryżu. „Moment zachwytu i tolerancji”</title>
-<link>https://zero.pl/news/700-tysiecy-osob-na-mszy-z-papiezem-w-paryzu-moment-zachwytu-i-tolerancji</link>
-<guid isPermaLink="true">https://zero.pl/news/700-tysiecy-osob-na-mszy-z-papiezem-w-paryzu-moment-zachwytu-i-tolerancji</guid>
-<category>Świat</category>
-<description>Świat — Kamil Szałecki</description>
-<pubDate>Sun, 27 Sep 2026 10:06:00 +0200</pubDate>
-</item>
-<item>
-<title>Zaczęło się od wędek taty. Dziś Beata wyciąga z Wisły gigantyczne sumy</title>
-<link>https://zero.pl/news/hej-tu-rybka-kim-jest-beata-wojewoda-wedkarstwo-to-jej-pasja</link>
-<guid isPermaLink="true">https://zero.pl/news/hej-tu-rybka-kim-jest-beata-wojewoda-wedkarstwo-to-jej-pasja</guid>
-<category>Kraj</category>
-<description>Kraj — Aleksandra Cieślik</description>
-<pubDate>Sun, 27 Sep 2026 09:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Nazwali dziewiczy szczyt RL9. Lewandowski odpowiedział</title>
-<link>https://zero.pl/news/nazwali-dziewiczy-szczyt-rl9-lewandowski-odpowiedzial</link>
-<guid isPermaLink="true">https://zero.pl/news/nazwali-dziewiczy-szczyt-rl9-lewandowski-odpowiedzial</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Sun, 27 Sep 2026 09:15:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
