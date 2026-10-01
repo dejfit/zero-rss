@@ -5,56 +5,8 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 01 Oct 2026 00:28:59 +0200</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 03:25:31 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
-<item>
-<title>Incydent w Żandarmerii Wojskowej. Trzy osoby trafiły do szpitala</title>
-<link>https://zero.pl/news/niebezpieczna-przesylka-w-zandarmerii-wojskowej-trzy-osoby-w-szpitalu</link>
-<guid isPermaLink="true">https://zero.pl/news/niebezpieczna-przesylka-w-zandarmerii-wojskowej-trzy-osoby-w-szpitalu</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Thu, 01 Oct 2026 21:49:00 +0200</pubDate>
-</item>
-<item>
-<title>Tragedia u weterynarza. Amstaff zagryzł innego psa, właściciel się ulotnił</title>
-<link>https://zero.pl/news/poznan-amstaff-zagryzl-szpica-w-gabinecie-weterynaryjnym</link>
-<guid isPermaLink="true">https://zero.pl/news/poznan-amstaff-zagryzl-szpica-w-gabinecie-weterynaryjnym</guid>
-<category>Kraj</category>
-<description>Kraj — Maria Badzio</description>
-<pubDate>Thu, 01 Oct 2026 21:47:00 +0200</pubDate>
-</item>
-<item>
-<title>Rutte odpowiada Rosji na groźby nuklearne. „Nie mają szans nas pokonać”</title>
-<link>https://zero.pl/news/mark-rutte-odpowiada-rosji-na-grozby-nuklearne-nie-maja-szans-pokonac-nato</link>
-<guid isPermaLink="true">https://zero.pl/news/mark-rutte-odpowiada-rosji-na-grozby-nuklearne-nie-maja-szans-pokonac-nato</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Thu, 01 Oct 2026 21:39:00 +0200</pubDate>
-</item>
-<item>
-<title>Trump uderza w kartel Sinaloa. Na liście sankcji były mąż gubernatorki</title>
-<link>https://zero.pl/news/usa-sankcje-na-kartel-sinaloa-na-liscie-byly-maz-gubernatorki</link>
-<guid isPermaLink="true">https://zero.pl/news/usa-sankcje-na-kartel-sinaloa-na-liscie-byly-maz-gubernatorki</guid>
-<category>Świat</category>
-<description>Świat — Maria Badzio</description>
-<pubDate>Thu, 01 Oct 2026 21:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Ukraina odzyskała 176 km kw. terytorium. Zełenski o operacji Vivaldi</title>
-<link>https://zero.pl/news/ukraina-odzyskala-176-km-kw-terytorium-zelenski-o-operacji-vivaldi</link>
-<guid isPermaLink="true">https://zero.pl/news/ukraina-odzyskala-176-km-kw-terytorium-zelenski-o-operacji-vivaldi</guid>
-<category>Wojsko</category>
-<description>Wojsko — Przemysław Staciwa</description>
-<pubDate>Thu, 01 Oct 2026 21:25:00 +0200</pubDate>
-</item>
-<item>
-<title>Tablety Samsung Galaxy Tab S12 kosztują tyle, co dobry laptop. SmartTag 3 wygląda ciekawie</title>
-<link>https://zero.pl/news/tablety-samsung-galaxy-tab-s12-kosztuja-tyle-co-dobry-laptop-smarttag-3-wyglada-ciekawie</link>
-<guid isPermaLink="true">https://zero.pl/news/tablety-samsung-galaxy-tab-s12-kosztuja-tyle-co-dobry-laptop-smarttag-3-wyglada-ciekawie</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Thu, 01 Oct 2026 21:22:00 +0200</pubDate>
-</item>
 <item>
 <title>Prezes Barcelony o Lewandowskim. „Nadal go kocham i piszę do niego”</title>
 <link>https://zero.pl/news/prezes-barcelony-o-lewandowskim-nadal-go-kocham-i-pisze-do-niego</link>
@@ -64,12 +16,60 @@
 <pubDate>Thu, 01 Oct 2026 21:09:00 +0200</pubDate>
 </item>
 <item>
+<title>Incydent w Żandarmerii Wojskowej. Trzy osoby trafiły do szpitala</title>
+<link>https://zero.pl/news/niebezpieczna-przesylka-w-zandarmerii-wojskowej-trzy-osoby-w-szpitalu</link>
+<guid isPermaLink="true">https://zero.pl/news/niebezpieczna-przesylka-w-zandarmerii-wojskowej-trzy-osoby-w-szpitalu</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Wed, 30 Sep 2026 21:49:00 +0200</pubDate>
+</item>
+<item>
+<title>Tragedia u weterynarza. Amstaff zagryzł innego psa, właściciel się ulotnił</title>
+<link>https://zero.pl/news/poznan-amstaff-zagryzl-szpica-w-gabinecie-weterynaryjnym</link>
+<guid isPermaLink="true">https://zero.pl/news/poznan-amstaff-zagryzl-szpica-w-gabinecie-weterynaryjnym</guid>
+<category>Kraj</category>
+<description>Kraj — Maria Badzio</description>
+<pubDate>Wed, 30 Sep 2026 21:47:00 +0200</pubDate>
+</item>
+<item>
+<title>Rutte odpowiada Rosji na groźby nuklearne. „Nie mają szans nas pokonać”</title>
+<link>https://zero.pl/news/mark-rutte-odpowiada-rosji-na-grozby-nuklearne-nie-maja-szans-pokonac-nato</link>
+<guid isPermaLink="true">https://zero.pl/news/mark-rutte-odpowiada-rosji-na-grozby-nuklearne-nie-maja-szans-pokonac-nato</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Wed, 30 Sep 2026 21:39:00 +0200</pubDate>
+</item>
+<item>
+<title>Trump uderza w kartel Sinaloa. Na liście sankcji były mąż gubernatorki</title>
+<link>https://zero.pl/news/usa-sankcje-na-kartel-sinaloa-na-liscie-byly-maz-gubernatorki</link>
+<guid isPermaLink="true">https://zero.pl/news/usa-sankcje-na-kartel-sinaloa-na-liscie-byly-maz-gubernatorki</guid>
+<category>Świat</category>
+<description>Świat — Maria Badzio</description>
+<pubDate>Wed, 30 Sep 2026 21:35:00 +0200</pubDate>
+</item>
+<item>
+<title>Ukraina odzyskała 176 km kw. terytorium. Zełenski o operacji Vivaldi</title>
+<link>https://zero.pl/news/ukraina-odzyskala-176-km-kw-terytorium-zelenski-o-operacji-vivaldi</link>
+<guid isPermaLink="true">https://zero.pl/news/ukraina-odzyskala-176-km-kw-terytorium-zelenski-o-operacji-vivaldi</guid>
+<category>Wojsko</category>
+<description>Wojsko — Przemysław Staciwa</description>
+<pubDate>Wed, 30 Sep 2026 21:25:00 +0200</pubDate>
+</item>
+<item>
+<title>Tablety Samsung Galaxy Tab S12 kosztują tyle, co dobry laptop. SmartTag 3 wygląda ciekawie</title>
+<link>https://zero.pl/news/tablety-samsung-galaxy-tab-s12-kosztuja-tyle-co-dobry-laptop-smarttag-3-wyglada-ciekawie</link>
+<guid isPermaLink="true">https://zero.pl/news/tablety-samsung-galaxy-tab-s12-kosztuja-tyle-co-dobry-laptop-smarttag-3-wyglada-ciekawie</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Wed, 30 Sep 2026 21:22:00 +0200</pubDate>
+</item>
+<item>
 <title>Rosja grozi Polsce. Fabryki produkujące broń dla Ukrainy „potencjalnymi celami”</title>
 <link>https://zero.pl/news/rosja-grozi-polsce-fabryki-broni-dla-ukrainy-moga-byc-celami-moskwy</link>
 <guid isPermaLink="true">https://zero.pl/news/rosja-grozi-polsce-fabryki-broni-dla-ukrainy-moga-byc-celami-moskwy</guid>
 <category>Wojsko</category>
 <description>Wojsko — Przemysław Staciwa</description>
-<pubDate>Thu, 01 Oct 2026 20:58:00 +0200</pubDate>
+<pubDate>Wed, 30 Sep 2026 20:58:00 +0200</pubDate>
 </item>
 <item>
 <title>Seria wypadków w Tatrach. Ewakuacja zagranicznych turystów</title>
@@ -77,7 +77,7 @@
 <guid isPermaLink="true">https://zero.pl/news/tatry-grozne-wypadki-i-akcje-topr-ratownicy-ostrzegaja-turystow</guid>
 <category>Kraj</category>
 <description>Kraj — Maria Badzio</description>
-<pubDate>Thu, 01 Oct 2026 20:50:00 +0200</pubDate>
+<pubDate>Wed, 30 Sep 2026 20:50:00 +0200</pubDate>
 </item>
 <item>
 <title>Inflacja w górę, stopy procentowe też? Kredytobiorcy drżą o swoje raty</title>
@@ -85,7 +85,7 @@
 <guid isPermaLink="true">https://zero.pl/news/co-ze-stopami-procentowymi-sprawdzamy-jak-rpp-moze-zareagowac-na-wzrost-inflacji</guid>
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Thu, 01 Oct 2026 20:46:00 +0200</pubDate>
+<pubDate>Wed, 30 Sep 2026 20:46:00 +0200</pubDate>
 </item>
 <item>
 <title>Afera po wyroku ws. zabitego strusia. Prof. Matczak: to nie błahostka</title>
@@ -93,7 +93,7 @@
 <guid isPermaLink="true">https://zero.pl/news/strus-zenek-wyrok-uchylony-prawnicy-komentuja-decyzje-sadu</guid>
 <category>Kraj</category>
 <description>Kraj — Maria Badzio</description>
-<pubDate>Thu, 01 Oct 2026 20:43:00 +0200</pubDate>
+<pubDate>Wed, 30 Sep 2026 20:43:00 +0200</pubDate>
 </item>
 <item>
 <title>Sondaż Zero.pl o Krakowie. Jeden wyraźny priorytet dla nowego prezydenta</title>
@@ -101,7 +101,7 @@
 <guid isPermaLink="true">https://zero.pl/news/sondaz-zero-pl-o-krakowie-to-najwazniejsze-zadanie-dla-nowego-prezydenta</guid>
 <category>Kraj</category>
 <description>Kraj — Przemysław Staciwa</description>
-<pubDate>Thu, 01 Oct 2026 20:40:00 +0200</pubDate>
+<pubDate>Wed, 30 Sep 2026 20:40:00 +0200</pubDate>
 </item>
 <item>
 <title>Podejrzany pakunek na cysternie w Białymstoku. Służby zakończyły akcję</title>
@@ -109,7 +109,7 @@
 <guid isPermaLink="true">https://zero.pl/news/podejrzany-pakunek-w-bialymstoku-ewakuacja-i-akcja-pirotechnikow</guid>
 <category>Kraj</category>
 <description>Kraj — Przemysław Staciwa</description>
-<pubDate>Thu, 01 Oct 2026 20:36:00 +0200</pubDate>
+<pubDate>Wed, 30 Sep 2026 20:36:00 +0200</pubDate>
 </item>
 <item>
 <title>Stanowski się buduje. Zdradził, od kogo i za ile kupił działkę</title>
@@ -117,7 +117,7 @@
 <guid isPermaLink="true">https://zero.pl/news/stanowski-z-nowym-programem-zdradzil-od-kogo-i-za-ile-kupil-dzialke-na-ktorej-zbuduje-dom</guid>
 <category>Kraj</category>
 <description>Kraj — Kamil Szałecki</description>
-<pubDate>Thu, 01 Oct 2026 20:12:00 +0200</pubDate>
+<pubDate>Wed, 30 Sep 2026 20:12:00 +0200</pubDate>
 </item>
 <item>
 <title>„706 minut czekania” na e-Doręczenia. System przeciążony w ostatnim dniu</title>
@@ -125,7 +125,7 @@
 <guid isPermaLink="true">https://zero.pl/news/e-doreczenia-nie-dzialaja-706-minut-czekania-w-ostatnim-dniu-na-zalozenie-skrzynki</guid>
 <category>Biznes</category>
 <description>Biznes — Przemysław Staciwa</description>
-<pubDate>Thu, 01 Oct 2026 20:02:00 +0200</pubDate>
+<pubDate>Wed, 30 Sep 2026 20:02:00 +0200</pubDate>
 </item>
 <item>
 <title>Rosja ostrzega NATO. Moskwa grozi użyciem broni jądrowej w sprawie Królewca</title>
@@ -133,7 +133,7 @@
 <guid isPermaLink="true">https://zero.pl/news/rosja-grozi-nato-bronia-jadrowa-moskwa-ostrzega-w-sprawie-krolewca</guid>
 <category>Wojsko</category>
 <description>Wojsko — Przemysław Staciwa</description>
-<pubDate>Thu, 01 Oct 2026 19:57:00 +0200</pubDate>
+<pubDate>Wed, 30 Sep 2026 19:57:00 +0200</pubDate>
 </item>
 <item>
 <title>Za kulisami rządowego Centrum Walki z Dezinformacją. „Do ośmiu rad dopiszą dziewiątą”</title>
@@ -141,7 +141,7 @@
 <guid isPermaLink="true">https://zero.pl/news/centrum-walki-z-dezinformacja-pawel-olszewski-stanie-na-czele-osrodka</guid>
 <category>Kraj</category>
 <description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Thu, 01 Oct 2026 19:11:00 +0200</pubDate>
+<pubDate>Wed, 30 Sep 2026 19:11:00 +0200</pubDate>
 </item>
 <item>
 <title>Szpital w Otwocku zawiesza programy lekowe. „Brak zapłaty przez NFZ”</title>
@@ -149,7 +149,7 @@
 <guid isPermaLink="true">https://zero.pl/news/europejskie-centrum-zdrowia-zawiesza-programy-lekowe-klopoty-z-wyplatami-z-nfz</guid>
 <category>Zdrowie</category>
 <description>Zdrowie — Krzysztof Jabłonowski</description>
-<pubDate>Thu, 01 Oct 2026 18:37:00 +0200</pubDate>
+<pubDate>Wed, 30 Sep 2026 18:37:00 +0200</pubDate>
 </item>
 <item>
 <title>5 mld zwróconych opakowań i fala dezinformacji? „Ma wzmacniać poczucie chaosu”</title>
