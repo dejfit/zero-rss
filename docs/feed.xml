@@ -5,15 +5,31 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 02 Oct 2026 21:53:59 +0200</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 01:25:49 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
-<title>Tak padł gol w meczu Ligi Narodów. Lewandowski znowu trafił do siatki</title>
+<title>Hokejowy wynik na Narodowym. Rumunia zdemolowana, Lewandowski z hat-trickiem!</title>
+<link>https://zero.pl/news/hokejowy-wynik-na-narodowym-rumunia-zdemolowana-lewandowski-z-hat-trickiem</link>
+<guid isPermaLink="true">https://zero.pl/news/hokejowy-wynik-na-narodowym-rumunia-zdemolowana-lewandowski-z-hat-trickiem</guid>
+<category>Sport</category>
+<description>Sport — Piotr Rodzik</description>
+<pubDate>Sat, 03 Oct 2026 22:36:00 +0200</pubDate>
+</item>
+<item>
+<title>Francja liczy straty z powodu protestów. Ponad 5 tys. osób zatrzymanych</title>
+<link>https://zero.pl/news/protesty-we-francji-ponad-5-tys-osob-zatrzymanych-300-rannych-policjantow</link>
+<guid isPermaLink="true">https://zero.pl/news/protesty-we-francji-ponad-5-tys-osob-zatrzymanych-300-rannych-policjantow</guid>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
+<pubDate>Sat, 03 Oct 2026 21:53:00 +0200</pubDate>
+</item>
+<item>
+<title>Tak padły bramki w meczu Ligi Narodów. Hattrick Lewandowskiego</title>
 <link>https://zero.pl/news/polska-rumunia-tak-padl-gol-w-meczu-ligi-narodow-lewandowski-znowu-trafil-do-siatki</link>
 <guid isPermaLink="true">https://zero.pl/news/polska-rumunia-tak-padl-gol-w-meczu-ligi-narodow-lewandowski-znowu-trafil-do-siatki</guid>
 <category>Sport</category>
 <description>Sport — Paweł Żurek</description>
-<pubDate>Fri, 02 Oct 2026 21:23:00 +0200</pubDate>
+<pubDate>Sat, 03 Oct 2026 21:23:00 +0200</pubDate>
 </item>
 <item>
 <title>Kontrwywiad ostrzega. Coraz więcej prowokacji rosyjskich służb</title>
@@ -21,7 +37,7 @@
 <guid isPermaLink="true">https://zero.pl/news/rosyjskie-sluzby-beda-coraz-czesciej-prowokowaly-norweski-kontrwywiad-ostrzega</guid>
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
-<pubDate>Fri, 02 Oct 2026 20:51:00 +0200</pubDate>
+<pubDate>Sat, 03 Oct 2026 20:51:00 +0200</pubDate>
 </item>
 <item>
 <title>Nawrocki wzywa Tuska do obniżki cen paliw. „Jutro wstajemy i benzyna jest po 5,19”</title>
@@ -29,7 +45,7 @@
 <guid isPermaLink="true">https://zero.pl/news/nawrocki-wzywa-tuska-do-obnizki-cen-paliw-benzyna-ma-byc-po-519</guid>
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
-<pubDate>Fri, 02 Oct 2026 20:46:00 +0200</pubDate>
+<pubDate>Sat, 03 Oct 2026 20:46:00 +0200</pubDate>
 </item>
 <item>
 <title>W takim składzie reprezentacja Polski zagra z Rumunią. Lewandowski w pierwszej jedenastce</title>
@@ -37,7 +53,7 @@
 <guid isPermaLink="true">https://zero.pl/news/polska-rumunia-znamy-sklady-lewandowski-w-pierwszej-jedenastce</guid>
 <category>Sport</category>
 <description>Sport — Paweł Żurek</description>
-<pubDate>Fri, 02 Oct 2026 20:00:00 +0200</pubDate>
+<pubDate>Sat, 03 Oct 2026 20:00:00 +0200</pubDate>
 </item>
 <item>
 <title>Szpital w Otwocku znowu przyjmuje pacjentów. Mamy oświadczenie NFZ</title>
@@ -45,7 +61,7 @@
 <guid isPermaLink="true">https://zero.pl/news/europejskie-centrum-zdrowia-w-otwocku-wznawia-programy-lekowe-jest-reakcja-nfz</guid>
 <category>Kraj</category>
 <description>Kraj — Krzysztof Jabłonowski,Tomasz Pałasz</description>
-<pubDate>Fri, 02 Oct 2026 19:52:00 +0200</pubDate>
+<pubDate>Sat, 03 Oct 2026 19:52:00 +0200</pubDate>
 </item>
 <item>
 <title>Żywe tarcze i blady strach. Trzy tygodnie, które wstrząsnęły Waszyngtonem</title>
@@ -53,7 +69,7 @@
 <guid isPermaLink="true">https://zero.pl/news/snajper-z-waszyngtonu-terroryzowal-miasto-jak-schwytano-johna-allena-muhammada</guid>
 <category>Świat</category>
 <description>Świat — Mr. Y</description>
-<pubDate>Fri, 02 Oct 2026 19:37:00 +0200</pubDate>
+<pubDate>Sat, 03 Oct 2026 19:37:00 +0200</pubDate>
 </item>
 <item>
 <title>Trzaskowski broni się w sprawie Szpitala Południowego. Była wiceprezydentka oburzona</title>
@@ -61,7 +77,7 @@
 <guid isPermaLink="true">https://zero.pl/news/trzaskowski-broni-sie-w-sprawie-szpitala-poludniowego-kaznowska-odpowiedziala-oburzeniem</guid>
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
-<pubDate>Fri, 02 Oct 2026 19:00:00 +0200</pubDate>
+<pubDate>Sat, 03 Oct 2026 19:00:00 +0200</pubDate>
 </item>
 <item>
 <title>Jest wyrok w sprawie 45-latka z Kłodzka. Przestępstwa seksualne wobec dzieci i zwierząt</title>
@@ -69,7 +85,7 @@
 <guid isPermaLink="true">https://zero.pl/news/jest-wyrok-w-sprawie-45-latka-z-klodzka-przestepstwa-seksualne-wobec-dzieci-i-zwierzat</guid>
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
-<pubDate>Fri, 02 Oct 2026 18:05:00 +0200</pubDate>
+<pubDate>Sat, 03 Oct 2026 18:05:00 +0200</pubDate>
 </item>
 <item>
 <title>Poznań, Wrocław lub Bydgoszcz. Gdzie powstanie stała baza USA?</title>
@@ -77,7 +93,7 @@
 <guid isPermaLink="true">https://zero.pl/news/poznan-wroclaw-lub-bydgoszcz-gdzie-powstanie-stala-baza-usa</guid>
 <category>Wojsko</category>
 <description>Wojsko — Michał Bruszewski</description>
-<pubDate>Fri, 02 Oct 2026 17:50:00 +0200</pubDate>
+<pubDate>Sat, 03 Oct 2026 17:50:00 +0200</pubDate>
 </item>
 <item>
 <title>Trump mówi, AI słucha. Tak prezydent USA może wpływać na ceny ropy</title>
@@ -85,7 +101,7 @@
 <guid isPermaLink="true">https://zero.pl/news/trump-mowi-ai-slucha-tak-prezydent-usa-moze-wplywac-na-ceny-ropy</guid>
 <category>Biznes</category>
 <description>Biznes — Wojciech J. Kittel</description>
-<pubDate>Fri, 02 Oct 2026 17:10:00 +0200</pubDate>
+<pubDate>Sat, 03 Oct 2026 17:10:00 +0200</pubDate>
 </item>
 <item>
 <title>Sąd zdecydował w sprawie Łukasza Gibały. Musi sprostować wypowiedź o radnych KO</title>
@@ -93,7 +109,7 @@
 <guid isPermaLink="true">https://zero.pl/news/lukasz-gibala-musi-sprostowac-wypowiedz-sad-zdecydowal</guid>
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
-<pubDate>Fri, 02 Oct 2026 17:09:00 +0200</pubDate>
+<pubDate>Sat, 03 Oct 2026 17:09:00 +0200</pubDate>
 </item>
 <item>
 <title>Trump chce zmienić Gabinet Owalny. Rozważa także zmianę przepisów</title>
@@ -101,7 +117,7 @@
 <guid isPermaLink="true">https://zero.pl/news/trump-rozwaza-przebudowe-gabinetu-owalnego-i-zmiane-przepisow</guid>
 <category>Świat</category>
 <description>Świat — Maria Badzio</description>
-<pubDate>Fri, 02 Oct 2026 16:53:00 +0200</pubDate>
+<pubDate>Sat, 03 Oct 2026 16:53:00 +0200</pubDate>
 </item>
 <item>
 <title>Greta Thunberg oskarżyła Maroko o kolonizację Sahary Zachodniej. Maroko: To wylęgarnia terroryzmu</title>
@@ -109,7 +125,7 @@
 <guid isPermaLink="true">https://zero.pl/news/greta-thunberg-o-saharze-zachodniej-spor-maroka-z-polisario-i-zarzuty-wobec-aktywistki</guid>
 <category>Świat</category>
 <description>Świat — Przemysław Staciwa</description>
-<pubDate>Fri, 02 Oct 2026 16:41:00 +0200</pubDate>
+<pubDate>Sat, 03 Oct 2026 16:41:00 +0200</pubDate>
 </item>
 <item>
 <title>Głośno przed rozprawą Brauna w sądzie. Z głośników puszczono hymn ZSRR</title>
@@ -117,7 +133,7 @@
 <guid isPermaLink="true">https://zero.pl/news/awantura-przed-rozprawa-brauna-w-sadzie-z-glosnikow-puszczono-hymn-zsrr</guid>
 <category>Kraj</category>
 <description>Kraj — Paweł Żurek</description>
-<pubDate>Fri, 02 Oct 2026 16:14:00 +0200</pubDate>
+<pubDate>Sat, 03 Oct 2026 16:14:00 +0200</pubDate>
 </item>
 <item>
 <title>Morawiecki zmienia plany. Partia Rozwoju Plus nie powstanie w terminie</title>
@@ -125,7 +141,7 @@
 <guid isPermaLink="true">https://zero.pl/news/mateusz-morawiecki-zmienia-plany-kiedy-rozwoj-plus-zalozy-partie</guid>
 <category>Kraj</category>
 <description>Kraj — Bartosz Michalski</description>
-<pubDate>Fri, 02 Oct 2026 16:00:00 +0200</pubDate>
+<pubDate>Sat, 03 Oct 2026 16:00:00 +0200</pubDate>
 </item>
 <item>
 <title>Apple będzie wymieniać folie na ekranie iPhone'a Duo. Samsung robi to za darmo</title>
@@ -133,7 +149,7 @@
 <guid isPermaLink="true">https://zero.pl/news/apple-bedzie-wymieniac-folie-na-ekranie-iphonea-duo-samsung-robi-to-za-darmo</guid>
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Fri, 02 Oct 2026 15:49:00 +0200</pubDate>
+<pubDate>Sat, 03 Oct 2026 15:49:00 +0200</pubDate>
 </item>
 <item>
 <title>Tyle podatku od zysku zapłaci Orlen. To efekt decyzji Nawrockiego</title>
@@ -1190,22 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Tomasz Pałasz</description>
 <pubDate>Tue, 29 Sep 2026 15:10:00 +0200</pubDate>
-</item>
-<item>
-<title>„Podręczniki trzeba będzie pisać na nowo”. Niezwykłe odkrycia archeologów</title>
-<link>https://zero.pl/news/topniejacy-lod-odslania-prehistoryczne-artefakty-podreczniki-trzeba-bedzie-pisac-na-nowo</link>
-<guid isPermaLink="true">https://zero.pl/news/topniejacy-lod-odslania-prehistoryczne-artefakty-podreczniki-trzeba-bedzie-pisac-na-nowo</guid>
-<category>Nauka</category>
-<description>Nauka — Agnieszka Waś-Turecka</description>
-<pubDate>Tue, 29 Sep 2026 14:38:00 +0200</pubDate>
-</item>
-<item>
-<title>Afera Collegium Humanum. Są kolejne zatrzymania</title>
-<link>https://zero.pl/news/afera-collegium-humanum-zatrzymano-11-osob-w-sledztwie-83-podejrzanych</link>
-<guid isPermaLink="true">https://zero.pl/news/afera-collegium-humanum-zatrzymano-11-osob-w-sledztwie-83-podejrzanych</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Tue, 29 Sep 2026 14:33:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
