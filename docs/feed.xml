@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 04 Oct 2026 20:10:52 +0200</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 23:29:26 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Kraków ma nową kładkę na Wiśle. Połączyła Kazimierz z Ludwinowem</title>
+<link>https://zero.pl/news/krakow-przed-wyborami-nowa-kladka-pieszo-rowerowa-na-wisle-juz-otwarta</link>
+<guid isPermaLink="true">https://zero.pl/news/krakow-przed-wyborami-nowa-kladka-pieszo-rowerowa-na-wisle-juz-otwarta</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Białczyk</description>
+<pubDate>Sun, 04 Oct 2026 21:51:00 +0200</pubDate>
+</item>
+<item>
+<title>MON uruchamia dodatkowe szkolenia. 70 nowych terminów programu wGotowości</title>
+<link>https://zero.pl/news/mon-70-dodatkowych-terminow-szkolen-wgotowosci-zapisy-przez-mobywatela</link>
+<guid isPermaLink="true">https://zero.pl/news/mon-70-dodatkowych-terminow-szkolen-wgotowosci-zapisy-przez-mobywatela</guid>
+<category>Wojsko</category>
+<description>Wojsko — Piotr Białczyk</description>
+<pubDate>Sun, 04 Oct 2026 21:28:00 +0200</pubDate>
+</item>
+<item>
+<title>Urban mówi o przyszłości kadry. Co będzie po Lewandowskim i Zielińskim?</title>
+<link>https://zero.pl/news/urban-przed-meczem-z-bosnia-co-bedzie-po-lewandowskim-i-zielinskim</link>
+<guid isPermaLink="true">https://zero.pl/news/urban-przed-meczem-z-bosnia-co-bedzie-po-lewandowskim-i-zielinskim</guid>
+<category>Sport</category>
+<description>Sport — Piotr Białczyk</description>
+<pubDate>Sun, 04 Oct 2026 20:58:00 +0200</pubDate>
+</item>
+<item>
+<title>USA chcą spotkania Ukrainy i Rosji. Zełenski podał możliwy termin</title>
+<link>https://zero.pl/news/zelenski-usa-chca-spotkania-ukrainy-i-rosji-do-konca-pazdziernika</link>
+<guid isPermaLink="true">https://zero.pl/news/zelenski-usa-chca-spotkania-ukrainy-i-rosji-do-konca-pazdziernika</guid>
+<category>Świat</category>
+<description>Świat — Piotr Białczyk</description>
+<pubDate>Sun, 04 Oct 2026 20:24:00 +0200</pubDate>
+</item>
 <item>
 <title>Mgły ograniczą widzialność. W poniedziałek nawet 21 stopni</title>
 <link>https://zero.pl/news/pogoda-4-i-5-pazdziernika-mgly-w-nocy-w-poniedzialek-do-21-stopni</link>
@@ -1174,38 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Wed, 30 Sep 2026 20:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Afera po wyroku ws. zabitego strusia. Prof. Matczak: to nie błahostka</title>
-<link>https://zero.pl/news/strus-zenek-wyrok-uchylony-prawnicy-komentuja-decyzje-sadu</link>
-<guid isPermaLink="true">https://zero.pl/news/strus-zenek-wyrok-uchylony-prawnicy-komentuja-decyzje-sadu</guid>
-<category>Kraj</category>
-<description>Kraj — Maria Badzio</description>
-<pubDate>Wed, 30 Sep 2026 20:43:00 +0200</pubDate>
-</item>
-<item>
-<title>Sondaż Zero.pl o Krakowie. Jeden wyraźny priorytet dla nowego prezydenta</title>
-<link>https://zero.pl/news/sondaz-zero-pl-o-krakowie-to-najwazniejsze-zadanie-dla-nowego-prezydenta</link>
-<guid isPermaLink="true">https://zero.pl/news/sondaz-zero-pl-o-krakowie-to-najwazniejsze-zadanie-dla-nowego-prezydenta</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Wed, 30 Sep 2026 20:40:00 +0200</pubDate>
-</item>
-<item>
-<title>Podejrzany pakunek na cysternie w Białymstoku. Służby zakończyły akcję</title>
-<link>https://zero.pl/news/podejrzany-pakunek-w-bialymstoku-ewakuacja-i-akcja-pirotechnikow</link>
-<guid isPermaLink="true">https://zero.pl/news/podejrzany-pakunek-w-bialymstoku-ewakuacja-i-akcja-pirotechnikow</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Wed, 30 Sep 2026 20:36:00 +0200</pubDate>
-</item>
-<item>
-<title>Stanowski się buduje. Zdradził, od kogo i za ile kupił działkę</title>
-<link>https://zero.pl/news/stanowski-z-nowym-programem-zdradzil-od-kogo-i-za-ile-kupil-dzialke-na-ktorej-zbuduje-dom</link>
-<guid isPermaLink="true">https://zero.pl/news/stanowski-z-nowym-programem-zdradzil-od-kogo-i-za-ile-kupil-dzialke-na-ktorej-zbuduje-dom</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Wed, 30 Sep 2026 20:12:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
