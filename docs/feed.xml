@@ -5,8 +5,64 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 08 Oct 2026 03:08:08 +0200</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 09:17:30 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Burza po słowach Berkowicza. „Kultura to nie patelnia – nie ukradniesz”</title>
+<link>https://zero.pl/news/konrad-berkowicz-nazwal-justyne-dobrosz-oracz-kurtyzana-fala-komentarzy-i-pozew</link>
+<guid isPermaLink="true">https://zero.pl/news/konrad-berkowicz-nazwal-justyne-dobrosz-oracz-kurtyzana-fala-komentarzy-i-pozew</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Thu, 08 Oct 2026 08:40:00 +0200</pubDate>
+</item>
+<item>
+<title>Elon Musk poparł secesję Quebeku. „Wyszliby na tym lepiej”</title>
+<link>https://zero.pl/news/elon-musk-poparl-secesje-quebeku-wspomnial-o-dwoch-innych-prowincjach-kanady</link>
+<guid isPermaLink="true">https://zero.pl/news/elon-musk-poparl-secesje-quebeku-wspomnial-o-dwoch-innych-prowincjach-kanady</guid>
+<category>Świat</category>
+<description>Świat — Krzysztof Jabłonowski</description>
+<pubDate>Thu, 08 Oct 2026 08:39:00 +0200</pubDate>
+</item>
+<item>
+<title>Ostrzegają przed rekordową anomalią. Nadchodzi seria ekstremalnych zjawisk</title>
+<link>https://zero.pl/news/ostrzegaja-przed-rekordowa-anomalia-nadchodzi-seria-ekstremalnych-zjawisk</link>
+<guid isPermaLink="true">https://zero.pl/news/ostrzegaja-przed-rekordowa-anomalia-nadchodzi-seria-ekstremalnych-zjawisk</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Thu, 08 Oct 2026 07:39:00 +0200</pubDate>
+</item>
+<item>
+<title>Areszt dla byłego wiceprezesa Orlenu. Sąd dał oskarżonemu furtkę</title>
+<link>https://zero.pl/news/areszt-dla-bylego-wiceprezesa-orlenu-sad-dal-oskarzonemu-furtke</link>
+<guid isPermaLink="true">https://zero.pl/news/areszt-dla-bylego-wiceprezesa-orlenu-sad-dal-oskarzonemu-furtke</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Thu, 08 Oct 2026 07:36:00 +0200</pubDate>
+</item>
+<item>
+<title>Zarzuty dla zabójcy z Jarosławia, pożar w Jastrzębiu Zdroju. Podsumowanie nocy</title>
+<link>https://zero.pl/news/zarzuty-dla-zabojcy-z-jaroslawia-pozar-w-jastrzebiu-zdroju-podsumowanie-nocy</link>
+<guid isPermaLink="true">https://zero.pl/news/zarzuty-dla-zabojcy-z-jaroslawia-pozar-w-jastrzebiu-zdroju-podsumowanie-nocy</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Thu, 08 Oct 2026 07:02:00 +0200</pubDate>
+</item>
+<item>
+<title>Samochód sam się zablokuje, jeśli wykryje zły skład spalin. Ten system wchodzi teraz</title>
+<link>https://zero.pl/news/zly-sklad-spalin-to-koniec-jazdy-system-obm-wchodzi-lada-moment</link>
+<guid isPermaLink="true">https://zero.pl/news/zly-sklad-spalin-to-koniec-jazdy-system-obm-wchodzi-lada-moment</guid>
+<category>Moto</category>
+<description>Moto — Tymon Grabowski</description>
+<pubDate>Thu, 08 Oct 2026 05:57:00 +0200</pubDate>
+</item>
+<item>
+<title>Nie rozpoznała zawału widocznego na EKG. Pacjentka zmarła. Lekarka dostała naganę</title>
+<link>https://zero.pl/news/lekarka-nie-rozpoznala-zawalu-na-ekg-pacjentka-zmarla-sad-lekarski-wymierzyl-nagane</link>
+<guid isPermaLink="true">https://zero.pl/news/lekarka-nie-rozpoznala-zawalu-na-ekg-pacjentka-zmarla-sad-lekarski-wymierzyl-nagane</guid>
+<category>Zdrowie</category>
+<description>Zdrowie — Patryk Słowik,Jakub Styczyński</description>
+<pubDate>Thu, 08 Oct 2026 05:57:00 +0200</pubDate>
+</item>
 <item>
 <title>Tak o sprawcy ataku w Ostrołęce mówią uczniowie. „Na co dzień był spokojny”</title>
 <link>https://zero.pl/news/atak-nozownika-w-ostrolece-kanal-zero-pojechal-na-miejsce-to-uslyszal</link>
@@ -1150,62 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Piotr Białczyk</description>
 <pubDate>Sun, 04 Oct 2026 21:28:00 +0200</pubDate>
-</item>
-<item>
-<title>Urban mówi o przyszłości kadry. Co będzie po Lewandowskim i Zielińskim?</title>
-<link>https://zero.pl/news/urban-przed-meczem-z-bosnia-co-bedzie-po-lewandowskim-i-zielinskim</link>
-<guid isPermaLink="true">https://zero.pl/news/urban-przed-meczem-z-bosnia-co-bedzie-po-lewandowskim-i-zielinskim</guid>
-<category>Sport</category>
-<description>Sport — Piotr Białczyk</description>
-<pubDate>Sun, 04 Oct 2026 20:58:00 +0200</pubDate>
-</item>
-<item>
-<title>USA chcą spotkania Ukrainy i Rosji. Zełenski podał możliwy termin</title>
-<link>https://zero.pl/news/zelenski-usa-chca-spotkania-ukrainy-i-rosji-do-konca-pazdziernika</link>
-<guid isPermaLink="true">https://zero.pl/news/zelenski-usa-chca-spotkania-ukrainy-i-rosji-do-konca-pazdziernika</guid>
-<category>Świat</category>
-<description>Świat — Piotr Białczyk</description>
-<pubDate>Sun, 04 Oct 2026 20:24:00 +0200</pubDate>
-</item>
-<item>
-<title>Mgły ograniczą widzialność. W poniedziałek nawet 21 stopni</title>
-<link>https://zero.pl/news/pogoda-4-i-5-pazdziernika-mgly-w-nocy-w-poniedzialek-do-21-stopni</link>
-<guid isPermaLink="true">https://zero.pl/news/pogoda-4-i-5-pazdziernika-mgly-w-nocy-w-poniedzialek-do-21-stopni</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Białczyk</description>
-<pubDate>Sun, 04 Oct 2026 19:51:00 +0200</pubDate>
-</item>
-<item>
-<title>Konie cierpią w milczeniu. Co dzieje się w świecie jeździectwa?</title>
-<link>https://zero.pl/news/przemoc-wobec-koni-wiazanie-jezyka-i-kontrowersje-w-jezdziectwie</link>
-<guid isPermaLink="true">https://zero.pl/news/przemoc-wobec-koni-wiazanie-jezyka-i-kontrowersje-w-jezdziectwie</guid>
-<category>Kraj</category>
-<description>Kraj — Maria Badzio</description>
-<pubDate>Sun, 04 Oct 2026 19:18:00 +0200</pubDate>
-</item>
-<item>
-<title>Ten opis Krakowa szokuje. „Dusi zaduch”, a ludzie mieszkają gdzie popadnie</title>
-<link>https://zero.pl/news/krakow-1918-miasto-bez-mieszkan-bez-porzadku-pelne-uchodzcow</link>
-<guid isPermaLink="true">https://zero.pl/news/krakow-1918-miasto-bez-mieszkan-bez-porzadku-pelne-uchodzcow</guid>
-<category>Kraj</category>
-<description>Kraj — Wydawnictwo Port</description>
-<pubDate>Sun, 04 Oct 2026 18:38:00 +0200</pubDate>
-</item>
-<item>
-<title>Nie żyje siostra Anastazja. Jej przepisy znały miliony Polaków</title>
-<link>https://zero.pl/news/zmarla-siostra-anastazja-pustelnik-jej-przepisy-znaly-miliony-polakow</link>
-<guid isPermaLink="true">https://zero.pl/news/zmarla-siostra-anastazja-pustelnik-jej-przepisy-znaly-miliony-polakow</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Białczyk</description>
-<pubDate>Sun, 04 Oct 2026 18:06:00 +0200</pubDate>
-</item>
-<item>
-<title>Kłótnia o konie u prezydenta. Rządzący komentują, rzecznik Nawrockiego odpowiada</title>
-<link>https://zero.pl/news/konie-u-karola-nawrockiego-sikorski-chce-faktury-tusk-komentuje-leskiewicz-odpowiada</link>
-<guid isPermaLink="true">https://zero.pl/news/konie-u-karola-nawrockiego-sikorski-chce-faktury-tusk-komentuje-leskiewicz-odpowiada</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Białczyk</description>
-<pubDate>Sun, 04 Oct 2026 17:32:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
