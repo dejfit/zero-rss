@@ -5,14 +5,30 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 08 Oct 2026 22:05:59 +0200</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 02:16:41 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
-<title>Koniec reklam piwa? Sejm zdecydował w sprawie nowych przepisów</title>
+<title>Zapowiedź ataku na szkołę w filmiku AI. Policja zatrzymała 17-latka</title>
+<link>https://zero.pl/news/ataki-nozownikow-w-szkolach-policja-zatrzymala-17-latka-ktory-prawdopodobnie-wygenerowal-filmik-przez-ai</link>
+<guid isPermaLink="true">https://zero.pl/news/ataki-nozownikow-w-szkolach-policja-zatrzymala-17-latka-ktory-prawdopodobnie-wygenerowal-filmik-przez-ai</guid>
+<category>Kraj</category>
+<description>Kraj — Aleksandra Cieślik</description>
+<pubDate>Thu, 08 Oct 2026 22:32:00 +0200</pubDate>
+</item>
+<item>
+<title>Trafiła do aresztu, bo przypominała złodziejkę? „Chciałabym jak najszybciej o tym zapomnieć”</title>
+<link>https://zero.pl/news/chamstwo-w-panstwie-kobieta-trafila-do-aresztu-bo-przypominala-zlodziejke</link>
+<guid isPermaLink="true">https://zero.pl/news/chamstwo-w-panstwie-kobieta-trafila-do-aresztu-bo-przypominala-zlodziejke</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Thu, 08 Oct 2026 22:07:00 +0200</pubDate>
+</item>
+<item>
+<title>Nocna prohibicja w Polsce. Sejm zdecydował</title>
 <link>https://zero.pl/news/zakaz-sprzedazy-alkoholu-w-nocy-i-reklam-piwa-sejm-zaglosowal</link>
 <guid isPermaLink="true">https://zero.pl/news/zakaz-sprzedazy-alkoholu-w-nocy-i-reklam-piwa-sejm-zaglosowal</guid>
 <category>Kraj</category>
-<description>Kraj — Maria Badzio</description>
+<description>Kraj — Maria Badzio,Paweł Żurek</description>
 <pubDate>Thu, 08 Oct 2026 21:51:00 +0200</pubDate>
 </item>
 <item>
@@ -1190,22 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Paweł Żurek</description>
 <pubDate>Mon, 05 Oct 2026 21:24:00 +0200</pubDate>
-</item>
-<item>
-<title>Pizza Książula w Żabce. Redakcja Zero.pl sprawdziła, jak smakuje</title>
-<link>https://zero.pl/news/pizza-ksiazula-w-zabce-cena-smaki-i-opinie-o-produkcie</link>
-<guid isPermaLink="true">https://zero.pl/news/pizza-ksiazula-w-zabce-cena-smaki-i-opinie-o-produkcie</guid>
-<category>Kraj</category>
-<description>Kraj — Maria Badzio</description>
-<pubDate>Mon, 05 Oct 2026 21:11:00 +0200</pubDate>
-</item>
-<item>
-<title>Odwołany proboszcz, oburzeni parafianie. „On jedynie może to powiedzieć”</title>
-<link>https://zero.pl/news/odwolany-proboszcz-oburzeni-parafianie-i-wiele-znakow-zapytania-on-jedynie-moze-to-powiedziec</link>
-<guid isPermaLink="true">https://zero.pl/news/odwolany-proboszcz-oburzeni-parafianie-i-wiele-znakow-zapytania-on-jedynie-moze-to-powiedziec</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Mon, 05 Oct 2026 20:45:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
