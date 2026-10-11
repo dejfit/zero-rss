@@ -5,8 +5,80 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 11 Oct 2026 15:29:28 +0200</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 20:19:22 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Szczęsny u Stanowskiego: Nie chcę, żeby mój syn był tylko synem bogatego tatusia</title>
+<link>https://zero.pl/news/wojciech-szczesny-u-stanowskiego-o-pieniadzach-ojcu-i-premii-za-mundial-w-katarze</link>
+<guid isPermaLink="true">https://zero.pl/news/wojciech-szczesny-u-stanowskiego-o-pieniadzach-ojcu-i-premii-za-mundial-w-katarze</guid>
+<category>Sport</category>
+<description>Sport — Krzysztof Stanowski</description>
+<pubDate>Sun, 11 Oct 2026 20:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Kraków wybiera prezydenta. Doszło do jednego incydentu</title>
+<link>https://zero.pl/news/krakow-wybiera-prezydenta-doszlo-do-jednego-incydentu</link>
+<guid isPermaLink="true">https://zero.pl/news/krakow-wybiera-prezydenta-doszlo-do-jednego-incydentu</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Sun, 11 Oct 2026 19:12:00 +0200</pubDate>
+</item>
+<item>
+<title>Nie, nie potrzebujemy interwencji państwa w mieszkalnictwo</title>
+<link>https://zero.pl/news/nie-potrzebujemy-interwencji-panstwa-w-mieszkalnictwo</link>
+<guid isPermaLink="true">https://zero.pl/news/nie-potrzebujemy-interwencji-panstwa-w-mieszkalnictwo</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Sun, 11 Oct 2026 18:44:00 +0200</pubDate>
+</item>
+<item>
+<title>Leon XIV podda się operacji. U papieża wykryto guzek w płucu</title>
+<link>https://zero.pl/news/papiez-leon-xiv-podda-sie-operacji-wykryto-guzek-w-plucu</link>
+<guid isPermaLink="true">https://zero.pl/news/papiez-leon-xiv-podda-sie-operacji-wykryto-guzek-w-plucu</guid>
+<category>Świat</category>
+<description>Świat — Krzysztof Jabłonowski</description>
+<pubDate>Sun, 11 Oct 2026 18:36:00 +0200</pubDate>
+</item>
+<item>
+<title>Areszt i zarzuty dla 21-latki po ataku nożem w Warszawie</title>
+<link>https://zero.pl/news/areszt-i-zarzuty-dla-21-latki-po-ataku-nozem-w-warszawie</link>
+<guid isPermaLink="true">https://zero.pl/news/areszt-i-zarzuty-dla-21-latki-po-ataku-nozem-w-warszawie</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Sun, 11 Oct 2026 18:12:00 +0200</pubDate>
+</item>
+<item>
+<title>Nobel dla Anne Carson. Czy wielka literatura musi się podobać?</title>
+<link>https://zero.pl/news/anne-carson-z-literackim-noblem-2026-czy-wielka-literatura-musi-sie-podobac</link>
+<guid isPermaLink="true">https://zero.pl/news/anne-carson-z-literackim-noblem-2026-czy-wielka-literatura-musi-sie-podobac</guid>
+<category>Kultura</category>
+<description>Kultura — Dagmara Leszkowicz-Zaluska</description>
+<pubDate>Sun, 11 Oct 2026 17:23:00 +0200</pubDate>
+</item>
+<item>
+<title>Policja zatrzymała mężczyznę, który groził Tuskowi</title>
+<link>https://zero.pl/news/policja-zatrzymala-mezczyzne-ktory-grozil-tuskowi</link>
+<guid isPermaLink="true">https://zero.pl/news/policja-zatrzymala-mezczyzne-ktory-grozil-tuskowi</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Sun, 11 Oct 2026 16:52:00 +0200</pubDate>
+</item>
+<item>
+<title>Trump ogłasza „rozejm energetyczny” Rosji z Ukrainą</title>
+<link>https://zero.pl/news/trump-oglasza-rozejm-energetyczny-rosji-z-ukraina</link>
+<guid isPermaLink="true">https://zero.pl/news/trump-oglasza-rozejm-energetyczny-rosji-z-ukraina</guid>
+<category>Świat</category>
+<description>Świat — Krzysztof Jabłonowski</description>
+<pubDate>Sun, 11 Oct 2026 16:37:00 +0200</pubDate>
+</item>
+<item>
+<title>Kołodziejczak łączy siły z Rutkowskim. Złożył zawiadomienie</title>
+<link>https://zero.pl/news/kolodziejczak-laczy-sily-z-rutkowskim-zlozyl-zawiadomienie</link>
+<guid isPermaLink="true">https://zero.pl/news/kolodziejczak-laczy-sily-z-rutkowskim-zlozyl-zawiadomienie</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Sun, 11 Oct 2026 15:34:00 +0200</pubDate>
+</item>
 <item>
 <title>Możliwy zamach na Tuska i Kosiniaka-Kamysza. Służby: traktujemy sprawę śmiertelnie poważnie</title>
 <link>https://zero.pl/news/mozliwy-zamach-na-tuska-i-kosiniaka-kamysza-sluzby-traktujemy-sprawe-smiertelnie-powaznie</link>
@@ -1134,78 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Przemysław Staciwa</description>
 <pubDate>Wed, 07 Oct 2026 19:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na niedzielę 11 października 2026 r.</title>
-<link>https://zero.pl/news/ramowka-zero-tv-na-niedziele-11-pazdziernika-2026-r</link>
-<guid isPermaLink="true">https://zero.pl/news/ramowka-zero-tv-na-niedziele-11-pazdziernika-2026-r</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Wed, 07 Oct 2026 19:34:00 +0200</pubDate>
-</item>
-<item>
-<title>Ramówka Zero TV na sobotę 10 października 2026 r.</title>
-<link>https://zero.pl/news/ramowka-zero-tv-na-sobote-10-pazdziernika-2026-r</link>
-<guid isPermaLink="true">https://zero.pl/news/ramowka-zero-tv-na-sobote-10-pazdziernika-2026-r</guid>
-<category>Program TV</category>
-<description>Program TV — Redakcja Zero.pl</description>
-<pubDate>Wed, 07 Oct 2026 19:23:00 +0200</pubDate>
-</item>
-<item>
-<title>Atak nożownika w Ostrołęce. Prokuratura: W plecaku miał ładunek wybuchowy</title>
-<link>https://zero.pl/news/atak-nozownika-w-ostrolece-nowe-fakty-mial-ladunek-wybuchowy</link>
-<guid isPermaLink="true">https://zero.pl/news/atak-nozownika-w-ostrolece-nowe-fakty-mial-ladunek-wybuchowy</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Wed, 07 Oct 2026 19:14:00 +0200</pubDate>
-</item>
-<item>
-<title>Karol Nawrocki wszedł do ringu z Mannym Pacquiao. Nagranie podbija sieć</title>
-<link>https://zero.pl/news/karol-nawrocki-i-manny-pacquiao-prezydent-polski-trenowal-z-legenda-boksu-wideo</link>
-<guid isPermaLink="true">https://zero.pl/news/karol-nawrocki-i-manny-pacquiao-prezydent-polski-trenowal-z-legenda-boksu-wideo</guid>
-<category>Sport</category>
-<description>Sport — Przemysław Staciwa</description>
-<pubDate>Wed, 07 Oct 2026 19:01:00 +0200</pubDate>
-</item>
-<item>
-<title>Czy Putin zaryzykuje wojnę z NATO? Jeden moment będzie szczególnie niebezpieczny</title>
-<link>https://zero.pl/news/czy-putin-zaryzykuje-wojne-z-nato-trzy-scenariusze-rosyjskiej-eskalacji</link>
-<guid isPermaLink="true">https://zero.pl/news/czy-putin-zaryzykuje-wojne-z-nato-trzy-scenariusze-rosyjskiej-eskalacji</guid>
-<category>Świat</category>
-<description>Świat — Grzegorz Matyasik</description>
-<pubDate>Wed, 07 Oct 2026 18:53:00 +0200</pubDate>
-</item>
-<item>
-<title>Barbara Mróz-Gorgoń przerwała milczenie. Powróciła „chlebowość” i niejasne odpowiedzi</title>
-<link>https://zero.pl/news/barbara-mroz-gorgon-przerwala-milczenie-powrocila-chlebowosc-i-niejasne-odpowiedzi</link>
-<guid isPermaLink="true">https://zero.pl/news/barbara-mroz-gorgon-przerwala-milczenie-powrocila-chlebowosc-i-niejasne-odpowiedzi</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Wed, 07 Oct 2026 18:50:00 +0200</pubDate>
-</item>
-<item>
-<title>Bartoszewski zrzekł się immunitetu. Prokuratura zarzuca mu przywłaszczenie milionów</title>
-<link>https://zero.pl/news/wladyslaw-teofil-bartoszewski-zrzekl-sie-immunitetu-zarzuty-prokuratury-i-miliony-zlotych</link>
-<guid isPermaLink="true">https://zero.pl/news/wladyslaw-teofil-bartoszewski-zrzekl-sie-immunitetu-zarzuty-prokuratury-i-miliony-zlotych</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Wed, 07 Oct 2026 18:26:00 +0200</pubDate>
-</item>
-<item>
-<title>Książulo miał być inny. Aż sam stał się produktem</title>
-<link>https://zero.pl/news/mrozona-pizza-ksiezula-dlaczego-internetowa-popularnosc-to-tez-biznes</link>
-<guid isPermaLink="true">https://zero.pl/news/mrozona-pizza-ksiezula-dlaczego-internetowa-popularnosc-to-tez-biznes</guid>
-<category>Biznes</category>
-<description>Biznes — Jan Wróbel</description>
-<pubDate>Wed, 07 Oct 2026 18:21:00 +0200</pubDate>
-</item>
-<item>
-<title>Francja zawiesza użycie granatów hukowych podczas protestów licealistów. 15-latek stracił dłoń</title>
-<link>https://zero.pl/news/francja-zawiesza-granaty-hukowe-podczas-protestow-licealistow-15-latek-stracil-dlon</link>
-<guid isPermaLink="true">https://zero.pl/news/francja-zawiesza-granaty-hukowe-podczas-protestow-licealistow-15-latek-stracil-dlon</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Wed, 07 Oct 2026 18:20:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
