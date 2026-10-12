@@ -5,8 +5,64 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 12 Oct 2026 03:15:39 +0200</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 09:23:48 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Jaka pogoda w poniedziałek i wtorek? Prognoza IMGW</title>
+<link>https://zero.pl/news/jaka-pogoda-w-poniedzialek-i-wtorek-prognoza-imgw</link>
+<guid isPermaLink="true">https://zero.pl/news/jaka-pogoda-w-poniedzialek-i-wtorek-prognoza-imgw</guid>
+<category>Kraj</category>
+<description>Kraj — Kamil Szałecki</description>
+<pubDate>Mon, 12 Oct 2026 09:21:00 +0200</pubDate>
+</item>
+<item>
+<title>Śmiertelny wypadek w Gdyni. Doszło do czołowego zderzenia</title>
+<link>https://zero.pl/news/gdynia-tragiczny-wypadek-doszlo-do-czolowego-zderzenia</link>
+<guid isPermaLink="true">https://zero.pl/news/gdynia-tragiczny-wypadek-doszlo-do-czolowego-zderzenia</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 12 Oct 2026 08:23:00 +0200</pubDate>
+</item>
+<item>
+<title>Sprawdzili ceny w tysiącach sklepów w Polsce. Wyniki za wrzesień zaskoczyły ekspertów</title>
+<link>https://zero.pl/news/sprawdzili-ceny-w-tysiacach-sklepow-w-polsce-wyniki-za-wrzesien-zaskoczyly-ekspertow</link>
+<guid isPermaLink="true">https://zero.pl/news/sprawdzili-ceny-w-tysiacach-sklepow-w-polsce-wyniki-za-wrzesien-zaskoczyly-ekspertow</guid>
+<category>Biznes</category>
+<description>Biznes — Agnieszka Waś-Turecka</description>
+<pubDate>Mon, 12 Oct 2026 07:58:00 +0200</pubDate>
+</item>
+<item>
+<title>W nocy PKW podała oficjalne wyniki. Rano Gibała ruszył na ulice Krakowa</title>
+<link>https://zero.pl/news/w-nocy-pkw-podala-oficjalne-wyniki-rano-gibala-ruszyl-na-ulice-krakowa</link>
+<guid isPermaLink="true">https://zero.pl/news/w-nocy-pkw-podala-oficjalne-wyniki-rano-gibala-ruszyl-na-ulice-krakowa</guid>
+<category>Kraj</category>
+<description>Kraj — Kamil Szałecki</description>
+<pubDate>Mon, 12 Oct 2026 07:27:00 +0200</pubDate>
+</item>
+<item>
+<title>Podsumowanie nocy: Oficjalne wyniki z Krakowa, prowokacja Pjongjangu i rozmowy o „rozejmie energetycznym”</title>
+<link>https://zero.pl/news/podsumowanie-nocy-oficjalne-wyniki-z-krakowa-prowokacja-pjongjangu-i-rozmowy-o-rozejmie-energetycznym</link>
+<guid isPermaLink="true">https://zero.pl/news/podsumowanie-nocy-oficjalne-wyniki-z-krakowa-prowokacja-pjongjangu-i-rozmowy-o-rozejmie-energetycznym</guid>
+<category>Kraj</category>
+<description>Kraj — Kamil Szałecki</description>
+<pubDate>Mon, 12 Oct 2026 06:42:00 +0200</pubDate>
+</item>
+<item>
+<title>Algorytmy zaczną ustalać ceny? Prezes UOKiK bierze na celownik AI</title>
+<link>https://zero.pl/news/prezes-uokik-tomasz-chrostny-rzucil-wyzwanie-ai-stajemy-w-szranki-z-najwiekszymi</link>
+<guid isPermaLink="true">https://zero.pl/news/prezes-uokik-tomasz-chrostny-rzucil-wyzwanie-ai-stajemy-w-szranki-z-najwiekszymi</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Mon, 12 Oct 2026 05:58:00 +0200</pubDate>
+</item>
+<item>
+<title>MSZ finansuje pomoc dla ukraińskich weteranów. „W naszym interesie jest być na miejscu”</title>
+<link>https://zero.pl/news/polska-wspiera-ukrainskich-weteranow-msz-finansuje-projekty-na-miliony-zlotych</link>
+<guid isPermaLink="true">https://zero.pl/news/polska-wspiera-ukrainskich-weteranow-msz-finansuje-projekty-na-miliony-zlotych</guid>
+<category>Kraj</category>
+<description>Kraj — Aleksandra Cieślik</description>
+<pubDate>Mon, 12 Oct 2026 05:58:00 +0200</pubDate>
+</item>
 <item>
 <title>RPO wycofuje się z decyzji po tekście Zero.pl. Były polityk jednak nie będzie zastępcą</title>
 <link>https://zero.pl/news/rpo-wycofuje-sie-z-decyzji-po-tekscie-zero-pl-byly-polityk-jednak-nie-bedzie-zastepca</link>
@@ -1150,62 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Krzysztof Jabłonowski</description>
 <pubDate>Thu, 08 Oct 2026 08:39:00 +0200</pubDate>
-</item>
-<item>
-<title>Ostrzegają przed rekordową anomalią. Nadchodzi seria ekstremalnych zjawisk</title>
-<link>https://zero.pl/news/ostrzegaja-przed-rekordowa-anomalia-nadchodzi-seria-ekstremalnych-zjawisk</link>
-<guid isPermaLink="true">https://zero.pl/news/ostrzegaja-przed-rekordowa-anomalia-nadchodzi-seria-ekstremalnych-zjawisk</guid>
-<category>Świat</category>
-<description>Świat — Agnieszka Waś-Turecka</description>
-<pubDate>Thu, 08 Oct 2026 07:39:00 +0200</pubDate>
-</item>
-<item>
-<title>Areszt dla byłego wiceprezesa Orlenu. Sąd dał oskarżonemu furtkę</title>
-<link>https://zero.pl/news/areszt-dla-bylego-wiceprezesa-orlenu-sad-dal-oskarzonemu-furtke</link>
-<guid isPermaLink="true">https://zero.pl/news/areszt-dla-bylego-wiceprezesa-orlenu-sad-dal-oskarzonemu-furtke</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Thu, 08 Oct 2026 07:36:00 +0200</pubDate>
-</item>
-<item>
-<title>Zarzuty dla zabójcy z Jarosławia, pożar w Jastrzębiu Zdroju. Podsumowanie nocy</title>
-<link>https://zero.pl/news/zarzuty-dla-zabojcy-z-jaroslawia-pozar-w-jastrzebiu-zdroju-podsumowanie-nocy</link>
-<guid isPermaLink="true">https://zero.pl/news/zarzuty-dla-zabojcy-z-jaroslawia-pozar-w-jastrzebiu-zdroju-podsumowanie-nocy</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Thu, 08 Oct 2026 07:02:00 +0200</pubDate>
-</item>
-<item>
-<title>Samochód sam się zablokuje, jeśli wykryje zły skład spalin. Ten system wchodzi teraz</title>
-<link>https://zero.pl/news/zly-sklad-spalin-to-koniec-jazdy-system-obm-wchodzi-lada-moment</link>
-<guid isPermaLink="true">https://zero.pl/news/zly-sklad-spalin-to-koniec-jazdy-system-obm-wchodzi-lada-moment</guid>
-<category>Moto</category>
-<description>Moto — Tymon Grabowski</description>
-<pubDate>Thu, 08 Oct 2026 05:57:00 +0200</pubDate>
-</item>
-<item>
-<title>Nie rozpoznała zawału widocznego na EKG. Pacjentka zmarła. Lekarka dostała naganę</title>
-<link>https://zero.pl/news/lekarka-nie-rozpoznala-zawalu-na-ekg-pacjentka-zmarla-sad-lekarski-wymierzyl-nagane</link>
-<guid isPermaLink="true">https://zero.pl/news/lekarka-nie-rozpoznala-zawalu-na-ekg-pacjentka-zmarla-sad-lekarski-wymierzyl-nagane</guid>
-<category>Zdrowie</category>
-<description>Zdrowie — Patryk Słowik,Jakub Styczyński</description>
-<pubDate>Thu, 08 Oct 2026 05:57:00 +0200</pubDate>
-</item>
-<item>
-<title>Tak o sprawcy ataku w Ostrołęce mówią uczniowie. „Na co dzień był spokojny”</title>
-<link>https://zero.pl/news/atak-nozownika-w-ostrolece-kanal-zero-pojechal-na-miejsce-to-uslyszal</link>
-<guid isPermaLink="true">https://zero.pl/news/atak-nozownika-w-ostrolece-kanal-zero-pojechal-na-miejsce-to-uslyszal</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Wed, 07 Oct 2026 22:01:00 +0200</pubDate>
-</item>
-<item>
-<title>Ścigał się w Malezji, na kolejny wyścig pojechał... rowerem. Bottas już w Singapurze</title>
-<link>https://zero.pl/news/valtteri-bottas-przejechal-420-km-rowerem-w-niedziele-wystartuje-w-gp-singapuru</link>
-<guid isPermaLink="true">https://zero.pl/news/valtteri-bottas-przejechal-420-km-rowerem-w-niedziele-wystartuje-w-gp-singapuru</guid>
-<category>Sport</category>
-<description>Sport — Przemysław Staciwa</description>
-<pubDate>Wed, 07 Oct 2026 21:54:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
