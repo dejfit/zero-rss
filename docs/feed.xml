@@ -5,8 +5,72 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 14 Oct 2026 19:13:28 +0200</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 22:43:09 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Elon Musk zabrał głos ws. Starshield. „Ostatecznie decyduje prezydent USA”</title>
+<link>https://zero.pl/news/elon-musk-zabral-glos-ws-starshield-ostatecznie-decyduje-prezydent-usa</link>
+<guid isPermaLink="true">https://zero.pl/news/elon-musk-zabral-glos-ws-starshield-ostatecznie-decyduje-prezydent-usa</guid>
+<category>Świat</category>
+<description>Świat — Maria Badzio</description>
+<pubDate>Wed, 14 Oct 2026 21:57:00 +0200</pubDate>
+</item>
+<item>
+<title>Trump zaprosił na scenę mechanika z Alaski. Ułaskawił też Czubaka</title>
+<link>https://zero.pl/news/trump-zaprosil-na-scene-mechanika-z-alaski-ulaskawil-tez-czubaka</link>
+<guid isPermaLink="true">https://zero.pl/news/trump-zaprosil-na-scene-mechanika-z-alaski-ulaskawil-tez-czubaka</guid>
+<category>Świat</category>
+<description>Świat — Przemysław Staciwa</description>
+<pubDate>Wed, 14 Oct 2026 21:47:00 +0200</pubDate>
+</item>
+<item>
+<title>USA celowo nie ostrzegły Ukrainy przed atakiem Rosji? „Złe warunki pogodowe”</title>
+<link>https://zero.pl/news/usa-celowo-nie-ostrzegly-ukrainy-przed-atakiem-rosji-zle-warunki-pogodowe</link>
+<guid isPermaLink="true">https://zero.pl/news/usa-celowo-nie-ostrzegly-ukrainy-przed-atakiem-rosji-zle-warunki-pogodowe</guid>
+<category>Świat</category>
+<description>Świat — Maria Badzio</description>
+<pubDate>Wed, 14 Oct 2026 21:32:00 +0200</pubDate>
+</item>
+<item>
+<title>Starcie Mazurka z Boguckim w Kanale Zero. „Wciska pan ludziom ciemnotę”</title>
+<link>https://zero.pl/news/starcie-mazurka-z-boguckim-w-kanale-zero-wciska-pan-ludziom-ciemnote</link>
+<guid isPermaLink="true">https://zero.pl/news/starcie-mazurka-z-boguckim-w-kanale-zero-wciska-pan-ludziom-ciemnote</guid>
+<category>Kraj</category>
+<description>Kraj — Kamil Szałecki</description>
+<pubDate>Wed, 14 Oct 2026 21:14:00 +0200</pubDate>
+</item>
+<item>
+<title>Prof. Piotrowski o wyborze Berka do TK. „Prezydent jest związany ustawą”</title>
+<link>https://zero.pl/news/prof-piotrowski-o-wyborze-berka-do-tk-prezydent-jest-zwiazany-ustawa</link>
+<guid isPermaLink="true">https://zero.pl/news/prof-piotrowski-o-wyborze-berka-do-tk-prezydent-jest-zwiazany-ustawa</guid>
+<category>Kraj</category>
+<description>Kraj — Maria Badzio</description>
+<pubDate>Wed, 14 Oct 2026 21:07:00 +0200</pubDate>
+</item>
+<item>
+<title>Polacy ocenili rząd i Donalda Tuska. Nowy sondaż pokazuje wyraźny trend</title>
+<link>https://zero.pl/news/sondaz-cbos-pazdziernik-2026-polacy-oceniaja-rzad-donalda-tuska</link>
+<guid isPermaLink="true">https://zero.pl/news/sondaz-cbos-pazdziernik-2026-polacy-oceniaja-rzad-donalda-tuska</guid>
+<category>Kraj</category>
+<description>Kraj — Maria Badzio</description>
+<pubDate>Wed, 14 Oct 2026 20:41:00 +0200</pubDate>
+</item>
+<item>
+<title>Noże w szkołach, gry pod pręgierzem. Nowe, nie znałem</title>
+<link>https://zero.pl/news/minecraft-i-roblox-wspolodpowiedzialne-za-przemoc-w-szkolach-tusk-oskarza-gracze-reaguja</link>
+<guid isPermaLink="true">https://zero.pl/news/minecraft-i-roblox-wspolodpowiedzialne-za-przemoc-w-szkolach-tusk-oskarza-gracze-reaguja</guid>
+<category>Kultura</category>
+<description>Kultura — Michał Walkiewicz</description>
+<pubDate>Wed, 14 Oct 2026 20:01:00 +0200</pubDate>
+</item>
+<item>
+<title>Pilna decyzja prezydenta. Odwołał wyjazd do Słowenii</title>
+<link>https://zero.pl/news/wojna-o-tk-nawrocki-zmienil-plany-na-czwartek-odwolal-wyjazd-do-slowenii</link>
+<guid isPermaLink="true">https://zero.pl/news/wojna-o-tk-nawrocki-zmienil-plany-na-czwartek-odwolal-wyjazd-do-slowenii</guid>
+<category>Kraj</category>
+<description>Kraj — Kamil Szałecki</description>
+<pubDate>Wed, 14 Oct 2026 19:39:00 +0200</pubDate>
+</item>
 <item>
 <title>Ksiądz nie ujawnił wszystkiego? Kuria odpowiada proboszczowi z Grojca</title>
 <link>https://zero.pl/news/ksiadz-nie-ujawnil-wszystkiego-kuria-odpowiada-proboszczowi-z-grojca</link>
@@ -1142,70 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Przemysław Staciwa</description>
 <pubDate>Sun, 11 Oct 2026 10:59:00 +0200</pubDate>
-</item>
-<item>
-<title>Kierwiński o aktach agresji w szkołach: Brak jakichkolwiek związków</title>
-<link>https://zero.pl/news/kierwinski-o-aktach-agresji-w-szkolach-brak-jakichkolwiek-zwiazkow</link>
-<guid isPermaLink="true">https://zero.pl/news/kierwinski-o-aktach-agresji-w-szkolach-brak-jakichkolwiek-zwiazkow</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Sun, 11 Oct 2026 10:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Kryzys po pizzy Książula to nic nowego. „Znane osoby powinny mieć więcej wrażliwości”</title>
-<link>https://zero.pl/news/kryzys-wizerunkowy-influencera-ksiazulo-sanah-kaminski-i-inne-afery-reklamowe-gwiazd</link>
-<guid isPermaLink="true">https://zero.pl/news/kryzys-wizerunkowy-influencera-ksiazulo-sanah-kaminski-i-inne-afery-reklamowe-gwiazd</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Sun, 11 Oct 2026 10:30:00 +0200</pubDate>
-</item>
-<item>
-<title>Nowe taśmy Grzegorza Brauna. Kancelarię Nawrockiego nazwał „Judenratem”</title>
-<link>https://zero.pl/news/nowe-tasmy-grzegorza-brauna-kancelarie-nawrockiego-nazwal-judenratem</link>
-<guid isPermaLink="true">https://zero.pl/news/nowe-tasmy-grzegorza-brauna-kancelarie-nawrockiego-nazwal-judenratem</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Sun, 11 Oct 2026 09:45:00 +0200</pubDate>
-</item>
-<item>
-<title>Sinner kończy sezon i rozpala spekulacje. Djokovic reaguje, wraca sprawa dopingu</title>
-<link>https://zero.pl/news/sinner-konczy-sezon-i-rozpala-spekulacje-djokovic-reaguje-wraca-sprawa-dopingu</link>
-<guid isPermaLink="true">https://zero.pl/news/sinner-konczy-sezon-i-rozpala-spekulacje-djokovic-reaguje-wraca-sprawa-dopingu</guid>
-<category>Sport</category>
-<description>Sport — Przemysław Staciwa</description>
-<pubDate>Sun, 11 Oct 2026 09:08:00 +0200</pubDate>
-</item>
-<item>
-<title>Kraków. Trwa II tura wyborów</title>
-<link>https://zero.pl/news/krakow-glosuje-w-ii-turze-gibala-i-piatkowska-walcza-o-fotel-prezydenta-miasta</link>
-<guid isPermaLink="true">https://zero.pl/news/krakow-glosuje-w-ii-turze-gibala-i-piatkowska-walcza-o-fotel-prezydenta-miasta</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Sun, 11 Oct 2026 08:20:00 +0200</pubDate>
-</item>
-<item>
-<title>Atak na lotnisko w Rijadzie, spór o rosyjskie paliwo. Podsumowanie nocy</title>
-<link>https://zero.pl/news/atak-na-lotnisko-w-rijadzie-spor-o-rosyjskie-paliwo-podsumowanie-nocy</link>
-<guid isPermaLink="true">https://zero.pl/news/atak-na-lotnisko-w-rijadzie-spor-o-rosyjskie-paliwo-podsumowanie-nocy</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Sun, 11 Oct 2026 07:43:00 +0200</pubDate>
-</item>
-<item>
-<title>RPO wymienia konstytucjonalistę na byłego polityka. Sylwia Gregorczyk-Abram wybrała</title>
-<link>https://zero.pl/news/rpo-wymienia-konstytucjonaliste-na-bylego-polityka-sylwia-gregorczyk-abram-wybrala</link>
-<guid isPermaLink="true">https://zero.pl/news/rpo-wymienia-konstytucjonaliste-na-bylego-polityka-sylwia-gregorczyk-abram-wybrala</guid>
-<category>Kraj</category>
-<description>Kraj — Patryk Słowik</description>
-<pubDate>Sun, 11 Oct 2026 06:57:00 +0200</pubDate>
-</item>
-<item>
-<title>Koniec arktycznej warty. Sztorm na pożegnanie z Grenlandią</title>
-<link>https://zero.pl/news/koniec-ekspedycji-na-grenlandii-sztorm-w-ciesninie-dunskiej-na-pozegnanie</link>
-<guid isPermaLink="true">https://zero.pl/news/koniec-ekspedycji-na-grenlandii-sztorm-w-ciesninie-dunskiej-na-pozegnanie</guid>
-<category>Świat</category>
-<description>Świat — Piotr Kornacki</description>
-<pubDate>Sun, 11 Oct 2026 06:57:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
