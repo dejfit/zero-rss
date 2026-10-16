@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 16 Oct 2026 02:41:59 +0200</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 07:06:52 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Trzy nocne alerty RCB, złe informacje dla Ukrainy z USA. Podsumowanie nocy</title>
+<link>https://zero.pl/news/trzy-nocne-alerty-rcb-zle-informacje-dla-ukrainy-z-usa-podsumowanie-nocy</link>
+<guid isPermaLink="true">https://zero.pl/news/trzy-nocne-alerty-rcb-zle-informacje-dla-ukrainy-z-usa-podsumowanie-nocy</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 16 Oct 2026 07:02:00 +0200</pubDate>
+</item>
+<item>
+<title>Cyberbezpieczeństwo do poprawy. Gawkowski dla Zero.pl: Zmienię w Polsce całą doktrynę</title>
+<link>https://zero.pl/news/gawkowski-dla-zero-pl-wicepremier-o-wojnie-cyberbezpieczenstwie-i-wyciekach-danych</link>
+<guid isPermaLink="true">https://zero.pl/news/gawkowski-dla-zero-pl-wicepremier-o-wojnie-cyberbezpieczenstwie-i-wyciekach-danych</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Fri, 16 Oct 2026 05:55:00 +0200</pubDate>
+</item>
+<item>
+<title>Fortuna z MSZ do TVP. Wiemy, ile kosztują filmy, które zobaczyło 200 osób</title>
+<link>https://zero.pl/news/miliony-z-msz-na-programy-tvp-world-o-sladowej-ogladalnosci</link>
+<guid isPermaLink="true">https://zero.pl/news/miliony-z-msz-na-programy-tvp-world-o-sladowej-ogladalnosci</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Figurski</description>
+<pubDate>Fri, 16 Oct 2026 05:55:00 +0200</pubDate>
+</item>
 <item>
 <title>Zoo Łączna pod lupą. Zarzuty o znęcanie się i kontrowersje wokół transportów</title>
 <link>https://zero.pl/news/zoo-laczna-zarzuty-prokuratury-wywoz-zwierzat-i-protesty</link>
@@ -1182,30 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Tomasz Pałasz</description>
 <pubDate>Mon, 12 Oct 2026 18:52:00 +0200</pubDate>
-</item>
-<item>
-<title>Pożar stacji Starlink. Sprawcy przyjechali z Niemiec</title>
-<link>https://zero.pl/news/podpalenie-stacji-starlink-minister-przekazal-nowe-informacje</link>
-<guid isPermaLink="true">https://zero.pl/news/podpalenie-stacji-starlink-minister-przekazal-nowe-informacje</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Mon, 12 Oct 2026 18:51:00 +0200</pubDate>
-</item>
-<item>
-<title>Europa wstrzymuje napływ chińskich hybryd. Ja bym się wstrzymał z tym hurraoptymizmem</title>
-<link>https://zero.pl/news/europa-wstrzymuje-naplyw-chinskich-hybryd-ja-bym-sie-wstrzymal-z-tym-hurraoptymizmem</link>
-<guid isPermaLink="true">https://zero.pl/news/europa-wstrzymuje-naplyw-chinskich-hybryd-ja-bym-sie-wstrzymal-z-tym-hurraoptymizmem</guid>
-<category>Moto</category>
-<description>Moto — Piotr Rodzik</description>
-<pubDate>Mon, 12 Oct 2026 18:30:00 +0200</pubDate>
-</item>
-<item>
-<title>Kraków zdecydował. Pięć lekcji dla Tuska przed kolejnymi wyborami</title>
-<link>https://zero.pl/news/wyniki-wyborow-w-krakowie-piec-lekcdla-tuska-przed-kolejnymi-wyborami-opinia</link>
-<guid isPermaLink="true">https://zero.pl/news/wyniki-wyborow-w-krakowie-piec-lekcdla-tuska-przed-kolejnymi-wyborami-opinia</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Białczyk</description>
-<pubDate>Mon, 12 Oct 2026 17:50:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
