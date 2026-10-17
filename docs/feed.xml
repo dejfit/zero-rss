@@ -5,8 +5,16 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 17 Oct 2026 20:42:04 +0200</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 23:00:07 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Wstępny bilans zamieszek we Francji - 400 zatrzymanych</title>
+<link>https://zero.pl/news/wstepny-bilans-zamieszek-we-francji-400-zatrzymanych</link>
+<guid isPermaLink="true">https://zero.pl/news/wstepny-bilans-zamieszek-we-francji-400-zatrzymanych</guid>
+<category>Świat</category>
+<description>Świat — Marcin Darmas</description>
+<pubDate>Sat, 17 Oct 2026 21:29:00 +0200</pubDate>
+</item>
 <item>
 <title>Rumunia zestrzeliła dwa drony nad Morzem Czarnym. Rośnie napięcie przy granicach NATO</title>
 <link>https://zero.pl/news/rumunia-zestrzelila-dwa-drony-nad-morzem-czarnym-rosnie-napiecie-przy-granicach-nato</link>
@@ -1198,14 +1206,6 @@
 <category>Wojsko</category>
 <description>Wojsko — Michał Bruszewski</description>
 <pubDate>Wed, 14 Oct 2026 11:20:00 +0200</pubDate>
-</item>
-<item>
-<title>Dron na plaży w Karwi. Wiadomo już, że nie jest rosyjski</title>
-<link>https://zero.pl/news/to-nie-byl-rosyjski-dron-polski-bezzalogowiec-na-plazy-w-karwi</link>
-<guid isPermaLink="true">https://zero.pl/news/to-nie-byl-rosyjski-dron-polski-bezzalogowiec-na-plazy-w-karwi</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Wed, 14 Oct 2026 10:56:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
