@@ -5,8 +5,64 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 17 Oct 2026 11:44:04 +0200</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 15:15:22 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Francja znów wrze. Licealiści i „żółte kamizelki” na ulicach, starcia z policją</title>
+<link>https://zero.pl/news/francja-znow-wrze-licealisci-i-zolte-kamizelki-na-ulicach-starcia-z-policja</link>
+<guid isPermaLink="true">https://zero.pl/news/francja-znow-wrze-licealisci-i-zolte-kamizelki-na-ulicach-starcia-z-policja</guid>
+<category>Świat</category>
+<description>Świat — Marcin Darmas</description>
+<pubDate>Sat, 17 Oct 2026 15:02:00 +0200</pubDate>
+</item>
+<item>
+<title>Morawiecki stawia na Rozwój Plus. „Bez nas nie będzie dobrego rządu”</title>
+<link>https://zero.pl/news/morawiecki-stawia-na-rozwoj-plus-bez-nas-nie-bedzie-dobrego-rzadu</link>
+<guid isPermaLink="true">https://zero.pl/news/morawiecki-stawia-na-rozwoj-plus-bez-nas-nie-bedzie-dobrego-rzadu</guid>
+<category>Kraj</category>
+<description>Kraj — Marcin Darmas</description>
+<pubDate>Sat, 17 Oct 2026 14:41:00 +0200</pubDate>
+</item>
+<item>
+<title>Rosja uderzyła w ukraińską energetykę. Zełenski oskarża Trumpa</title>
+<link>https://zero.pl/news/rosja-uderzyla-w-ukrainska-energetyke-zelenski-oskarza-trumpa</link>
+<guid isPermaLink="true">https://zero.pl/news/rosja-uderzyla-w-ukrainska-energetyke-zelenski-oskarza-trumpa</guid>
+<category>Świat</category>
+<description>Świat — Marcin Darmas</description>
+<pubDate>Sat, 17 Oct 2026 14:25:00 +0200</pubDate>
+</item>
+<item>
+<title>Kontrowersje wokół interwencji policji pod TK. „Panie ministrze, proszę pokazać taśmy”</title>
+<link>https://zero.pl/news/trybunal-konstytucyjny-kontrowersje-wokol-interwencji-policji-wersja-sluzb-podwazona-przez-media</link>
+<guid isPermaLink="true">https://zero.pl/news/trybunal-konstytucyjny-kontrowersje-wokol-interwencji-policji-wersja-sluzb-podwazona-przez-media</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Sat, 17 Oct 2026 14:01:00 +0200</pubDate>
+</item>
+<item>
+<title>Vadim Brodski między Warszawą, Kijowem i Rzymem. „Koncertu Czajkowskiego na razie nie zagram”</title>
+<link>https://zero.pl/news/vadim-brodski-nie-zagram-czajkowskiego-dopoki-putin-nie-wycofa-sie-z-ukrainy</link>
+<guid isPermaLink="true">https://zero.pl/news/vadim-brodski-nie-zagram-czajkowskiego-dopoki-putin-nie-wycofa-sie-z-ukrainy</guid>
+<category>Kultura</category>
+<description>Kultura — Włodzimierz Izban</description>
+<pubDate>Sat, 17 Oct 2026 12:06:00 +0200</pubDate>
+</item>
+<item>
+<title>TikTok, Meta i Google przyszły do ministra cyfryzacji. Czas na większą kontrolę treści</title>
+<link>https://zero.pl/news/tiktok-meta-i-google-przyszly-do-ministra-cyfryzacji-czas-na-wieksza-kontrole-tresci</link>
+<guid isPermaLink="true">https://zero.pl/news/tiktok-meta-i-google-przyszly-do-ministra-cyfryzacji-czas-na-wieksza-kontrole-tresci</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Sat, 17 Oct 2026 12:03:00 +0200</pubDate>
+</item>
+<item>
+<title>Prof. Piotrowski o wyborze Berka do Trybunału. „Tusk chciał mieć swoje alter ego”</title>
+<link>https://zero.pl/news/prof-piotrowski-o-wyborze-berka-do-trybunalu-tusk-chcial-miec-swoje-alter-ego</link>
+<guid isPermaLink="true">https://zero.pl/news/prof-piotrowski-o-wyborze-berka-do-trybunalu-tusk-chcial-miec-swoje-alter-ego</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Sat, 17 Oct 2026 11:59:00 +0200</pubDate>
+</item>
 <item>
 <title>Wysłannik Putina chwali Trumpa. Nazwał jego decyzję „historycznym momentem”</title>
 <link>https://zero.pl/news/wyslannik-putina-chwali-trumpa-nazwal-jego-decyzje-historycznym-momentem</link>
@@ -1150,62 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Łukasz Wolański</description>
 <pubDate>Wed, 14 Oct 2026 05:46:00 +0200</pubDate>
-</item>
-<item>
-<title>Dziadersi chcą krwi. Tusk i Nawrocki polewają</title>
-<link>https://zero.pl/news/jacek-sokolowski-po-i-pis-graja-na-demobilizacje-mlodych-wyborcow-przed-2027-r</link>
-<guid isPermaLink="true">https://zero.pl/news/jacek-sokolowski-po-i-pis-graja-na-demobilizacje-mlodych-wyborcow-przed-2027-r</guid>
-<category>Kraj</category>
-<description>Kraj — Grzegorz Sroczyński</description>
-<pubDate>Wed, 14 Oct 2026 05:46:00 +0200</pubDate>
-</item>
-<item>
-<title>RPO wycofała się po tekście Zero.pl. „Nie mogę sobie pozwolić”</title>
-<link>https://zero.pl/news/rpo-wycofala-sie-z-decyzji-po-tekscie-zero-pl-nie-moge-sobie-pozwolic-na-takie-sytuacje</link>
-<guid isPermaLink="true">https://zero.pl/news/rpo-wycofala-sie-z-decyzji-po-tekscie-zero-pl-nie-moge-sobie-pozwolic-na-takie-sytuacje</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Tue, 13 Oct 2026 21:48:00 +0200</pubDate>
-</item>
-<item>
-<title>Zwrot na rynku mediów. Prawa do pokazywania Mundialu kupiła platforma streamingowa</title>
-<link>https://zero.pl/news/kto-kupil-prawa-do-transmitowania-mundialu-w-hiszpanii-ruch-platformy-streamingowej</link>
-<guid isPermaLink="true">https://zero.pl/news/kto-kupil-prawa-do-transmitowania-mundialu-w-hiszpanii-ruch-platformy-streamingowej</guid>
-<category>Sport</category>
-<description>Sport — Krzysztof Jabłonowski</description>
-<pubDate>Tue, 13 Oct 2026 21:44:00 +0200</pubDate>
-</item>
-<item>
-<title>Siwy dym w autobusie. Zagotował się jednokołowiec, ewakuacja pasażerów</title>
-<link>https://zero.pl/news/monocykl-elektryczny-uruchomil-sie-w-autobusie-mpk-pasazerow-ewakuowano</link>
-<guid isPermaLink="true">https://zero.pl/news/monocykl-elektryczny-uruchomil-sie-w-autobusie-mpk-pasazerow-ewakuowano</guid>
-<category>Moto</category>
-<description>Moto — Tomasz Pałasz</description>
-<pubDate>Tue, 13 Oct 2026 21:19:00 +0200</pubDate>
-</item>
-<item>
-<title>Kotula o aferze Kołodziejczaka. „Dla mnie to poseł-nikt”</title>
-<link>https://zero.pl/news/afera-kolodziejczaka-zapytalismy-kotule-o-tasmy</link>
-<guid isPermaLink="true">https://zero.pl/news/afera-kolodziejczaka-zapytalismy-kotule-o-tasmy</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Tue, 13 Oct 2026 20:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Komisja Wenecka uderza w Nawrockiego. Bodnar komentuje</title>
-<link>https://zero.pl/news/adam-bodnar-komentuje-opinie-komisji-weneckiej-ws-slubowania-sedziow-tk-i-roli-prezydenta</link>
-<guid isPermaLink="true">https://zero.pl/news/adam-bodnar-komentuje-opinie-komisji-weneckiej-ws-slubowania-sedziow-tk-i-roli-prezydenta</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Tue, 13 Oct 2026 20:32:00 +0200</pubDate>
-</item>
-<item>
-<title>„Facetowi właśnie ukradziono... ZOO”. Stanowski o interwencji policji w Łącznej</title>
-<link>https://zero.pl/news/zoo-laczna-w-mieroszowie-zatrzymania-prokuratura-i-wywozka-zwierzat-stanowski-i-slowik-komentuja</link>
-<guid isPermaLink="true">https://zero.pl/news/zoo-laczna-w-mieroszowie-zatrzymania-prokuratura-i-wywozka-zwierzat-stanowski-i-slowik-komentuja</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Tue, 13 Oct 2026 20:25:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
