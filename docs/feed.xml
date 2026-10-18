@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 18 Oct 2026 20:58:28 +0200</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 23:16:32 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Dramat podczas mszy. Wielki krzyż runął na kapłana</title>
+<link>https://zero.pl/news/dramat-podczas-mszy-wielki-krzyz-runal-na-kaplana</link>
+<guid isPermaLink="true">https://zero.pl/news/dramat-podczas-mszy-wielki-krzyz-runal-na-kaplana</guid>
+<category>Świat</category>
+<description>Świat — Kamil Szałecki</description>
+<pubDate>Sun, 18 Oct 2026 22:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Anna Lewandowska o pożegnaniu z Barceloną. „Gdy o tym pomyślę, chce mi się płakać”</title>
+<link>https://zero.pl/news/anna-lewandowska-o-pozegnaniu-z-barcelona-gdy-o-tym-pomysle-chce-mi-sie-plakac</link>
+<guid isPermaLink="true">https://zero.pl/news/anna-lewandowska-o-pozegnaniu-z-barcelona-gdy-o-tym-pomysle-chce-mi-sie-plakac</guid>
+<category>Sport</category>
+<description>Sport — Kamil Szałecki</description>
+<pubDate>Sun, 18 Oct 2026 21:13:00 +0200</pubDate>
+</item>
 <item>
 <title>Zakłócenia w działaniu Starlinków w Ukrainie. Zełenski: to rząd USA</title>
 <link>https://zero.pl/news/zaklocenia-w-dzialaniu-starlinkow-w-ukrainie-zelenski-to-rzad-usa</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Kamil Szałecki</description>
 <pubDate>Wed, 14 Oct 2026 21:14:00 +0200</pubDate>
-</item>
-<item>
-<title>Prof. Piotrowski o wyborze Berka do TK. „Prezydent jest związany ustawą”</title>
-<link>https://zero.pl/news/prof-piotrowski-o-wyborze-berka-do-tk-prezydent-jest-zwiazany-ustawa</link>
-<guid isPermaLink="true">https://zero.pl/news/prof-piotrowski-o-wyborze-berka-do-tk-prezydent-jest-zwiazany-ustawa</guid>
-<category>Kraj</category>
-<description>Kraj — Maria Badzio</description>
-<pubDate>Wed, 14 Oct 2026 21:07:00 +0200</pubDate>
-</item>
-<item>
-<title>Polacy ocenili rząd i Donalda Tuska. Nowy sondaż pokazuje wyraźny trend</title>
-<link>https://zero.pl/news/sondaz-cbos-pazdziernik-2026-polacy-oceniaja-rzad-donalda-tuska</link>
-<guid isPermaLink="true">https://zero.pl/news/sondaz-cbos-pazdziernik-2026-polacy-oceniaja-rzad-donalda-tuska</guid>
-<category>Kraj</category>
-<description>Kraj — Maria Badzio</description>
-<pubDate>Wed, 14 Oct 2026 20:41:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
