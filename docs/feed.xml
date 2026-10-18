@@ -5,8 +5,32 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 18 Oct 2026 02:33:33 +0200</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 07:04:13 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Podsumowanie nocy. Akcja wojska pod Lublinem, protesty we Francji i ataki w Izraelu</title>
+<link>https://zero.pl/news/podsumowanie-nocy-akcja-wojska-pod-lublinem-protesty-we-francji-i-ataki-w-izraelu</link>
+<guid isPermaLink="true">https://zero.pl/news/podsumowanie-nocy-akcja-wojska-pod-lublinem-protesty-we-francji-i-ataki-w-izraelu</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Sun, 18 Oct 2026 07:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Kurier notorycznie nie dostarcza paczek? Zapytaliśmy firmy, co można z tym zrobić</title>
+<link>https://zero.pl/news/kurier-notorycznie-nie-dostarcza-paczek-zapytalismy-firmy-co-mozna-z-tym-zrobic</link>
+<guid isPermaLink="true">https://zero.pl/news/kurier-notorycznie-nie-dostarcza-paczek-zapytalismy-firmy-co-mozna-z-tym-zrobic</guid>
+<category>Kraj</category>
+<description>Kraj — Arkadiusz Dziermański</description>
+<pubDate>Sun, 18 Oct 2026 06:03:00 +0200</pubDate>
+</item>
+<item>
+<title>Kard. Ryś dla Zero.pl: Nie zgadzam się z utożsamieniem całego Kościoła z jednym środowiskiem</title>
+<link>https://zero.pl/news/kard-rys-dla-zero-pl-nie-zgadzam-sie-z-utozsamieniem-calego-kosciola-z-jednym-srodowiskiem</link>
+<guid isPermaLink="true">https://zero.pl/news/kard-rys-dla-zero-pl-nie-zgadzam-sie-z-utozsamieniem-calego-kosciola-z-jednym-srodowiskiem</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Figurski</description>
+<pubDate>Sun, 18 Oct 2026 06:03:00 +0200</pubDate>
+</item>
 <item>
 <title>Wstępny bilans zamieszek we Francji - 400 zatrzymanych</title>
 <link>https://zero.pl/news/wstepny-bilans-zamieszek-we-francji-400-zatrzymanych</link>
@@ -1182,30 +1206,6 @@
 <category>Biznes</category>
 <description>Biznes — Katarzyna Dybińska</description>
 <pubDate>Wed, 14 Oct 2026 11:44:00 +0200</pubDate>
-</item>
-<item>
-<title>Cztery zegarki komendanta Boronia. Nie wiadomo, od kogo dostał dwa najdroższe</title>
-<link>https://zero.pl/news/cztery-zegarki-komendanta-glownego-policji-nie-wiadomo-od-kogo-dostal-dwa-najdrozsze</link>
-<guid isPermaLink="true">https://zero.pl/news/cztery-zegarki-komendanta-glownego-policji-nie-wiadomo-od-kogo-dostal-dwa-najdrozsze</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
-<pubDate>Wed, 14 Oct 2026 11:28:00 +0200</pubDate>
-</item>
-<item>
-<title>„Dość tych zabaw Święczkowskiego”. Burza komentarzy po ślubowaniu Berka</title>
-<link>https://zero.pl/news/slubowanie-macieja-berka-burza-komentarzy-w-mediach-spolecznosciowych</link>
-<guid isPermaLink="true">https://zero.pl/news/slubowanie-macieja-berka-burza-komentarzy-w-mediach-spolecznosciowych</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Wed, 14 Oct 2026 11:21:00 +0200</pubDate>
-</item>
-<item>
-<title>Polskie baterie Patriot z problemami. „Dostawy na pewno opóźnione”</title>
-<link>https://zero.pl/news/dostawy-beda-na-pewno-opoznione-polskie-baterie-patriot-z-amunicyjnymi-problemami</link>
-<guid isPermaLink="true">https://zero.pl/news/dostawy-beda-na-pewno-opoznione-polskie-baterie-patriot-z-amunicyjnymi-problemami</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Wed, 14 Oct 2026 11:20:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
