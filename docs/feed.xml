@@ -5,8 +5,64 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Tue, 20 Oct 2026 14:03:16 +0200</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 18:51:57 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Polska nie jest gotowa na rój Shahedów. Wojna w Ukrainie pokazuje dlaczego</title>
+<link>https://zero.pl/news/obrona-przed-shahedami-dlaczego-polska-nie-jest-gotowa-na-masowe-ataki-dronow</link>
+<guid isPermaLink="true">https://zero.pl/news/obrona-przed-shahedami-dlaczego-polska-nie-jest-gotowa-na-masowe-ataki-dronow</guid>
+<category>Wojsko</category>
+<description>Wojsko — Wojciech J. Kittel</description>
+<pubDate>Tue, 20 Oct 2026 18:40:00 +0200</pubDate>
+</item>
+<item>
+<title>Chcą odwołać Andrzeja „Dziurę” Domańskiego. „Ubierzcie długie spodnie"</title>
+<link>https://zero.pl/news/wotum-nieufnosci-dla-andrzeja-domanskiego-sejm-debatuje-nad-wnioskiem-pis</link>
+<guid isPermaLink="true">https://zero.pl/news/wotum-nieufnosci-dla-andrzeja-domanskiego-sejm-debatuje-nad-wnioskiem-pis</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Tue, 20 Oct 2026 18:06:00 +0200</pubDate>
+</item>
+<item>
+<title>Kontuzja uda zatrzymała Świątek. W tym sezonie już nie wystartuje</title>
+<link>https://zero.pl/news/iga-swiatek-konczy-sezon-2026-r-polka-leczy-kontuzje</link>
+<guid isPermaLink="true">https://zero.pl/news/iga-swiatek-konczy-sezon-2026-r-polka-leczy-kontuzje</guid>
+<category>Sport</category>
+<description>Sport — Krzysztof Jabłonowski</description>
+<pubDate>Tue, 20 Oct 2026 17:15:00 +0200</pubDate>
+</item>
+<item>
+<title>Aborcja wróciła do Sejmu. Sadura: Koalicja próbuje odzyskać wyborców</title>
+<link>https://zero.pl/news/aborcja-w-sejmie-przemyslaw-sadura-o-bledach-koalicji-i-decyzji-prezydenta</link>
+<guid isPermaLink="true">https://zero.pl/news/aborcja-w-sejmie-przemyslaw-sadura-o-bledach-koalicji-i-decyzji-prezydenta</guid>
+<category>Kraj</category>
+<description>Kraj — Maria Badzio</description>
+<pubDate>Tue, 20 Oct 2026 17:13:00 +0200</pubDate>
+</item>
+<item>
+<title>Nowe dane o zadłużeniu Polski. Kierunek jest jeden: w górę</title>
+<link>https://zero.pl/news/nowe-dane-o-zadluzeniu-polski-kierunek-jest-jeden-w-gore</link>
+<guid isPermaLink="true">https://zero.pl/news/nowe-dane-o-zadluzeniu-polski-kierunek-jest-jeden-w-gore</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Tue, 20 Oct 2026 16:32:00 +0200</pubDate>
+</item>
+<item>
+<title>Ostro w Sejmie: Rutkowski, pyskówki i długi Leppera</title>
+<link>https://zero.pl/news/rutkowski-starl-sie-z-mateckim-w-sejmie-spor-o-kolodziejczaka-i-leppera</link>
+<guid isPermaLink="true">https://zero.pl/news/rutkowski-starl-sie-z-mateckim-w-sejmie-spor-o-kolodziejczaka-i-leppera</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Tue, 20 Oct 2026 16:01:00 +0200</pubDate>
+</item>
+<item>
+<title>KO wciąż prowadzi, dwucyfrowe poparcie dla Brauna. Jest nowy sondaż parlamentarny</title>
+<link>https://zero.pl/news/sondaz-wyborczy-ko-na-czele-dwucyfrowy-wynik-partii-brauna</link>
+<guid isPermaLink="true">https://zero.pl/news/sondaz-wyborczy-ko-na-czele-dwucyfrowy-wynik-partii-brauna</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Tue, 20 Oct 2026 15:05:00 +0200</pubDate>
+</item>
 <item>
 <title>Pieniądze, prokuratura, Putin. Jak manipuluje znany reżyser?</title>
 <link>https://zero.pl/news/film-putin-patryka-vegi-715-proc-zysku-i-obietnice-wielkiego-hitu-inwestorzy-mowia-o-stratach</link>
@@ -20,7 +76,7 @@
 <link>https://zero.pl/news/sekstasmy-kolodziejczaka-nowy-ruch-rutkowskiego-czy-on-na-waszych-oczach-ma-sie-odlac</link>
 <guid isPermaLink="true">https://zero.pl/news/sekstasmy-kolodziejczaka-nowy-ruch-rutkowskiego-czy-on-na-waszych-oczach-ma-sie-odlac</guid>
 <category>Kraj</category>
-<description>Kraj — Redakcja Zero.pl</description>
+<description>Kraj — Paweł Żurek</description>
 <pubDate>Tue, 20 Oct 2026 13:19:00 +0200</pubDate>
 </item>
 <item>
@@ -1150,62 +1206,6 @@
 <category>Moto</category>
 <description>Moto — Tymon Grabowski</description>
 <pubDate>Fri, 16 Oct 2026 11:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Nie, nowa Tesla Roadster nie będzie latać. To marketingowa papka</title>
-<link>https://zero.pl/news/nowa-tesla-roadster-nie-bedzie-latac-po-drogach-publicznych-internet-plonie-ale-to-marketingowa-papka</link>
-<guid isPermaLink="true">https://zero.pl/news/nowa-tesla-roadster-nie-bedzie-latac-po-drogach-publicznych-internet-plonie-ale-to-marketingowa-papka</guid>
-<category>Moto</category>
-<description>Moto — Piotr Rodzik</description>
-<pubDate>Fri, 16 Oct 2026 11:12:00 +0200</pubDate>
-</item>
-<item>
-<title>Rosja chce sparaliżować ukraińskie miasta. Szykuje kampanię dronowo-rakietową</title>
-<link>https://zero.pl/news/rosja-sparalizuje-ukrainskie-miasta-szykuje-kampanie-dronowo-rakietowa</link>
-<guid isPermaLink="true">https://zero.pl/news/rosja-sparalizuje-ukrainskie-miasta-szykuje-kampanie-dronowo-rakietowa</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
-<pubDate>Fri, 16 Oct 2026 11:11:00 +0200</pubDate>
-</item>
-<item>
-<title>Sekstaśmy Kołodziejczaka. Kukiz: Koks w Sejmie ewidentnie był</title>
-<link>https://zero.pl/news/sekstasmy-kolodziejczaka-kukiz-koks-w-sejmie-na-pewno-byl</link>
-<guid isPermaLink="true">https://zero.pl/news/sekstasmy-kolodziejczaka-kukiz-koks-w-sejmie-na-pewno-byl</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Fri, 16 Oct 2026 10:38:00 +0200</pubDate>
-</item>
-<item>
-<title>NATO już wie, jak wygrać z Rosją. A Polska?</title>
-<link>https://zero.pl/news/jak-nato-chce-wygrac-z-rosja-polska-wciaz-nie-ma-wlasnej-teorii-zwyciestwa</link>
-<guid isPermaLink="true">https://zero.pl/news/jak-nato-chce-wygrac-z-rosja-polska-wciaz-nie-ma-wlasnej-teorii-zwyciestwa</guid>
-<category>Wojsko</category>
-<description>Wojsko — Sławomir Dębski</description>
-<pubDate>Fri, 16 Oct 2026 09:56:00 +0200</pubDate>
-</item>
-<item>
-<title>Potężny pożar pod Otwockiem. Pilny apel służb</title>
-<link>https://zero.pl/news/pozar-pod-otwockiem-pilny-apel-sluzb</link>
-<guid isPermaLink="true">https://zero.pl/news/pozar-pod-otwockiem-pilny-apel-sluzb</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Fri, 16 Oct 2026 08:49:00 +0200</pubDate>
-</item>
-<item>
-<title>Sikorski uderza w Nawrockiego ws. Rosji. „Lekceważenie niebezpieczeństwa”</title>
-<link>https://zero.pl/news/sikorski-uderza-w-nawrockiego-ws-rosji-lekcewazenie-niebezpieczenstwa</link>
-<guid isPermaLink="true">https://zero.pl/news/sikorski-uderza-w-nawrockiego-ws-rosji-lekcewazenie-niebezpieczenstwa</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Fri, 16 Oct 2026 08:24:00 +0200</pubDate>
-</item>
-<item>
-<title>Elon Musk pokazał latającą Teslę. Podał datę premiery</title>
-<link>https://zero.pl/news/elon-musk-pokazal-latajaca-tesle-podal-date-premiery</link>
-<guid isPermaLink="true">https://zero.pl/news/elon-musk-pokazal-latajaca-tesle-podal-date-premiery</guid>
-<category>Moto</category>
-<description>Moto — Krzysztof Jabłonowski</description>
-<pubDate>Fri, 16 Oct 2026 07:54:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
