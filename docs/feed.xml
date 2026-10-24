@@ -5,8 +5,48 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 24 Oct 2026 16:43:47 +0200</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 19:38:01 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>„Rozmawiam z dwoma spidermanami”. Zapytaliśmy Francuzów, dlaczego wyszli na ulice</title>
+<link>https://zero.pl/news/dlaczego-wyszli-na-ulice-rozmawiamy-z-demonstrantami-we-francji</link>
+<guid isPermaLink="true">https://zero.pl/news/dlaczego-wyszli-na-ulice-rozmawiamy-z-demonstrantami-we-francji</guid>
+<category>Świat</category>
+<description>Świat — Kamil Szałecki</description>
+<pubDate>Sat, 24 Oct 2026 19:14:00 +0200</pubDate>
+</item>
+<item>
+<title>Czy ojcowie są dyskryminowani w sądach rodzinnych? Posłowie pytają ministra</title>
+<link>https://zero.pl/news/prawa-ojca-po-rozstaniu-poslowie-interweniuja-u-ministra-sprawiedliwosci</link>
+<guid isPermaLink="true">https://zero.pl/news/prawa-ojca-po-rozstaniu-poslowie-interweniuja-u-ministra-sprawiedliwosci</guid>
+<category>Kraj</category>
+<description>Kraj — Bartosz Michalski</description>
+<pubDate>Sat, 24 Oct 2026 18:26:00 +0200</pubDate>
+</item>
+<item>
+<title>Polska 2050 podjęła decyzję po dymisji Pełczyńskiej-Nałęcz. „To dla naszego środowiska bardzo trudne”</title>
+<link>https://zero.pl/news/polska-2050-podjela-decyzje-po-dymisji-pelczynskiej-nalecz-to-dla-naszego-srodowiska-bardzo-trudne</link>
+<guid isPermaLink="true">https://zero.pl/news/polska-2050-podjela-decyzje-po-dymisji-pelczynskiej-nalecz-to-dla-naszego-srodowiska-bardzo-trudne</guid>
+<category>Kraj</category>
+<description>Kraj — Kamil Szałecki</description>
+<pubDate>Sat, 24 Oct 2026 18:05:00 +0200</pubDate>
+</item>
+<item>
+<title>Poseł Morawieckiego stracił prawo jazdy. „Z pokorą przyjmuję mandat”</title>
+<link>https://zero.pl/news/posel-morawieckiego-stracil-prawo-jazdy-z-pokora-przyjmuje-mandat</link>
+<guid isPermaLink="true">https://zero.pl/news/posel-morawieckiego-stracil-prawo-jazdy-z-pokora-przyjmuje-mandat</guid>
+<category>Moto</category>
+<description>Moto — Kamil Szałecki</description>
+<pubDate>Sat, 24 Oct 2026 17:37:00 +0200</pubDate>
+</item>
+<item>
+<title>Starcie o amerykański Senat. Obama i Trump włączają się do walki o kluczowy stan</title>
+<link>https://zero.pl/news/usa-starcie-o-amerykanski-senat-trump-i-obama-wlaczaja-sie-do-walki-o-kluczowy-stan</link>
+<guid isPermaLink="true">https://zero.pl/news/usa-starcie-o-amerykanski-senat-trump-i-obama-wlaczaja-sie-do-walki-o-kluczowy-stan</guid>
+<category>Świat</category>
+<description>Świat — Kamil Szałecki</description>
+<pubDate>Sat, 24 Oct 2026 17:16:00 +0200</pubDate>
+</item>
 <item>
 <title>Test Huawei Watch GT 7 Pro. W tym roku tylko na sportowo, zmian coraz mniej</title>
 <link>https://zero.pl/news/test-huawei-watch-gt-7-pro-trudno-go-nie-lubic-za-dziesiec-dni-pracy-na-baterii</link>
@@ -1166,46 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Przemysław Staciwa</description>
 <pubDate>Tue, 20 Oct 2026 18:59:00 +0200</pubDate>
-</item>
-<item>
-<title>Kierwiński idzie do prokuratury z TV Republika. Na celowniku także Sakiewicz</title>
-<link>https://zero.pl/news/marcin-kierwinski-zawiadamia-prokurature-w-sprawie-tv-republika-i-tomasza-sakiewicza</link>
-<guid isPermaLink="true">https://zero.pl/news/marcin-kierwinski-zawiadamia-prokurature-w-sprawie-tv-republika-i-tomasza-sakiewicza</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Tue, 20 Oct 2026 18:57:00 +0200</pubDate>
-</item>
-<item>
-<title>„Pokój na prawicy”, czy „tama przeciw Braunowi”? Podejść wiele, matematyka jednoznaczna</title>
-<link>https://zero.pl/news/czy-bedzie-koalicja-partii-prawicowych-z-braunem-komentarze-politykow</link>
-<guid isPermaLink="true">https://zero.pl/news/czy-bedzie-koalicja-partii-prawicowych-z-braunem-komentarze-politykow</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Tue, 20 Oct 2026 18:54:00 +0200</pubDate>
-</item>
-<item>
-<title>Polska nie jest gotowa na rój Shahedów. Wojna w Ukrainie pokazuje dlaczego</title>
-<link>https://zero.pl/news/obrona-przed-shahedami-dlaczego-polska-nie-jest-gotowa-na-masowe-ataki-dronow</link>
-<guid isPermaLink="true">https://zero.pl/news/obrona-przed-shahedami-dlaczego-polska-nie-jest-gotowa-na-masowe-ataki-dronow</guid>
-<category>Wojsko</category>
-<description>Wojsko — Wojciech J. Kittel</description>
-<pubDate>Tue, 20 Oct 2026 18:40:00 +0200</pubDate>
-</item>
-<item>
-<title>Chcą odwołać Andrzeja „Dziurę” Domańskiego. „Ubierzcie długie spodnie"</title>
-<link>https://zero.pl/news/wotum-nieufnosci-dla-andrzeja-domanskiego-sejm-debatuje-nad-wnioskiem-pis</link>
-<guid isPermaLink="true">https://zero.pl/news/wotum-nieufnosci-dla-andrzeja-domanskiego-sejm-debatuje-nad-wnioskiem-pis</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Tue, 20 Oct 2026 18:06:00 +0200</pubDate>
-</item>
-<item>
-<title>Kontuzja uda zatrzymała Świątek. W tym sezonie już nie wystartuje</title>
-<link>https://zero.pl/news/iga-swiatek-konczy-sezon-2026-r-polka-leczy-kontuzje</link>
-<guid isPermaLink="true">https://zero.pl/news/iga-swiatek-konczy-sezon-2026-r-polka-leczy-kontuzje</guid>
-<category>Sport</category>
-<description>Sport — Krzysztof Jabłonowski</description>
-<pubDate>Tue, 20 Oct 2026 17:15:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
