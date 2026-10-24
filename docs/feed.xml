@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 24 Oct 2026 13:27:06 +0200</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 16:43:47 +0200</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Test Huawei Watch GT 7 Pro. W tym roku tylko na sportowo, zmian coraz mniej</title>
+<link>https://zero.pl/news/test-huawei-watch-gt-7-pro-trudno-go-nie-lubic-za-dziesiec-dni-pracy-na-baterii</link>
+<guid isPermaLink="true">https://zero.pl/news/test-huawei-watch-gt-7-pro-trudno-go-nie-lubic-za-dziesiec-dni-pracy-na-baterii</guid>
+<category>Technologia</category>
+<description>Technologia — Arkadiusz Dziermański</description>
+<pubDate>Sat, 24 Oct 2026 16:33:00 +0200</pubDate>
+</item>
+<item>
+<title>„Krajobraz jakby miał być stan wojenny”. Jesteśmy na protestach w Paryżu</title>
+<link>https://zero.pl/news/manifestacje-we-francji-program-specjalny-w-kanale-zero</link>
+<guid isPermaLink="true">https://zero.pl/news/manifestacje-we-francji-program-specjalny-w-kanale-zero</guid>
+<category>Świat</category>
+<description>Świat — Kamil Szałecki</description>
+<pubDate>Sat, 24 Oct 2026 15:54:00 +0200</pubDate>
+</item>
+<item>
+<title>Mentzen o Pełczyńskiej-Nałęcz. „Tusk mógł ją publicznie upokarzać, mobbingować, obrażać”</title>
+<link>https://zero.pl/news/dymisja-pelczynskiej-nalecz-mentzen-komentuje</link>
+<guid isPermaLink="true">https://zero.pl/news/dymisja-pelczynskiej-nalecz-mentzen-komentuje</guid>
+<category>Kraj</category>
+<description>Kraj — Kamil Szałecki</description>
+<pubDate>Sat, 24 Oct 2026 14:49:00 +0200</pubDate>
+</item>
+<item>
+<title>Makabryczne odkrycie w Radomiu. Pijany kierowca przewoził zwłoki</title>
+<link>https://zero.pl/news/makabryczne-odkrycie-w-radomiu-pijany-kierowca-przewozil-zwloki</link>
+<guid isPermaLink="true">https://zero.pl/news/makabryczne-odkrycie-w-radomiu-pijany-kierowca-przewozil-zwloki</guid>
+<category>Kraj</category>
+<description>Kraj — Przemysław Staciwa</description>
+<pubDate>Sat, 24 Oct 2026 13:53:00 +0200</pubDate>
+</item>
 <item>
 <title>Polskie dzieci tyją najszybciej w Europie. „Sytuacja bez precedensu w historii”</title>
 <link>https://zero.pl/news/polskie-dzieci-tyja-najszybciej-w-europie-prof-dr-hab-pawel-bogdanski-ostrzega-tykajaca-bomba</link>
@@ -1174,38 +1206,6 @@
 <category>Sport</category>
 <description>Sport — Krzysztof Jabłonowski</description>
 <pubDate>Tue, 20 Oct 2026 17:15:00 +0200</pubDate>
-</item>
-<item>
-<title>Aborcja wróciła do Sejmu. Sadura: Koalicja próbuje odzyskać wyborców</title>
-<link>https://zero.pl/news/aborcja-w-sejmie-przemyslaw-sadura-o-bledach-koalicji-i-decyzji-prezydenta</link>
-<guid isPermaLink="true">https://zero.pl/news/aborcja-w-sejmie-przemyslaw-sadura-o-bledach-koalicji-i-decyzji-prezydenta</guid>
-<category>Kraj</category>
-<description>Kraj — Maria Badzio</description>
-<pubDate>Tue, 20 Oct 2026 17:13:00 +0200</pubDate>
-</item>
-<item>
-<title>Nowe dane o zadłużeniu Polski. Kierunek jest jeden: w górę</title>
-<link>https://zero.pl/news/nowe-dane-o-zadluzeniu-polski-kierunek-jest-jeden-w-gore</link>
-<guid isPermaLink="true">https://zero.pl/news/nowe-dane-o-zadluzeniu-polski-kierunek-jest-jeden-w-gore</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Tue, 20 Oct 2026 16:32:00 +0200</pubDate>
-</item>
-<item>
-<title>Ostro w Sejmie: Rutkowski, pyskówki i długi Leppera</title>
-<link>https://zero.pl/news/rutkowski-starl-sie-z-mateckim-w-sejmie-spor-o-kolodziejczaka-i-leppera</link>
-<guid isPermaLink="true">https://zero.pl/news/rutkowski-starl-sie-z-mateckim-w-sejmie-spor-o-kolodziejczaka-i-leppera</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Tue, 20 Oct 2026 16:01:00 +0200</pubDate>
-</item>
-<item>
-<title>KO wciąż prowadzi, dwucyfrowe poparcie dla Brauna. Jest nowy sondaż parlamentarny</title>
-<link>https://zero.pl/news/sondaz-wyborczy-ko-na-czele-dwucyfrowy-wynik-partii-brauna</link>
-<guid isPermaLink="true">https://zero.pl/news/sondaz-wyborczy-ko-na-czele-dwucyfrowy-wynik-partii-brauna</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Tue, 20 Oct 2026 15:05:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
