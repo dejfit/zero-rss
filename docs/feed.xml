@@ -5,8 +5,40 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sun, 25 Oct 2026 20:23:33 +0100</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 22:57:31 +0100</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Sensacyjny wynik w Serbii. Po 14 latach zmienia się układ sił</title>
+<link>https://zero.pl/news/sensacyjny-wynik-w-serbii-po-14-latach-zmienia-sie-uklad-sil</link>
+<guid isPermaLink="true">https://zero.pl/news/sensacyjny-wynik-w-serbii-po-14-latach-zmienia-sie-uklad-sil</guid>
+<category>Świat</category>
+<description>Świat — Kasjan Owsianko</description>
+<pubDate>Sun, 25 Oct 2026 22:05:00 +0100</pubDate>
+</item>
+<item>
+<title>Obama krytykuje Trumpa: Urządził Biały Dom tak, jakby Husajn otworzył cukiernię</title>
+<link>https://zero.pl/news/obama-krytykuje-trumpa-urzadzil-bialy-dom-tak-jakby-husajn-otworzyl-cukiernie</link>
+<guid isPermaLink="true">https://zero.pl/news/obama-krytykuje-trumpa-urzadzil-bialy-dom-tak-jakby-husajn-otworzyl-cukiernie</guid>
+<category>Świat</category>
+<description>Świat — Kasjan Owsianko</description>
+<pubDate>Sun, 25 Oct 2026 21:43:00 +0100</pubDate>
+</item>
+<item>
+<title>Zakończono referendum w Częstochowie. W tle afera korupcyjna</title>
+<link>https://zero.pl/news/zakonczono-referendum-w-czestochowie-w-tle-afera-korupcyjna</link>
+<guid isPermaLink="true">https://zero.pl/news/zakonczono-referendum-w-czestochowie-w-tle-afera-korupcyjna</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sun, 25 Oct 2026 21:31:00 +0100</pubDate>
+</item>
+<item>
+<title>Tak Pełczyńska-Nałęcz dowiedziała się o wyrzuceniu z Polski 2050. Wszystko zostało nagrane</title>
+<link>https://zero.pl/news/tak-pelczynska-nalecz-dowiedziala-sie-o-wyrzuceniu-z-polski-2050-wszystko-zostalo-nagrane</link>
+<guid isPermaLink="true">https://zero.pl/news/tak-pelczynska-nalecz-dowiedziala-sie-o-wyrzuceniu-z-polski-2050-wszystko-zostalo-nagrane</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sun, 25 Oct 2026 20:59:00 +0100</pubDate>
+</item>
 <item>
 <title>Legia traci miano niepokonanej. Lech liderem Ekstraklasy</title>
 <link>https://zero.pl/news/legia-traci-miano-niepokonanej-lech-liderem-ekstraklasy</link>
@@ -1174,38 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Maria Badzio</description>
 <pubDate>Wed, 21 Oct 2026 16:25:00 +0200</pubDate>
-</item>
-<item>
-<title>Niezidentyfikowany obiekt na Podkarpaciu. Jest komunikat służb</title>
-<link>https://zero.pl/news/niezidentyfikowany-obiekt-na-podkarpaciu-jest-komunikat-sluzb</link>
-<guid isPermaLink="true">https://zero.pl/news/niezidentyfikowany-obiekt-na-podkarpaciu-jest-komunikat-sluzb</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Wed, 21 Oct 2026 16:00:00 +0200</pubDate>
-</item>
-<item>
-<title>Bruksela chce nadzorować kapitał Europy. Stawka: nawet 10 bilionów euro</title>
-<link>https://zero.pl/news/reforma-esma-unijny-nadzor-nad-gieldami-euroclear-i-zamrozone-rosyjskie-aktywa</link>
-<guid isPermaLink="true">https://zero.pl/news/reforma-esma-unijny-nadzor-nad-gieldami-euroclear-i-zamrozone-rosyjskie-aktywa</guid>
-<category>Biznes</category>
-<description>Biznes — Wojciech J. Kittel</description>
-<pubDate>Wed, 21 Oct 2026 15:39:00 +0200</pubDate>
-</item>
-<item>
-<title>Pierwsza audiencja papieża po wyjściu ze szpitala. „Pociąg ożywia się przez gesty czułości”</title>
-<link>https://zero.pl/news/pierwsza-audiencja-papieza-leona-po-wyjsciu-ze-szpitala-pociag-ozywia-sie-przez-gesty-czulosci</link>
-<guid isPermaLink="true">https://zero.pl/news/pierwsza-audiencja-papieza-leona-po-wyjsciu-ze-szpitala-pociag-ozywia-sie-przez-gesty-czulosci</guid>
-<category>Świat</category>
-<description>Świat — Paweł Żurek</description>
-<pubDate>Wed, 21 Oct 2026 15:36:00 +0200</pubDate>
-</item>
-<item>
-<title>To koniec marki Polska? Fundacja Barbary Mróz-Gorgoń w stanie likwidacji</title>
-<link>https://zero.pl/news/to-koniec-marki-polska-fundacja-barbary-mroz-gorgon-w-stanie-likwidacji</link>
-<guid isPermaLink="true">https://zero.pl/news/to-koniec-marki-polska-fundacja-barbary-mroz-gorgon-w-stanie-likwidacji</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Wed, 21 Oct 2026 15:07:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
