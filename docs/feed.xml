@@ -5,8 +5,56 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Wed, 28 Oct 2026 03:01:56 +0100</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 09:20:09 +0100</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Układ paliwowy Trump-Putin działa. Kontrowersyjny sojusz napędza rosyjskie rafinerie</title>
+<link>https://zero.pl/news/uklad-paliwowy-trump-putin-dziala-rosja-zwieksza-produkcje-diesla</link>
+<guid isPermaLink="true">https://zero.pl/news/uklad-paliwowy-trump-putin-dziala-rosja-zwieksza-produkcje-diesla</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Wed, 28 Oct 2026 08:57:00 +0100</pubDate>
+</item>
+<item>
+<title>Tylu Polaków ma oszczędności. Podano, na jak długo im starczą</title>
+<link>https://zero.pl/news/tylu-polakow-ma-oszczednosci-podano-na-jak-dlugo-im-starcza</link>
+<guid isPermaLink="true">https://zero.pl/news/tylu-polakow-ma-oszczednosci-podano-na-jak-dlugo-im-starcza</guid>
+<category>Biznes</category>
+<description>Biznes — Paweł Żurek</description>
+<pubDate>Wed, 28 Oct 2026 08:02:00 +0100</pubDate>
+</item>
+<item>
+<title>Spotkanie Zełenskiego i Putina „już niebawem”. Trump zapowiada postępy w negocjacjach</title>
+<link>https://zero.pl/news/spotkanie-zelenskiego-i-putina-juz-niebawem-trump-zapowiada-postepy-w-negocjacjach</link>
+<guid isPermaLink="true">https://zero.pl/news/spotkanie-zelenskiego-i-putina-juz-niebawem-trump-zapowiada-postepy-w-negocjacjach</guid>
+<category>Świat</category>
+<description>Świat — Paweł Żurek</description>
+<pubDate>Wed, 28 Oct 2026 07:41:00 +0100</pubDate>
+</item>
+<item>
+<title>Weto Karola Nawrockiego wisiało na włosku. Ważna ustawa z poprawkami</title>
+<link>https://zero.pl/news/wsparcie-dla-firm-energochlonnych-senat-zmienia-ustawe-w-tle-grozba-prezydenckiego-weta</link>
+<guid isPermaLink="true">https://zero.pl/news/wsparcie-dla-firm-energochlonnych-senat-zmienia-ustawe-w-tle-grozba-prezydenckiego-weta</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Wed, 28 Oct 2026 07:26:00 +0100</pubDate>
+</item>
+<item>
+<title>Podsumowanie nocy. Możliwa zmiana władzy w Izraelu, ucieczka Bolsonaro, Finlandia bez stosunków z Rosją</title>
+<link>https://zero.pl/news/podsumowanie-nocy-mozliwa-zmiana-wladzy-w-izraelu-ucieczka-bolsonaro-finlandia-bez-stosunkow-z-rosja</link>
+<guid isPermaLink="true">https://zero.pl/news/podsumowanie-nocy-mozliwa-zmiana-wladzy-w-izraelu-ucieczka-bolsonaro-finlandia-bez-stosunkow-z-rosja</guid>
+<category>Kraj</category>
+<description>Kraj — Paweł Żurek</description>
+<pubDate>Wed, 28 Oct 2026 06:47:00 +0100</pubDate>
+</item>
+<item>
+<title>Podbój Bałtyku bez pensji. Bunt na promach Polskiej Żeglugi Bałtyckiej. „Jest tragicznie”</title>
+<link>https://zero.pl/news/bunt-na-promach-polskiej-zeglugi-baltyckiej-jest-tragicznie</link>
+<guid isPermaLink="true">https://zero.pl/news/bunt-na-promach-polskiej-zeglugi-baltyckiej-jest-tragicznie</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Barejka</description>
+<pubDate>Wed, 28 Oct 2026 06:01:00 +0100</pubDate>
+</item>
 <item>
 <title>Wybory w Izraelu bez rozstrzygnięcia. „Programowo wcale się od siebie nie różnią”</title>
 <link>https://zero.pl/news/wybory-w-izraelu-2026-exit-poll-netanjahu-i-mozliwe-scenariusze-koalicji</link>
@@ -1158,54 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Marcin Darmas</description>
 <pubDate>Sat, 24 Oct 2026 05:58:00 +0200</pubDate>
-</item>
-<item>
-<title>Zełenski gotowy na trójstronne spotkanie. „Nawet jutro”</title>
-<link>https://zero.pl/news/wojna-w-ukrainie-wolodymyr-zelenski-gotowy-na-trojstronne-spotkanie</link>
-<guid isPermaLink="true">https://zero.pl/news/wojna-w-ukrainie-wolodymyr-zelenski-gotowy-na-trojstronne-spotkanie</guid>
-<category>Świat</category>
-<description>Świat — Kamil Szałecki</description>
-<pubDate>Fri, 23 Oct 2026 21:50:00 +0200</pubDate>
-</item>
-<item>
-<title>Trener Bayernu w szpitalu. Zasłabł podczas treningu</title>
-<link>https://zero.pl/news/trener-bayernu-w-szpitalu-vincent-kompany-zaslabl-podczas-treningu</link>
-<guid isPermaLink="true">https://zero.pl/news/trener-bayernu-w-szpitalu-vincent-kompany-zaslabl-podczas-treningu</guid>
-<category>Sport</category>
-<description>Sport — Kamil Szałecki</description>
-<pubDate>Fri, 23 Oct 2026 21:35:00 +0200</pubDate>
-</item>
-<item>
-<title>Nowe środki z SAFE. W grze blisko 20 mld euro i szansa dla Polski</title>
-<link>https://zero.pl/news/nowe-srodki-z-safe-w-grze-blisko-20-mld-euro-i-szansa-dla-polski</link>
-<guid isPermaLink="true">https://zero.pl/news/nowe-srodki-z-safe-w-grze-blisko-20-mld-euro-i-szansa-dla-polski</guid>
-<category>Wojsko</category>
-<description>Wojsko — Kamil Szałecki</description>
-<pubDate>Fri, 23 Oct 2026 21:15:00 +0200</pubDate>
-</item>
-<item>
-<title>Nie odcinajmy „bogatych” od 800+</title>
-<link>https://zero.pl/news/kryterium-dochodowe-w-800-to-zly-pomysl-jak-inaczej-ograniczyc-wydatki-na-bogatych</link>
-<guid isPermaLink="true">https://zero.pl/news/kryterium-dochodowe-w-800-to-zly-pomysl-jak-inaczej-ograniczyc-wydatki-na-bogatych</guid>
-<category>Kraj</category>
-<description>Kraj — Bartosz Marczuk</description>
-<pubDate>Fri, 23 Oct 2026 20:54:00 +0200</pubDate>
-</item>
-<item>
-<title>Test Noble Fokus Artemis. Byłbym w stanie wydać 3 990 zł na słuchawki</title>
-<link>https://zero.pl/news/test-noble-fokus-artemis-w-tej-cenie-powinny-strzelac-laserami-ale-i-tak-dowoza-jakosc</link>
-<guid isPermaLink="true">https://zero.pl/news/test-noble-fokus-artemis-w-tej-cenie-powinny-strzelac-laserami-ale-i-tak-dowoza-jakosc</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Fri, 23 Oct 2026 20:19:00 +0200</pubDate>
-</item>
-<item>
-<title>Polityka nie interesuje kobiet? Wyniki sondażu zaskakują</title>
-<link>https://zero.pl/news/polityka-nie-interesuje-kobiet-wyniki-sondazu-cbos-zaskakuja</link>
-<guid isPermaLink="true">https://zero.pl/news/polityka-nie-interesuje-kobiet-wyniki-sondazu-cbos-zaskakuja</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Fri, 23 Oct 2026 19:59:00 +0200</pubDate>
 </item>
 </channel>
 </rss>
