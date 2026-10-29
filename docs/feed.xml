@@ -5,8 +5,24 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Thu, 29 Oct 2026 01:02:05 +0100</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 06:36:48 +0100</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Wpłacili setki tysięcy, a nadal są tylko najemcami. Lokatorzy TBS zostali z niczym</title>
+<link>https://zero.pl/news/mieszkania-tbs-bez-prawa-wykupu-partycypanci-po-30-latach-nadal-sa-tylko-najemcami</link>
+<guid isPermaLink="true">https://zero.pl/news/mieszkania-tbs-bez-prawa-wykupu-partycypanci-po-30-latach-nadal-sa-tylko-najemcami</guid>
+<category>Kraj</category>
+<description>Kraj — Grzegorz Prigan</description>
+<pubDate>Thu, 29 Oct 2026 06:07:00 +0100</pubDate>
+</item>
+<item>
+<title>Miejska spółka buduje blok TBS, a obok pękają ściany. Mieszkańcy toczą batalię o odszkodowania</title>
+<link>https://zero.pl/news/miejska-spolka-buduje-a-obok-pekaja-sciany-mieszkancy-tocza-batalie-o-odszkodowania</link>
+<guid isPermaLink="true">https://zero.pl/news/miejska-spolka-buduje-a-obok-pekaja-sciany-mieszkancy-tocza-batalie-o-odszkodowania</guid>
+<category>Kraj</category>
+<description>Kraj — Piotr Barejka</description>
+<pubDate>Thu, 29 Oct 2026 06:06:00 +0100</pubDate>
+</item>
 <item>
 <title>Politycy o relacjach Polski z Izraelem: Pragmatyzm zamiast złudzeń</title>
 <link>https://zero.pl/news/wybory-w-izraelu-2026-co-z-relacjami-polsko-izraelskimi</link>
@@ -1190,22 +1206,6 @@
 <category>Kraj</category>
 <description>Kraj — Krzysztof Jabłonowski</description>
 <pubDate>Sun, 25 Oct 2026 09:52:00 +0100</pubDate>
-</item>
-<item>
-<title>Airbus o dostawach wojskowych samolotów do Polski. Możliwe jeszcze przed 2030 r.</title>
-<link>https://zero.pl/news/airbus-o-dostawach-wojskowych-samolotow-do-polski-mozliwe-jeszcze-przed-2030-r</link>
-<guid isPermaLink="true">https://zero.pl/news/airbus-o-dostawach-wojskowych-samolotow-do-polski-mozliwe-jeszcze-przed-2030-r</guid>
-<category>Wojsko</category>
-<description>Wojsko — Krzysztof Jabłonowski</description>
-<pubDate>Sun, 25 Oct 2026 08:30:00 +0100</pubDate>
-</item>
-<item>
-<title>Trump chce wrócić do interesów z Rosją i Ukrainą. „Po tym, jak ta wojna się zakończy”</title>
-<link>https://zero.pl/news/trump-chce-wrocic-do-interesow-z-rosja-i-ukraina-po-tym-jak-ta-wojna-sie-zakonczy</link>
-<guid isPermaLink="true">https://zero.pl/news/trump-chce-wrocic-do-interesow-z-rosja-i-ukraina-po-tym-jak-ta-wojna-sie-zakonczy</guid>
-<category>Świat</category>
-<description>Świat — Krzysztof Jabłonowski</description>
-<pubDate>Sun, 25 Oct 2026 07:39:00 +0100</pubDate>
 </item>
 </channel>
 </rss>
