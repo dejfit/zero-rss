@@ -5,8 +5,56 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 30 Oct 2026 02:33:23 +0100</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 08:42:13 +0100</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Jaka pogoda w weekend? IMGW prognozuje deszcze</title>
+<link>https://zero.pl/news/jaka-pogoda-w-weekend-imgw-prognozuje-deszcze</link>
+<guid isPermaLink="true">https://zero.pl/news/jaka-pogoda-w-weekend-imgw-prognozuje-deszcze</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 30 Oct 2026 07:52:00 +0100</pubDate>
+</item>
+<item>
+<title>Ile będzie kosztować baza armii USA w Polsce? Generał podał szacunki</title>
+<link>https://zero.pl/news/ile-bedzie-kosztowac-baza-armii-usa-w-polsce-general-podal-szacunki</link>
+<guid isPermaLink="true">https://zero.pl/news/ile-bedzie-kosztowac-baza-armii-usa-w-polsce-general-podal-szacunki</guid>
+<category>Wojsko</category>
+<description>Wojsko — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 30 Oct 2026 07:30:00 +0100</pubDate>
+</item>
+<item>
+<title>Podsumowanie nocy. Wstrząs w kopalni KGHM, Hiszpanie podają bilans wypadku kolejowego</title>
+<link>https://zero.pl/news/podsumowanie-nocy-wstrzas-w-kopalni-kghm-hiszpanie-podsumowuja-katastrofe-kolejowa</link>
+<guid isPermaLink="true">https://zero.pl/news/podsumowanie-nocy-wstrzas-w-kopalni-kghm-hiszpanie-podsumowuja-katastrofe-kolejowa</guid>
+<category>Kraj</category>
+<description>Kraj — Krzysztof Jabłonowski</description>
+<pubDate>Fri, 30 Oct 2026 06:58:00 +0100</pubDate>
+</item>
+<item>
+<title>"Największy napad na bank w historii". Z kryptogiełdy Binance zniknęło 6 mld dol.</title>
+<link>https://zero.pl/news/najwiekszy-atak-hakerski-w-historii-kryptowalut-z-binance-zniknely-miliardy-dolarow</link>
+<guid isPermaLink="true">https://zero.pl/news/najwiekszy-atak-hakerski-w-historii-kryptowalut-z-binance-zniknely-miliardy-dolarow</guid>
+<category>Biznes</category>
+<description>Biznes — Anna Wittenberg</description>
+<pubDate>Fri, 30 Oct 2026 06:12:00 +0100</pubDate>
+</item>
+<item>
+<title>Spółka ukraińskiego oligarchy z kontraktami w JSW. Górnicy oburzeni, zarząd wyjaśnia</title>
+<link>https://zero.pl/news/goraco-wokol-jsw-spolka-oligarchy-z-ukrainy-dostala-kontrakty-zwiazkowcy-oburzeni</link>
+<guid isPermaLink="true">https://zero.pl/news/goraco-wokol-jsw-spolka-oligarchy-z-ukrainy-dostala-kontrakty-zwiazkowcy-oburzeni</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Fri, 30 Oct 2026 05:57:00 +0100</pubDate>
+</item>
+<item>
+<title>Dyktatura wójtów. „Oni mają więcej władzy niż premier”</title>
+<link>https://zero.pl/news/dwukadencyjnosc-wojtow-prof-gendzwill-wojt-ma-w-gminie-wiecej-wladzy-niz-premier</link>
+<guid isPermaLink="true">https://zero.pl/news/dwukadencyjnosc-wojtow-prof-gendzwill-wojt-ma-w-gminie-wiecej-wladzy-niz-premier</guid>
+<category>Kraj</category>
+<description>Kraj — Grzegorz Sroczyński</description>
+<pubDate>Fri, 30 Oct 2026 05:56:00 +0100</pubDate>
+</item>
 <item>
 <title>Bogucki broni Kaczyńskiego po słowach o wyjściu z UE. „Wyrwane z kontekstu”</title>
 <link>https://zero.pl/news/bogucki-broni-kaczynskiego-po-slowach-o-wyjsciu-z-ue-wyrwane-z-kontekstu</link>
@@ -1158,54 +1206,6 @@
 <category>Sport</category>
 <description>Sport — Paweł Żurek</description>
 <pubDate>Mon, 26 Oct 2026 20:28:00 +0100</pubDate>
-</item>
-<item>
-<title>Zmiana w pogodzie. IMGW prognozuje spadek temperatur, idą przymrozki</title>
-<link>https://zero.pl/news/imgw-zapowiada-chlodna-noc-wystapia-geste-mgly-i-przymrozki</link>
-<guid isPermaLink="true">https://zero.pl/news/imgw-zapowiada-chlodna-noc-wystapia-geste-mgly-i-przymrozki</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Mon, 26 Oct 2026 20:02:00 +0100</pubDate>
-</item>
-<item>
-<title>Atak zimy tej jesieni. Śnieg i zagrożenie lawinowe w Tatrach</title>
-<link>https://zero.pl/news/nadchodzi-zima-topr-oglasza-snieg-i-zagrozenie-lawinowe-w-tatrach</link>
-<guid isPermaLink="true">https://zero.pl/news/nadchodzi-zima-topr-oglasza-snieg-i-zagrozenie-lawinowe-w-tatrach</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Mon, 26 Oct 2026 19:39:00 +0100</pubDate>
-</item>
-<item>
-<title>Brazylijski dreszczowiec z happy endem dla lewicy. Lula narzucił ton końcówce kampanii</title>
-<link>https://zero.pl/news/wybory-w-brazylii-lula-da-silva-pokonuje-bolsonaro-analiza-eksperta-przyczyny-wygranej</link>
-<guid isPermaLink="true">https://zero.pl/news/wybory-w-brazylii-lula-da-silva-pokonuje-bolsonaro-analiza-eksperta-przyczyny-wygranej</guid>
-<category>Świat</category>
-<description>Świat — Krzysztof Jabłonowski</description>
-<pubDate>Mon, 26 Oct 2026 19:11:00 +0100</pubDate>
-</item>
-<item>
-<title>Podkarpackie potępia uchwałę ws. UPA. Radni nie chcą roku Szuchewycza</title>
-<link>https://zero.pl/news/rok-szuchewycza-i-upa-w-ukrainie-jednoglosna-decyzja-polskiego-samorzadu</link>
-<guid isPermaLink="true">https://zero.pl/news/rok-szuchewycza-i-upa-w-ukrainie-jednoglosna-decyzja-polskiego-samorzadu</guid>
-<category>Kraj</category>
-<description>Kraj — Paweł Żurek</description>
-<pubDate>Mon, 26 Oct 2026 18:46:00 +0100</pubDate>
-</item>
-<item>
-<title>Kijów chce przyspieszenia negocjacji. Krytyczna sytuacja przed zimą</title>
-<link>https://zero.pl/news/kijow-chce-przyspieszenia-negocjacji-pokojowych-trudna-sytuacja-ukrainy-przed-zima</link>
-<guid isPermaLink="true">https://zero.pl/news/kijow-chce-przyspieszenia-negocjacji-pokojowych-trudna-sytuacja-ukrainy-przed-zima</guid>
-<category>Świat</category>
-<description>Świat — Paweł Żurek</description>
-<pubDate>Mon, 26 Oct 2026 18:28:00 +0100</pubDate>
-</item>
-<item>
-<title>Elon Musk pokazał „Odyseję” zrobioną przez AI. „Pozbawione życia”</title>
-<link>https://zero.pl/news/sztuczna-inteligencja-nakrecila-odyseje-skrajnie-pozbawiona-duszy</link>
-<guid isPermaLink="true">https://zero.pl/news/sztuczna-inteligencja-nakrecila-odyseje-skrajnie-pozbawiona-duszy</guid>
-<category>Kultura</category>
-<description>Kultura — Kamil Dachnij</description>
-<pubDate>Mon, 26 Oct 2026 17:56:00 +0100</pubDate>
 </item>
 </channel>
 </rss>
