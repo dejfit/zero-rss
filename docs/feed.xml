@@ -5,7 +5,7 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 31 Oct 2026 03:25:11 +0100</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 09:36:27 +0100</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
 <item>
 <title>Rewolucja w JSW. Prezes rezygnuje ze stanowiska</title>
@@ -22,6 +22,86 @@
 <category>Technologia</category>
 <description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Sat, 31 Oct 2026 16:21:00 +0100</pubDate>
+</item>
+<item>
+<title>Hołownia przerywa milczenie w sprawie wydarzeń w TK. „To przynosi Polsce wstyd”</title>
+<link>https://zero.pl/news/holownia-przerywa-milczenie-w-sprawie-wydarzen-w-trybunale-konstytucyjnym-to-przynosi-polsce-wstyd</link>
+<guid isPermaLink="true">https://zero.pl/news/holownia-przerywa-milczenie-w-sprawie-wydarzen-w-trybunale-konstytucyjnym-to-przynosi-polsce-wstyd</guid>
+<category>Kraj</category>
+<description>Kraj — Anna Wittenberg</description>
+<pubDate>Sat, 31 Oct 2026 09:36:00 +0100</pubDate>
+</item>
+<item>
+<title>Policja nie umie znaleźć drogowego bandyty. Żartuję, umie – tylko nie chce</title>
+<link>https://zero.pl/news/policja-zna-auto-i-adres-dlaczego-sprawca-pobicia-nadal-jest-nieuchwytny</link>
+<guid isPermaLink="true">https://zero.pl/news/policja-zna-auto-i-adres-dlaczego-sprawca-pobicia-nadal-jest-nieuchwytny</guid>
+<category>Moto</category>
+<description>Moto — Tymon Grabowski</description>
+<pubDate>Sat, 31 Oct 2026 09:26:00 +0100</pubDate>
+</item>
+<item>
+<title>Taki obraz Polski aspirującej do G20 zobaczy świat. Senegal, wbrew pozorom, też jest ważny</title>
+<link>https://zero.pl/news/taki-obraz-polski-aspirujacej-do-g20-zobaczy-swiat-wizerunkowy-strzal-w-kolano</link>
+<guid isPermaLink="true">https://zero.pl/news/taki-obraz-polski-aspirujacej-do-g20-zobaczy-swiat-wizerunkowy-strzal-w-kolano</guid>
+<category>Biznes</category>
+<description>Biznes — Katarzyna Dybińska</description>
+<pubDate>Sat, 31 Oct 2026 09:07:00 +0100</pubDate>
+</item>
+<item>
+<title>Media na świecie o sytuacji w Polsce. „Chaos”, „zamach stanu” i „kryzys konstytucyjny”</title>
+<link>https://zero.pl/news/trybunal-konstytucyjny-w-swiatowych-mediach-reakcje-na-wydarzenia-w-polsce</link>
+<guid isPermaLink="true">https://zero.pl/news/trybunal-konstytucyjny-w-swiatowych-mediach-reakcje-na-wydarzenia-w-polsce</guid>
+<category>Świat</category>
+<description>Świat — Anna Wittenberg</description>
+<pubDate>Sat, 31 Oct 2026 08:56:00 +0100</pubDate>
+</item>
+<item>
+<title>Zakupy przed 1 listopada. Które sklepy będą otwarte dłużej?</title>
+<link>https://zero.pl/news/do-ktore-beda-czynne-sklepy-w-sobote-31-pazdziernika-godziny-otwarcia-biedronki-lidla-netto-auchan</link>
+<guid isPermaLink="true">https://zero.pl/news/do-ktore-beda-czynne-sklepy-w-sobote-31-pazdziernika-godziny-otwarcia-biedronki-lidla-netto-auchan</guid>
+<category>Biznes</category>
+<description>Biznes — Agnieszka Waś-Turecka</description>
+<pubDate>Sat, 31 Oct 2026 08:38:00 +0100</pubDate>
+</item>
+<item>
+<title>Ławrow atakuje Polskę na szczycie G20. „Nic nie wnosi do spotkania”</title>
+<link>https://zero.pl/news/lawrow-atakuje-polske-na-szczycie-g20-nic-nie-wnosi-do-spotkania</link>
+<guid isPermaLink="true">https://zero.pl/news/lawrow-atakuje-polske-na-szczycie-g20-nic-nie-wnosi-do-spotkania</guid>
+<category>Świat</category>
+<description>Świat — Agnieszka Waś-Turecka</description>
+<pubDate>Sat, 31 Oct 2026 08:19:00 +0100</pubDate>
+</item>
+<item>
+<title>Śledztwo ws. śmierci Damiana Sobola ponownie przedłużone. Izrael nie pomaga</title>
+<link>https://zero.pl/news/sledztwo-ws-smierci-damiana-sobola-ponownie-przedluzone-izrael-nie-pomaga</link>
+<guid isPermaLink="true">https://zero.pl/news/sledztwo-ws-smierci-damiana-sobola-ponownie-przedluzone-izrael-nie-pomaga</guid>
+<category>Kraj</category>
+<description>Kraj — Kasjan Owsianko</description>
+<pubDate>Sat, 31 Oct 2026 08:02:00 +0100</pubDate>
+</item>
+<item>
+<title>Policja reaguje na pismo odczytane przez Brauna przed TK. „Z całą stanowczością”</title>
+<link>https://zero.pl/news/mobilizacja-policji-a-dzialania-przed-trybunalem-konstytucyjnym-kgp-nie-ma-zwiazku</link>
+<guid isPermaLink="true">https://zero.pl/news/mobilizacja-policji-a-dzialania-przed-trybunalem-konstytucyjnym-kgp-nie-ma-zwiazku</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Sat, 31 Oct 2026 07:42:00 +0100</pubDate>
+</item>
+<item>
+<title>Drugi polski ambasador rezygnuje. Co było w nocie od MSZ?</title>
+<link>https://zero.pl/news/pawel-soloch-i-jakub-kumoch-rezygnuja-kryzys-w-trybunale-konstytucyjnym</link>
+<guid isPermaLink="true">https://zero.pl/news/pawel-soloch-i-jakub-kumoch-rezygnuja-kryzys-w-trybunale-konstytucyjnym</guid>
+<category>Kraj</category>
+<description>Kraj — Anna Wittenberg</description>
+<pubDate>Sat, 31 Oct 2026 07:14:00 +0100</pubDate>
+</item>
+<item>
+<title>Chaos w TK trwa. Szarpanina z prezydentem, Nawrocki zwołuje spotkanie</title>
+<link>https://zero.pl/news/chaos-w-trybunale-konstytucyjnym-trwa-szarpanina-z-prezydentem-nawrocki-zwoluje-spotkanie</link>
+<guid isPermaLink="true">https://zero.pl/news/chaos-w-trybunale-konstytucyjnym-trwa-szarpanina-z-prezydentem-nawrocki-zwoluje-spotkanie</guid>
+<category>Kraj</category>
+<description>Kraj — Agnieszka Waś-Turecka</description>
+<pubDate>Sat, 31 Oct 2026 07:04:00 +0100</pubDate>
 </item>
 <item>
 <title>Kolejne nagranie z gmachu TK. Wiemy, co prezydent wykrzyczał Korwin-Piotrowskiej</title>
@@ -1126,86 +1206,6 @@
 <category>Świat</category>
 <description>Świat — Przemysław Staciwa</description>
 <pubDate>Tue, 27 Oct 2026 22:06:00 +0100</pubDate>
-</item>
-<item>
-<title>Były szef estońskiego wywiadu w Kanale Zero. Pięć najważniejszych wątków</title>
-<link>https://zero.pl/news/byly-szef-estonskiego-wywiadu-rosja-nie-bedzie-imperium-bez-ukrainy-i-bialorusi</link>
-<guid isPermaLink="true">https://zero.pl/news/byly-szef-estonskiego-wywiadu-rosja-nie-bedzie-imperium-bez-ukrainy-i-bialorusi</guid>
-<category>Kraj</category>
-<description>Kraj — Redakcja Zero.pl</description>
-<pubDate>Tue, 27 Oct 2026 21:55:00 +0100</pubDate>
-</item>
-<item>
-<title>„Po ile paliwo Witku?” Spięcie Zembaczyńskiego z Kaletą</title>
-<link>https://zero.pl/news/zembaczynski-spial-sie-z-kaleta-debata-na-krynica-forum-i-pytanie-o-paliwo</link>
-<guid isPermaLink="true">https://zero.pl/news/zembaczynski-spial-sie-z-kaleta-debata-na-krynica-forum-i-pytanie-o-paliwo</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Tue, 27 Oct 2026 21:31:00 +0100</pubDate>
-</item>
-<item>
-<title>Wybory w Izraelu. Ogromna frekwencja, brak wyraźnego zwycięzcy</title>
-<link>https://zero.pl/news/wybory-w-izraelu-znamy-wyniki-exit-poll</link>
-<guid isPermaLink="true">https://zero.pl/news/wybory-w-izraelu-znamy-wyniki-exit-poll</guid>
-<category>Świat</category>
-<description>Świat — Krzysztof Jabłonowski</description>
-<pubDate>Tue, 27 Oct 2026 21:29:00 +0100</pubDate>
-</item>
-<item>
-<title>Nowy iMac i MacBook Pro z czipami M6. Panie Apple, gdzie jest OLED?</title>
-<link>https://zero.pl/news/nowy-imac-i-macbook-pro-z-czipami-m6-panie-apple-gdzie-jest-oled</link>
-<guid isPermaLink="true">https://zero.pl/news/nowy-imac-i-macbook-pro-z-czipami-m6-panie-apple-gdzie-jest-oled</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
-<pubDate>Tue, 27 Oct 2026 21:04:00 +0100</pubDate>
-</item>
-<item>
-<title>Trump rozważa zniesienie sankcji na rosyjski fundusz. Chodzi o poprawę relacji z Moskwą</title>
-<link>https://zero.pl/news/usa-rozwazaja-zniesienie-sankcji-na-rosyjski-fundusz-rfib</link>
-<guid isPermaLink="true">https://zero.pl/news/usa-rozwazaja-zniesienie-sankcji-na-rosyjski-fundusz-rfib</guid>
-<category>Sport</category>
-<description>Sport — Przemysław Staciwa</description>
-<pubDate>Tue, 27 Oct 2026 21:00:00 +0100</pubDate>
-</item>
-<item>
-<title>Mobbing w Komendzie Głównej Policji? 40 pytań posłów do szefa MSWiA</title>
-<link>https://zero.pl/news/poslowie-pytaja-o-mobbing-w-komendzie-glownej-policji-zlozyli-interpelacje</link>
-<guid isPermaLink="true">https://zero.pl/news/poslowie-pytaja-o-mobbing-w-komendzie-glownej-policji-zlozyli-interpelacje</guid>
-<category>Kraj</category>
-<description>Kraj — Krzysztof Jabłonowski</description>
-<pubDate>Tue, 27 Oct 2026 20:30:00 +0100</pubDate>
-</item>
-<item>
-<title>Zamieszanie wokół rewolucji w podatkach. Po rozłamie w koalicji Senat gasi pożar</title>
-<link>https://zero.pl/news/nowa-stawka-pit-i-progi-podatkowe-senat-robi-korekte-po-rozlamie-w-koalicji</link>
-<guid isPermaLink="true">https://zero.pl/news/nowa-stawka-pit-i-progi-podatkowe-senat-robi-korekte-po-rozlamie-w-koalicji</guid>
-<category>Biznes</category>
-<description>Biznes — Katarzyna Dybińska</description>
-<pubDate>Tue, 27 Oct 2026 20:28:00 +0100</pubDate>
-</item>
-<item>
-<title>Trump chce zakazać określenia „sztuczna inteligencja”. Ogłosił zmianę nazwy</title>
-<link>https://zero.pl/news/trump-chce-zakazac-terminu-sztuczna-inteligencja-woli-superinteligencje</link>
-<guid isPermaLink="true">https://zero.pl/news/trump-chce-zakazac-terminu-sztuczna-inteligencja-woli-superinteligencje</guid>
-<category>Świat</category>
-<description>Świat — Przemysław Staciwa</description>
-<pubDate>Tue, 27 Oct 2026 20:25:00 +0100</pubDate>
-</item>
-<item>
-<title>Brazylia wybrała chleb zamiast Bolsonaro. Lula zostaje</title>
-<link>https://zero.pl/news/wybory-w-brazylii-2026-lula-pokonal-bolsonaro-dzieki-glosom-najbiedniejszych</link>
-<guid isPermaLink="true">https://zero.pl/news/wybory-w-brazylii-2026-lula-pokonal-bolsonaro-dzieki-glosom-najbiedniejszych</guid>
-<category>Świat</category>
-<description>Świat — Piotr Ikonowicz</description>
-<pubDate>Tue, 27 Oct 2026 20:22:00 +0100</pubDate>
-</item>
-<item>
-<title>Rumuńscy grzybiarze przejmują polskie lasy. Kanał Zero ruszył na śledztwo</title>
-<link>https://zero.pl/news/rumunscy-grzybiarze-w-polskich-lasach-kanal-zero-ruszyl-na-interwencje</link>
-<guid isPermaLink="true">https://zero.pl/news/rumunscy-grzybiarze-w-polskich-lasach-kanal-zero-ruszyl-na-interwencje</guid>
-<category>Kraj</category>
-<description>Kraj — Przemysław Staciwa</description>
-<pubDate>Tue, 27 Oct 2026 19:32:00 +0100</pubDate>
 </item>
 </channel>
 </rss>
