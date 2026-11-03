@@ -5,86 +5,114 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Mon, 02 Nov 2026 19:24:46 +0100</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 02:06:51 +0100</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Ma plan na uratowanie TK. „Polska nie może pozwolić sobie na to”</title>
+<link>https://zero.pl/news/prezes-wisly-krakow-chce-reformy-tk-wskazal-co-zamierza-zrobic</link>
+<guid isPermaLink="true">https://zero.pl/news/prezes-wisly-krakow-chce-reformy-tk-wskazal-co-zamierza-zrobic</guid>
+<pubDate>Mon, 02 Nov 2026 22:38:00 +0100</pubDate>
+</item>
+<item>
+<title>Media o 20-letniej pilotce rozbitego odrzutowca. „Odpowiedzialna i pracowita”</title>
+<link>https://zero.pl/news/media-o-20-letniej-pilotce-rozbitego-odrzutowca-odpowiedzialna-i-pracowita</link>
+<guid isPermaLink="true">https://zero.pl/news/media-o-20-letniej-pilotce-rozbitego-odrzutowca-odpowiedzialna-i-pracowita</guid>
+<pubDate>Mon, 02 Nov 2026 21:43:00 +0100</pubDate>
+</item>
+<item>
+<title>Oczekiwany film z Pittem trafi do polskich kin. Trzeba się spieszyć z seansem</title>
+<link>https://zero.pl/news/najwazniejsza-kinowa-premiera-koncowki-roku-hit-z-pittem-z-polska-data-premiery</link>
+<guid isPermaLink="true">https://zero.pl/news/najwazniejsza-kinowa-premiera-koncowki-roku-hit-z-pittem-z-polska-data-premiery</guid>
+<pubDate>Mon, 02 Nov 2026 21:34:00 +0100</pubDate>
+</item>
+<item>
+<title>Zachodnie media o Trybunale. Parasol nad Tuskiem przestaje być szczelny?</title>
+<link>https://zero.pl/news/zachodnie-media-o-trybunale-parasol-nad-tuskiem-przestaje-byc-szczelny</link>
+<guid isPermaLink="true">https://zero.pl/news/zachodnie-media-o-trybunale-parasol-nad-tuskiem-przestaje-byc-szczelny</guid>
+<pubDate>Mon, 02 Nov 2026 21:31:00 +0100</pubDate>
+</item>
+<item>
+<title>Niemiec nowym liderem w męskim tenisie. Tak złego nie było od lat</title>
+<link>https://zero.pl/news/zostal-nowym-numerem-jeden-meskiego-tenisa-jego-gra-to-meka-dla-oczu</link>
+<guid isPermaLink="true">https://zero.pl/news/zostal-nowym-numerem-jeden-meskiego-tenisa-jego-gra-to-meka-dla-oczu</guid>
+<pubDate>Mon, 02 Nov 2026 20:31:00 +0100</pubDate>
+</item>
+<item>
+<title>Wpis Sztabu Generalnego o manipulacji wywołał burzę. Wojsko przeprasza i usuwa treść</title>
+<link>https://zero.pl/news/wpis-sztabu-generalnego-o-manipulacji-wywolal-burze-wojsko-przeprasza-i-usuwa-tresc</link>
+<guid isPermaLink="true">https://zero.pl/news/wpis-sztabu-generalnego-o-manipulacji-wywolal-burze-wojsko-przeprasza-i-usuwa-tresc</guid>
+<pubDate>Mon, 02 Nov 2026 20:27:00 +0100</pubDate>
+</item>
+<item>
+<title>Holland o Nawrockim w TK. „Prezydent nie miał prawa”</title>
+<link>https://zero.pl/news/uderzyla-w-nawrockiego-robi-wszystko-zeby-uniemozliwiac-rzadowi-prace</link>
+<guid isPermaLink="true">https://zero.pl/news/uderzyla-w-nawrockiego-robi-wszystko-zeby-uniemozliwiac-rzadowi-prace</guid>
+<pubDate>Mon, 02 Nov 2026 20:07:00 +0100</pubDate>
+</item>
+<item>
+<title>Ochrona Nawrockiego. SOP zawiódł? „Proces pożerania instytucjonalnego”</title>
+<link>https://zero.pl/news/sop-zawiodl-podczas-wizyty-nawrockiego-w-tk-general-polko-i-ekspert-ds-bezpieczenstwa-komentuja</link>
+<guid isPermaLink="true">https://zero.pl/news/sop-zawiodl-podczas-wizyty-nawrockiego-w-tk-general-polko-i-ekspert-ds-bezpieczenstwa-komentuja</guid>
+<pubDate>Mon, 02 Nov 2026 19:36:00 +0100</pubDate>
+</item>
 <item>
 <title>Święczkowski w Kanale Zero: szukają na nas kwitów</title>
 <link>https://zero.pl/news/swieczkowski-w-kanale-zero-szukaja-na-nas-kwitow</link>
 <guid isPermaLink="true">https://zero.pl/news/swieczkowski-w-kanale-zero-szukaja-na-nas-kwitow</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
 <pubDate>Mon, 02 Nov 2026 19:22:00 +0100</pubDate>
 </item>
 <item>
-<title>Kolejna rezygnacja ambasadora RP. "Zakończy misję jeszcze w tym miesiącu"</title>
+<title>Kolejna rezygnacja ambasadora RP. „Zakończy misję jeszcze w tym miesiącu”</title>
 <link>https://zero.pl/news/kolejny-ambasador-rezygnuje-z-funkcji-sikorski-przychylil-sie-do-prosby</link>
 <guid isPermaLink="true">https://zero.pl/news/kolejny-ambasador-rezygnuje-z-funkcji-sikorski-przychylil-sie-do-prosby</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Dachnij</description>
 <pubDate>Mon, 02 Nov 2026 19:03:00 +0100</pubDate>
 </item>
 <item>
 <title>Alarm na pokładzie samolotu Wizz Air. Węgry uruchomiły procedurę NATO</title>
 <link>https://zero.pl/news/samolot-wizz-air-eskortowany-przez-mysliwiec-musial-awaryjnie-ladowac</link>
 <guid isPermaLink="true">https://zero.pl/news/samolot-wizz-air-eskortowany-przez-mysliwiec-musial-awaryjnie-ladowac</guid>
-<category>Świat</category>
-<description>Świat — Kamil Dachnij</description>
 <pubDate>Mon, 02 Nov 2026 18:10:00 +0100</pubDate>
 </item>
 <item>
 <title>Rosja odrzuciła przedłużenie rozejmu. Okno humanitarne zostało zamknięte</title>
 <link>https://zero.pl/news/okno-humanitarne-zostalo-zamkniete-rosja-odrzucila-przedluzenie-rozejmu</link>
 <guid isPermaLink="true">https://zero.pl/news/okno-humanitarne-zostalo-zamkniete-rosja-odrzucila-przedluzenie-rozejmu</guid>
-<category>Wojsko</category>
-<description>Wojsko — Michał Bruszewski</description>
 <pubDate>Mon, 02 Nov 2026 18:02:00 +0100</pubDate>
 </item>
 <item>
 <title>Przejęcie Trybunału Konstytucyjnego. Rekordowe zasięgi Kanału Zero i Zero TV</title>
 <link>https://zero.pl/news/przejecie-trybunalu-konstytucyjnego-rekordowe-zasiegi-kanalu-zero-i-zero-tv</link>
 <guid isPermaLink="true">https://zero.pl/news/przejecie-trybunalu-konstytucyjnego-rekordowe-zasiegi-kanalu-zero-i-zero-tv</guid>
-<category>Kraj</category>
-<description>Kraj — Redakcja Zero.pl</description>
 <pubDate>Mon, 02 Nov 2026 17:45:00 +0100</pubDate>
 </item>
 <item>
 <title>Argument siły zamiast państwa prawa. Wojna o Trybunał trwa</title>
 <link>https://zero.pl/news/wojna-o-trybunal-konstytucyjny-czy-reset-tk-to-jedyne-wyjscie-z-kryzysu</link>
 <guid isPermaLink="true">https://zero.pl/news/wojna-o-trybunal-konstytucyjny-czy-reset-tk-to-jedyne-wyjscie-z-kryzysu</guid>
-<category>Kraj</category>
-<description>Kraj — Piotr Ikonowicz</description>
 <pubDate>Mon, 02 Nov 2026 17:40:00 +0100</pubDate>
 </item>
 <item>
 <title>Agresywny kierowca Porsche zgłosił się do prokuratury. Usłyszał zarzuty</title>
 <link>https://zero.pl/news/agresywny-kierowca-porsche-zglosil-sie-do-prokuratury-uslyszal-zarzuty</link>
 <guid isPermaLink="true">https://zero.pl/news/agresywny-kierowca-porsche-zglosil-sie-do-prokuratury-uslyszal-zarzuty</guid>
-<category>Kraj</category>
-<description>Kraj — Tomasz Pałasz</description>
 <pubDate>Mon, 02 Nov 2026 17:17:00 +0100</pubDate>
 </item>
 <item>
 <title>Ogromna kara dla banku. Chodzi o skanowanie dowodów klientów</title>
 <link>https://zero.pl/news/niebotyczna-kara-dla-ing-bank-slaski-podtrzymana-proporcjonalna-i-odstraszajaca</link>
 <guid isPermaLink="true">https://zero.pl/news/niebotyczna-kara-dla-ing-bank-slaski-podtrzymana-proporcjonalna-i-odstraszajaca</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Dachnij</description>
 <pubDate>Mon, 02 Nov 2026 17:02:00 +0100</pubDate>
 </item>
 <item>
 <title>Ericsson testuje sieć 6G. Tym razem Europa nie chce przegrać z Azją</title>
 <link>https://zero.pl/news/ericsson-testuje-siec-6g-tym-razem-europa-nie-chce-przegrac-z-azja</link>
 <guid isPermaLink="true">https://zero.pl/news/ericsson-testuje-siec-6g-tym-razem-europa-nie-chce-przegrac-z-azja</guid>
-<category>Technologia</category>
-<description>Technologia — Arkadiusz Dziermański</description>
 <pubDate>Mon, 02 Nov 2026 17:01:00 +0100</pubDate>
 </item>
 <item>
 <title>Święczkowski wysłał pismo do Komendanta Głównego Policji. „Z najwyższym oburzeniem przyjmuję”</title>
 <link>https://zero.pl/news/swieczkowski-wyslal-pismo-do-komendanta-glownego-policji-nie-kryje-swojego-oburzenia</link>
 <guid isPermaLink="true">https://zero.pl/news/swieczkowski-wyslal-pismo-do-komendanta-glownego-policji-nie-kryje-swojego-oburzenia</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Dachnij</description>
 <pubDate>Mon, 02 Nov 2026 16:15:00 +0100</pubDate>
 </item>
 <item>
@@ -1142,70 +1170,6 @@
 <category>Świat</category>
 <description>Świat — Kamil Szałecki</description>
 <pubDate>Thu, 29 Oct 2026 21:26:00 +0100</pubDate>
-</item>
-<item>
-<title>Nie żyje Patrick Stewart. Gwiazdor „Star Treka” i „X-Men” miał 86 lat</title>
-<link>https://zero.pl/news/nie-zyje-patrick-stewart-gwiazdor-star-treka-i-x-men-mial-86-lat</link>
-<guid isPermaLink="true">https://zero.pl/news/nie-zyje-patrick-stewart-gwiazdor-star-treka-i-x-men-mial-86-lat</guid>
-<category>Kultura</category>
-<description>Kultura — Bartosz Michalski</description>
-<pubDate>Thu, 29 Oct 2026 21:22:00 +0100</pubDate>
-</item>
-<item>
-<title>KRRiT reaguje na słowa Marka Czyża o Nawrockim. Żąda wyjaśnień od TVP Info</title>
-<link>https://zero.pl/news/krrit-zada-wyjasnien-od-tvp-info-po-slowach-marka-czyza-o-karolu-nawrockim</link>
-<guid isPermaLink="true">https://zero.pl/news/krrit-zada-wyjasnien-od-tvp-info-po-slowach-marka-czyza-o-karolu-nawrockim</guid>
-<category>Kraj</category>
-<description>Kraj — Maria Badzio</description>
-<pubDate>Thu, 29 Oct 2026 21:02:00 +0100</pubDate>
-</item>
-<item>
-<title>Rząd szykuje zmiany w rachunkach za gaz. Domański wskazał termin</title>
-<link>https://zero.pl/news/rzad-szykuje-zmiany-w-rachunkach-za-gaz-domanski-wskazal-termin</link>
-<guid isPermaLink="true">https://zero.pl/news/rzad-szykuje-zmiany-w-rachunkach-za-gaz-domanski-wskazal-termin</guid>
-<category>Biznes</category>
-<description>Biznes — Bartosz Michalski</description>
-<pubDate>Thu, 29 Oct 2026 20:57:00 +0100</pubDate>
-</item>
-<item>
-<title>Sąsiad Polski wprowadzi powszechny pobór do wojska. Jest konkretna data</title>
-<link>https://zero.pl/news/sasiad-polski-wprowadzi-powszechny-pobor-do-wojska-jest-konkretna-data</link>
-<guid isPermaLink="true">https://zero.pl/news/sasiad-polski-wprowadzi-powszechny-pobor-do-wojska-jest-konkretna-data</guid>
-<category>Świat</category>
-<description>Świat — Bartosz Michalski</description>
-<pubDate>Thu, 29 Oct 2026 20:36:00 +0100</pubDate>
-</item>
-<item>
-<title>Jeszcze nie ma Wszystkich Świętych, a tam ksiądz już chodzi z kolędą</title>
-<link>https://zero.pl/news/jeszcze-nie-ma-wszystkich-swietych-a-tam-ksiadz-juz-chodzi-z-koleda</link>
-<guid isPermaLink="true">https://zero.pl/news/jeszcze-nie-ma-wszystkich-swietych-a-tam-ksiadz-juz-chodzi-z-koleda</guid>
-<category>Kraj</category>
-<description>Kraj — Kamil Szałecki</description>
-<pubDate>Thu, 29 Oct 2026 20:19:00 +0100</pubDate>
-</item>
-<item>
-<title>Tragedia w Kapadocji. Skały runęły na turystów, są ofiary śmiertelne</title>
-<link>https://zero.pl/news/turcja-zawalila-sie-formacja-skalna-w-kapadocji-sa-ofiary</link>
-<guid isPermaLink="true">https://zero.pl/news/turcja-zawalila-sie-formacja-skalna-w-kapadocji-sa-ofiary</guid>
-<category>Świat</category>
-<description>Świat — Maria Badzio</description>
-<pubDate>Thu, 29 Oct 2026 20:18:00 +0100</pubDate>
-</item>
-<item>
-<title>Liczba ofiar katastrofy kolejowej w Hiszpanii wzrosła do 74</title>
-<link>https://zero.pl/news/tragiczny-bilans-katastrofy-kolejowej-w-hiszpanii-guardia-civil-ostrzega-przed-falszywymi-sms-ami</link>
-<guid isPermaLink="true">https://zero.pl/news/tragiczny-bilans-katastrofy-kolejowej-w-hiszpanii-guardia-civil-ostrzega-przed-falszywymi-sms-ami</guid>
-<category>Świat</category>
-<description>Świat — Maria Badzio</description>
-<pubDate>Thu, 29 Oct 2026 20:10:00 +0100</pubDate>
-</item>
-<item>
-<title>Naukowcy odkryli nowy gatunek sprzed 160 mln lat. Zaskoczyła ich jego budowa</title>
-<link>https://zero.pl/news/naukowcy-odkryli-nowy-gatunek-sprzed-160-mln-lat-zaskoczyla-ich-jego-budowa</link>
-<guid isPermaLink="true">https://zero.pl/news/naukowcy-odkryli-nowy-gatunek-sprzed-160-mln-lat-zaskoczyla-ich-jego-budowa</guid>
-<category>Świat</category>
-<description>Świat — Bartosz Michalski</description>
-<pubDate>Thu, 29 Oct 2026 20:09:00 +0100</pubDate>
 </item>
 </channel>
 </rss>
