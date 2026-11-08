@@ -5,8 +5,26 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Sat, 07 Nov 2026 23:26:10 +0100</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 02:39:49 +0100</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Stanowski uruchomił zbiórkę dla rannych policjantów. „Zasługują nie tylko na słowa uznania”</title>
+<link>https://zero.pl/news/stanowski-uruchomil-zbiorke-dla-rannych-policjantow-zasluguja-nie-tylko-na-slowa-uznania</link>
+<guid isPermaLink="true">https://zero.pl/news/stanowski-uruchomil-zbiorke-dla-rannych-policjantow-zasluguja-nie-tylko-na-slowa-uznania</guid>
+<pubDate>Sat, 07 Nov 2026 23:56:00 +0100</pubDate>
+</item>
+<item>
+<title>Operacja kontrterrorystów w domu zamachowca. „Odsunąć się od drzwi i okien”</title>
+<link>https://zero.pl/news/operacja-kontrterrorystow-w-domu-zamachowca-odsunac-sie-od-drzwi-i-okien</link>
+<guid isPermaLink="true">https://zero.pl/news/operacja-kontrterrorystow-w-domu-zamachowca-odsunac-sie-od-drzwi-i-okien</guid>
+<pubDate>Sat, 07 Nov 2026 23:37:00 +0100</pubDate>
+</item>
+<item>
+<title>Strzelanina w Krakowie. Kanał Zero dotarł na osiedle sprawcy zamachu</title>
+<link>https://zero.pl/news/strzelanina-w-krakowie-co-wiemy-o-sprawcy-krwawego-ataku-michale-o</link>
+<guid isPermaLink="true">https://zero.pl/news/strzelanina-w-krakowie-co-wiemy-o-sprawcy-krwawego-ataku-michale-o</guid>
+<pubDate>Sat, 07 Nov 2026 23:33:00 +0100</pubDate>
+</item>
 <item>
 <title>Tusk podał nazwiska policjantów z Krakowa. „To prawdziwi bohaterowie”</title>
 <link>https://zero.pl/news/donald-tusk-o-rannych-policjantach-po-strzelaninie-w-krakowie</link>
@@ -38,7 +56,7 @@
 <pubDate>Sat, 07 Nov 2026 21:52:00 +0100</pubDate>
 </item>
 <item>
-<title>Kraków. Szef MSWiA o zamachowcu. „Był zafascynowany skrajną prawicą”</title>
+<title>Kraków. Szef MSWiA o zamachowcu. „Był zafascynowany ideologiami skrajnie prawicowymi”</title>
 <link>https://zero.pl/news/masakra-na-krakowskim-rynku-minister-ujawnil-nowe-ustalenia-o-sprawcy</link>
 <guid isPermaLink="true">https://zero.pl/news/masakra-na-krakowskim-rynku-minister-ujawnil-nowe-ustalenia-o-sprawcy</guid>
 <pubDate>Sat, 07 Nov 2026 21:51:00 +0100</pubDate>
@@ -888,24 +906,6 @@
 <link>https://zero.pl/news/spor-o-tk-po-zgromadzeniu-ogolnym-reset-albo-rozbiorka-trybunalu-konstytucyjnego</link>
 <guid isPermaLink="true">https://zero.pl/news/spor-o-tk-po-zgromadzeniu-ogolnym-reset-albo-rozbiorka-trybunalu-konstytucyjnego</guid>
 <pubDate>Wed, 04 Nov 2026 11:47:00 +0100</pubDate>
-</item>
-<item>
-<title>To amerykański konsument wysadził Trumpa z siodła? „Mógł łatwo połączyć kropki”</title>
-<link>https://zero.pl/news/wybory-usa-amerykanski-konsument-stracil-cierpliwosc-do-donalda-trumpa</link>
-<guid isPermaLink="true">https://zero.pl/news/wybory-usa-amerykanski-konsument-stracil-cierpliwosc-do-donalda-trumpa</guid>
-<pubDate>Wed, 04 Nov 2026 11:41:00 +0100</pubDate>
-</item>
-<item>
-<title>Duża akcja CBA. Zatrzymania w sprawie budowy Elektrowni Ostrołęka</title>
-<link>https://zero.pl/news/elektrownia-ostroleka-cba-zatrzymalo-ponad-20-osob</link>
-<guid isPermaLink="true">https://zero.pl/news/elektrownia-ostroleka-cba-zatrzymalo-ponad-20-osob</guid>
-<pubDate>Wed, 04 Nov 2026 11:27:00 +0100</pubDate>
-</item>
-<item>
-<title>„Sędziowie po prostu się ośmieszyli“. Matysiak zdecydowanie o kryzysie wokół TK</title>
-<link>https://zero.pl/news/matysiak-o-kryzysie-wokol-tk-sedziowie-po-prostu-sie-osmieszyli</link>
-<guid isPermaLink="true">https://zero.pl/news/matysiak-o-kryzysie-wokol-tk-sedziowie-po-prostu-sie-osmieszyli</guid>
-<pubDate>Wed, 04 Nov 2026 11:14:00 +0100</pubDate>
 </item>
 </channel>
 </rss>
