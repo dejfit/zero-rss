@@ -5,8 +5,14 @@
 <link>https://zero.pl/najnowsze</link>
 <description>Najnowsze artykuly z Zero.pl (nieoficjalny kanal RSS)</description>
 <language>pl</language>
-<lastBuildDate>Fri, 13 Nov 2026 23:08:50 +0100</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 03:20:15 +0100</lastBuildDate>
 <atom:link rel="self" type="application/rss+xml" href="https://dejfit.github.io/zero-rss/feed.xml"/>
+<item>
+<title>Paraliż nad USA. Wstrzymano wszystkie odloty w całym kraju</title>
+<link>https://zero.pl/news/paraliz-nad-usa-wstrzymano-wszystkie-odloty-w-calym-kraju</link>
+<guid isPermaLink="true">https://zero.pl/news/paraliz-nad-usa-wstrzymano-wszystkie-odloty-w-calym-kraju</guid>
+<pubDate>Sat, 14 Nov 2026 00:06:00 +0100</pubDate>
+</item>
 <item>
 <title>Tyle musisz zarabiać dziś, by mieć 5 tys. zł emerytury. Kobiety znacznie więcej</title>
 <link>https://zero.pl/news/tyle-musisz-zarabiac-dzis-by-miec-5-tys-zl-emerytury-kobiety-znacznie-wiecej</link>
@@ -900,12 +906,6 @@
 <link>https://zero.pl/news/podsumowanie-nocy-czlowiek-putina-w-izraelu-ruszaja-rozmowy-w-abu-zabi</link>
 <guid isPermaLink="true">https://zero.pl/news/podsumowanie-nocy-czlowiek-putina-w-izraelu-ruszaja-rozmowy-w-abu-zabi</guid>
 <pubDate>Tue, 10 Nov 2026 06:56:00 +0100</pubDate>
-</item>
-<item>
-<title>Chcą zaistnieć, krzywdząc innych. Przemoc stała się spektaklem</title>
-<link>https://zero.pl/news/pokolenie-herostratesow-przemoc-stala-sie-spektaklem</link>
-<guid isPermaLink="true">https://zero.pl/news/pokolenie-herostratesow-przemoc-stala-sie-spektaklem</guid>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
 </item>
 </channel>
 </rss>
